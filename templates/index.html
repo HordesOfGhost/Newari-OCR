@@ -3,43 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OCR Image Upload</title>
+    <title>Upload Image</title>
 </head>
 <body>
-    <h1>Upload an Image for OCR</h1>
-    <form action="/ocr" method="post" enctype="multipart/form-data">
+    <h1>Upload an Image</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
         <label for="file">Select an image:</label>
-        <input type="file" id="file" name="file" accept="image/*" required>
+        <input type="file" id="file" name="file" accept="image/*" required><br><br>
+        
+        <fieldset>
+            <legend>Select model:</legend>
+            <label>
+                <input type="radio" name="model" value="pracalit" required>
+                pracalit
+            </label><br>
+            <label>
+                <input type="radio" name="model" value="ranjana">
+                ranjana
+            </label><br>
+            <label>
+                <input type="radio" name="model" value="pracalit_ranjana">
+                pracalit_ranjana
+            </label>
+        </fieldset><br>
+
+        <fieldset>
+            <legend>Select checkpoint:</legend>
+            <label>
+                <input type="radio" name="checkpoint" value="best" required>
+                best
+            </label><br>
+            <label>
+                <input type="radio" name="checkpoint" value="latest">
+                latest
+            </label>
+        </fieldset><br>
+        
+        <fieldset>
+            <legend>Select color channel:</legend>
+            <label>
+                <input type="radio" id="gray" name="color_channel" value="gray" required>
+                Gray
+            </label><br>
+            <label>
+                <input type="radio" id="rgb" name="color_channel" value="rgb">
+                RGB
+            </label>
+        </fieldset><br>
+
         <button type="submit">Upload</button>
     </form>
-    <hr>
-    <h2>OCR Result</h2>
-    <pre id="result"></pre>
-
-    <script>
-        const form = document.querySelector('form');
-        const resultContainer = document.querySelector('#result');
-
-        form.addEventListener('submit', async (event) => {
-            event.preventDefault();
-            const formData = new FormData(form);
-
-            try {
-                const response = await fetch('/ocr', {
-                    method: 'POST',
-                    body: formData
-                });
-
-                const data = await response.json();
-                if (response.ok) {
-                    resultContainer.textContent = data.text;
-                } else {
-                    resultContainer.textContent = 'Error: ' + data.error;
-                }
-            } catch (error) {
-                resultContainer.textContent = 'Network error: ' + error.message;
-            }
-        });
-    </script>
 </body>
 </html>
