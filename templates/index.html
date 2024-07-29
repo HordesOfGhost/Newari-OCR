@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Image Upload</title>
+</head>
+<body>
+    <h1>Upload an Image for OCR</h1>
+    <form action="/ocr" method="post" enctype="multipart/form-data">
+        <label for="file">Select an image:</label>
+        <input type="file" id="file" name="file" accept="image/*" required>
+        <button type="submit">Upload</button>
+    </form>
+    <hr>
+    <h2>OCR Result</h2>
+    <pre id="result"></pre>
+
+    <script>
+        const form = document.querySelector('form');
+        const resultContainer = document.querySelector('#result');
+
+        form.addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const formData = new FormData(form);
+
+            try {
+                const response = await fetch('/ocr', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+                if (response.ok) {
+                    resultContainer.textContent = data.text;
+                } else {
+                    resultContainer.textContent = 'Error: ' + data.error;
+                }
+            } catch (error) {
+                resultContainer.textContent = 'Network error: ' + error.message;
+            }
+        });
+    </script>
+</body>
+</html>
