@@ -1,13 +1,16 @@
 from flask import Flask, request, render_template, send_from_directory
 import cv2
-import numpy as np
 import os
+import shutil
+import atexit
+
 from utils.models import *
 from utils.preprocess import *
 from utils.dict import *
 from utils.load_model import *
 from utils.inference import *
 from utils.translate import *
+
 app = Flask(__name__)
 UPLOAD_FOLDER = 'uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -59,6 +62,14 @@ def upload():
             return render_template('ocr.html', filename=file.filename, ocr_output=ocr_output)
         
     return 'File upload failed', 500
+
+def cleanup_upload_folder():
+    """Remove the uploads directory and its contents."""
+    if os.path.exists(UPLOAD_FOLDER):
+        shutil.rmtree(UPLOAD_FOLDER)
+        print(f"Removed the directory: {UPLOAD_FOLDER}")
+
+atexit.register(cleanup_upload_folder)
 
 @app.route('/uploads/<filename>')
 def uploaded_file(filename):

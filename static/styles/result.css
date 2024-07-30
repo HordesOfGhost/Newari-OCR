@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'pracalit';
+    src: url('../fonts/pracalit.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ranjana';
+    src: url('../fonts/ranjana.otf') format('opentype');
+}
+
+body {
+    font-family: 'pracalit', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure the container takes at least the full viewport height */
+    padding: 20px;
+}
+
+.content-container {
+    max-width: 800px;
+    width: 100%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-family: 'ranjana', sans-serif;
+    color: #4CAF50;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.ocr-result {
+    font-family: 'pracalit', 'ranjana', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #555;
+}
+
+.translation {
+    font-family: 'pracalit', sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #666;
+}
+
+.image-container {
+    text-align: center;
+    width: 100%;
+    max-width: 128px; /* Fixed width for the image container */
+    height: 64px;    /* Fixed height for the image container */
+    overflow: hidden; /* Hide overflow if image is larger */
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    margin: 20px auto; /* Center container horizontally and add space above/below */
+}
+
+.image-container img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    max-height: 100%; /* Ensure image does not exceed container height */
+    display: block;
+    margin: 0 auto;
+}

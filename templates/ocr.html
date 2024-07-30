@@ -3,32 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>OCR Result</title>
-    <style>
-        /* Define the custom font for OCR result */
-         @font-face {
-            font-family: "custom_font";
-            src: {{ url_for('static',filename='fonts/pracalit.ttf') }} ;
-        }
-
-        h1 {
-            font-size: 24px;
-            color: #333;
-        }
-
-        .ocr-result {
-            font-family: 'CustomFontOCR', sans-serif;
-            font-size: 20px;
-            color: #333;
-        }
-        
-        img {
-            max-width: 100%;
-        }
-</style>
-
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/result.css') }}">
+</head>
 <body>
-    <h1>OCR Result</h1>
-    <p class="ocr-result"> OCR Result: {{ ocr_output }}</p>
-    <img src="{{ url_for('uploaded_file', filename=filename) }}" alt="Uploaded Image" style="max-width: 100%;">
+    <div class="page-container">
+        <div class="content-container">
+            <h1>OCR Result</h1> 
+            <p class="ocr-result">OCR Result: {{ ocr_output }}</p>
+            <div class="image-container">
+                <img src="{{ url_for('uploaded_file', filename=filename) }}" alt="Uploaded Image">
+            </div>
+        </div>
+    </div>
 </body>
 </html>

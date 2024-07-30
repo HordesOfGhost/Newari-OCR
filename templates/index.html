@@ -3,53 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Upload Image</title>
+    <title>Newa OCR</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
 </head>
 <body>
     <h1>Upload an Image</h1>
     <form action="/upload" method="post" enctype="multipart/form-data">
-        <label for="file">Select an image:</label>
-        <input type="file" id="file" name="file" accept="image/*" required><br><br>
-        
+        <div class="form-group">
+            <label for="file">Select an image:</label>
+            <input type="file" id="file" name="file" accept="image/*" required onchange="previewImage()">
+            <div id="image-preview">
+                <img id="preview-img" src="#" alt="Image preview">
+            </div>
+        </div>
+
         <fieldset>
             <legend>Select model:</legend>
             <label>
                 <input type="radio" name="model" value="pracalit" required>
                 pracalit
-            </label><br>
+            </label>
             <label>
                 <input type="radio" name="model" value="ranjana">
                 ranjana
-            </label><br>
+            </label>
             <label>
                 <input type="radio" name="model" value="pracalit_ranjana">
                 pracalit_ranjana
             </label>
-        </fieldset><br>
+        </fieldset>
 
         <fieldset>
             <legend>Select checkpoint:</legend>
             <label>
                 <input type="radio" name="checkpoint" value="best" required>
                 best
-            </label><br>
+            </label>
             <label>
                 <input type="radio" name="checkpoint" value="latest">
                 latest
             </label>
-        </fieldset><br>
-        
+        </fieldset>
+
         <fieldset>
             <legend>Select color channel:</legend>
             <label>
                 <input type="radio" id="gray" name="color_channel" value="gray" required>
                 Gray
-            </label><br>
+            </label>
             <label>
                 <input type="radio" id="rgb" name="color_channel" value="rgb">
                 RGB
             </label>
-        </fieldset><br>
+        </fieldset>
 
         <button type="submit">Upload</button>
     </form>

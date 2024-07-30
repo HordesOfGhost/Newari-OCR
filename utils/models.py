@@ -42,7 +42,6 @@ def create_gray_model(num_of_characters):
     y_pred = Activation('softmax', name='softmax')(inner)
 
     model = Model(inputs=input_data, outputs=y_pred)
-    model.summary()
 
     return model
 
@@ -88,6 +87,5 @@ def create_rgb_model(num_of_characters):
     y_pred = Activation('softmax', name='softmax')(inner)
 
     model = Model(inputs=input_data, outputs=y_pred)
-    model.summary()
 
     return model
