@@ -63,27 +63,27 @@ Here are some example results produced by the OCR system:
 
 ### Pracalit Gray
 
-![Pracalit Gray](figures/lr_001/PRACALIT GRAY.png)
+![Pracalit Gray](figures/lr_001/PRACALIT%20GRAY.png)
 
 ### Pracalit RGB
 
-![Pracalit RGB](figures/lr_001/PRACALIT RGB.png)
+![Pracalit RGB](figures/lr_001/PRACALIT%20RGB.png)
 
 ### Pracalit & Ranjana Gray
 
-![Pracalit Ranjana Gray](figures/lr_001/PRACALIT_RANJANA GRAY.png)
+![Pracalit & Ranjana Gray](figures/lr_001/PRACALIT_RANJANA%20GRAY.png)
 
 ### Pracalit & Ranjana RGB
 
-![Pracalit Ranjana RGB](figures/lr_001/PRACALIT_RANJANA RGB.png)
+![Pracalit & Ranjana RGB](figures/lr_001/PRACALIT_RANJANA%20RGB.png)
 
 ### Ranjana Gray
 
-![Ranjana Gray](figures/lr_001/RANJANA GRAY.png)
+![Ranjana Gray](figures/lr_001/RANJANA%20GRAY.png)
 
 ### Ranjana RGB
 
-![Ranjana RGB](figures/lr_001/RANJANA RGB.png)
+![Ranjana RGB](figures/lr_001/RANJANA%20RGB.png)
 
 ## Contributing
 
