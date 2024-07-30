@@ -73,35 +73,6 @@ Inferencing the applicaation.
 
 ![Ranjana Inference](figures/screenshots/ranjana.png)
 
-
-## Results
-
-Training Metrics of different OCR models:
-
-### Pracalit Gray
-
-![Pracalit Gray](figures/lr_001/PRACALIT%20GRAY.png)
-
-### Pracalit RGB
-
-![Pracalit RGB](figures/lr_001/PRACALIT%20RGB.png)
-
-### Pracalit & Ranjana Gray
-
-![Pracalit & Ranjana Gray](figures/lr_001/PRACALIT_RANJANA%20GRAY.png)
-
-### Pracalit & Ranjana RGB
-
-![Pracalit & Ranjana RGB](figures/lr_001/PRACALIT_RANJANA%20RGB.png)
-
-### Ranjana Gray
-
-![Ranjana Gray](figures/lr_001/RANJANA%20GRAY.png)
-
-### Ranjana RGB
-
-![Ranjana RGB](figures/lr_001/RANJANA%20RGB.png)
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing coding standards and includes appropriate tests.
