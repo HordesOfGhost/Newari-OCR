@@ -1,6 +1,3 @@
-Here's a refined version of your `README.md` file with improved formatting and clarity:
-
-```markdown
 # Newa-OCR
 
 Newa-OCR is a Python application designed for Optical Character Recognition (OCR) of Newari Lipi scripts, including Pracalit and Ranjana Lipi. This project leverages advanced OCR techniques to accurately read and process text in these traditional Newari scripts.
