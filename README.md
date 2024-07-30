@@ -57,6 +57,34 @@ Newa-OCR is a Python application designed for Optical Character Recognition (OCR
 
    The results, including translations into Nepali and English (if applicable), will be displayed on the results page.
 
+## Results
+
+Here are some example results produced by the OCR system:
+
+### Pracalit Gray
+
+![Pracalit Gray](figures/lr_001/PRACALIT GRAY.png)
+
+### Pracalit RGB
+
+![Pracalit RGB](figures/lr_001/PRACALIT RGB.png)
+
+### Pracalit & Ranjana Gray
+
+![Pracalit Ranjana Gray](figures/lr_001/PRACALIT_RANJANA GRAY.png)
+
+### Pracalit & Ranjana RGB
+
+![Pracalit Ranjana RGB](figures/lr_001/PRACALIT_RANJANA RGB.png)
+
+### Ranjana Gray
+
+![Ranjana Gray](figures/lr_001/RANJANA GRAY.png)
+
+### Ranjana RGB
+
+![Ranjana RGB](figures/lr_001/RANJANA RGB.png)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing coding standards and includes appropriate tests.
@@ -71,4 +99,3 @@ For any questions or issues, please contact:
 
 - **Email**: [bibekthapa.works@gmail.com](mailto:bibekthapa.works@gmail.com)
 - **LinkedIn**: [Bibek Thapa](https://www.linkedin.com/in/bibek-thapa-sb1129/)
-```
