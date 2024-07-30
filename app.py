@@ -1,13 +1,16 @@
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, send_from_directory
 import cv2
 import numpy as np
 import os
 from utils.models import *
 from utils.preprocess import *
-from utils.get_dict import *
+from utils.dict import *
 from utils.load_model import *
-
+from utils.inference import *
+from utils.translate import *
 app = Flask(__name__)
+UPLOAD_FOLDER = 'uploads'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 @app.route('/')
 def index():
@@ -18,16 +21,13 @@ def upload():
     if 'file' not in request.files:
         return 'No file part', 400
 
-    # Get information from form
-
     file = request.files['file']
     model = request.form.get('model')
     checkpoint = request.form.get('checkpoint')
     color_channel = request.form.get('color_channel')
     model_dir = f"models/{model}/{color_channel}"
 
-    # Get models and required files
-    num_of_characters = get_dict(model_dir)
+    num_of_characters, char_dict = get_dict(model_dir)
     ocr_model = load_model_weights(model_dir, checkpoint, color_channel, num_of_characters)
 
     if file.filename == '':
@@ -37,31 +37,37 @@ def upload():
         return 'Model or processing type not selected', 400
 
     if file:
-        # Read the image file into a numpy array
-        file_stream = file.read()
-        np_arr = np.frombuffer(file_stream, np.uint8)
+        # Save the file
+        file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+        file.save(file_path)
         
-        # Decode the numpy array to an image
-        image = cv2.imdecode(np_arr, cv2.IMREAD_COLOR)
+        # Read the image file into a numpy array
+        image = cv2.imread(file_path)
         
         # Perform processing based on selected color channel type
         if color_channel == 'gray':
-            image = preprocess_for_gray_channel(image)
+            image_arr = preprocess_for_gray_channel(image)
         else:
-            image = preprocess_for_rgb_channel(image)
+            image_arr = preprocess_for_rgb_channel(image)
         
+        text = predict(ocr_model, image_arr, char_dict)
+        if model == 'ranjana':
+            # Pass the filename and result to the result page
+            nepali_text = get_translation(text, source_lang='new', target_lang='ne')
+            english_text = get_translation(text, source_lang='new', target_lang='en')
+            return render_template('result.html', filename=file.filename, text=text)
+        else:
+            return render_template('result.html', filename=file.filename, text=text)
         
-        # Save the processed image
-        output_file_path = f'uploads/{model}_{color_channel}_{file.filename}'
-        cv2.imwrite(output_file_path, image)
-
-        return f'File uploaded and processed successfully: {file.filename}'
-
     return 'File upload failed', 500
+
+@app.route('/uploads/<filename>')
+def uploaded_file(filename):
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 if __name__ == '__main__':
     # Create the uploads directory if it doesn't exist
-    if not os.path.exists('uploads'):
-        os.makedirs('uploads')
+    if not os.path.exists(UPLOAD_FOLDER):
+        os.makedirs(UPLOAD_FOLDER)
     
     app.run(debug=True)

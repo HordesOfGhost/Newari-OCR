@@ -1,0 +1,166 @@
+/kaggle/input/test_data/pracalit/rgb/1.png	𑐕𑐚𑐥𑐚𑐶𑐣 𑐩𑑀𑐖𑐵 ,
+/kaggle/input/test_data/pracalit/rgb/2.png	𑐡𑐷𑐬𑑂𑐑𑐵𑐫𑐸 ,
+/kaggle/input/test_data/pracalit/rgb/3.png	𑐏𑐸𑐰𑐵𑐎𑑀 𑐐𑐶𑐬𑑂𑐰𑐵𑐞
+/kaggle/input/test_data/pracalit/rgb/4.png	𑐐𑐬𑐵𑐄𑐕 𑑋 𑐧𑐾𑑄𑐐𑑂𑐮𑑀𑐬 𑐚𑑂𑐫𑐵𑐐𑐶𑐒
+/kaggle/input/test_data/pracalit/rgb/5.png	𑐎𑑂𑐬𑐶𑐫𑐚𑐶𑐨𑐎𑐵 𑐰𑐶𑐢𑐾𑐫𑐎𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/6.png	𑐣𑐶𑐩𑑂𑐕𑐬𑑀 ,
+/kaggle/input/test_data/pracalit/rgb/7.png	𑐳𑐸𑐣𑐎𑑀 𑐳𑐵𑐬𑑂𑐰𑐨𑑁𑐩𑐶𑐎𑐟𑐵 , 𑐥𑐶𑐚𑑂𑐳𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/8.png	𑐐𑐿𑑃𑐜𑐵𑐎𑑀𑐚𑐡𑐵𑐄𑐣𑑂𑐣𑐾 𑐀𑐮𑐐𑑂𑐐𑐶𑐊𑐎𑐵
+/kaggle/input/test_data/pracalit/rgb/9.png	𑑓𑑖𑐍𑑃 , 𑐳𑐹𑐔𑐵𑐬𑐸
+/kaggle/input/test_data/pracalit/rgb/10.png	𑐨𑑀𑐎𑐵𑐔𑐵 𑐣𑐡𑐷𑐎𑐶𑐣𑐵𑐬𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/11.png	𑐎𑐶𑐣𑑂𑐣𑐾𑐴𑐬𑐸 𑐎𑐣𑑂𑐚𑐾𑐣𑐬𑐩𑐵𑐠𑐶 𑐧𑐶𑐬𑐵𑐩𑐷𑐳𑑃𑐐𑐿
+/kaggle/input/test_data/pracalit/rgb/12.png	𑐡𑑀𑐴𑑀𑐬𑐶𑑄𑐡𑐿
+/kaggle/input/test_data/pracalit/rgb/13.png	𑐥𑐸𑐣𑑅𑐥𑑂𑐬𑐫𑑀𑐐𑐩𑐵 𑐠𑑂𑐬𑐾𑐚 𑐳𑐡𑐬𑐸𑐮𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/14.png	𑐩𑐾𑐬𑐾𑐜𑐶𑐚𑐮𑐾 𑐰𑐶𑐖𑑂𑐘𑐵𑐥𑐣𑐎𑐬𑑂𑐟𑐵
+/kaggle/input/test_data/pracalit/rgb/15.png	𑐩𑐸𑐮𑐏𑑀𑐮𑐵𑐎𑐷 𑐑𑐬𑐖𑐵𑐣𑐾
+/kaggle/input/test_data/pracalit/rgb/16.png	𑐴𑑁𑐳𑐵𑐮𑐵𑐎𑐵𑐣𑐶𑐩𑑂𑐟𑐶 𑐳𑐵𑐩𑐵𑐐𑑂𑐬𑐷𑐴𑐬𑐸𑐎𑑀 𑐮𑐵𑐮𑐩𑑀𑐴𑐬𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/17.png	𑐁𑐂𑐳𑑀𑐮𑐾𑐱𑐣𑐎𑑀 𑐥𑐝𑐵𑐄𑐣𑐿𑐥𑐬𑑂𑐫𑑀 𑑋
+/kaggle/input/test_data/pracalit/rgb/18.png	𑐥𑐳𑐾𑐗𑐿𑑄 𑐳𑐹𑐡𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/19.png	𑐰𑐵𑐠𑐶𑐒 𑐳𑐵𑐩𑐠𑑂𑐬𑑂𑐫𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/20.png	𑐬𑐸𑐣𑑂𑐕𑐸𑐩 𑐔𑐣𑑂𑐡𑑂𑐬𑐐𑐶𑐬𑐶𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/21.png	𑐛𑐐𑐷𑐧𑐵𑐚
+/kaggle/input/test_data/pracalit/rgb/22.png	𑐴𑐟𑑂𑐫𑐵𑐖𑐳𑑂𑐟𑐵 𑐳𑐶𑐬𑑂𑐖𑐣𑐵𑐥𑑂𑐬𑐟𑐶
+/kaggle/input/test_data/pracalit/rgb/23.png	𑐳𑐩𑑂𑐩𑐾𑐮𑐣𑐩𑐿 𑐧𑐵𑐴𑑂𑐬𑐫 𑐳𑑄𑐑𑐳𑑄𑐳𑑂𑐠𑐵𑐳𑑃𑐐
+/kaggle/input/test_data/pracalit/rgb/24.png	𑐧𑐵𑑃𑐳 , 𑐖𑐸𑐳𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/25.png	𑐩𑐹𑐮𑑂𑐫𑐴𑐷𑐣𑐟𑐵 𑐎𑐵𑐮𑐶𑐩𑐵𑐚𑐷 ,
+/kaggle/input/test_data/pracalit/rgb/26.png	𑐎𑐵𑐳𑑂𑐥𑐵𑐬𑑀𑐨 𑐦𑐵𑐂𑐡𑐿
+/kaggle/input/test_data/pracalit/rgb/27.png	𑐥𑑂𑐬𑐟𑐶𑐦𑐣𑑂𑐜
+/kaggle/input/test_data/pracalit/rgb/28.png	𑐴𑐾𑐬𑐶𑐡𑐶𑐣𑐸𑐴𑑀𑐳 𑑋 𑐁𑑃𑐏𑐵𑐨𑐬𑐶 𑐳𑐬𑑂𑐰𑑀𑐔𑑂𑐔𑐥𑑂𑐬𑐟𑐶𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/1.png	𑐩𑐬𑑂𑐳𑐶𑐜𑐶𑐖𑐎𑐵
+/kaggle/input/test_data/pracalit/rgb/2.png	𑐳𑑂𑐚𑐎𑐩𑐵 𑐱𑐾𑐥𑑂𑐜
+/kaggle/input/test_data/pracalit/rgb/3.png	𑐳𑐶𑐎𑐶𑐣𑑃 𑑋 𑐠𑐶𑐊𑐚𑐬𑐟𑐶𑐬 𑐥𑑀𑐳𑑂𑐡𑐿𑐣 ,
+/kaggle/input/test_data/pracalit/rgb/4.png	𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐥𑐟𑐶 ,
+/kaggle/input/test_data/pracalit/rgb/5.png	𑐧𑐝𑐰𑐵
+/kaggle/input/test_data/pracalit/rgb/6.png	𑐩𑐸𑐜𑐾𑐑𑐵𑐬
+/kaggle/input/test_data/pracalit/rgb/7.png	𑐢𑐬𑑂𑐩𑐐𑑂𑐬𑐣𑑂𑐠𑐴𑐬𑐹
+/kaggle/input/test_data/pracalit/rgb/8.png	𑐔𑑂𑐰𑐎𑐾 𑐎𑐸𑐮𑐥𑐹𑐖𑐵𑐎𑐵 𑐖𑐷𑐰𑐶𑐎𑑀𑐥𑐵𑐬𑑂𑐖𑐣𑐡𑐾𑐏𑐶
+/kaggle/input/test_data/pracalit/rgb/9.png	𑐮𑐐𑐵𑐄𑑃𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/10.png	𑐬𑐵𑐖𑐣𑐷𑐟𑐶𑐥𑑂𑐬𑐟𑐶 𑐬𑑀𑐖𑐾𑐎𑑀 𑐮𑐸𑐩𑑂𑐧𑐵𑐎𑐩𑐿
+/kaggle/input/test_data/pracalit/rgb/11.png	𑐖𑐩𑐑𑐚 𑐝𑐸𑑄𑐐𑐾𑐢𑐵𑐬𑐵𑐴𑐬𑐹𑐩𑐵 𑐟𑐥𑑀𑐰𑐣𑐳𑑂𑐠𑐶𑐟
+/kaggle/input/test_data/pracalit/rgb/12.png	𑐣𑐶𑐬𑐣𑑂𑐖𑐣 𑐚𑐶𑐧𑐚𑐾𑐣 𑐏𑐬𑐶𑐧𑑀𑐚
+/kaggle/input/test_data/pracalit/rgb/13.png	𑐩𑐣𑐷𑐲𑐬𑐩𑐣
+/kaggle/input/test_data/pracalit/rgb/14.png	𑐄𑐟𑑂𑐥𑐡𑐣 𑐝𑐵𑑃𑐚𑐕𑐮𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/15.png	𑐴𑐶𑐟𑐎𑑀𑐳𑐩𑐾𑐟 𑐔𑐷𑐣𑐣𑐾𑐥𑐵𑐮 𑐎𑑀𑐂𑐬𑐵𑐮𑐵𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+/kaggle/input/test_data/pracalit/rgb/16.png	𑐑𑐬𑐚𑐴𑐬𑐵𑐎𑑀 𑐚𑐾𑐮𑐶𑐦𑑀𑐣𑐳𑐴𑐶𑐟 𑐔𑐸𑐔𑑂𑐔𑐾𑐥𑐵𑐚𑐷𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/17.png	𑐳𑑂𑐰𑐵𑐨𑐶𑐩𑐵𑐣𑐷
+/kaggle/input/test_data/pracalit/rgb/18.png	𑐧𑐣𑐵𑐂𑐬𑐴𑐣𑐾𑐕𑐸 𑑋 𑐖𑐷𑐰𑐣𑐩𑐬𑐞𑐎𑐵 𑐡𑐵𑐴𑐶𑐣𑐾𑐟𑐶𑐬
+/kaggle/input/test_data/pracalit/rgb/19.png	𑐊𑐩𑐥𑐷𑐎𑐿 𑐩𑐵𑐮𑐡𑐵𑐬 𑐥𑐎𑑂𑐲𑐵𑐑𑐵𑐟
+/kaggle/input/test_data/pracalit/rgb/20.png	𑐎𑐸𑐜𑐮𑐾 𑐧𑐝𑑀𑐟𑑂𑐟𑐬𑐷𑐮𑐐𑐵𑐫𑐟𑐎𑐵 𑐳𑐵𑐟𑐵𑐨𑐬𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/21.png	𑐀𑐥𑐣𑐵𑐄𑑃𑐕𑐸
+/kaggle/input/test_data/pracalit/rgb/22.png	𑐥𑐵𑐊𑐥𑐕𑐶
+/kaggle/input/test_data/pracalit/rgb/23.png	𑐎𑐸𑐏𑐸𑐬𑐵𑐴𑐬𑐹
+/kaggle/input/test_data/pracalit/rgb/24.png	𑐦𑐬𑐵𑐳𑐏𑐵𑐣𑐵 𑐎𑐶𑐣𑑂𑐕 𑑋
+/kaggle/input/test_data/pracalit/rgb/25.png	𑐬𑑀𑐴𑐶𑑄𑐐𑑂𑐫𑐵𑐮𑐾 𑐩𑐾𑐳𑐶𑐣𑐎𑐵 𑐳𑑄𑐖𑑂𑐘𑐵𑐳𑐩𑐾𑐟
+/kaggle/input/test_data/pracalit/rgb/26.png	𑐴𑐵𑐮𑐶𑐡𑐶𑐣𑑂𑐕𑐣𑑂 𑑋 𑐳𑑂𑐥𑐾𑐣𑐮𑐾 𑐎𑐬𑑂𑐥𑑀𑐬𑐾𑐳𑐣𑐳𑑃𑐐
+/kaggle/input/test_data/pracalit/rgb/27.png	𑐐𑐸𑐣𑑂𑐣𑐩𑐿 𑐎𑐵𑐬𑑂𑐫𑐣𑐷𑐟𑐶𑐴𑐬𑐹𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/28.png	𑐟𑐵𑐰𑐵 , 𑐀𑐢𑑂𑐫𑐵𑐡𑐾𑐱𑐎𑐿 𑐚𑑂𑐬𑐎 ,
+/kaggle/input/test_data/pracalit/rgb/1.png	𑐎𑐣𑐾; 𑐐𑑂𑐮𑑀𑐧𑐮 ,
+/kaggle/input/test_data/pracalit/rgb/2.png	𑐧𑐾𑐠𑐶𑐟𑐶𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/3.png	𑐥𑐬𑐶𑐞𑐵𑐟𑑂𑐩𑐎
+/kaggle/input/test_data/pracalit/rgb/4.png	𑐴𑑀𑐮𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/5.png	𑐳𑐵𑐣𑐸𑐎𑐵𑐣𑑂𑐕𑐵
+/kaggle/input/test_data/pracalit/rgb/6.png	𑐥𑑁𑑃𑐛𑐾𑐖𑑀𑐬𑐷
+/kaggle/input/test_data/pracalit/rgb/7.png	𑐎𑐛𑐶𑐣𑐵𑐂𑐴𑐬𑐸
+/kaggle/input/test_data/pracalit/rgb/8.png	𑐳𑐷𑐥𑐴𑐬𑐹𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/9.png	𑐳𑑂𑐚𑑂𑐫𑐵𑐧𑐶𑐮𑐶𑐚𑐷 𑐩𑐶𑐩𑐶𑐔𑐵
+/kaggle/input/test_data/pracalit/rgb/10.png	𑐩𑑁𑐖𑑂𑐡𑐵𑐟 𑐟𑑀𑐎𑑂𑐥𑐾𑐐𑑀𑐮𑐵
+/kaggle/input/test_data/pracalit/rgb/11.png	𑐥𑐷𑐃𑐚𑐷 𑐬𑐵𑐖𑑀𑐥𑐵𑐢𑑂𑐫𑐵𑐫 ,
+/kaggle/input/test_data/pracalit/rgb/12.png	𑐊𑐬𑐾𑐣𑑂𑐖 ,
+/kaggle/input/test_data/pracalit/rgb/13.png	𑐩𑐢𑐾𑐳𑐷𑐎𑑀 𑐎𑐺𑐲𑐶𑐥𑑂𑐬𑐞𑐵𑐮𑐷𑐮𑐵𑐃 𑐁𑐩𑐳𑑂𑐬𑑀𑐟𑐵𑐡𑐾𑐏𑐶
+/kaggle/input/test_data/pracalit/rgb/14.png	𑐣𑐧𑐳𑑂𑐡𑐵𑐳𑐩𑑂𑐩
+/kaggle/input/test_data/pracalit/rgb/15.png	𑐡𑐸𑐱𑑂𑐩𑐣𑐴𑐬𑐹 𑐏𑐾𑐮𑐶𑐬𑐵𑐏𑐾𑐎𑑀 𑐩𑐒𑑂𑐐𑐮𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/16.png	𑐴𑐬𑐵𑐊𑐥𑐣𑐶
+/kaggle/input/test_data/pracalit/rgb/17.png	𑐳𑐾𑐎𑐸𑐰𑐵𑐎𑑀 𑐁𑐔𑐵𑐖𑐹
+/kaggle/input/test_data/pracalit/rgb/18.png	𑐥𑐬𑐶𑐔𑑂𑐕𑐾𑐡𑑓 𑐎𑑂𑐬𑐾𑐖𑐷 𑐗𑐹𑐚𑑀
+/kaggle/input/test_data/pracalit/rgb/19.png	𑐔𑐶𑐣𑑂𑐕𑐶𑐣𑑂 𑑋 𑐩𑐴𑐳𑐸𑐮𑐎𑑀 𑐡𑐶𑐮𑐵𑐄𑐣𑐸𑐨𑐫𑑀 𑑋
+/kaggle/input/test_data/pracalit/rgb/20.png	𑐥𑐸𑐬𑑂𑐫𑐵𑐂𑐡𑐶𑐊𑐎𑐿
+/kaggle/input/test_data/pracalit/rgb/21.png	𑐥𑐬𑐶𑐥𑐵𑐎
+/kaggle/input/test_data/pracalit/rgb/22.png	𑐝𑐎𑑀𑐳𑐮𑐵
+/kaggle/input/test_data/pracalit/rgb/23.png	𑐳𑑂𑐫𑐵𑐒𑑂𑐟𑐵𑐣𑐎𑑀 𑐴𑐵𑐣𑐷 𑐳𑑂𑐰𑐡𑐾𑐱
+/kaggle/input/test_data/pracalit/rgb/24.png	𑐗𑑂𑐫𑐵𑐥𑐗𑑂𑐫𑐵𑐥
+/kaggle/input/test_data/pracalit/rgb/25.png	𑐳𑐎𑑂𑐕𑑁𑑄 ? 𑐩𑐸𑐮𑐥𑑂𑐬𑐰𑐵𑐴𑐎𑐬𑐞𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/26.png	𑐳𑐵𑐐𑐂𑐒𑑂𑐐 ,
+/kaggle/input/test_data/pracalit/rgb/27.png	𑐩𑑂𑐫𑐵𑐬𑐵𑐠𑐣𑐎𑑀 𑐧𑐾𑐬𑑀𑐖𑐐𑐵𑐬𑐷𑐮𑐾 𑐎𑑂𑐮𑐚𑑂𑐳
+/kaggle/input/test_data/pracalit/rgb/28.png	𑐩𑐸𑑂𑐡𑑂𑐡𑐵
+/kaggle/input/test_data/pracalit/rgb/29.png	𑐡𑑂𑐬𑐰𑑂𑐫
+/kaggle/input/test_data/pracalit/rgb/30.png	𑑑𑑔𑑘 𑐎𑐵𑐮𑐷𑐡𑐵𑐣𑐵 𑐣𑐮𑐾𑐏𑐵𑐄𑑃𑐡𑐵
+/kaggle/input/test_data/pracalit/rgb/31.png	𑐎𑑀𑐴𑐶𑐮𑐵𑐃
+/kaggle/input/test_data/pracalit/rgb/32.png	𑐣𑐮𑐐𑐵𑐊𑐎𑐵𑐮𑐾 𑐳𑑂𑐰𑐂𑐔𑑂𑐕𑐵𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/33.png	𑐄𑐔𑑂𑐕𑐺𑐒𑑂𑐏𑐮𑐟𑐵 𑐊𑐎𑐵𑐄𑐣𑑂𑐚𑐶𑐒 𑐀𑐣𑐾𑐎𑐠𑐬𑐷
+/kaggle/input/test_data/pracalit/rgb/34.png	𑐥𑐸𑐲𑑂𑐥𑐬𑐩𑐞 𑐩𑐣𑐳𑐸𑐬𑐮𑐾 𑐴𑐰𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/35.png	𑐀𑐥𑐴𑐾𑐮𑐷𑐟 𑐦𑐎𑐵𑐅 ,
+/kaggle/input/test_data/pracalit/rgb/36.png	𑐰𑐶.𑐳𑑄.𑑑𑑙𑑓𑑒 𑐧𑐵𑐚𑐵𑐑𑐵𑐚𑐵𑐮𑐾 𑐚𑐥 ,
+/kaggle/input/test_data/pracalit/rgb/37.png	𑐊𑐩𑐵𑐮𑐾𑐥𑑂𑐬𑐟𑐶 𑐎𑑀𑐮𑑂𑐚𑐶𑐊𑐬
+/kaggle/input/test_data/pracalit/rgb/38.png	𑐱𑐎𑑂𑐟𑐶𑐧𑐵𑐚𑐿
+/kaggle/input/test_data/pracalit/rgb/39.png	𑑖.𑑔𑑑 𑑑𑑔𑑔 , 𑐐𑐟𑐶𑐰𑐶𑐢𑐶𑐧𑐵𑐚
+/kaggle/input/test_data/pracalit/rgb/40.png	𑐁𑐰𑐬 𑐖𑑂𑐘𑐵𑐣𑐰𑐶𑐖𑑂𑐘𑐵𑐣 , 𑐩𑐬𑐶𑐊𑐣 𑑋
+/kaggle/input/test_data/pracalit/rgb/41.png	𑐡𑐵𑐬𑐵 𑐐𑐸𑐩𑐵𑐫𑑁𑑃 𑑋
+/kaggle/input/test_data/pracalit/rgb/42.png	𑐂𑐟𑐶𑐴𑐵𑐳𑐰𑐶𑐡𑑂𑐎𑐵 𑐥𑐵𑐬𑑂𑐣𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/43.png	𑐠𑐵𑐥𑑂𑐠𑐾𑑃 𑑋 𑐢𑐾𑐬𑐿𑐠𑑀𑐬𑐿
+/kaggle/input/test_data/pracalit/rgb/44.png	𑐥𑑂𑐬𑐰𑐡𑑂𑐬𑑂𑐢𑐣𑐩𑐵𑐬𑑂𑐦𑐟
+/kaggle/input/test_data/pracalit/rgb/45.png	𑐰𑐶𑐨𑐵𑐖𑐮𑐵𑐃 𑐎𑐩𑑂𑐥𑐣𑐷𑐨𑐣𑑂𑐡𑐵
+/kaggle/input/test_data/pracalit/rgb/46.png	𑐳𑐩𑐶𑐟𑐶𑐡𑐾𑐏𑐶 𑐥𑐹𑐬𑑂𑐰𑐳𑐩𑐵𑐖𑐰𑐵𑐡𑐷𑐎𑐵 𑐨𑐣𑑂𑐣𑐸𑐴𑐸𑐣𑑂𑐠𑑂𑐫𑑀
+/kaggle/input/test_data/pracalit/rgb/47.png	𑐡𑐶𑐣𑑂𑐕𑑁 𑐁𑐳𑑂𑐟𑐶𑐎
+/kaggle/input/test_data/pracalit/rgb/48.png	𑐥𑐬𑐶𑐔𑐶𑐟𑐡𑑂𑐰𑐵𑐬𑐵 𑐬𑐔𑐣𑐵𑐴𑐬𑐹𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/49.png	𑐢𑐵𑐣𑑂𑐡𑐿𑐣 , 𑐥𑐶𑐣𑐾𑐔𑑂𑐰𑑄𑐐𑐸 𑐔𑑀𑐬𑐷𑐳𑐶𑐎𑐵𑐬𑐷𑐧𑐵𑐚
+/kaggle/input/test_data/pracalit/rgb/50.png	𑐥𑐵𑐄𑐣𑐸𑐨𑐣𑑂𑐡𑐵 𑐮𑐾𑐏𑐶𑐣𑑂 , 𑐔𑐵 ,
+/kaggle/input/test_data/pracalit/rgb/51.png	𑐐𑑃𑐐𑐚𑑀 , 𑐳𑑁𑐣𑑂𑐡𑐬𑑂𑐫𑐟𑐵𑐩𑐵 𑐣𑐵𑐐𑐬𑐶𑐎𑐟𑐵𑐢𑐵𑐬𑐷𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/52.png	𑐁𑐔𑐵𑐬𑑂𑐫𑐴𑐬𑐹𑐨𑐣𑑂𑐡𑐵 𑐰𑑂𑐫𑐰𑐳𑐵𑐫𑐩𑐢𑑂𑐫𑐾𑐧𑐵𑐚 𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐳𑐒𑑂𑐑𑐥𑑂𑐬𑐟𑐶
+/kaggle/input/test_data/pracalit/rgb/53.png	𑐎𑑂𑐮𑑀𑐖𑐀𑐥𑐴𑐬𑐹 𑐦𑐬𑑂𑐰𑐵𑐣𑐶𑐫𑐵
+/kaggle/input/test_data/pracalit/rgb/54.png	𑐏𑐸𑐩𑑂𑐔𑑂𑐫𑐵𑐂𑐡𑐶𑐫𑑀 𑑋
+/kaggle/input/test_data/pracalit/rgb/55.png	𑐱𑑀𑐢𑐥𑐟𑑂𑐬𑐩𑐵 𑐏𑐵𑐡𑐵𑐟𑐠𑐵
+/kaggle/input/test_data/pracalit/rgb/56.png	𑐣𑐰𑐥𑑂𑐬𑐰𑐬𑑂𑐟𑐣𑐵𑐟𑑂𑐩𑐎
+/kaggle/input/test_data/pracalit/rgb/57.png	𑐎𑐵𑐬𑐫𑐾𑐟𑑂 𑑋 𑐥𑑁𑐬𑐏𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/58.png	𑐖𑐸𑑃𑐐𑐵𑐮𑐾 𑑋
+/kaggle/input/test_data/pracalit/rgb/59.png	𑐫𑐟𑐶𑐏𑐾𑐬𑐳𑐩𑑂𑐩 𑐰𑐶𑐳𑑂𑐦𑑀𑐚𑐣
+/kaggle/input/test_data/pracalit/rgb/60.png	𑐬𑐵𑐏𑑂𑐣𑐹 𑑋 𑐨𑐸𑑃𑐩𑐬𑐷𑐩𑐵 𑐧𑐬𑑂𑐣𑐩𑐵𑐄𑐠𑐎𑐵
+/kaggle/input/test_data/pracalit/rgb/61.png	𑐳𑐵𑐩𑐣𑑂𑐫𑐟𑐫𑐵𑑅 𑐁𑐟𑑂𑐩𑐣𑐶𑐬𑑂𑐨𑐬𑐟𑐬𑑂𑐦𑐣𑐾𑐥𑐵𑐮𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/62.png	𑐬𑐸 , 𑐰𑐶𑐱𑑂𑐮𑐾𑐲𑐎𑐴𑐬𑐹𑐮𑐾 𑐮𑐮𑐶𑐟𑐵𑐎𑐸𑐩𑐵𑐬𑐷
+/kaggle/input/test_data/pracalit/rgb/63.png	𑑑.𑑒𑑕𑑑 𑐰𑐶𑐲𑐫𑐧𑐵𑐬𑐾𑐎𑑀 𑐠𑐶𑐔𑐾𑐥𑐕𑐶
+/kaggle/input/test_data/pracalit/rgb/64.png	𑐎𑐬𑑂𑐩𑐧𑐵𑐚𑐿 𑐣𑐾𑐎𑐥𑐵𑐩𑐌𑐰𑐵𑐡𑐷𑐎𑐵𑐔𑐣𑑂𑐡𑑂𑐬𑐰𑐴𑐵𑐡𑐸𑐬
+/kaggle/input/test_data/pracalit/rgb/65.png	𑐥𑐵𑐮𑑀𑐎𑑀 𑐳𑑃𑐢𑐶𑐫𑐵𑐬𑐴𑐬𑐹
+/kaggle/input/test_data/pracalit/rgb/66.png	𑐧𑐣𑐵𑐄𑑃𑐡𑐿𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/67.png	𑐬𑑀𑐎𑐶𑐡𑐶𑐫𑑀 𑐥𑑂𑐬𑑀𑐜𑐎𑑂𑐳𑐣𑐩𑐵 𑐠𑑂𑐰𑐫𑐾
+/kaggle/input/test_data/pracalit/rgb/68.png	𑐀𑐰𑐢𑐶𑐨𑐬𑐶𑐮𑐵𑐃 𑐬𑐞𑐨𑐹𑐩𑐶𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/69.png	𑐀𑐟𑑂𑐟𑐵𑐮𑐶𑐣𑐸 𑐎𑐸𑐚𑐾𑐕𑐣𑑂 ,
+/kaggle/input/test_data/pracalit/rgb/70.png	𑐥𑑂𑐬𑐟𑐶𑐱𑐟𑐣𑐿 𑐥𑑂𑐬𑐨𑐵𑐥𑐶𑐟
+/kaggle/input/test_data/pracalit/rgb/71.png	𑐥𑐡𑐫𑐵𑐟𑑂𑐬𑐷𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/72.png	𑐱𑐧𑑂𑐡𑐴𑐬𑐹𑐎𑐵 𑐖𑐴𑐡𑐵𑐩𑐵 𑐐𑑀𑐬𑐾𑐚𑑀
+/kaggle/input/test_data/pracalit/rgb/73.png	𑐐𑐵𑐜𑐷𑐳𑐴𑐶𑐟𑐎𑐵 𑐥𑑂𑐬𑐢𑐵𑐣𑐩𑐣𑑂𑐟𑑂𑐬𑐷𑐖𑑂𑐫𑐹𑐧𑐵𑐚 𑐔𑑁𑐢𑐬𑐷𑐎𑐵𑐾
+/kaggle/input/test_data/pracalit/rgb/74.png	𑐥𑐸𑐕𑐶𑐡𑐶𑐣𑐾 𑐩𑐸𑐳𑐵𑐬𑑂𑐡𑐿
+/kaggle/input/test_data/pracalit/rgb/75.png	𑐩𑐣𑐵𑐂𑐬𑐴𑐾𑐎𑑀 𑐖𑐵𑐐𑐬𑐸𑐎𑐟𑐵𑐎𑐵 𑐔𑐵𑐩𑐮𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/76.png	𑐥𑐸¥𑐫𑐵𑐫𑑀 𑐡𑐣𑑂𑐟𑐧𑐗𑐵𑐣𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/77.png	𑐩𑐳𑑂𑐎𑑀𑐮𑐾 𑐔𑑀𑐂𑐚𑐶𑐊𑐕 𑑋
+/kaggle/input/test_data/pracalit/rgb/78.png	𑐮𑑂𑐴𑐵𑑅
+/kaggle/input/test_data/pracalit/rgb/79.png	𑐫𑐡𑐵𑐳𑐩𑑂𑐫𑐎𑑂 𑐩𑐷𑐚𑐬 𑐐𑐸𑐖𑑂𑐬𑐶𑐫𑑀 𑑋
+/kaggle/input/test_data/pracalit/rgb/80.png	𑐐𑐵𑐜𑐵
+/kaggle/input/test_data/pracalit/rgb/81.png	𑐮𑐷 𑐳𑐶𑐟𑐣𑐳𑑃𑐐 𑑒𑑘𑑑𑑔
+/kaggle/input/test_data/pracalit/rgb/82.png	𑐎𑑀𑐡𑐵𑐎𑑀 𑐩𑐴𑐸𑐬𑐾𑐬𑐵𑐖𑐵𑐥𑐵𑐣𑐷
+/kaggle/input/test_data/pracalit/rgb/83.png	𑐬𑐵𑐩𑐵𑐣𑐣𑑂𑐡 𑐣𑐶𑐞𑐬𑑂𑐫𑐩𑐵 𑐦𑑂𑐬𑐣𑑂𑐚𑐮𑐵𑐂𑐣
+/kaggle/input/test_data/pracalit/rgb/84.png	𑐴𑐸𑑃𑐡𑐵𑐥𑐣𑐶
+/kaggle/input/test_data/pracalit/rgb/85.png	𑐥𑐸𑐣 𑑋 𑐳𑐒𑑂𑐐𑐛𑐣𑐎𑑀 𑐧𑐣𑑂𑐫𑐵𑐾 ,
+/kaggle/input/test_data/pracalit/rgb/86.png	𑐣𑐣𑑂𑐡𑐷𑐐𑑂𑐬𑐵𑐩𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/87.png	𑐩𑐶𑐮𑐵𑐣𑐮𑐾 𑐣𑐶𑐫𑐵𑐩𑐎𑐴𑐬𑐸𑐮𑐾 𑐳𑐹𑐔𑐶𑐟
+/kaggle/input/test_data/pracalit/rgb/88.png	𑐱𑑀𑐥𑐶𑐫𑐵𑑃𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/89.png	𑐁𑐃𑐊𑐳𑐊𑐮𑐎𑑀 𑐨𑐾𑐲𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/90.png	𑐡𑐾𑐏𑐵𑐊𑐎𑐵𑐾 𑐨𑐶𑐜𑐶𑐫𑑀𑐳𑐩𑑂𑐩𑐎𑑀 𑐩𑐶𑐠𑐶𑐮𑐵𑐰𑐵𑐳𑐷
+/kaggle/input/test_data/pracalit/rgb/91.png	𑐳𑐎𑑂𑐣𑐾𑐳𑐩𑑂𑐩
+/kaggle/input/test_data/pracalit/rgb/92.png	𑐳𑐟𑑂𑐟𑐵𑐎𑑀 𑐔𑐵𑐄𑐠𑐾𑐧𑐵𑐚 𑐎𑐶𑐩𑐥𑐾𑐮𑑂𑐧𑐾𑐮𑐾
+/kaggle/input/test_data/pracalit/rgb/93.png	𑐩𑐶𑐟𑑂𑐬𑐟𑐵𑐩𑐵 𑐳𑑀𑐔𑐳𑑃𑐐𑐿
+/kaggle/input/test_data/pracalit/rgb/94.png	𑐳𑑄𑐐𑐵𑐮𑐶𑐊𑐎𑐵 𑐫𑐸𑐰𑐎𑐫𑐸𑐰𑐟𑐷𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/95.png	𑐑𑐚𑐾𑐩𑐵
+/kaggle/input/test_data/pracalit/rgb/96.png	𑐜𑐶𑐊𑐦𑐊𑐳𑐎𑐾 𑐥𑑂𑐬𑐰𑐶𑐢𑐶𑐥𑑂𑐬𑐖𑑂𑐘𑐵
+/kaggle/input/test_data/pracalit/rgb/97.png	𑐩𑐢𑑂𑐫𑐎𑐵𑐮𑐷𑐣
+/kaggle/input/test_data/pracalit/rgb/98.png	𑐳𑐸𑐬𑐸𑐁𑐟𑐩𑐿 𑐁𑐃𑐊𑐮𑐌𑐡𑑂𑐰𑐵𑐬𑐵
+/kaggle/input/test_data/pracalit/rgb/99.png	𑐥𑐘𑑂𑐖𑐷𑐎𑐬𑐞𑐩𑐵 𑐂𑐣𑑂𑐖𑐶𑐣𑐩𑐵 𑐄𑐡𑑂𑐫𑐩𑐷𑐰𑑂𑐫𑐰𑐳𑐵𑐫𑐷𑐴𑐬𑐹
+/kaggle/input/test_data/pracalit/rgb/100.png	𑐩𑐣𑑂𑐟𑑂𑐬𑐵𑐮𑐫𑐳𑑃𑐐𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/101.png	𑐟𑑂𑐫𑐳𑐬𑐷 𑐨𑐟𑑂𑐎𑐵𑐄𑑃𑐕
+/kaggle/input/test_data/pracalit/rgb/102.png	𑐳𑐎𑑂𑐬𑐩𑐞𑐎𑑀 𑐠𑐵𑐥𑐵𑐳𑐩𑑂𑐩𑐮𑐾 𑐮𑑂𑐫𑐵𑐊𑑃 𑑋
+/kaggle/input/test_data/pracalit/rgb/103.png	𑐖𑑀𑐜𑐵𑐃 ,
+/kaggle/input/test_data/pracalit/rgb/104.png	𑐣𑐶𑐢𑐣𑐮𑐾 𑐦𑐬𑑂𑐎𑐵𑐄𑑃𑐕
+/kaggle/input/test_data/pracalit/rgb/105.png	𑐗𑐳𑑂𑐎𑐶𑐣𑑂 𑑋 𑐨𑐹𑐎𑐩𑑂𑐥𑐩𑐵 , 𑐮𑐾𑐏𑐵𑐥𑐵𑐮𑐴𑐬𑐹𑐎𑑀
+/kaggle/input/test_data/pracalit/rgb/106.png	𑐝𑐎𑐝𑐎𑑂𑐫𑐵𑐄𑐣 𑐧𑑀𑐮𑑂𑐠𑑂𑐫𑑀 ,
+/kaggle/input/test_data/pracalit/rgb/107.png	𑐥𑐬𑐶𑐰𑐵𑐬𑐖𑐣 ,
+/kaggle/input/test_data/pracalit/rgb/108.png	𑐥𑑂𑐬𑐫𑑀𑐐𑐱𑐵𑐮𑐵𑐴𑐬𑐹𑐳𑑃𑐎𑑀 𑐜𑐶𑐧𑐴𑐷𑐳𑑃𑐐
+/kaggle/input/test_data/pracalit/rgb/109.png	𑐳𑐸𑐟𑑂𑐎𑐾𑐬𑐷 , 𑐐𑐶𑐚𑐴𑐧𑐳𑑃𑐐𑐎𑑀 𑐥𑐘𑑂𑐔𑐩𑐰𑐾𑐡
+/kaggle/input/test_data/pracalit/rgb/110.png	𑐩𑐵𑐣𑐰𑐀𑐢𑐶𑐎𑐵𑐬𑐰𑐵𑐡𑐷 ,

@@ -1,0 +1,166 @@
+/kaggle/input/test_data/ranjana/rgb/1.png	नेवारी भाषां अंग्रेजी भाय् हिलाच्वना
+/kaggle/input/test_data/ranjana/rgb/2.png	ज्वजलपा जिगु नां बिबेक थापा खः ।
+/kaggle/input/test_data/ranjana/rgb/3.png	जा
+/kaggle/input/test_data/ranjana/rgb/4.png	जित: बाइक गये य: ।
+/kaggle/input/test_data/ranjana/rgb/5.png	नेवारी भाषां अंग्रेजी भाय् हिलाच्वना
+/kaggle/input/test_data/ranjana/rgb/6.png	नेपाल सुन्दर डा.
+/kaggle/input/test_data/ranjana/rgb/7.png	ज्वजलपा जिगु नां बिबेक थापा खः ।
+/kaggle/input/test_data/ranjana/rgb/8.png	जिमिसं फय् सासः ल्हाये ।
+/kaggle/input/test_data/ranjana/rgb/9.png	चाकु
+/kaggle/input/test_data/ranjana/rgb/10.png	नेवारी भाषां अंग्रेजी भाय् हिलाच्वना
+/kaggle/input/test_data/ranjana/rgb/11.png	नेपाल सुन्दर डा.
+/kaggle/input/test_data/ranjana/rgb/12.png	दक्वं लँपुइ कृत्रिम बुद्धिमत्ता
+/kaggle/input/test_data/ranjana/rgb/13.png	सयेकेगु व ब्वलनेगु
+/kaggle/input/test_data/ranjana/rgb/14.png	ट्रेकय् वनेनु ।
+/kaggle/input/test_data/ranjana/rgb/15.png	झीसं न्हिथं लः त्वनेमाः ।
+/kaggle/input/test_data/ranjana/rgb/16.png	जिमिसं फय् सासः ल्हाये ।
+/kaggle/input/test_data/ranjana/rgb/17.png	झीसं न्हिथं लः त्वनेमाः ।
+/kaggle/input/test_data/ranjana/rgb/18.png	सर्ग
+/kaggle/input/test_data/ranjana/rgb/19.png	जिं नेवारी भाय् सयेके मास्ति वः ।
+/kaggle/input/test_data/ranjana/rgb/20.png	सयेकेगु व ब्वलनेगु
+/kaggle/input/test_data/ranjana/rgb/21.png	चाकु
+/kaggle/input/test_data/ranjana/rgb/22.png	जितः क्षमा यानादिसँ ।
+/kaggle/input/test_data/ranjana/rgb/23.png	जित: बाइक गये य: ।
+/kaggle/input/test_data/ranjana/rgb/24.png	जितः क्षमा यानादिसँ ।
+/kaggle/input/test_data/ranjana/rgb/25.png	सर्ग
+/kaggle/input/test_data/ranjana/rgb/26.png	ट्रेकय् वनेनु ।
+/kaggle/input/test_data/ranjana/rgb/27.png	ज्वजलपा जिगु नां बिबेक थापा खः ।
+/kaggle/input/test_data/ranjana/rgb/28.png	१२३ सेकेण्डय् ब्वाँय् वनेगु सुरु जुइ ।
+/kaggle/input/test_data/ranjana/rgb/1.png	क्षमा यानादिसँ, जिं मथुल ।
+/kaggle/input/test_data/ranjana/rgb/2.png	जी त कल या।
+/kaggle/input/test_data/ranjana/rgb/3.png	भिं कर्म।
+/kaggle/input/test_data/ranjana/rgb/4.png	बाँ ला त।
+/kaggle/input/test_data/ranjana/rgb/5.png	छिं थुगु परियोजनाया खँय् अपडेट बियादी फै ला ?
+/kaggle/input/test_data/ranjana/rgb/6.png	१ निसें ११२९ तक ल्याः खा ।
+/kaggle/input/test_data/ranjana/rgb/7.png	छुन्न मजु।
+/kaggle/input/test_data/ranjana/rgb/8.png	क्षमा यानादिसँ, रेल स्टेशन गन दु ?
+/kaggle/input/test_data/ranjana/rgb/9.png	बाँ ला त।
+/kaggle/input/test_data/ranjana/rgb/10.png	भिं चा।
+/kaggle/input/test_data/ranjana/rgb/11.png	जिं सयेके मास्ति वः ।
+/kaggle/input/test_data/ranjana/rgb/12.png	थुगु परियोजनाय् छिगु मेहनतयात जिं च्वछाया ।
+/kaggle/input/test_data/ranjana/rgb/13.png	सुभाय्
+/kaggle/input/test_data/ranjana/rgb/14.png	जितः मोमो यः ।
+/kaggle/input/test_data/ranjana/rgb/15.png	थुगु ज्याय् छं ग्वाहालि याये फु ला ?
+/kaggle/input/test_data/ranjana/rgb/16.png	सुभाय्।
+/kaggle/input/test_data/ranjana/rgb/17.png	जिं छन्त छगू न्ह्यसः न्यने फै ला ?
+/kaggle/input/test_data/ranjana/rgb/18.png	जित: बाइक गये य: ।
+/kaggle/input/test_data/ranjana/rgb/19.png	छं अंग्रेजी खँ ल्हाये सः ला ?
+/kaggle/input/test_data/ranjana/rgb/20.png	ट्रेकय् वनेनु ।
+/kaggle/input/test_data/ranjana/rgb/21.png	सुरक्षित।
+/kaggle/input/test_data/ranjana/rgb/22.png	छङु ना छु ख?
+/kaggle/input/test_data/ranjana/rgb/23.png	हाक्न नाप्ल्या।
+/kaggle/input/test_data/ranjana/rgb/24.png	जितः मोमो यः ।
+/kaggle/input/test_data/ranjana/rgb/25.png	नेवारी भाषां अंग्रेजी भाय् हिलाच्वना
+/kaggle/input/test_data/ranjana/rgb/26.png	थुगु डकुमेन्टय् जितः छिगु प्रतिक्रिया माःगु दु ।
+/kaggle/input/test_data/ranjana/rgb/27.png	थुगु परियोजनाय् छिगु मेहनतयात जिं च्वछाया ।
+/kaggle/input/test_data/ranjana/rgb/28.png	नेवारी भाषा दकलय् बांलाःगु खः ।
+/kaggle/input/test_data/ranjana/rgb/1.png	जिमिसं फय् सासः ल्हाये ।
+/kaggle/input/test_data/ranjana/rgb/2.png	थ्व गथे जुयाच्वन ?
+/kaggle/input/test_data/ranjana/rgb/3.png	१ निसें ११२९ तक ल्याः खा ।
+/kaggle/input/test_data/ranjana/rgb/4.png	जी त कल या।
+/kaggle/input/test_data/ranjana/rgb/5.png	थुगु इमेल थ्यंगु पक्का याये फु ला ?
+/kaggle/input/test_data/ranjana/rgb/6.png	नेपाल सुन्दर डा.
+/kaggle/input/test_data/ranjana/rgb/7.png	इनाप यानातःगु फाइलत घाकातःगु मालादिसँ ।
+/kaggle/input/test_data/ranjana/rgb/8.png	प्रस्तुतिकरण बांलाक जुल ।
+/kaggle/input/test_data/ranjana/rgb/9.png	थुगु इमेल थ्यंगु पक्का याये फु ला ?
+/kaggle/input/test_data/ranjana/rgb/10.png	थुकिया मू गुलि ?
+/kaggle/input/test_data/ranjana/rgb/11.png	छं जितः ग्वाहालि याये फु ला ?
+/kaggle/input/test_data/ranjana/rgb/12.png	छङु ना छु ख?
+/kaggle/input/test_data/ranjana/rgb/13.png	छि सुथसिया १० ताः इलय् कन्फरेन्स कलय् दुथ्याये फै ला ?
+/kaggle/input/test_data/ranjana/rgb/14.png	जितः क्षमा यानादिसँ ।
+/kaggle/input/test_data/ranjana/rgb/15.png	झीसं न्हिथं लः त्वनेमाः ।
+/kaggle/input/test_data/ranjana/rgb/16.png	जि सहमत दु ।
+/kaggle/input/test_data/ranjana/rgb/17.png	वं न्हूगु कार न्यात ।
+/kaggle/input/test_data/ranjana/rgb/18.png	दये होशियार।
+/kaggle/input/test_data/ranjana/rgb/19.png	छिगु बिचाः छु दु ?
+/kaggle/input/test_data/ranjana/rgb/20.png	थुगु ज्याय् छं ग्वाहालि याये फु ला ?
+/kaggle/input/test_data/ranjana/rgb/21.png	बैठक तसकं उत्पादनशील जुल ।
+/kaggle/input/test_data/ranjana/rgb/22.png	जितः क्षमा यानादिसँ ।
+/kaggle/input/test_data/ranjana/rgb/23.png	सुरक्षित।
+/kaggle/input/test_data/ranjana/rgb/24.png	सुभाय्।
+/kaggle/input/test_data/ranjana/rgb/25.png	छिगु बिचाः छु दु ?
+/kaggle/input/test_data/ranjana/rgb/26.png	छें
+/kaggle/input/test_data/ranjana/rgb/27.png	सर्ग
+/kaggle/input/test_data/ranjana/rgb/28.png	व चित्रकलाय् तसकं प्रतिभाशाली ।
+/kaggle/input/test_data/ranjana/rgb/29.png	छुन्न मजु।
+/kaggle/input/test_data/ranjana/rgb/30.png	ट्रेकय् वनेनु ।
+/kaggle/input/test_data/ranjana/rgb/31.png	छँ छु ज्या यान?
+/kaggle/input/test_data/ranjana/rgb/32.png	छि सुथसिया १० ताः इलय् कन्फरेन्स कलय् दुथ्याये फै ला ?
+/kaggle/input/test_data/ranjana/rgb/33.png	जि छ नाप लाये फै ला ?
+/kaggle/input/test_data/ranjana/rgb/34.png	न्याही पुगेगु।
+/kaggle/input/test_data/ranjana/rgb/35.png	कन्सर्ट अजूचायापुगु खः ।
+/kaggle/input/test_data/ranjana/rgb/36.png	थुगु इमेल थ्यंगु पक्का याये फु ला ?
+/kaggle/input/test_data/ranjana/rgb/37.png	छ ब्वनेकुथि गन वनागु खः ?
+/kaggle/input/test_data/ranjana/rgb/38.png	जा
+/kaggle/input/test_data/ranjana/rgb/39.png	वयात भकुंग्वारा म्हिते यः ।
+/kaggle/input/test_data/ranjana/rgb/40.png	हाक्न नाप्ल्या।
+/kaggle/input/test_data/ranjana/rgb/41.png	जिं छन्त लिपा फोन याये ।
+/kaggle/input/test_data/ranjana/rgb/42.png	छी गना ना झा यू?
+/kaggle/input/test_data/ranjana/rgb/43.png	छंगु सोंख छु खः ?
+/kaggle/input/test_data/ranjana/rgb/44.png	छु याना चोव्ना?
+/kaggle/input/test_data/ranjana/rgb/45.png	जिं जिगु होमवर्क सिधयेका ।
+/kaggle/input/test_data/ranjana/rgb/46.png	छी गना ना झा यू?
+/kaggle/input/test_data/ranjana/rgb/47.png	चाकु
+/kaggle/input/test_data/ranjana/rgb/48.png	भिं चा।
+/kaggle/input/test_data/ranjana/rgb/49.png	छिं व खँ हानं धयादी फै ला ?
+/kaggle/input/test_data/ranjana/rgb/50.png	वयात भकुंग्वारा म्हिते यः ।
+/kaggle/input/test_data/ranjana/rgb/51.png	लिपांगु रिपोर्ट छ्वयाहयादिसँ ।
+/kaggle/input/test_data/ranjana/rgb/52.png	पिने म्हितेनु ।
+/kaggle/input/test_data/ranjana/rgb/53.png	जी त कल या।
+/kaggle/input/test_data/ranjana/rgb/54.png	छन्त दकलय् यःगु सफू छु खः ?
+/kaggle/input/test_data/ranjana/rgb/55.png	छिगु न्हि बांलायेमा !
+/kaggle/input/test_data/ranjana/rgb/56.png	थ्व गथे जुयाच्वन ?
+/kaggle/input/test_data/ranjana/rgb/57.png	ज्वजलपा हलिं !
+/kaggle/input/test_data/ranjana/rgb/58.png	सयेकेगु व ब्वलनेगु
+/kaggle/input/test_data/ranjana/rgb/59.png	जिमिसं मेगु लाया निंतिं चाःहिलेगु ग्वसाः ग्वयाच्वना ।
+/kaggle/input/test_data/ranjana/rgb/60.png	छँ छु ज्या यान?
+/kaggle/input/test_data/ranjana/rgb/61.png	पिने म्हितेनु ।
+/kaggle/input/test_data/ranjana/rgb/62.png	बेलि गुलि ई खः ?
+/kaggle/input/test_data/ranjana/rgb/63.png	ज्वजलपा जिगु नां बिबेक थापा खः ।
+/kaggle/input/test_data/ranjana/rgb/64.png	इमिसं थःगु छेँ जीर्णोद्धार यानाच्वंगु दु ।
+/kaggle/input/test_data/ranjana/rgb/65.png	वयात भकुंग्वारा म्हिते यः ।
+/kaggle/input/test_data/ranjana/rgb/66.png	थुगु ज्याय् छं ग्वाहालि याये फु ला ?
+/kaggle/input/test_data/ranjana/rgb/67.png	जा
+/kaggle/input/test_data/ranjana/rgb/68.png	गथे छ थनि?
+/kaggle/input/test_data/ranjana/rgb/69.png	दक्वं लँपुइ कृत्रिम बुद्धिमत्ता
+/kaggle/input/test_data/ranjana/rgb/70.png	छँ छु ज्या यान?
+/kaggle/input/test_data/ranjana/rgb/71.png	व चित्रकलाय् तसकं प्रतिभाशाली ।
+/kaggle/input/test_data/ranjana/rgb/72.png	जिं जिगु होमवर्क सिधयेका ।
+/kaggle/input/test_data/ranjana/rgb/73.png	थौं मौसम बांलाः ।
+/kaggle/input/test_data/ranjana/rgb/74.png	हाक्न नाप्ल्या।
+/kaggle/input/test_data/ranjana/rgb/75.png	छि सुथसिया १० ताः इलय् कन्फरेन्स कलय् दुथ्याये फै ला ?
+/kaggle/input/test_data/ranjana/rgb/76.png	वं थौं छेँय् च्वनाः ज्या याइ ।
+/kaggle/input/test_data/ranjana/rgb/77.png	जित क्षमा याना दिस।
+/kaggle/input/test_data/ranjana/rgb/78.png	केकया सवाः साः ।
+/kaggle/input/test_data/ranjana/rgb/79.png	न्हूगु छु दु ?
+/kaggle/input/test_data/ranjana/rgb/80.png	छन्त दकलय् यःगु उं छु खः ?
+/kaggle/input/test_data/ranjana/rgb/81.png	थुगु वाःया लिपतय् बेसयात थियेनु ।
+/kaggle/input/test_data/ranjana/rgb/82.png	जि थु।
+/kaggle/input/test_data/ranjana/rgb/83.png	छिगु न्हि बांलायेमा !
+/kaggle/input/test_data/ranjana/rgb/84.png	जि छ नाप लाये फै ला ?
+/kaggle/input/test_data/ranjana/rgb/85.png	छिगु न्हि बांलायेमा !
+/kaggle/input/test_data/ranjana/rgb/86.png	जिं छन्त विवरणलिसें लिहां वये ।
+/kaggle/input/test_data/ranjana/rgb/87.png	थुकिया मू गुलि ?
+/kaggle/input/test_data/ranjana/rgb/88.png	जि थु।
+/kaggle/input/test_data/ranjana/rgb/89.png	वयात सफू ब्वने यः ।
+/kaggle/input/test_data/ranjana/rgb/90.png	चाकु
+/kaggle/input/test_data/ranjana/rgb/91.png	वयात सफू ब्वने यः ।
+/kaggle/input/test_data/ranjana/rgb/92.png	छं अंग्रेजी खँ ल्हाये सः ला ?
+/kaggle/input/test_data/ranjana/rgb/93.png	हाक्न नाप्ल्या।
+/kaggle/input/test_data/ranjana/rgb/94.png	छि थौ यु दिन गथे च्वोन?
+/kaggle/input/test_data/ranjana/rgb/95.png	जिं नेवारी भाय् सयेके मास्ति वः ।
+/kaggle/input/test_data/ranjana/rgb/96.png	छन्त दकलय् यःगु सफू छु खः ?
+/kaggle/input/test_data/ranjana/rgb/97.png	थुकिया मू गुलि ?
+/kaggle/input/test_data/ranjana/rgb/98.png	छन्त छुं माः ला ?
+/kaggle/input/test_data/ranjana/rgb/99.png	छी गना ना झा यू?
+/kaggle/input/test_data/ranjana/rgb/100.png	छिं थुगु परियोजनाया खँय् अपडेट बियादी फै ला ?
+/kaggle/input/test_data/ranjana/rgb/101.png	जिं जिगु होमवर्क सिधयेका ।
+/kaggle/input/test_data/ranjana/rgb/102.png	जा
+/kaggle/input/test_data/ranjana/rgb/103.png	छिगु वाःया लिपतय् गथे जुल ?
+/kaggle/input/test_data/ranjana/rgb/104.png	न्याही पुगेगु।
+/kaggle/input/test_data/ranjana/rgb/105.png	ज्वजलपा हलिं !
+/kaggle/input/test_data/ranjana/rgb/106.png	ज्वजलपा जिगु नां बिबेक थापा खः ।
+/kaggle/input/test_data/ranjana/rgb/107.png	झीसं झीगु मुंज्याया ई हिले फै ला ?
+/kaggle/input/test_data/ranjana/rgb/108.png	छिगु सोंख छु खः ?
+/kaggle/input/test_data/ranjana/rgb/109.png	छिगु सोंख छु खः ?
+/kaggle/input/test_data/ranjana/rgb/110.png	छिगु वाःया लिपतय् गथे जुल ?
