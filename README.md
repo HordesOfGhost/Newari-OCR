@@ -66,7 +66,6 @@ Inferencing the applicaation.
 ![Home Page](figures/screenshots/home.png)!
 
 ### Pracalit Inference
-
 ![Pracalit Inference](figures/screenshots/pracalit.png)
 
 ### Ranjana Inference
