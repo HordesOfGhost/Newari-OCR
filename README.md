@@ -27,19 +27,16 @@ Newa-OCR is a Python application designed for Optical Character Recognition (OCR
 Create a Virtual Environment
 
 bash
-Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install Dependencies
 
 bash
-Copy code
 pip install -r requirements.txt
 Usage
 Run the Application
 
 bash
-Copy code
 python app.py
 Access the Web Interface
 
