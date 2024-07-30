@@ -63,7 +63,7 @@ Inferencing the applicaation.
 
 ### Homepage
 
-![Home Page](figures/screenshots/home.png)!
+![Home Page](figures/screenshots/home.png)
 
 ### Pracalit Inference
 
