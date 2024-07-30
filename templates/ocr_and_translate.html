@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OCR Result</title>
+</head>
+<style>
+
+@font-face {
+            font-family: "custom_font";
+            src: {{ url_for('static',filename='fonts/ranjana.otf') }} ;
+        }
+
+</style>
+<body>
+    <h1>OCR Result</h1>
+    <p>OCR Result: {{ ocr_output }}</p>
+    <p>Nepali Translation: {{ nepali_output }}</p>
+    <p>English Translation: {{ english_output }}</p>
+    <img src="{{ url_for('uploaded_file', filename=filename) }}" alt="Uploaded Image" style="max-width: 100%;">
+</body>
+</html>

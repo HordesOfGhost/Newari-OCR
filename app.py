@@ -40,7 +40,6 @@ def upload():
         # Save the file
         file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
         file.save(file_path)
-        
         # Read the image file into a numpy array
         image = cv2.imread(file_path)
         
@@ -50,14 +49,14 @@ def upload():
         else:
             image_arr = preprocess_for_rgb_channel(image)
         
-        text = predict(ocr_model, image_arr, char_dict)
+        ocr_output = predict(ocr_model, image_arr, char_dict)
+
         if model == 'ranjana':
-            # Pass the filename and result to the result page
-            nepali_text = get_translation(text, source_lang='new', target_lang='ne')
-            english_text = get_translation(text, source_lang='new', target_lang='en')
-            return render_template('result.html', filename=file.filename, text=text)
+            nepali_output = get_translation(ocr_output, source_lang='new', target_lang='ne')
+            english_output = get_translation(ocr_output, source_lang='new', target_lang='en')
+            return render_template('ocr_and_translate.html', filename=file.filename, ocr_output=ocr_output, nepali_output=nepali_output, english_output=english_output)
         else:
-            return render_template('result.html', filename=file.filename, text=text)
+            return render_template('ocr.html', filename=file.filename, ocr_output=ocr_output)
         
     return 'File upload failed', 500
 
