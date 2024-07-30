@@ -2,6 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 
 def get_translation(text, source_lang='new', target_lang='ne'):
+    '''
+
+        Translate ranjana lipi to nepali and english.
+    
+    '''
     url = f"https://translate.google.com/m?sl={source_lang}&tl={target_lang}&q={text}"
     
     headers = {
@@ -18,9 +23,3 @@ def get_translation(text, source_lang='new', target_lang='ne'):
         return result.text.strip()
     else:
         return "Translation not found"
-
-# # Example usage
-# input_text = "विदेशं त्यासा"
-# translated_text = get_translation(input_text)
-# print(f"Input: {input_text}")
-# print(f"Output: {translated_text}")

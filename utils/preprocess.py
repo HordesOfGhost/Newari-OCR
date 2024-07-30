@@ -2,6 +2,11 @@ import cv2
 import numpy as np
 
 def preprocess_for_gray_channel(img):
+    '''
+    
+        Preprocess for gray_channel.
+
+    '''
     
     img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     target_shape = (64, 256)
@@ -15,6 +20,11 @@ def preprocess_for_gray_channel(img):
     return image_arr
 
 def preprocess_for_rgb_channel(img):
+    '''
+    
+        Preprocess for RGB channel.
+    
+    '''
     
     target_shape = (32, 128)
 

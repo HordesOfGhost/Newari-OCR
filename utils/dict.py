@@ -1,7 +1,12 @@
 from glob import glob
 
 def get_dict(model_dir):
-    
+    '''
+
+        Get character dict and number of characters. Required for encoding and building model.
+        
+    '''
+
     file = glob(f"{model_dir}/*.txt")[0]
     with open(file,"r", encoding='utf-8') as f:
         char_dict = f.readline()

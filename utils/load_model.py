@@ -8,7 +8,11 @@ def clear_model(model):
     # e.g., model = create_model() or create_gray_model(num_of_characters)
 
 def load_model_weights(model_dir, checkpoint, color_channel, num_of_characters):
-    # Clear the existing model
+    '''
+    
+        Load model
+
+    '''
     
     # Create a new model
     if color_channel == 'gray':

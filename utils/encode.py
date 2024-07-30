@@ -1,6 +1,11 @@
 import numpy as np
 
 def label_to_num(label, char_dict):
+    '''
+
+        Convert labels to numerical value with respect to character dict.
+    
+    '''
     label_num = []
     for ch in label:
         label_num.append(char_dict.find(ch)) 
@@ -9,6 +14,11 @@ def label_to_num(label, char_dict):
     return np.array(label_num)
 
 def num_to_label(num, char_dict):
+    '''
+
+        Convert numerical value to labels with respect to character dict.
+    
+    '''
     ret = ""
     for ch in num:
         if ch == -1:  # CTC Blank

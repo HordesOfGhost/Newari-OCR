@@ -56,7 +56,7 @@ def upload():
         # perform prediction
         ocr_output = predict(ocr_model, image_arr, char_dict)
 
-        # if ranana then further translate
+        # if ranana then further translate to english and nepali
         if model == 'ranjana':
             nepali_output = get_translation(ocr_output, source_lang='new', target_lang='ne')
             english_output = get_translation(ocr_output, source_lang='new', target_lang='en')

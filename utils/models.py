@@ -3,9 +3,8 @@ from keras.layers import Input, Conv2D, MaxPooling2D, Reshape, Bidirectional, LS
 
 def create_gray_model(num_of_characters):
     '''
-        This is the architecture of gray OCR model.
-        Input: num of characters
-        Output: gray OCR model
+
+        This is the architecture of gray OCR model.    
     
     '''
     input_data = Input(shape=(256, 64, 1), name='input')
@@ -47,9 +46,8 @@ def create_gray_model(num_of_characters):
 
 def create_rgb_model(num_of_characters):
     '''
+        
         This is the architecture of rgb OCR model.
-        Input: num of characters
-        Output: rgb OCR model
     
     '''
 
