@@ -75,12 +75,3 @@ For any questions or issues, please contact:
 - **Email**: [bibekthapa.works@gmail.com](mailto:bibekthapa.works@gmail.com)
 - **LinkedIn**: [Bibek Thapa](https://www.linkedin.com/in/bibek-thapa-sb1129/)
 ```
-
-### Improvements:
-
-1. **Formatting**: Improved formatting for clarity and consistency.
-2. **Sections**: Organized content under relevant headings for easy navigation.
-3. **Links**: Added clickable links for the email and LinkedIn profile.
-4. **Clarification**: Enhanced description for better understanding.
-
-Feel free to adjust any URLs or details as needed!
