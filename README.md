@@ -24,19 +24,19 @@ Newa-OCR is a Python application designed for Optical Character Recognition (OCR
    ```bash
    git clone https://github.com/yourusername/newa-ocr.git
    cd newa-ocr
-Create a Virtual Environment
+## Create a Virtual Environment
 
-bash
+``bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install Dependencies
 
-bash
+``bash
 pip install -r requirements.txt
 Usage
 Run the Application
 
-bash
+``bash
 python app.py
 Access the Web Interface
 
@@ -51,22 +51,11 @@ View Results
 
 The OCR results, along with translations into Nepali and English (if applicable), will be displayed on the results page.
 
-Directory Structure
-static/: Contains static files such as fonts and styles.
-templates/: Contains HTML templates used by the Flask application.
-utils/: Contains utility modules for model loading, preprocessing, and inference.
-app.py: The main application script for running the Flask web server.
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes. Ensure that your code adheres to the existing coding standards and includes appropriate tests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-For any questions or issues, please contact your-email@example.com.
-
-markdown
-Copy code
 
 Contact
 For any questions or issues, please contact:
