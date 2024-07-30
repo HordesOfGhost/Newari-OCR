@@ -61,17 +61,17 @@ Newa-OCR is a Python application designed for Optical Character Recognition (OCR
 
 Inferencing the applicaation.
 
-## Homepage
+### Homepage
 
 ![Home Page](figures/screenshots/home.png)!
 
-## Pracalit Inference
+### Pracalit Inference
 
-![Pracalit Inference](figures/screenshots/prcalit.png)!
+![Pracalit Inference](figures/screenshots/pracalit.png)
 
-## Ranjana Inference
+### Ranjana Inference
 
-![Ranjana Inference](figures/screenshots/ranjana.png)!
+![Ranjana Inference](figures/screenshots/ranjana.png)
 
 
 ## Results
