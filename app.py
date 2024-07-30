@@ -43,6 +43,7 @@ def upload():
         # Save the file
         file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
         file.save(file_path)
+
         # Read the image file into a numpy array
         image = cv2.imread(file_path)
         
@@ -52,8 +53,10 @@ def upload():
         else:
             image_arr = preprocess_for_rgb_channel(image)
         
+        # perform prediction
         ocr_output = predict(ocr_model, image_arr, char_dict)
 
+        # if ranana then further translate
         if model == 'ranjana':
             nepali_output = get_translation(ocr_output, source_lang='new', target_lang='ne')
             english_output = get_translation(ocr_output, source_lang='new', target_lang='en')

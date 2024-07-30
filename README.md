@@ -67,11 +67,17 @@ Inferencing the applicaation.
 
 ### Pracalit Inference
 
-![Pracalit Inference](figures/screenshots/pracalit.png)
+![Pracalit Inference](figures/screenshots/pracalit_gray.png)
+
+![Pracalit Inference](figures/screenshots/pracalit_rgb.png)
+
 
 ### Ranjana Inference
 
-![Ranjana Inference](figures/screenshots/ranjana.png)
+![Ranjana Inference](figures/screenshots/ranjana_gray.png)
+
+![Ranjana Inference](figures/screenshots/ranjana_rgb.png)
+
 
 ## Contributing
 

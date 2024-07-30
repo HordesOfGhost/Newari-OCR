@@ -4,6 +4,7 @@ import tensorflow as tf
 
 def predict(ocr_model, image_arr, char_dict):
     
+    print(image_arr.shape)
     preds = ocr_model.predict(image_arr, verbose=False)
 
     # Define input_length for CTC decoding
