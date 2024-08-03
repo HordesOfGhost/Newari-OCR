@@ -76,3 +76,18 @@ h1 {
     display: block;
     margin: 0 auto;
 }
+.return-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.return-button:hover {
+    background-color: #45a049;
+}
