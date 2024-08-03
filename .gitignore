@@ -1,4 +1,4 @@
 *.keras
 *.pkl
 __pycache__/
-__dataset__/
+dataset/
