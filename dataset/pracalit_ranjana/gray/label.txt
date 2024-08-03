@@ -1,0 +1,5000 @@
+pracalit_1.png	𑐎𑑂𑐰𑐷𑐣
+pracalit_2.png	𑐐𑐬𑑂𑐣𑐾𑐐𑐬𑐵𑐄𑐣𑐾
+pracalit_3.png	𑐟𑐵𑐥𑑂𑐮𑐾𑐖𑐸𑐒 , 𑐚𑐾𑐮𑐶𑐨𑐶𑐖𑐣𑐴𑐬𑐸𑐩𑐵
+pracalit_4.png	𑐡𑐶𑐣𑐸𑐥𑐬𑐾 𑐰𑐶𑐎𑐵𑐳𑐥𑑂𑐬𑐾𑐩
+pracalit_5.png	𑐐𑐵𑐃𑐐𑑀𑐬𑐸 ,
+pracalit_6.png	𑐳𑐸𑐎𑐶𑐳𑐎𑑂𑐠𑑂𑐫𑑀 𑑋 𑐨𑐵𑐣𑑂𑐳𑐾𑐮𑐵𑐃
+pracalit_7.png	𑐐𑐬𑑂𑐣𑐸𑐩𑐵𑐟𑑂𑐬 𑐩𑐸𑐳𑑂𑐟𑐎𑐶𑐩𑐵𑐎𑑀
+pracalit_8.png	𑐡𑐶𑐣𑑂𑐣𑑃 𑐮𑑀𑐎𑐰𑐶𑐱𑑂𑐰𑐵𑐳
+pracalit_9.png	𑐳𑐵𑐣𑑂𑐣𑐵𑐣𑐷𑐮𑐵𑐃
+pracalit_10.png	𑐩𑐺𑐟𑐵𑐰𑐳𑑂𑐠𑐵𑐩𑐵
+pracalit_11.png	𑐎𑐬𑑂𑐥𑑀𑐬𑐾𑐳𑐣𑐎𑑀 𑐧𑑂𑐬𑐾𑐣𑐎𑑀
+pracalit_12.png	𑐧𑐺𑐡𑑂𑐢𑐶𑐩𑐵
+pracalit_13.png	𑐩𑑂𑐫𑐵𑐠𑑂𑐫𑐸𑐮𑐾 𑐥𑐸𑐮𑐵𑐩𑐷𑐮𑐾
+pracalit_14.png	𑐄𑐟𑑂𑐟𑐬𑐡𑐵𑐫𑐶
+pracalit_15.png	𑐚𑐵𑐂𑐚𑐣𑑂𑐳
+pracalit_16.png	𑑒𑑗 , 𑐖𑑂𑐰𑐵𑐂𑑃𑐎𑑀
+pracalit_17.png	𑐊𑐎𑐩𑐸𑐲𑑂𑐚 𑐳𑐩𑐹𑐴𑐴𑐬𑐸𑐎𑑀
+pracalit_18.png	𑐎𑐵𑐩𑐡𑐵𑐬𑐎𑐵
+pracalit_19.png	𑐧𑐬𑑂𑐣𑐜 𑐣𑐾𑐎𑐥𑐵𑐧𑐷𑐔𑐎𑑀
+pracalit_20.png	𑐀𑐣𑑂𑐟𑐬𑑂𑐢𑑂𑐫𑐵𑐣
+pracalit_21.png	𑐎𑐵𑑃𑐳𑐑𑐵𑐬𑐷𑐎𑑀 𑐬𑐴𑐾𑐣
+pracalit_22.png	𑐧𑐿𑐬𑐵𑐐𑐷
+pracalit_23.png	𑐨𑐊𑐩𑐢𑑂𑐫𑐾
+pracalit_24.png	𑐄𑐥𑐵𑐫𑐟𑐬𑑂𑐦 𑐑𑐸𑐮𑐾𑐬
+pracalit_25.png	𑐩𑐬𑑂𑐜𑐷
+pracalit_26.png	𑐳𑐵𑐩𑐸𑐨𑐣𑑂𑐡𑐵
+pracalit_27.png	𑐴𑐣𑐸𑐩𑐵𑐣𑐝𑑀𑐎𑐵𑐎𑐵
+pracalit_28.png	𑐰𑐵𑐬𑐩𑐵 𑐳𑐸𑐣𑑂𑐣𑐸𑐴𑑀𑐳𑑂
+pracalit_29.png	𑐰𑐵𑐒𑑂𑐩𑐫
+pracalit_30.png	𑐟𑑅𑐢𑑄 𑐜𑐬𑑂𑐚𑐩𑐞𑑂𑐜𑐎𑐵
+pracalit_31.png	𑐚𑑂𑐫𑐵𑐒𑑂𑐎𑐷𑐩𑐿
+pracalit_32.png	𑐎𑑀𑐛𑐵𑐨𑐶𑐟𑑂𑐬
+pracalit_33.png	𑐨𑐊𑐬𑐫𑐵𑐟𑑂𑐬𑐵𑐐𑐬𑑂𑐣𑐾
+pracalit_34.png	𑐠𑐸𑐣𑑂𑐡𑐿𑐕
+pracalit_35.png	𑐨𑐶𑐟𑑂𑐬𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐣𑐾 𑐡𑐾𑐄𑐩𑐵𑐣𑐮𑐾
+pracalit_36.png	𑐣𑐾𑐥𑐵𑐮𑐷𑐳𑐴𑐶𑐟𑐎𑑀 𑐎𑐵𑐬𑑂𑐫𑐎𑑂𑐲𑐾𑐟𑑂𑐬𑐐𑐟
+pracalit_37.png	𑐩𑐸𑑃𑐐𑐵 𑐰𑐶𑐢𑐵𑐟𑐵
+pracalit_38.png	𑐊𑐜𑑂𑐨𑐾𑐣𑑂𑐖𑐬 𑐎𑑀𑐨𑐶𑐜𑐮𑐵𑐃
+pracalit_39.png	𑐦𑐶𑐮𑑂𑐩𑐎𑐵
+pracalit_40.png	𑐰𑐶𑐖𑐫𑐷𑐎𑑀
+pracalit_41.png	𑐠𑐵𑐂𑐮𑑂𑐫𑐵𑐞𑑂𑐜𑐮𑐾 𑐥𑑂𑐬𑐵𑐎𑑂𑐚𑐶𑐳𑐎𑑀
+pracalit_42.png	𑐟𑑀𑐎𑐶𑐊𑐮𑐐𑐟𑑂𑐟𑐿
+pracalit_43.png	𑐰𑑂𑐫𑐰𑐱𑑂𑐠𑐵 𑐠𑐵𑐬𑐸𑐮𑐾
+pracalit_44.png	𑐖𑑀𑐐𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐣𑐾𑐩𑐵 𑐳𑐵𑐸𑑄𑐡𑐬𑐮𑐾
+pracalit_45.png	𑐀𑐣𑑂𑐟𑐬𑐩𑐵 𑑋 𑐧𑐚𑑁𑐮𑐷𑐎𑑀
+pracalit_46.png	𑐧𑐣𑐵𑐂𑐡𑐶𑐊 𑑋
+pracalit_47.png	𑐳𑐾𑐨𑐶𑐒𑑂𑐳 ,
+pracalit_48.png	𑐩𑐴𑐟𑑀𑐧𑐵𑐚 𑐥𑐡𑑂𑐢𑐟𑐶𑐨𑐣𑑂𑐡𑐵
+pracalit_49.png	𑐴𑐸𑐮𑐩𑐵
+pracalit_50.png	𑐥𑑂𑐬𑐴𑐬𑐷𑐮𑐵𑐃
+pracalit_51.png	𑐬𑐧𑐶 ,
+pracalit_52.png	𑐔𑐮𑐵𑐄𑐣𑐸𑐴𑐸𑐣𑑂𑐠𑑂𑐫𑑀 𑑑𑑖𑑒𑐍𑑄
+pracalit_53.png	𑐎𑑀𑐥𑐷 ,
+pracalit_54.png	𑐊𑐩𑐖𑐷 𑑋
+pracalit_55.png	𑐖𑐴𑐵𑐖𑐴𑐬𑐹 𑐮𑐦𑐖𑐷𑐨𑐶𑐟𑑂𑐬
+pracalit_56.png	𑐰𑐟𑐵𑐂𑐣𑑂𑐕 𑑋
+pracalit_57.png	𑐀𑐥𑐣𑐵𑐊𑐣𑑁𑑄 𑐳𑐩𑐵𑐬𑑀𑐴𑐎𑐵𑐎
+pracalit_58.png	𑐥𑑂𑐫𑐵𑐳𑐾𑐖𑐩𑐵
+pracalit_59.png	𑐀𑐣𑑂𑐟𑐬𑑂𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐶𑐫𑐳𑐴𑐶𑐟
+pracalit_60.png	𑐡𑐷𑐬𑑂𑐑𑐎𑐵𑐮𑐶𑐣 𑐐𑐵𑐜𑐾𑐎𑑀
+pracalit_61.png	𑐥𑐚𑐎𑐥𑐚𑐎 𑑋
+pracalit_62.png	𑐎𑐬𑐡𑐵𑐟𑐵𑐰𑐶𑐬𑐸𑐡𑑂𑐢
+pracalit_63.png	𑐩𑐸𑐮𑐸𑐸𑐎𑐮𑐵𑐃
+pracalit_64.png	𑐡𑐎𑑂𑐲𑐶𑐞𑐷𑐥𑐹𑐬𑑂𑐰𑐷
+pracalit_65.png	𑐱𑑀 , 𑐬𑐵𑐟𑐩𑐵𑐚𑐾𑐳𑑂𑐠𑐶𑐟
+pracalit_66.png	𑐳𑐎𑐵𑐃 𑐐𑐵𑐄𑑃𑐳𑑂𑐟𑐬𑐳𑐩𑑂𑐩
+pracalit_67.png	𑐰𑐶𑐡𑑂𑐫𑐵𑐬𑑂𑐠𑐷𑐴𑐬𑐹𑐮𑐾 𑐊𑐩𑐁𑐬𑐁𑐂
+pracalit_68.png	𑐎𑐮𑐵𑐎𑐺𑐟𑐶 ,
+pracalit_69.png	𑐂𑐩𑑂𑐫𑐸𑐣𑐶𑐚𑐷𑐩𑐵 𑐳𑑂𑐰𑐀𑐢𑑂𑐫𑐫𑐣𑐧𑐵𑐚𑐿
+pracalit_70.png	𑐡𑐺𑐲𑑂𑐫𑐎𑑂𑐲𑐾𑐟𑑂𑐬
+pracalit_71.png	𑐕𑐸𑐰𑐵𑐕𑐸𑐟𑐮𑐵𑐃
+pracalit_72.png	𑐣𑑂𑐫𑐹𑐣𑐶𑐎𑐬𑐞𑐎𑐵
+pracalit_73.png	𑐚𑑀𑐎𑐣𑐎𑑀
+pracalit_74.png	𑐣𑐵𑐐𑐬𑐶𑐎𑐩𑐿𑐟𑑂𑐬𑐷 𑐳𑐩𑑂𑐗𑐣𑐸𑐨𑐣𑑂𑐡𑐵
+pracalit_75.png	𑐕𑐣𑐩𑐸𑐣𑐵
+pracalit_76.png	𑐳𑐶𑐒𑐐𑐮 𑐖𑐮𑐰𑐶𑐢𑐸𑐟
+pracalit_77.png	𑐕𑐵𑐾𑐥𑐷 ,
+pracalit_78.png	𑐣𑐶𑐬𑑂𑐩𑐵𑐞𑐳𑑃𑐐𑐿 𑐣𑑀𑐎𑑂𑐳𑐵𑐣𑐷𑐮𑐾
+pracalit_79.png	𑐨𑐾𑐴𑐶𑐎𑐮𑐂𑐨𑐷 𑐠𑐶𑐣𑑂 𑑋
+pracalit_80.png	𑐳𑐶𑐮𑐶𑐒 𑐳𑐩𑑂𑐧𑐣𑑂𑐢𑐣
+pracalit_81.png	𑐐𑐵𑐄𑑃𑐧𑐵𑐚𑐿
+pracalit_82.png	𑐏𑐾𑐟 ,
+pracalit_83.png	𑐀𑐟𑑂𑐫𑐾𑐲𑑂𑐚𑐶𑐎𑐵 𑐣𑐵𑐐𑑂𑐔𑐵 ,
+pracalit_84.png	𑐡𑐿𑐖𑐷𑐕𑐾𑐮𑐵
+pracalit_85.png	𑐌𑐳𑐵𑐬𑐥𑐳𑐵𑐬𑐩𑐵
+pracalit_86.png	𑐀𑐛𑑂𑐫𑐵𑐊𑐎𑐵
+pracalit_87.png	𑐳𑐟𑑂𑐟𑐵𑐩𑐸𑐏𑐷
+pracalit_88.png	𑐰𑐶𑐡𑑂𑐰𑐵𑐣𑑂𑐮𑐾
+pracalit_89.png	𑐟𑐟𑐵𑐂𑐬𑐴𑐣𑐾 𑑒𑑒𑑘 ,
+pracalit_90.png	𑐏𑐾𑐟𑐷𑐟𑐬𑑂𑐦
+pracalit_91.png	𑐎𑑂𑐰𑐴 𑐧𑑁𑐬𑐶𑐣𑑂𑐠𑑂𑐫𑑀
+pracalit_92.png	𑐐𑑀𑐳𑐵𑐃𑐎𑐸𑐞𑑂𑐜𑐎𑑀 𑐮𑐐𑐵𑐫𑐟𑐴𑐬𑐸
+pracalit_93.png	𑐧𑐵𑐒𑑂𑐐𑐾𑐩𑐸𑐜𑐵𑐎𑑀 𑐴𑐵𑐖𑐶𑐬𑐷𑐡𑐾𑐏𑐶
+pracalit_94.png	𑐣𑐱𑐵𑐩𑐵
+pracalit_95.png	𑐰𑐷𑐬𑐘𑑂𑐐𑐖𑐮𑐾 𑐳𑑄𑐰𑐵𑐡𑐴𑐬𑐸
+pracalit_96.png	𑐥𑐕𑐵𑐜𑐶𑐎𑐵 𑐥𑑂𑐬𑐵𑐫𑐱𑑂𑐔𑐶𑐟𑑂
+pracalit_97.png	𑐩𑐵𑐂𑐬𑐾𑐃𑐮𑐵𑐃 𑐳𑑄𑐰𑐶𑐢𑐵𑐣𑐩𑐵𑐠𑐶𑐎𑑀
+pracalit_98.png	𑑑𑑓𑑑𑑔
+pracalit_99.png	𑐥𑑂𑐬𑐡𑐬𑑂𑐱𑐣𑐳𑑂𑐟𑐬𑐧𑐵𑐬𑐾 𑐳𑐶𑐚𑐶𑐖𑐣𑑂𑐳 ,
+pracalit_100.png	𑐩𑐶𑐟𑐶𑐩𑐿
+pracalit_101.png	𑐎𑑂𑐬𑐩𑐶𑐎 𑐳𑐧𑐌𑐨𑐬𑐳𑐶𑐫𑐬
+pracalit_102.png	𑐀𑐦𑐐𑐵𑐣𑐶𑐳𑑂𑐟𑐵𑐣𑐨𑐶𑐟𑑂𑐬 𑐱𑑀𑐎𑐳𑐣𑑂𑐟𑐥𑑂𑐟
+pracalit_103.png	𑐣𑐧𑐮𑐎𑐶𑐱𑑀𑐬
+pracalit_104.png	𑐰𑐶𑐨𑐵𑐖𑐣𑐎𑑀𑐳𑑂𑐟𑐬𑐩𑐵
+pracalit_105.png	𑐳𑑃𑐳𑑂𑐎𑐺𑐟𑐶
+pracalit_106.png	𑐐𑐬𑑂𑐡𑐣 ,
+pracalit_107.png	𑐥𑑀𑐚𑑂𑐬𑐾𑐚𑐎𑑀
+pracalit_108.png	𑐣𑐾𑐚𑐰𑐬𑑂𑐎𑐩𑐵
+pracalit_109.png	𑐳𑐸𑐎𑐬𑐵𑐟𑐮𑐾 𑐳𑑄𑐰𑐵𑐡𑐮𑐾
+pracalit_110.png	𑐚𑐾𑐎𑐸𑐧𑐵𑐚
+pracalit_111.png	𑐥𑑂𑐬𑐩𑐸𑐳𑐔𑐶𑐰
+pracalit_112.png	𑐏𑑀𑐮𑐶𑐫𑑀 ,
+pracalit_113.png	𑐨𑐫𑐵𑐎𑑂𑐬𑐵𑐣𑑂𑐟
+pracalit_114.png	𑐣𑐶𑐳𑐷𑐏𑑀𑐮𑐵 𑐫𑐴𑐵𑑃
+pracalit_115.png	𑐐𑑂𑐬𑐶𑐣𑐬𑐷𑐳𑐴𑐶𑐟𑐎𑑀
+pracalit_116.png	𑐳𑐸𑐬𑑂𑐟𑐶𑐰𑐵𑐒𑐩𑐵 𑐐𑐬𑑂𑐣𑐿𑐥𑐬𑑂𑐕
+pracalit_117.png	𑐩𑐣𑑂𑐟𑑂𑐬𑑀𑐔𑑂𑐔𑐵𑐬𑐞𑐳𑐴𑐶𑐟 𑐬𑐾𑐎𑑂𑐎𑐶
+pracalit_118.png	𑐴𑐶𑐄𑐡𑐫𑐵𑐩𑐮𑐵𑐃
+pracalit_119.png	𑐖𑐣𑐎𑐥𑐸𑐬𑐢𑐵𑐩𑐟𑐬𑑂𑐦
+pracalit_120.png	𑐧𑐴𑐳𑐳𑐴𑐶𑐟𑐎𑑀
+pracalit_121.png	𑐖𑐣𑐵𑐮𑐵𑐃
+pracalit_122.png	𑐴𑐶𑐩𑐱𑐺𑐒𑑂𑐏𑐮𑐵𑐮𑐾 𑐦𑐴𑐮𑐸𑐎𑐰𑐫𑑀𑐮𑐾
+pracalit_123.png	𑐳𑐜𑐎𑐴𑐬𑐸𑐮𑐾 𑐁𑐬𑑂𑐫𑐡𑐾𑐱𑐷𑐫
+pracalit_124.png	𑐢𑑂𑐫𑐵𑐣𑐵𑐬𑑂𑐎𑐲𑐞
+pracalit_125.png	𑐳𑐶𑐣𑑂𑐢𑐸𑐥𑐵𑐮𑑂𑐔𑑀𑐎𑐧𑐵𑐴𑐾𑐎 𑐥𑐸𑐬𑑂𑐫𑐵𑐄𑐣𑐾𑐳𑐩𑑂𑐩𑐎𑑀
+pracalit_126.png	𑐦𑐳𑐾𑐎𑐵𑐎𑑀 𑐡𑐎𑑂𑐲𑐟𑐵 ,
+pracalit_127.png	𑐀𑐣𑐵𑐩𑐣𑐐𑐬 𑐮𑐵𑐫𑑂𑐮𑐵𑐩𑐵
+pracalit_128.png	𑐔𑐡𑑂𑐡𑐬
+pracalit_129.png	𑐗𑐸𑐞𑐎𑐵𑐚𑐶𑐫𑐵
+pracalit_130.png	𑐄𑐥𑐔𑐵𑐬𑐎𑐬𑑂𑐟𑐵 𑐫𑐸𑐬𑑀𑐥𑐶𑐫𑐣𑐴𑐬𑐹
+pracalit_131.png	𑐴𑐵𑐟𑑂𑐟𑐷𑐴𑐬𑐹𑐩𑐵
+pracalit_132.png	𑐎𑑄𑐎𑐵𑐮 𑐳𑐵𑑄𑐳𑐡𑐩𑐵𑐟𑑂𑐬𑐿
+pracalit_133.png	𑐖𑐶𑐟𑑂𑐕 ,
+pracalit_134.png	𑐮𑑂𑐫𑐵𑐄𑐣𑐸𑐥¥𑐫𑑀 𑑋 𑑑𑑘𑑘𑑒
+pracalit_135.png	𑐣𑐐𑐬𑐾𑐬𑐿
+pracalit_136.png	𑐥𑐸𑐬𑑂𑐫𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐣𑐾𑐩𑐵 𑐧𑐿𑐱𑐵𑐏𑐡𑐾𑐏𑐶
+pracalit_137.png	𑐔𑐶𑐬𑐞 𑐳𑑂𑐰𑐬𑑂𑐐𑐡𑑂𑐰𑐵𑐬𑐷𑐧𑐵𑐚
+pracalit_138.png	𑐄𑐟𑑂𑐟𑐬𑐵𑐏𑐞𑑂𑐜 ,
+pracalit_139.png	𑐳𑐩𑑂𑐥𑐣𑑂𑐣𑐖𑐳𑑂𑐟𑐵 𑐦𑑀𑐬𑑂𑐧𑑂𑐳𑐎𑐵
+pracalit_140.png	𑐳𑐸𑐥𑐬𑐨𑐵𑐂𑐖𑐬𑐷 𑐳𑐎𑐶𑐣𑑂𑐕𑐳𑐵𑐢𑐵𑐬𑐞𑐳𑐨𑐵𑐮𑐵𑐃
+pracalit_141.png	𑐡𑐶𑐂𑐣𑑃 𑐳𑐸𑐧𑑂𑐬𑐟𑐬𑐵𑐖
+pracalit_142.png	𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐴𑐬𑐹𑐧𑐵𑐚 𑐥𑐶𑐫𑐵𑐧𑑀𑐮𑑂𑐣𑐾𑐎𑑀
+pracalit_143.png	𑐴𑐬𑐶𑐔𑑁𑐬𑐩𑐮𑑂𑐩𑐥𑐵𑐞𑑂𑐜𑐰𑐏𑐵𑐣𑐷𑐬𑐞𑐳𑐶𑐒𑐎𑐶𑐚𑐾𑐣𑐷𑐨𑐶𑐩𑐐𑐶𑐛𑐾𑐡𑐬𑑂𑐮𑐶𑐒 𑐐𑐬𑑂𑐣𑐸𑐴𑐸𑐣𑑂𑐣 ?
+pracalit_144.png	𑐣𑐮𑐐𑐵𑐂𑐊𑐎𑑀
+pracalit_145.png	𑐥𑐾𑐜𑑂𑐬𑑀
+pracalit_146.png	𑐥𑐵𑐒𑑂𑐐𑑂𑐬𑐵 ,
+pracalit_147.png	𑐧𑐴𑐸𑐩𑐸𑐮𑑂𑐫 𑐔𑐸𑐩𑑂𑐧𑐣𑐧𑐵𑐚
+pracalit_148.png	𑐣𑐶𑐰𑐾𑐡𑐣𑐥𑐟𑑂𑐬 𑐮𑐐𑐜𑐷𑐐𑑀𑐛𑐎𑐵
+pracalit_149.png	𑐖𑑂𑐫𑐸𑑃𑐡𑐿
+pracalit_150.png	𑐎𑐵𑐮𑐶𑐖𑐮𑐵𑐃 𑐣𑑂𑐫𑐸𑐣
+pracalit_151.png	𑐧𑐶𑐣𑐵𑐢𑐶𑐟𑑀 𑐊𑐬𑐾𑐣𑐵𑐮𑐾
+pracalit_152.png	𑐥𑐘𑑂𑐔𑐡𑐾𑐰𑐎𑑀 𑐟𑐶𑐎𑐜𑐩𑐎𑐵
+pracalit_153.png	𑐦𑐬𑐎𑐥𑐣𑐎𑐵 𑐖𑑀𑐐𑐰𑐷𑐬𑐳𑐶𑑄𑐴
+pracalit_154.png	𑐣𑐐𑐬𑑁𑑃 𑑋
+pracalit_155.png	𑐥𑑀𑐬𑑂𑐚𑐮𑑂𑐫𑐵𑐞𑑂𑐜𑐎𑑀 𑐧𑐵𑐗𑐵𑐧𑐵𑐗𑐩𑐵
+pracalit_156.png	𑐳𑐘𑑂𑐔𑐵𑐬𑐎𑐬𑑂𑐩𑐷𑐳𑑄𑑃𑐐𑐎𑑀 𑐕𑐟𑑂𑐟𑐶𑐳𑐐𑐝𑐎𑐵
+pracalit_157.png	𑐎𑐵𑐎𑐸𑐮 𑐀𑐮𑐳𑐾𑐴𑐾𑐬𑐷𑐮𑐾
+pracalit_158.png	𑐳𑐵𑐬𑐶𑐊𑐟𑐵𑐥𑐣𑐶
+pracalit_159.png	𑐚𑐷𑐧𑐷𑐚𑐷 𑐑𑐵𑐳
+pracalit_160.png	𑐔𑑂𑐫𑐵𑐥𑐕𑐶𑐧𑐵 𑐡𑑄𑐐𑐵𑐮 ,
+pracalit_161.png	𑐥𑑂𑐬𑐸𑐜𑐶𑐣𑑂𑐳𑐶𑐫𑐮
+pracalit_162.png	𑐳𑐶𑐴𑑄𑐡𑐬𑐧𑐵𑐬𑐎𑑀
+pracalit_163.png	𑐎𑐬𑑀𑐜𑐳𑐩𑑂𑐩
+pracalit_164.png	𑐎𑑀𑐚𑐷𑐩𑐵
+pracalit_165.png	𑐥𑐳𑐾𑑃
+pracalit_166.png	𑐴𑐵𑐳𑑂𑐫𑐣𑐵𑐚𑐎
+pracalit_167.png	𑐐𑐸𑐞𑐀𑐰𑐐𑐸𑐞𑐴𑐬𑐹
+pracalit_168.png	𑐧𑑂𑐬𑑀𑐎𑐵𑐄𑐮𑐷
+pracalit_169.png	𑐩𑐾𑐮𑐵𑐖𑐵𑐟𑑂𑐬𑐵 𑑒𑑔𑑘 𑑋
+pracalit_170.png	𑐮𑐾𑐚𑐬𑐥𑑂𑐫𑐵𑐜
+pracalit_171.png	𑐛𑐐𑐾 𑑋 𑐬𑐣𑐰𑐾𑐨𑐣𑑂𑐡𑐵
+pracalit_172.png	𑐡𑐾𑐱𑐷𑐫
+pracalit_173.png	𑐮𑐶𑐣𑐸𑐥𑐫𑑀 𑑋
+pracalit_174.png	𑐦𑐸𑐚𑐵𑐄𑐣𑐾𑐟𑐶𑐬 𑐜𑐾𑐮𑐥𑐬𑑂𑐳
+pracalit_175.png	𑐖𑐮𑐫𑐵𑐟𑐵𑐫𑐵𑐟𑐮𑐵𑐃 𑐴𑑀𑐩𑐎𑐵𑐣𑑂𑐟
+pracalit_176.png	𑐳𑑂𑐰𑐵𑐐𑐟𑐫𑑀𑐐𑑂𑐫
+pracalit_177.png	𑐐𑐟𑐶𑐱𑐷𑐮𑐟𑐵 𑐏𑑃𑐐𑐸𑐰𑐵
+pracalit_178.png	𑐟𑐶𑐬𑑂𑐳𑐣𑐵
+pracalit_179.png	𑐮𑐵𑐐𑐾𑐣𑑂 𑑋 𑐣𑐡𑐾𑐏𑐾𑐖𑐳𑑂𑐟𑑀
+pracalit_180.png	𑐩𑐹𑐟𑐶𑐎𑑀 𑐳𑑂𑐚𑐶𑐮𑐚𑑂𑐬𑐳
+pracalit_181.png	𑐠𑐾𑐐𑐶𑐣𑐎𑑂𑐣𑐸𑐴𑐸𑐣𑑂𑐠𑑂𑐫𑑀 𑑋 𑐛𑐵𑐎𑐸𑐬𑐧𑐵𑐧𑐵
+pracalit_182.png	𑐔𑐵𑐴𑐵𑐣𑐾𑐴𑐬𑐸
+pracalit_183.png	𑐔𑐸𑐣𑐵𑐰𑐩𑐵𑐬𑑂𑐦𑐟 𑑙𑐧𑑂𑐡𑑂𑐫𑐨𑑂𑑅𑐧𑑂
+pracalit_184.png	𑐐𑐬𑑂𑐕𑐣𑑂𑐟𑐶𑐩𑐷 𑐴𑐬𑐎𑐸𑐬𑐵
+pracalit_185.png	𑐥𑑀𑐖
+pracalit_186.png	𑐱𑐵𑐳𑑂𑐟𑑂𑐬𑐷𑐎𑐵 𑐜𑐧𑐮
+pracalit_187.png	𑐗𑐵𑐬𑐶𑐡𑐶𑐊𑐎𑐵 𑐁𑐃𑐳𑐷𑐳𑐷𑐎𑑀
+pracalit_188.png	𑐰𑐶𑐱𑑂𑐮𑐾𑐲𑐎𑐳𑐩𑑂𑐩𑐮𑐾
+pracalit_189.png	𑐎𑑂𑐫𑐵𑐣𑐾𑐜𑐶𑐫𑐣
+pracalit_190.png	𑐳𑐵𑐢𑐵𑐬𑐞𑐎𑑀
+pracalit_191.png	𑐖𑑀𑐜𑐑𑐚𑐵𑐄𑐩𑐵
+pracalit_192.png	𑐐𑐸𑐛𑐶𑐔𑑁𑐬
+pracalit_193.png	𑐧𑐾𑐔𑐾𑐡𑐾𑐏𑐶𑐎𑑀 𑐴𑐵𑐣𑐶𑐣𑑂 𑑋
+pracalit_194.png	𑐦𑐵𑐳𑑂𑐚𑐮𑐾
+pracalit_195.png	𑐫𑐵𑐟𑑂𑐬𑐷
+pracalit_196.png	𑐰𑐾𑐜𑑂𑐳
+pracalit_197.png	𑐩𑐣𑑂𑐟𑑂𑐬𑐵𑐮𑐫𑐧𑐵𑐚 𑐥𑑂𑐬𑐵𑐥𑑂𑐟𑐶𑐩𑐿
+pracalit_198.png	𑐴𑐟𑐵𑐬𑐶𑐡𑐿𑐣𑑂 𑑋 𑐮𑐶𑐣𑐳𑐎𑐾𑐎𑑀
+pracalit_199.png	𑐔𑐮𑐵𑐣𑐷 𑐳𑑂𑐠𑐮𑐩𑐵𑐠𑐶𑐎𑑀
+pracalit_200.png	𑐜𑐵𑐬𑑂𑐎
+pracalit_201.png	𑐨𑐶𑐟𑑂𑐬𑐫𑐵𑐊𑐎𑑀 𑐄𑐜𑐶𑐴𑐵𑐮𑑂𑐫𑑀 𑑋
+pracalit_202.png	𑐥𑑂𑐬𑐵𑐫𑑀𑐖𑐶𑐟
+pracalit_203.png	𑐁𑐬𑐩𑐣𑐷 𑐐𑑀𑐬𑑂𑐎𑐷𑐎𑑀
+pracalit_204.png	𑐫𑐵𑐟𑑂𑐬
+pracalit_205.png	𑐴𑐣𑑂 𑑋 𑐀𑐨𑐵𑐰𑑅
+pracalit_206.png	𑐎𑐟𑐵𑐬𑐡𑐾𑐏𑐶 𑐣𑐵𑐐𑐶𑐜𑐵𑑃𑐜𑐵𑐳𑐩𑑂𑐩
+pracalit_207.png	𑐄𑐳𑑂𑐟𑐵𑐎𑑀
+pracalit_208.png	𑐀𑐚𑐵𑐫𑐬𑐎𑐵 𑐰𑐶𑐡𑑂𑐫𑐾𑐫𑐎 ,
+pracalit_209.png	𑐀𑐐𑐾𑐣𑐵𑐕𑐾𑐄𑐩𑐵
+pracalit_210.png	𑐨𑐵𑐒𑑂𑐐𑑂𑐬𑐵
+pracalit_211.png	𑐄𑐧𑑂𑐖𑐣𑐷𑐩𑐵 𑐐𑐵𑐃𑐰𑐳𑑂𑐟𑐸
+pracalit_212.png	𑐥𑐵𑐴𑐸𑐣𑐵𑐑𑐬𑐩𑐵 𑐧𑑀𑐮𑑂𑐣𑐸𑐨𑐫𑑀 ,
+pracalit_213.png	𑐆𑐞𑐥𑐟𑑂𑐬𑐢𑐣𑐷𑐮𑐵𑐃
+pracalit_214.png	𑐮𑐵𑐮𑐶𑐩𑐵𑐮𑐾 𑐳𑐵𑐟𑑁𑑄𑐩𑐵
+pracalit_215.png	𑐧𑐐𑐿𑑃𑐔𑐵𑐎𑑀
+pracalit_216.png	𑐰𑐬𑑂𑐲𑐫𑐟𑐵𑐎𑐵
+pracalit_217.png	𑐁𑐬𑑂𑐚𑐶𑐳𑑂𑐚𑐮𑐵𑐃
+pracalit_218.png	𑐴𑐬𑐵𑐂𑐳𑐎𑐾
+pracalit_219.png	𑐀𑐨𑐶𑐣𑐾𑐟𑑂𑐬𑐷𑐴𑐬𑐸
+pracalit_220.png	𑐮𑑂𑐫𑐵𑐞𑑂𑐜𑐦𑐶𑐮𑑂𑐜 𑐥𑑂𑐬𑐟𑑂𑐫𑐎𑑂𑐲𑐡𑐬𑑂𑐱𑐷𑐮𑐾
+pracalit_221.png	𑐩𑐡𑐸 𑐏𑑀𑐖𑐶𑐣𑐸𑐥𑐬𑑂𑐡𑐕 𑑋
+pracalit_222.png	𑐀𑐢𑑂𑐫𑐫𑐣𑐎𑐬𑑂𑐟𑐵𑐴𑐬𑐸𑐎𑐵
+pracalit_223.png	𑐣𑐡𑐾𑐏𑑂𑐫𑐿
+pracalit_224.png	𑐎𑐴𑐶𑐮𑑂𑐫𑐿𑑄
+pracalit_225.png	𑐩𑐹𑐮𑑂𑐫𑐫𑐴𑐷 𑐐𑑁𑑄𑐜𑐵
+pracalit_226.png	𑐬𑑀𑐖𑐾𑐎𑐿
+pracalit_227.png	𑐬𑑀𑐖𑐵
+pracalit_228.png	𑐡𑐸𑐏𑐎𑐵
+pracalit_229.png	𑐣𑐧𑑀𑐮𑐵𑐊𑐎𑑀 ,
+pracalit_230.png	𑐳𑐸𑐳𑑂𑐟𑐴𑐬𑐹𑐎𑑀 𑐥𑑂𑐬𑐳𑑂𑐚𑑂𑐫𑐵𑐂𑐣𑑂 𑑋
+pracalit_231.png	𑐬𑐵𑐟𑑀𑐮𑐾
+pracalit_232.png	𑐰𑐶𑐥𑐡𑐖𑐣𑑂𑐫 𑐴𑐸𑑃𑐡𑐵 𑑋
+pracalit_233.png	𑐳𑐸𑐡𑐹𑐬𑐥𑐱𑑂𑐔𑐶𑐩𑐧𑐵𑐚𑐿
+pracalit_234.png	𑐎𑐮𑑂𑐫𑐵𑐞𑐎𑐵𑐬𑐶𑐟𑐵𑐩𑐵
+pracalit_235.png	𑐣𑐾𑐚𑐰𑐬𑑂𑐎𑐶𑐒𑐩𑐵 𑐟𑑂𑐫𑑀𑐔𑐸𑐬𑑀𑐚𑐎𑑀
+pracalit_236.png	𑐀𑐧𑐷 𑐟𑐸𑐟𑐶
+pracalit_237.png	𑐮𑐏𑐟𑐬𑐵𑐣
+pracalit_238.png	𑐰𑑂𑐫𑐵𑐔𑐩𑐵 𑐳𑑂𑐥𑐵𑐂𑐎 ,
+pracalit_239.png	𑐳𑐥𑐾𑐬𑐵𑐮𑐾
+pracalit_240.png	𑐎𑐸𑐮𑑂𑐮𑐷
+pracalit_241.png	𑐰𑐣𑐰𑐵𑐳𑐷 𑐧𑐾𑐣𑐷𑐑𑐵𑐚𑐁𑐬𑐸𑐑𑐵𑐚𑐮𑐵𑐬𑑂𑐎𑐾
+pracalit_242.png	𑐰𑐿𑐖𑑂𑐘𑐵𑐣𑐶𑐎
+pracalit_243.png	𑐥𑐸𑐐𑑂𑐡𑐕𑑁𑑄
+pracalit_244.png	𑐨𑐺𑐎𑐸𑐚𑐷
+pracalit_245.png	𑐧𑐿𑑄𑐎𑐴𑐬𑐹𑐩𑐵 𑐩𑐸𑐟𑐾𑐬
+pracalit_246.png	𑐩𑐵𑐣𑑂𑐕𑐣𑑂 𑐚𑐶𑐎𑑂𑐣𑐾
+pracalit_247.png	𑐱𑑂𑐬𑐡𑑂𑐢𑐵𑐳𑐸𑐩𑐣 𑐑𑐵𑑃𑐚𑐷𑐩𑐵𑐠𑐶𑐎𑑀
+pracalit_248.png	𑐧𑐵𑑃𑐔𑑂𑐣𑐸𑐥𑐬𑑂𑐫𑑀 𑑋 𑐚𑐵𑑃𑐳𑐶𑐊𑐎𑑀 ,
+pracalit_249.png	𑐬𑑀𑐐𑐧𑐵𑐚 𑐫𑐸𑐰𑐵𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+pracalit_250.png	𑑒𑑖𑑔
+pracalit_251.png	𑐊𑐣𑐁𑐃𑐳𑐷 , 𑐥𑑀𑐳𑑂𑐚𑐧𑐵𑐚
+pracalit_252.png	𑐟𑐶𑐣𑐷𑐴𑐬𑐹𑐮𑐾
+pracalit_253.png	𑐔𑐵𑐴𑐣𑐵 𑑋
+pracalit_254.png	𑐀𑐣𑑂𑐟𑐶
+pracalit_255.png	𑐰𑐶𑐮𑐶𑐒𑑂𑐳𑐮𑐾 𑐳𑐒𑐳𑑂
+pracalit_256.png	𑐩𑐴𑐵𑐰𑐶𑐡𑑂𑐫𑐵𑐮𑐫𑐮𑐵𑐃 𑐧𑐶𑐬𑑂𑐳𑐶𑑄𑐡𑐿
+pracalit_257.png	𑐡𑐶𑐮𑑂𑐮𑐷𑐩𑐿
+pracalit_258.png	𑐟𑐬𑐎𑐵𑐬𑐷
+pracalit_259.png	𑐳𑐶𑐩𑐳𑐵𑐬
+pracalit_260.png	𑐕𑑀𑐥𑐶𑐊𑐬 𑐄𑐡𑑂𑐬𑐶𑐟
+pracalit_261.png	𑐧𑑂𑐫𑐸𑑃𑐟𑐵𑐂𑐡𑐶𑐊𑐥𑐕𑐶
+pracalit_262.png	𑐖𑑂𑐘𑐵𑐟𑐵𑐮𑐾
+pracalit_263.png	𑐜𑐵𑐧𑑂𑐬𑐵𑐩𑐵 𑐗𑐸𑐥𑑂𑐬𑐵𑐳𑐩𑐾𑐟
+pracalit_264.png	𑐁𑐣𑐣𑑂𑐡𑐳𑑄𑐐𑐿
+pracalit_265.png	𑐎𑐵𑐬𑑂𑐫𑐵𑐮𑐫𑐴𑐬𑐸𑐳𑑃𑐐
+pracalit_266.png	𑐊𑐩𑐵𑐮𑐾𑐩𑐵
+pracalit_267.png	𑐥𑐶𑐟𑑂𑐟𑐮𑐎𑐵 𑐳𑐾𑐖𑐸𑐰𑐵𑐮
+pracalit_268.png	𑐳𑐶𑐣𑑂𑐢𑐸𑐥𑐵𑐮𑑂𑐔𑑀𑐎𑐟𑐶𑐬
+pracalit_269.png	𑐎𑑀𑐜𑐎𑑀
+pracalit_270.png	𑐨𑐾𑐣𑑂𑐚𑐶𑐮𑐾𑐬𑐩𑐵
+pracalit_271.png	𑐨𑐿𑐥𑐬𑐶
+pracalit_272.png	𑐄𑐡𑐵𑐬𑐴𑐞𑐎𑐵 𑐖𑑀𑐜𑐾𑐎𑑀
+pracalit_273.png	𑐴𑐸𑐬𑑂𑐎𑐵𑐊𑐎𑑀 𑐣𑐶𑐱𑐵𑐣𑐵
+pracalit_274.png	𑐳𑐸𑐰𑐶𑐢𑐵𑐳𑑂𑐠𑐮𑐩𑐵
+pracalit_275.png	𑐊𑐣𑐊𑐜𑐶𑐊𑐦
+pracalit_276.png	𑐧𑑀𑐰𑐬𑑂𑐳 𑐰𑐶𑐡𑐾𑐱𑐶𑐊𑐎𑐵𑐴𑐬𑐸
+pracalit_277.png	𑐥𑐵𑑃𑐔𑐟𑐵𑐬𑐾 , 𑐄𑐛𑐵𑐄𑐣𑐸𑐨𑐊𑐎𑑀
+pracalit_278.png	𑐩𑐵𑐦𑐬𑑂𑐟 𑐩𑐬𑑂𑐖𑐶𑐣
+pracalit_279.png	𑐩𑐣𑐸𑐰𑐵
+pracalit_280.png	𑐩𑑀𑐧𑐵𑐂𑐮
+pracalit_281.png	𑐄𑐡𑑂𑐫𑑀𑐐𑐷𑐴𑐬𑐹𑐎𑐵 𑐳𑐣𑑂𑐟𑑀𑐲𑐔𑐣𑑂𑐡𑑂𑐬
+pracalit_282.png	𑐴𑐮𑐾𑐳𑐷 ,
+pracalit_283.png	𑐧𑑀𑐚𑐰𑐶𑐬𑐸𑐰𑐵 , 𑐐𑑂𑐬𑐷𑐜𑐷
+pracalit_284.png	𑐐𑐸𑐣𑐵𑐳𑐵𑐮𑐵𑐃 𑐊𑐦𑐊𑐣𑐳𑐷𑐳𑐷𑐁𑐃𑐎𑐵
+pracalit_285.png	𑐧𑐟𑐵𑐊𑐫𑑀 𑑋
+pracalit_286.png	𑐳𑑀𑐔𑐰𑐶𑐔𑐵𑐬
+pracalit_287.png	𑐣𑐸𑐴𑑃𑐡𑐵 𑐴𑐳𑑂𑐟𑐎𑑂𑐲𑐾𑐥𑐥𑐕𑐶
+pracalit_288.png	𑐕𑐵𑐟𑐷𑐴𑐬𑐹
+pracalit_289.png	𑐐𑐬𑐷𑐳𑐎𑐾𑐎𑑀𑐕 𑑋
+pracalit_290.png	𑐕𑑀𑐂𑐬𑐴𑐾𑐎𑑀 𑐳𑑀𑐜𑐵𑐬𑐷 ,
+pracalit_291.png	𑐧𑐾𑐬𑐩𑐿
+pracalit_292.png	𑐴𑐵𑐣𑐶𑐎𑐵 𑐣𑐡𑐾𑐏𑐶𑐊𑐬
+pracalit_293.png	𑐟𑑀𑐜𑐾𑐎𑐵
+pracalit_294.png	𑐥𑐶𑐎
+pracalit_295.png	𑐧𑐣𑑂𑐖𑐬
+pracalit_296.png	𑐎𑐵𑐱𑑂𑐩𑐷𑐬𑐧𑐵𑐚 𑐫𑐵𑑄𑐐𑐸𑐣𑐳𑑂𑐠𑐶𑐟
+pracalit_297.png	𑐥𑐸𑐳𑑂𑐟𑐎𑐧𑐵𑐬𑐾 𑐑𑐵𑐩𑐮𑐾
+pracalit_298.png	𑐎𑐨𑐬𑑂𑐜𑐴𑐮𑐎𑑀 𑐱𑐵𑐳𑑂𑐟𑑂𑐬 ,
+pracalit_299.png	𑐢𑐩𑑂𑐎𑐵𑐊𑐎𑑀
+pracalit_300.png	𑐨𑐵𑑃𑐔𑐶𑐊𑐖𑐳𑑂𑐟𑑀 𑐮𑐵𑐬𑑂𑐨𑑀𑐨𑐮𑐾
+pracalit_301.png	𑐡𑐬𑐧𑐵𑐬𑐩𑐵𑐬𑑂𑐐𑐳𑑂𑐠𑐶𑐟
+pracalit_302.png	𑐥𑑂𑐬𑐟𑑂𑐫𑐵𑐬𑑀𑐥𑐞 𑐰𑐸𑐮𑐵𑐣𑐡𑐾𑐰
+pracalit_303.png	𑐩𑐾𑐮𑐵𑐥𑐵𑐟
+pracalit_304.png	𑐖𑐣𑐖𑐷𑐰𑐶𑐎𑐵𑐮𑐵𑐃 𑐐𑐬𑐶𑐣𑐸𑐥𑐬𑑂𑐣𑐾 𑑋
+pracalit_305.png	𑐖𑐣𑐁𑐣𑑂𑐡𑑀𑐮𑐣 ,
+pracalit_306.png	𑐨𑐶𑐟𑑂𑐬𑐶𑐣𑐾𑐎𑐵 𑐮𑑄
+pracalit_307.png	𑐎𑑂𑐴𑐵𑐬𑑂𑐥 ,
+pracalit_308.png	𑐩𑐵𑐣𑐶𑐣𑐾 , 𑐬𑑀𑐴𑐶¬𑐒𑑂𑐐𑑂𑐫𑐵
+pracalit_309.png	𑐏𑐾𑐮𑐵𑐔𑐷𑐩𑐵
+pracalit_310.png	𑐳𑑄𑐧𑐶𑐢𑐵𑐣𑐥𑑂𑐬𑐟𑐶 𑐬𑐵𑐰𑐮𑐳𑐴𑐶𑐟
+pracalit_311.png	𑐫𑐳𑐿𑐰𑐶𑐔 ,
+pracalit_312.png	𑐔𑐸𑑃𑐜𑐵𑐄𑐣𑐾 , 𑐚𑑂𑐫𑐵𑐬𑐶𑐦𑐮𑐾
+pracalit_313.png	𑐢𑐵𑐥𑐵𑐳𑐷 , 𑐳𑐶𑐣𑐎𑑀𑐣𑐵
+pracalit_314.png	𑐥𑐸𑐜𑐵𑐳𑐿𑐣𑐷𑐡𑑂𑐰𑐵𑐬𑐵 𑑒𑑗.𑑘
+pracalit_315.png	𑐦𑐸𑑃𑐫𑐵𑐮 𑐩𑐶𑐛𑐹
+pracalit_316.png	𑐖𑑂𑐫𑐵𑐎𑐧𑐧𑐷𑐔 𑐎𑐵𑐛𑐩𑐵𑐜𑐵𑑄𑐿 ,
+pracalit_317.png	𑐝𑐮𑑂𑐣𑐧𑐵𑐚 𑐢𑐣𑐶𑐬𑐵𑐩
+pracalit_318.png	𑐳𑐩𑐸𑐡𑐵𑐫𑐗𑐿𑑃 𑑑𑑓𑑔𑑙
+pracalit_319.png	𑐀𑐜𑑂𑐜𑐵𑐏𑐵𑐣𑐵𑐩𑐵
+pracalit_320.png	𑐳𑐵𑐩𑐐𑑂𑐬𑐷𑐳𑐩𑐾𑐟
+pracalit_321.png	𑐴𑑀𑐬𑐾𑐳
+pracalit_322.png	𑐊𑐩𑐧𑐷𑐧𑐷𑐊𑐳𑐎𑑀 𑐎𑑀𑐂𑐬𑐵𑐮𑐵𑐡𑐾𑐏𑐶
+pracalit_323.png	𑐧𑐡𑐸𑐮𑐵
+pracalit_324.png	𑐦𑐕𑑂𑐬𑑂𑐫𑐵𑐿𑐚
+pracalit_325.png	𑐰𑐣÷𑐖𑐒𑑂𑐐𑐮
+pracalit_326.png	𑐩𑐸𑐐𑑂𑐮𑐶𑐣𑐟𑐬𑑂𑐦
+pracalit_327.png	𑐟𑐷𑐣𑐷𑐴𑐬𑐸𑐮𑐾 𑐴𑐾𑐮𑑀 ,
+pracalit_328.png	𑐜𑐵𑐎𑑂𑐚𑐬𑐷 𑐦𑐮𑐶𑐬𑐴𑐾𑐕 𑑋
+pracalit_329.png	𑐰𑐣𑐖𑑄𑐐𑐮𑐩𑐵
+pracalit_330.png	𑐟𑐥𑐵𑑃𑐃𑐎𑑀 𑐛𑑀𑐎𑑂𑐎𑐶𑐊𑐬
+pracalit_331.png	𑐳𑐟𑐵𑐄𑐠𑑂𑐫𑑀 𑑋 𑐏𑐾𑐮𑑂𑐡𑐕 ,
+pracalit_332.png	𑐥𑐵𑐂𑐣𑑂𑐣 ,
+pracalit_333.png	𑐥𑐸𑐎𑐾 𑐳𑑂𑐚𑐵𑐬𑑂𑐚𑐀𑐥𑑂𑐳𑐎𑐵
+pracalit_334.png	𑐖𑐸𑑃𑐐𑐵𑐎𑑀
+pracalit_335.png	𑐰𑐬𑑂𑐐𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_336.png	𑐳𑐶𑐐𑐵𑐜𑐷 ,
+pracalit_337.png	𑐀𑐰𑐢𑐵𑐬𑐞𑐵𑐩𑐵𑐠𑐶
+pracalit_338.png	𑐧𑐵𑐮𑐧𑐵𑐮𑐶𑐎 , 𑐧𑐣𑐾 ,
+pracalit_339.png	𑐣𑐶𑐎𑐵𑐮𑐶𑐊𑐥𑐕𑐶
+pracalit_340.png	𑐧𑐸𑐎𑐶𑐒𑐩𑐵 𑐖𑐟𑐶𑐳𑐸𑐎𑐿
+pracalit_341.png	𑐰𑐶𑐔𑑂𑐕𑐾𑐡𑐥𑐕𑐶
+pracalit_342.png	𑐖𑐣𑐩𑐟𑐳𑐴𑐶𑐟
+pracalit_343.png	𑐗𑐸𑐎𑐵𑐰𑐎𑐵 𑐔𑐶𑐬𑐱𑐵𑐣𑑂𑐟𑐶𑐎𑑀
+pracalit_344.png	𑐎𑐳𑑂𑐮𑐾
+pracalit_345.png	𑐳𑐸𑐖𑐮𑐾
+pracalit_346.png	𑐐𑑂𑐬𑐵𑐨𑐶𑐚𑐷 𑐮𑐶𑐔𑑂𑐕𑐰𑐶𑐎𑐵𑐮𑐎𑐿
+pracalit_347.png	𑐦𑐳𑑂𑐡𑐿 𑐜𑐝𑐾𑐮𑐵𑐎𑐵
+pracalit_348.png	𑐧𑑂𑐬𑑀𑐎𑐬𑐧𑐷𑐔
+pracalit_349.png	𑐬𑐸𑐥𑐩𑐩𑐵 𑐧𑐶𑐠𑑀𑐮𑐶𑐊𑑃 𑑋
+pracalit_350.png	𑐧𑐒𑑂𑐐𑐮𑐵𑐡𑐾𑐱𑐷𑐴𑐬𑐹
+pracalit_351.png	𑐳𑐶𑐘𑑂𑐔𑐵𑐂 𑐧𑐶𑐨𑐷𑐟𑑀
+pracalit_352.png	𑐳𑑄𑐫𑐣𑑂𑐟𑑂𑐬𑐳𑑃𑐐 𑐬𑐐𑐟𑐳𑐩𑑂𑐩
+pracalit_353.png	𑐎𑐵𑐬𑑀𑐣𑐵
+pracalit_354.png	𑐄𑐥𑐮𑐧𑐢 𑐧𑐾𑐔𑑂𑐣𑐸𑐥𑐬𑑂𑐡𑐵
+pracalit_355.png	𑐣𑐵𑐟𑐾𑐡𑐵𑐬𑐴𑐬𑐸
+pracalit_356.png	𑐳𑑂𑐬𑐲𑑂𑐚𑐵𑐥𑑂𑐬𑐟𑐶
+pracalit_357.png	𑐨𑐹𑐰𑐣 𑐴𑐸𑐣𑐳𑐎𑑂𑐕𑑁𑑄 𑑋
+pracalit_358.png	𑐩𑐾𑐩𑑀𑐬𑐷𑐎𑐵
+pracalit_359.png	𑐣𑐾𑐟𑐣𑑂𑐫𑐵𑐴𑐸𑐎𑐷 𑐡𑐵𑐰𑐷𑐨𑐣𑑂𑐡𑐵
+pracalit_360.png	𑐧𑐸𑐒𑑂𑐎𑑀𑐚 𑐄𑐟𑑂𑐟𑐬𑐡𑐵𑐫𑐷
+pracalit_361.png	𑐢𑐸𑐮𑑀𑐩𑐵𑐣𑑂𑐕𑐾𑐎𑑀
+pracalit_362.png	𑐰𑐶𑐰𑐬𑐞𑐧𑐵𑐬𑐾
+pracalit_363.png	𑐦𑐵𑐬𑑂𑐩𑐳𑐶𑐳𑑂𑐚𑐎𑑀
+pracalit_364.png	𑐎𑐚𑐵𑐬𑐷𑐎𑐵 𑐥𑐶𑐣𑐮𑐵𑐃
+pracalit_365.png	𑐣𑑀𑐚𑐳𑐴𑐶𑐟𑐎𑐵 𑐛𑐸𑐮𑑀
+pracalit_366.png	𑐥𑐵𑐣𑐾𑐩𑐵 𑐳𑐵𑐩𑑂𑐬𑐵𑐖𑑂𑐘𑐷
+pracalit_367.png	𑐩𑐵𑐫 𑐐𑑀𑐬𑑂𑐏𑐵𑐮𑐷𑐎𑐵
+pracalit_368.png	𑐧𑐝𑐕 ,
+pracalit_369.png	𑐜𑐶𑐊𑐣𑐊𑐩𑐾𑐬𑑀 𑐥𑐕𑐸𑐟𑐵𑐄𑐣𑐸𑐎𑑀
+pracalit_370.png	𑐥𑑂𑐬𑐡𑐬𑑂𑐱𑐣𑐎𑐵𑐬𑐷
+pracalit_371.png	𑐰𑐶𑐬𑐵𑐚𑐣𑐐𑐬𑐎𑐷
+pracalit_372.png	𑐳𑑂𑐰𑐵𑐨𑐶𑐩𑐵𑐣𑐔𑑀𑐏𑑀
+pracalit_373.png	𑐨𑐾𑐬𑐵𑐂𑐚𑐷𑐩𑐵 𑐎𑐵𑐚𑐶𑐣𑑂𑐕
+pracalit_374.png	𑐱𑑂𑐬𑐩𑐶𑐎𑐴𑐬𑐹𑐮𑐵𑐃
+pracalit_375.png	𑐡𑑀𑐴𑑀𑐬𑐵𑐂
+pracalit_376.png	𑐥𑑂𑐫𑐵𑐣𑑂𑐜𑐾𑐩𑐶𑐎 𑐎𑐵𑐬𑑂𑐫𑐳𑐩𑑂𑐥𑐵𑐡𑐣𑐮𑐵𑐃
+pracalit_377.png	𑐧𑑄𑐐𑐵𑐮𑐷𑐴𑐬𑐹𑐮𑐵𑐃 𑐛𑐾𑐎𑐷𑐦𑐮𑐨𑐣𑑂𑐡𑐵
+pracalit_378.png	𑐔𑐵𑐩𑑂𑐬𑑀 𑐎𑐸𑐬𑐎𑐸𑐬𑐾
+pracalit_379.png	𑐢𑑂𑐬𑐸𑐧𑐾𑐎𑐵 𑐨𑐾𑐣𑑂𑐔𑐬𑑂𑐳
+pracalit_380.png	𑐐𑐬𑑂𑐣𑐸𑐥𑐬𑑂𑐣𑐾𑐴𑐬𑐸𑐧𑐵𑐚𑐿
+pracalit_381.png	𑑑𑑙𑑒𑑕𑑒𑑒𑑕 𑐗𑐶𑐎𑐵𑐂𑐣𑑂𑐠𑑂𑐫𑑀 𑑋
+pracalit_382.png	𑐁𑐂𑐳𑐎𑐾𑐎𑐵𑐮𑐾 𑐜𑐵𑐎𑑂𑐚𑐬𑐴𑐬𑐸𑐳𑑃𑐐
+pracalit_383.png	𑐳𑐸𑐥𑐬𑐣𑑀𑐨𑐵
+pracalit_384.png	𑐎𑐬𑐸𑐞𑐵𑐩𑐫𑐎𑐵
+pracalit_385.png	𑐧𑐵𑐮𑐧𑐔𑑂𑐔𑐵𑐩𑐵𑐠𑐶
+pracalit_386.png	𑐔𑐵𑐏𑐮𑐵𑐐𑑂𑐡𑐵
+pracalit_387.png	𑐳𑐶𑐁𑐂𑐧𑐷𑐎𑐷
+pracalit_388.png	𑐬𑑀𑐖𑐐𑐵𑐬𑐡𑐵𑐟𑐵𑐳𑑃𑐐 𑐖𑐮𑐨𑐞𑑂𑐜𑐵𑐬𑐎𑑀
+pracalit_389.png	𑐊𑐁𑐃𑐮𑐵𑐃 𑐄𑐜𑐵𑐮𑐸
+pracalit_390.png	𑐳𑐩𑑂𑐗𑐵𑐂𑐊𑐎𑑀 𑐬𑐸𑐡𑑂𑐬𑐥𑐸𑐬𑐧𑐵𑐚
+pracalit_391.png	𑐳𑐖𑐶𑐊𑐎𑑀
+pracalit_392.png	𑐄𑐥𑐔𑐵𑐬𑐮𑐐𑐵𑐫𑐟𑐎𑐵 𑐮𑐵𑐨𑐵𑑄𑐳𑐮𑐾
+pracalit_393.png	𑐕𑐵𑐮𑐵𑐧𑐵𑐚 𑐥𑐟𑑂𑐫𑐵𑐬𑐶𑐮𑐵
+pracalit_394.png	𑐣𑑂𑐫𑐵𑐫𑐥𑐬𑐎 𑐥𑐮𑑂𑐚𑐵𑐂𑐡𑐶𑐣𑑂𑐕𑐣𑑂 ,
+pracalit_395.png	𑐄𑐕𑐶𑐟𑑂𑐟𑑀
+pracalit_396.png	𑐮𑑂𑐫𑐵𑐡𑐶𑐊𑐎𑐵 𑐬𑐵𑐖𑐣𑐷𑐟𑐶𑐩𑐵 ?
+pracalit_397.png	𑐟𑑅𑐢𑑄
+pracalit_398.png	𑐀𑐥𑐬𑐵𑐢𑐷𑐴𑐬𑐸 𑐩𑐮𑐵𑐣 ,
+pracalit_399.png	𑐮𑑂𑐫𑐵𑐧
+pracalit_400.png	𑐀𑐔𑐾𑐟𑐖𑐳𑑂𑐟𑐿
+pracalit_401.png	𑐊𑐣𑐥𑐷𑐩𑐵
+pracalit_402.png	𑐳𑐠𑐵𑐣𑐩𑐵 𑐗𑐵𑐬𑐮
+pracalit_403.png	𑐧𑐸𑐢𑑂𑐡 , 𑑒𑑑𑑗 ,
+pracalit_404.png	𑐟𑐷𑐣𑐰𑐚𑐵𑐩𑐵
+pracalit_405.png	𑐥𑐵𑑃𑐔𑐠𑐬𑐮𑐐𑐵𑐫𑐟𑐩𑐵
+pracalit_406.png	𑐩𑐹𑐮𑑂𑐫𑐴𑐬𑐸 𑐀𑐬𑐹𑐮𑐵𑐃
+pracalit_407.png	𑐐𑐬𑑂𑐏𑐵𑐎𑑀𑐚 , 𑐧𑐵𑐄𑐣𑑂𑐜𑐬𑐷
+pracalit_408.png	𑐨𑐸𑐬𑐵𑐮𑐵𑐃
+pracalit_409.png	𑐎𑐺𑐥𑐵𑐎𑑀
+pracalit_410.png	𑐳𑑄𑐳𑐡𑐩𑐵
+pracalit_411.png	𑐁𑐂𑐖𑐶𑐖𑐷𑐎𑑀
+pracalit_412.png	𑐁𑐱𑐧𑐴𑐵𑐡𑐸𑐬 𑐫𑐳𑑂𑐟𑐵𑐮𑐵𑐃
+pracalit_413.png	𑐱𑑂𑐬𑐷𑐞𑐾𑐱
+pracalit_414.png	𑐳𑐸𑐣𑐵𑐩𑐷𑐴𑐬𑐸
+pracalit_415.png	𑐚𑐾𑐧𑐮 𑐦𑑀𑐴𑑀𑐬𑐎𑐵
+pracalit_416.png	𑐀𑐐𑑂𑐬𑐖 ,
+pracalit_417.png	𑐟𑐚𑐧𑐣𑑂𑐢𑐎𑑀
+pracalit_418.png	𑐀𑐢𑑂𑐫𑐎𑑂𑐲𑐴𑐬𑐸
+pracalit_419.png	𑐐𑐵𑐐𑑂𑐬𑐷𑐩𑐵
+pracalit_420.png	𑐧𑐝𑑂𑐫𑑀 𑐩𑐣𑑂𑐟𑑂𑐬𑐵𑐮𑐫𑐮𑐎𑑀
+pracalit_421.png	𑐥𑐵𑐂𑐣𑐾 𑑋
+pracalit_422.png	𑐥𑐾𑐚𑐩𑐵
+pracalit_423.png	𑐬𑐵𑐖𑐵𑐬𑐵𑐣𑐷𑐮𑐾 𑐳𑐵𑐣𑐸𑐨𑐵𑐂
+pracalit_424.png	𑐁𑐩𑑂𑐡𑐵𑐣𑐷𑐧𑐵𑐬𑐾
+pracalit_425.png	𑐨𑐣𑐶𑐬𑐴𑐾𑐎𑐵𑐾 𑐁𑐃𑐳𑐷𑐫𑐹𑐳𑐴𑐶𑐟𑐎𑑀
+pracalit_426.png	𑐔𑐵𑑃𑐡𑐣𑐷 ,
+pracalit_427.png	𑐳𑐵𑐎𑑂𑐲𑐟𑑂𑐎𑐵𑐬 𑐴𑐸𑐣𑐾𑐨𑐊𑐥𑐕𑐶
+pracalit_428.png	𑐐𑐞𑐣𑐵𑐎𑐵
+pracalit_429.png	𑐰𑐶𑐡𑑂𑐫𑐵𑐬𑑂𑐠𑐷𑐳𑐾𑐣𑐵
+pracalit_430.png	𑐁𑐫𑐵𑐖𑐣𑐵𑐴𑐬𑐹 𑐬𑐵𑐏𑐾 ?
+pracalit_431.png	𑐳𑑄𑐴𑐵𑐬𑐎𑐬𑑂𑐟𑐵 𑐩𑐵𑐥𑐡𑐞𑑂𑐡
+pracalit_432.png	𑐩𑐸𑐮𑑂𑐫𑐩𑐵𑐣𑑂𑐫𑐟𑐵
+pracalit_433.png	𑐥𑐴𑐶𑐔𑐵𑐣 𑐕𑐿𑐣𑐣
+pracalit_434.png	𑐩𑐵
+pracalit_435.png	𑐧𑑀𑐮𑑂𑐣𑐸𑐴𑐸𑐣𑑂𑐕 𑑋
+pracalit_436.png	𑐡𑐶𑐊𑐎𑐵𑐾𑐩𑐵
+pracalit_437.png	𑐧𑐸𑐝𑐾𑐱𑐎𑐵𑐮𑐩𑐵 𑐀𑐩𑐮𑐾𑐏𑐐𑐣𑑂𑐖𑐩𑐵
+pracalit_438.png	𑐊𑐒𑑂𑐐𑐾𑐱 𑐣𑐵𑐚𑐵
+pracalit_439.png	𑐖𑐵𑐾𑐳𑐸𑐎𑐿𑐳𑑃𑐐 𑐳𑑂𑐥𑐬𑑂𑐱𑐮𑐾
+pracalit_440.png	𑐐𑐵𑐄𑑃𑐡𑐵 ,
+pracalit_441.png	𑐊𑐎𑐮𑑁𑐚𑐷𑐬𑐸𑐥𑐩𑐵 𑐑𑐬𑐳𑑄𑐐
+pracalit_442.png	𑐔𑑁𑐎𑐷𑐡𑐵𑐬
+pracalit_443.png	𑐰𑐶𑐥𑐣𑑂𑐣𑐮𑐵𑐃 𑐣𑐶𑐎𑐿
+pracalit_444.png	𑐳𑐵𑐂𑐎𑑂𑐮𑐶𑐒 𑑋
+pracalit_445.png	𑐨𑐸𑐂𑐫𑐣𑐮𑐾
+pracalit_446.png	𑐠𑐵𑐬𑑂𑐐𑐾𑐮𑐷 𑐥𑐬𑐶𑐁𑐊𑐎𑐵
+pracalit_447.png	𑐧𑑀𑐎𑐾𑐎𑐷
+pracalit_448.png	𑐏𑑀𑐖𑐶𑐡𑐶𑐊𑐎𑐿 𑐧𑑀𑐮𑐥𑐟𑑂𑐬𑐳𑐩𑐾𑐟
+pracalit_449.png	𑐳𑐹𑐬𑑂𑐫𑐖𑐳𑑂𑐟𑐵
+pracalit_450.png	𑐰𑐺𑐖𑐾𑐱𑐎𑐸𑐩𑐵𑐬
+pracalit_451.png	𑐳𑑂𑐚𑐶𑐣
+pracalit_452.png	𑐬𑐵𑐃𑐮𑐵𑐃 𑐥𑐛𑐵𑐂𑐡𑐶𑐄𑑃𑐮𑐵 ,
+pracalit_453.png	𑐖𑐣𑐰𑐵𑐡𑐷𑐎𑐬𑐞
+pracalit_454.png	𑐩𑐴𑐶𑐮𑐵𑐨𑐣𑑂𑐡𑐵
+pracalit_455.png	𑐂𑐧𑐾𑐳𑑂𑐚 𑐩𑐵𑐣𑐥𑑂𑐬𑐳𑐵𑐡
+pracalit_456.png	𑑑𑑙𑑗.𑑗𑑙 𑐴𑐬𑑂𑐬𑑀𑐎𑑀
+pracalit_457.png	𑐔𑐶𑐣𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐕 𑑋 𑐐𑑄𑐐𑐵𑐎𑑀
+pracalit_458.png	𑐥𑐬𑐶𑐔𑐵𑐮𑐣𑐟𑐬𑑂𑐦 𑐖𑐸𑐬𑐶𑐫𑐣
+pracalit_459.png	𑐳𑑄𑐰𑐶𑐢𑐵𑐣𑐰𑐶𑐡𑐮𑐾 𑐣𑐶𑐬𑑂𑐩𑐵𑐞𑐳𑐩𑑂𑐧𑐣𑑂𑐢𑐷
+pracalit_460.png	𑐴𑐟𑐵𑐬 𑑋 𑐐𑐬𑐵𑐂𑐣
+pracalit_461.png	𑑒𑑕.𑑙𑑔
+pracalit_462.png	𑐧𑐵𑐮𑐸𑐎𑐸𑐣𑐵𑐳𑐩𑑂𑐩𑐎𑐵
+pracalit_463.png	𑐜𑐞𑑂𑐜𑐷𑐮𑐾
+pracalit_464.png	𑐖𑐸𑐳𑐾𑑄
+pracalit_465.png	𑐐𑐾𑐴𑐣𑐵𑐠
+pracalit_466.png	𑐑𑐔𑐾𑐚𑐶𑑃𑐡𑐵 𑐎𑐾𑐡𑐵𑐬𑐳𑑂𑐫𑐹𑑃 ,
+pracalit_467.png	𑐡𑐸𑐸𑑅𑐏
+pracalit_468.png	𑐎𑑂𑐫𑐵𑐩𑑂𑐧𑐬𑑂𑐮𑐾𑑒𑑑𑑕 ,
+pracalit_469.png	𑐳𑐘𑑂𑐖𑐵𑐫𑐎𑑀
+pracalit_470.png	𑐄𑐛𑐵𑐄𑐡𑐵 𑐬𑐵𑐩𑐖𑐷𑐎𑐿
+pracalit_471.png	𑐩𑐵𑐟𑑂𑐬𑐵𑐧𑐵𑐬𑐾
+pracalit_472.png	𑐔𑐵𑐮𑑂𑐣𑐸
+pracalit_473.png	𑐎𑐵𑐬𑑂𑐫𑐎𑑂𑐬𑐩𑐀𑐣𑐸𑐳𑐵𑐬
+pracalit_474.png	𑐡𑐺𑐲𑑂𑐚𑐶𑐡𑑀𑐲 ,
+pracalit_475.png	𑐴𑐸𑐣𑐳𑐎𑑂𑐣𑐾𑐳𑐩𑑂𑐩𑐎𑑀
+pracalit_476.png	𑐩𑐳𑑂𑐬𑑂𑐫𑐵𑐒𑐡𑐷𑑗 ,
+pracalit_477.png	𑐩𑐬𑑂𑐖𑐬
+pracalit_478.png	𑐥𑐳𑐮𑐾𑐮𑐵𑐃 ? 𑐨𑐂𑐳𑐎𑐾𑐎𑐷
+pracalit_479.png	𑐡𑐵𑐳𑐴𑐬𑐸𑐮𑐵𑐃 𑐡𑑀𑐴𑑀𑐬𑑂𑐫𑐵𑐂𑐬𑐴𑐾𑐎𑐵
+pracalit_480.png	𑐂𑐣𑑂𑐖𑐶𑐣𑐧𑐵𑐬𑐾 𑐥𑐸𑐳𑑂𑐟𑐎𑐎𑐷
+pracalit_481.png	𑐎𑐬𑐎𑑂𑐫𑐸𑐩𑐶𑐣
+pracalit_482.png	𑐡𑐮𑐴𑐬𑐸
+pracalit_483.png	𑐴𑐵𑐂𑐎𑐬𑑂𑐳𑐴𑐬𑐹𑐮𑐾
+pracalit_484.png	𑐎𑐔𑐵
+pracalit_485.png	𑐳𑐴𑐫𑐵𑐾𑐐𑐷𑐧𑐵𑐚 𑐳𑐩𑑂𑐴𑐵𑐮𑑂𑐣𑐸𑐨𑐫𑑀 ,
+pracalit_486.png	𑐎𑐵𑐱𑑂𑐩𑐶𑐬𑐩𑐵
+pracalit_487.png	𑐳𑐟𑑂𑐟𑐵𑐮𑐵𑐃
+pracalit_488.png	𑐩𑐵𑐣𑑂𑐕𑐾𑐩𑐢𑑂𑐫𑐾 𑐮𑐎𑑂𑐲𑑂𑐫𑐮𑐵𑐃
+pracalit_489.png	𑐌𑐃𑐳𑐷𑐜𑐷𑐩𑐵
+pracalit_490.png	𑐩𑐴𑐸𑐰𑐵𑐎𑑀 𑐐𑐸𑐩𑐵𑐂𑐳𑐎𑐾𑐎𑐷
+pracalit_491.png	𑐟𑐟𑑂𑐟𑑂𑐰𑐴𑐬𑐹𑐎𑑀 𑐥𑐛𑐵𑐣𑐳𑐶𑑄𑐴
+pracalit_492.png	𑐥𑐿𑐛𑑂𑐣𑐵
+pracalit_493.png	𑐁𑑃𑐥𑐥𑑂𑐬𑐟𑐶𑐎𑑀
+pracalit_494.png	𑐩𑐚𑑂𑐚𑐷𑐟𑐾𑐮
+pracalit_495.png	𑐀𑐣𑑂𑐟𑐬𑐰𑐵𑐬𑑂𑐟𑐵𑐴𑐬𑐸
+pracalit_496.png	𑐎𑐵𑐩𑐢𑐣𑑂𑐢𑐵𑐎𑐵
+pracalit_497.png	𑐀𑐣𑐶𑐱𑑂𑐔𑐶𑐟𑐗𑐿𑑃
+pracalit_498.png	𑐁𑐃𑐊𑐳𑐥𑐷𑐎𑐵 𑐎𑐾𑐁𑐎𑐵𑐬𑐎𑑀
+pracalit_499.png	𑐟𑐫𑐵𑐬𑐷𑐡𑐾𑐏𑐶
+pracalit_500.png	𑐀𑐜𑐶𑐚𑐬𑐎𑑀 𑐠𑐵𑐮𑐵𑐣𑐷
+pracalit_501.png	𑐮𑑂𑐫𑐵𑐧𑐩𑐵
+pracalit_502.png	𑐄𑐳𑐬𑐷 𑐰𑐬𑑂𑐐𑐴𑐬𑐹𑐧𑐷𑐔
+pracalit_503.png	𑐥𑑂𑐬𑐡𑐬𑑂𑐱𑐣𑐷𑐴𑐬𑐹𑐩𑐵
+pracalit_504.png	𑐡𑐾𑐏𑐶𑐣𑑂𑐕 𑐮𑐐𑐵𑐂𑐳𑐎𑑂𑐣𑐸𑐨𑐊𑐎𑑀
+pracalit_505.png	𑐳𑐸𑐣𑐵𑐄𑑃𑐕 , 𑐡𑐬𑐰𑐵𑐒
+pracalit_506.png	𑐩𑐴𑐵𑐳𑐔𑐶𑐖
+pracalit_507.png	𑐳𑐥𑑂𑐟𑐵𑐴𑐎𑐵
+pracalit_508.png	𑐊𑐜𑐶𑐳𑐣 𑐩𑐺𑐟𑑂𑐫𑐸𑐥𑐱𑑂𑐔𑐵𑐟𑑂
+pracalit_509.png	𑐁𑐒𑐳𑐵𑐣 𑐔𑐶𑐫𑐵𑐧𑐵𑐬𑐷𑐧𑐵𑐚
+pracalit_510.png	𑐩𑐣𑑂𑐡𑐶𑐬𑐮𑐾
+pracalit_511.png	𑐕𑐨𑐣𑑂𑐡𑐵
+pracalit_512.png	𑐴𑐵𑐮𑑂𑐕𑑁𑑃 ?
+pracalit_513.png	𑐮𑐵𑐐𑐶𑐬𑐴𑐣𑐸 ,
+pracalit_514.png	𑐬𑑀𑐖𑐾 𑑋 𑐬𑐵𑐖𑐳𑑂𑐠𑐵𑐣𑐧𑐵𑐚
+pracalit_515.png	𑐥𑑂𑐬𑐳𑑂𑐟𑐵𑐰𑐩𑐵𑐬𑑂𑐦𑐟 𑐦𑐶𑐮𑑂𑐩𑐴𑐬𑐸𑐮𑐾
+pracalit_516.png	𑐔𑐵𑐴𑐶𑐣𑐣𑑂 𑑋
+pracalit_517.png	𑐖𑐴𑐵𑐖𑐳𑐴𑐶𑐟
+pracalit_518.png	𑐀𑐣𑑂𑐟𑐬𑐶𑐎
+pracalit_519.png	𑐗𑐸𑐩𑑂𑐎𑐵 ,
+pracalit_520.png	𑐚𑑀𑐎𑐧𑐴𑐵𑐡𑐸𑐬 𑐠𑑀𑐥𑑂𑐮𑑀 ,
+pracalit_521.png	𑐄𑐖𑐸𑐬
+pracalit_522.png	𑐴𑐵𑐮𑐏𑐧𑐬 , 𑐴𑐵𑐮𑐶𑐩𑐸𑐴𑐵𑐮𑐷
+pracalit_523.png	𑐥𑐬𑐶𑐧𑐬𑑂𑐟𑐣𑐎𑐵 𑐳𑑄𑐎𑑂𑐬𑐩𑐶𑐟𑐮𑐩𑐖𑐸𑐒𑐎𑑀
+pracalit_524.png	𑐮𑐛𑑂𑐛𑐵𑐊
+pracalit_525.png	𑐣𑐷𑐟𑐹𑐮𑐾
+pracalit_526.png	𑐴𑐳𑐶𑐣𑐵𑐎𑑀 𑐄𑐟𑐵𑐬𑐶𑐣𑑂𑐕 𑑋
+pracalit_527.png	𑐬𑐎𑑂𑐟𑐬𑐘𑑂𑐖𑐶𑐟
+pracalit_528.png	𑐥𑐵𑐬𑑂𑐚𑐷𑐩𑐵𑐠𑐶𑐎𑑀 𑐏𑐾𑐮𑑂𑐣𑐸𑐥𑐬𑑂𑐣𑐾𑐟𑐬𑑂𑐦
+pracalit_529.png	𑐖𑐣𑐎𑐣𑐵𑐠 𑐊𑐣𑐊𑐳𑐊𑐮𑐩𑐵
+pracalit_530.png	𑐳𑐷𑐁𑐬𑐊𑐣
+pracalit_531.png	𑐀𑐩𑐵𑐾𑐑
+pracalit_532.png	𑐥𑑂𑐬𑐖𑑂𑐘𑐵𑐥𑐣𑐥𑐟𑑂𑐬 , 𑐳𑐩𑐎𑐵𑐮𑐷𑐣 ,
+pracalit_533.png	𑐖𑐶𑐩𑑂𑐩𑐾𑐰𑐵𑐬𑐷𑐰𑑀𑐢
+pracalit_534.png	𑐊𑐊𑐥𑐷𑐥𑐷𑐮𑐾 𑐥𑐟𑑂𑐫𑐵𑑅
+pracalit_535.png	𑐫𑐸𑐡𑑂𑐢𑐳𑑂𑐩𑐵𑐬𑐎
+pracalit_536.png	𑐁𑐊𑐎𑐵𑐴𑐬𑐸 𑐫𑑀𑐖𑐣𑐵𑐎𑐬𑐶𑐧
+pracalit_537.png	𑐱𑐎𑑂𑐟𑐶𑐳𑐩𑑂𑐥𑐣𑑂𑐣
+pracalit_538.png	𑐔𑐵𑐏𑐶𑐣𑐾 𑐳𑐵𑐂𑐎𑐶𑐮𑐎𑑀
+pracalit_539.png	𑐥𑐵𑐬𑐾 ,
+pracalit_540.png	𑐥𑐵𑐂𑐥𑐩𑐢𑑂𑐫𑐾
+pracalit_541.png	𑐬𑐵𑐩𑐎𑑀
+pracalit_542.png	𑐳𑐿𑐣𑐶𑐎 ? 𑐮𑐾𑐜𑐷
+pracalit_543.png	𑐔𑐶𑐝𑐶𑐣𑑂𑐕𑐸 𑑋
+pracalit_544.png	𑐴𑐶𑐩𑐵𑐮𑐎𑐵
+pracalit_545.png	𑐥𑐸𑐲𑑂𑐥𑐬𑐵𑐖 𑑋 𑐎𑐬𑐷𑐣𑐵𑐎𑐷
+pracalit_546.png	𑐳𑑂𑐫𑐵𑐴𑐬𑐳𑐸𑐳𑐵𑐬 𑐐𑐾𑐜𑐵
+pracalit_547.png	𑐮𑐾𑐨𑐮 𑐧𑐣𑑂𑐡𑐷 𑑋
+pracalit_548.png	𑐀𑐬𑐸𑐔𑐶 ,
+pracalit_549.png	𑐳𑐵𑐄𑐡𑐷𑐎𑑀
+pracalit_550.png	𑐳𑑄𑐳𑑂𑐠𑐵𑐮𑐐𑐵𑐫𑐟𑐮𑐾 𑐄𑐮𑐸𑐎𑑂𑐎
+pracalit_551.png	𑐩𑐢𑑂𑐫𑐾𑐎𑐷
+pracalit_552.png	𑐨𑐷𑐳𑐷𑐚𑐷𑐊𑐳𑑂 , 𑐎𑐩𑐵𑐄𑑃𑐠𑑂𑐫𑑁𑑄 𑑋
+pracalit_553.png	𑐥𑐬𑐾𑐎𑐵𑐩𑐵 𑐳𑐩𑐳𑐵𑐩𑐫𑐷𑐎
+pracalit_554.png	𑐟𑐣𑑂𑐟𑐸𑐳𑑃𑐐
+pracalit_555.png	𑐁𑑃𑐧𑐸𑐏𑐿𑐬𑐾𑐣𑐷
+pracalit_556.png	𑐝𑐵𑐎𑐵𑐎𑐿 𑐄𑐨𑐶𑐣𑐸𑐥𑐬𑑂𑐕
+pracalit_557.png	𑐐𑐵𑐄𑑃𑐐𑐵𑐄𑑃𑐎𑐵
+pracalit_558.png	𑐥𑐛𑐵𑐂𑐡𑐶𑐣𑐸 𑐥𑐵𑐚𑐵𑐴𑐬𑐹
+pracalit_559.png	𑐬𑐵𑐎𑑂𑐲𑐳𑐎𑐷
+pracalit_560.png	𑐥𑐶𑐫𑐣
+pracalit_561.png	𑐨𑐣𑑂𑐠𑐾 𑑋
+pracalit_562.png	𑐑𑑀𑐜𑐵𑐴𑐬𑐸 𑐀𑐩𑐺𑐟𑐎𑑀
+pracalit_563.png	𑐊𑐩𑐵𑐮𑐾𑐟𑐬𑑂𑐦𑐎𑐵 𑐩𑐵𑐸𑐳𑐩𑐵
+pracalit_564.png	𑐧𑐶𑐎𑑂𑐕 𑑋 𑐮𑑁𑐬𑑀𑐩𑐵𑐠𑐶
+pracalit_565.png	𑐐𑐊𑐳𑑂 , 𑐁𑑃𑐏𑐵𑐳𑐶𑐟
+pracalit_566.png	𑐮𑐎𑑂𑐲𑐩𑐷 𑐥𑑂𑐬𑐟𑐶𑐧𑐶𑐩𑑂𑐧𑐎𑑀
+pracalit_567.png	𑐏𑐚𑑂𑐣𑐸𑐨𑐊𑐎𑑀 𑐚𑐶𑐎𑐚𑐎𑐎𑐵
+pracalit_568.png	𑐧𑐣𑑂𑐡𑑀𑐰𑐳𑑂𑐟𑐷𑐎𑐵
+pracalit_569.png	𑐖𑐣𑑂𑐩𑐵𑐄𑑃𑐡𑐵 𑐥𑐸𑐬𑑂𑐫𑐵𑐂𑐎𑐵
+pracalit_570.png	𑐀𑐩𑐬𑐣𑑂𑐡𑐶𑐬 𑐔𑐩𑑂𑐎𑐶𑐮𑐵
+pracalit_571.png	𑐎𑑂𑐮𑐶𑐫𑐬𑐶𑐒𑐎𑑀 𑐄𑐔𑐵𑐮𑐶𑐳𑐎𑐾𑐎𑑀
+pracalit_572.png	𑐀𑐮𑑂𑐦𑑀𑐖𑐵𑐖𑐷
+pracalit_573.png	𑐐𑐵𑐊 𑑋
+pracalit_574.png	𑐚𑑂𑐬𑐶𑐣𑐶𑐜𑐵𑐜
+pracalit_575.png	𑐰𑐶𑐎𑐺𑐟𑐶𑐴𑐬𑐹𑐎𑑀 𑐳𑑂𑐠𑐵𑐣𑐩𑐢𑑂𑐫𑐾
+pracalit_576.png	𑐥𑑂𑐮𑐵𑐳𑑂𑐚𑐶𑐎𑐮𑐐𑐵𑐫𑐟𑐎𑐵 𑐥𑐸𑐬𑐵𑐣𑐩𑐳𑐷 ,
+pracalit_577.png	𑐳𑐬𑐴𑐬𑐹𑐧𑐵𑐚 𑐣𑐴𑐬𑐮𑐾
+pracalit_578.png	𑐳𑐵𑐣𑐸 ,
+pracalit_579.png	𑐥𑐶𑐬𑑀𑐮𑑂𑐣
+pracalit_580.png	𑐎𑐵𑐬𑐶𑐎𑐵𑐣𑑂𑐟𑐎𑑀
+pracalit_581.png	𑐕𑐚𑑂𑐥𑐚𑐶𑐊𑐎𑐵
+pracalit_582.png	𑐥𑐎𑐰𑐵𑐣𑐎𑑀 𑐁𑐃𑐊𑐳𑐳𑐷𑐊𑐖𑐷𑐎𑐵
+pracalit_583.png	𑐄𑐟𑑂𑐟𑐬𑐵𑐡𑑂𑐬𑑂𑐢𑐡𑐾𑐏𑐶
+pracalit_584.png	𑐠𑐬𑐠𑐬𑐷
+pracalit_585.png	𑐄𑐏𑐾𑐮𑑂𑐣𑐸𑐨𑐫𑑀 ?
+pracalit_586.png	𑐚𑐸𑐒𑑂𑐐𑑂𑐫𑐵𑐂𑐣𑐾 𑐥𑐚𑐾𑐮𑐮𑐾
+pracalit_587.png	𑐩𑐵𑐢𑐵𑐰𑐎𑐸𑐩𑐵𑐬 𑐄𑐡𑑂𑐫𑑀𑐐𑐷𑐰𑑂𑐫𑐰𑐳𑐵𑐫𑐷
+pracalit_588.png	𑐊𑐳𑐖𑐾𑐨𑐷𑐊𑐣
+pracalit_589.png	𑐳𑐵𑐂𑐖𑐴𑐬𑐹 𑐚𑐬𑑂𑐎𑐷𑐫𑐵
+pracalit_590.png	𑐎𑐬𑑂𑐩𑐔𑐵𑐬𑐷𑐴𑐬𑐸𑐎𑑀 𑐡𑑀𑐐𑐡𑐵𑐎𑐾𑐡𑐵𑐬𑐩𑐵
+pracalit_591.png	𑐁𑐬𑑂𑐫𑐴𑐬𑐹𑐎𑑀
+pracalit_592.png	𑐦𑑀𑐬𑑂𑐎𑐩𑐵
+pracalit_593.png	𑐖𑑂𑐘𑐵𑐣𑐎𑐸𑐩𑐵𑐬
+pracalit_594.png	𑐨𑐊𑐳𑑃𑐐𑐿𑑄 𑐏𑐾𑐮𑑂𑐣𑐿
+pracalit_595.png	𑐢𑑂𑐫𑐵𑐣𑐩𑐐𑑂𑐣 𑐬𑐶𑐩
+pracalit_596.png	𑐔𑐿𑑃 𑐚𑑂𑐫𑐵𑐧 ,
+pracalit_597.png	𑐳𑐡𑑂𑐧𑐸𑐡𑑂𑐢𑐶
+pracalit_598.png	𑐨𑐂𑐡𑐶𑐣𑐸𑐥𑐬𑑂𑐫𑑀 𑑋
+pracalit_599.png	𑐩𑑂𑐫𑐵𑐬𑑂𑐡𑐷
+pracalit_600.png	𑐴𑐸𑑃𑐡𑐵𑐣𑐴𑐸𑑃𑐡𑐿 𑐄𑐖𑐸𑐬𑐷𑐎𑐵
+pracalit_601.png	𑐩𑑀𑐜𑐬𑑂𑐣𑐵
+pracalit_602.png	𑐳𑐩𑐟𑐵𑐩𑐹𑐮𑐎
+pracalit_603.png	𑐥𑐾𑐚𑑂𑐖𑐮
+pracalit_604.png	𑐰𑐺𑐟𑑂𑐟𑐶𑐰𑐶𑐎𑐵𑐳𑐮𑐐𑐵𑐫𑐟𑐎𑐵 𑐥𑐘𑑂𑐖𑐵𑑔𑐩𑐵
+pracalit_605.png	𑐱𑑁𑐬𑑂𑐫𑐱𑐵𑐮𑐷 𑐣𑐶𑐫𑐵𑐮𑑂𑐡𑐵𑐥𑐣𑐶
+pracalit_606.png	𑐬𑐵𑐟𑐶𑐳𑐩𑑂𑐩𑐩𑐵
+pracalit_607.png	𑐠𑐶𑐫𑑀𑐔𑐶𑐜𑐶𑐫𑐵𑐡𑐴 ,
+pracalit_608.png	𑐬𑑀𑐩𑐵𑐧𑐷𑐔𑐎𑑀 𑐀𑐚𑑀𑐩𑐾𑐳𑐣
+pracalit_609.png	𑐖𑐸𑐮𑐵𑐃𑐀𑐐𑐳𑑂𑐟𑐟𑐶𑐬 𑐏𑐶𑐔𑑂𑐣𑐸
+pracalit_610.png	𑐥𑐝𑑂𑐫𑑁𑑄 𑐐𑐬𑑂𑐣𑐐𑐬𑐵𑐄𑐣
+pracalit_611.png	𑑑𑑙𑑕𑑕 𑐎𑐬𑑀𑐜𑐥𑐚𑐎
+pracalit_612.png	𑐡𑐮𑐾𑐎𑑀𑐩𑐵 𑐰𑐶𑐖𑑂𑐘𑐴𑐬𑐹 𑑋
+pracalit_613.png	𑐏𑑀𑐖𑐩𑐵 𑐥𑐴𑐶𑐬𑐣𑐳𑐴𑐶𑐟
+pracalit_614.png	𑐀𑐰𑐮𑑀𑐎𑐣𑐎𑐬𑑂𑐟𑐵𑐮𑐾
+pracalit_615.png	𑐑𑐸𑐳𑐏𑑀𑐬𑐷 , 𑐨𑑀𑐐𑑂𑐣𑐸𑐥¥𑐫𑑀 ,
+pracalit_616.png	𑐡𑐬𑐧𑐵𑐬𑐧𑐵𑐚𑐿 𑐱𑐷𑐬𑐎𑑀
+pracalit_617.png	𑐀𑐳𑑂𑐚𑑂𑐬𑐾𑐮𑐶𑐫𑐣𑐮𑐵𑐃 𑐎𑐴𑐬𑐥𑐱𑑂𑐔𑐵𑐟𑑂
+pracalit_618.png	𑐡𑐶𑐂𑐣𑑂𑐠𑑂𑐫𑑀 𑑋 𑐳𑑀𑐮𑑂𑐰𑐾𑐐𑐎𑐵
+pracalit_619.png	𑐴𑐶𑐄𑑃𑐮𑐾 𑐧𑐐𑐶𑐬𑐴𑐣𑐾
+pracalit_620.png	𑐡𑐾𑐄𑐩𑐵𑐣
+pracalit_621.png	𑐩𑐵𑑄𑐳𑐥𑐾𑐱𑐶𑐴𑐬𑐸𑐩𑐵 𑐃=𑑑𑑒𑑒
+pracalit_622.png	𑐀𑐟𑑂𑐫𑐢𑐶𑐎𑐚𑑂𑐬𑐩𑑂𑐥 𑑗𑑕𑑗𑑖
+pracalit_623.png	𑐎𑐵𑐬𑑂𑐜𑐰𑐵𑐴𑐎
+pracalit_624.png	𑐳𑐥𑑂𑐮𑐵𑐬𑑂𑐫𑐳𑑂 𑐩𑐴𑐳𑑄𑐑𑐮𑐾
+pracalit_625.png	𑐬𑐵𑐏𑑂𑐣𑐾𑐕𑐣𑑂 𑑋 𑐎𑐟𑐵𑐬𑐳𑑂𑐠𑐶𑐟
+pracalit_626.png	𑐧𑑀𑐮𑐵𑐊𑐎𑐾
+pracalit_627.png	𑐳𑐩𑐣 𑐀𑐮𑐵𑐩 ,
+pracalit_628.png	𑐎𑐵𑐬𑐾𑐣𑐵 𑐩𑐹𑐮𑑂𑐫𑐡𑐬
+pracalit_629.png	𑐬𑐾𑐏𑐵𑐎𑐸𑐩𑐵𑐬𑐷 𑐦𑐶𑐮𑑂𑐚𑐬𑐧𑐵𑐚
+pracalit_630.png	𑐏𑐳𑐵𑐮𑐶𑐊 𑐬𑐶𑐮𑐎𑐵
+pracalit_631.png	𑐐𑐸𑐖𑐵𑐬𑑂𑐣𑐸 𑐐𑐸𑐣𑐐𑐸𑐣𑐵𑐄𑑃𑐕𑐣𑑂 𑑋
+pracalit_632.png	𑐴𑐜𑐳𑐣𑐮𑐾 𑐡𑐩𑐎𑑀
+pracalit_633.png	𑐣𑑂𑐫𑐸𑐎𑑂𑐮𑐶𑐎
+pracalit_634.png	𑐖𑐾𑐳𑐸𑐩 𑐎𑐵𑐬𑑀𑐰𑐵𑐬𑐩𑐵𑐥𑐣
+pracalit_635.png	𑐀𑐠𑐾𑐳𑐵𑑄 𑐰𑑂𑐫𑐵𑐥𑐵𑐬𑐷÷𑐰𑑂𑐫𑐰𑐳𑐵𑐫𑐷𑐴𑐬𑐸𑐩𑐵
+pracalit_636.png	𑐎𑐸𑐥𑐬𑐩𑑂𑐥𑐬𑐵𑐴𑐬𑐹𑐮𑐵𑐃 𑐎𑐵𑐲𑑂𑐛𑐩𑐞𑑂𑐜𑐥𑐎𑐵𑐾
+pracalit_637.png	𑐳𑐩𑐵𑐖𑐰𑐵𑐡𑐷𑐳𑑃𑐐 𑐎𑐵𑐬𑑂𑐫𑐵𑐮𑐫𑐳𑐩𑑂𑐩
+pracalit_638.png	𑐨𑐸𑐥𑐾𑐣𑑂𑐡𑑂𑐬𑐣𑐵𑐠
+pracalit_639.png	𑐖𑐣𑐴 ?
+pracalit_640.png	𑐌𑐛𑐩𑐵 𑑋 𑐱𑐵𑐮𑐶𑐣𑐟𑐵
+pracalit_641.png	𑐩𑐵𑐟𑑂𑐬𑐿𑐔𑑀𑐬𑑂𑐣𑐾 𑐫𑐴𑐸𑐡𑐷𑐴𑐬𑐹𑐎𑑀
+pracalit_642.png	𑐬𑐖𑐰𑐵𑐬𑐵𑐳𑑂𑐠𑐶𑐟 𑐬𑐵𑐄𑐟𑐳𑑃𑐐
+pracalit_643.png	𑐐𑐬𑐶𑐧 𑑋
+pracalit_644.png	𑐎𑑂𑐲𑐩𑐟𑐵𑐔𑐵𑐴𑐶𑑃
+pracalit_645.png	𑐧𑐵𑐮𑐵𑐩𑐵
+pracalit_646.png	𑐳𑐬𑐳𑐦𑐵𑐂𑑅
+pracalit_647.png	𑐥𑑂𑐬𑐡𑐵𑐫𑐎𑐴𑐬𑐸
+pracalit_648.png	𑐳𑐾𑐬𑐵𑐎𑐵
+pracalit_649.png	𑐴𑐟𑑂𑐎𑐾𑐮𑐵𑐵𑐮𑐵𑐃
+pracalit_650.png	𑐦𑐸𑐚𑐾
+pracalit_651.png	𑐆𑐲𑐶𑐬𑐵𑐩𑐎𑐵 𑐔𑐾𑐣𑐩𑐵
+pracalit_652.png	𑐧𑑂𑐫𑐵𑑄𑐎𑐮𑐾 𑐳𑐾𑐮𑑂𑐦𑐷𑐮𑐾
+pracalit_653.png	𑐰𑑂𑐬𑐟𑐵𑐮𑐸𑐴𑐬𑐸𑐮𑐾
+pracalit_654.png	𑐔𑐬𑑂𑐔𑐵𑐐𑐬𑑂𑐡𑐿
+pracalit_655.png	𑐳𑐬𑑀𑐔𑐶𑐫𑐵 𑑑𑑘𑑙𑑔
+pracalit_656.png	𑐟𑐡𑐵𑐟𑑂𑐩𑐵𑐣𑑄
+pracalit_657.png	𑐥𑐾𑐳𑐵 ,
+pracalit_658.png	𑐥𑐶𑐬𑑀𑐮𑑂𑐣𑐾
+pracalit_659.png	𑐰𑐶𑐖𑑂𑐘𑐵𑐥𑐣𑐡𑐵𑐟𑐵 𑐔𑐵𑐬𑐥𑐵𑑃𑐐𑑂𑐬𑐾
+pracalit_660.png	𑐬𑐵𑐖𑐡𑐬𑐧𑐵𑐬𑐎𑐵 𑐗𑐸𑐩𑐬 ,
+pracalit_661.png	𑐥𑐬𑐶𑐞𑐩
+pracalit_662.png	𑐥𑑂𑐬𑐟𑐶𑐫𑑀𑐐𑐶𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_663.png	𑐳𑐾𑐣𑑂𑐚𑐶𑐬𑐩𑐶𑐚𑐬 𑐏𑐵𑐢𑑂𑐫𑐥𑐡𑐵𑐬𑑂𑐠
+pracalit_664.png	𑐳𑐾𑐰𑐵𑐩𑐿
+pracalit_665.png	𑐎𑐣𑑂𑐳𑑀𑐮𑐩𑐵 𑐩𑐔𑑂𑐔𑑂𑐫𑐵𑐂𑐫𑑀 ,
+pracalit_666.png	𑐐𑐬𑐵𑐄𑐣𑐹 𑑋 𑐧𑑂𑐫𑐵𑐎𑐣𑐵𑐂𑐣
+pracalit_667.png	𑐩𑐴𑐵𑐰𑐵𑐞𑐶𑐖𑑂𑐫𑐡𑐹𑐟𑐮𑐵𑐃 𑐣𑑂𑐫𑐹𑐣𑐷𑐎𑐬𑐞𑐎𑐵
+pracalit_668.png	𑐳𑑀𑐮𑑂𑐖𑐎𑑀
+pracalit_669.png	𑐡𑐷𑐥𑐎 ,
+pracalit_670.png	𑐄𑐥𑐩𑐴𑐵𑐣𑐐𑐥𑐵𑐮𑐶𑐎𑐵𑐎𑑀
+pracalit_671.png	𑐁𑐦𑐹𑐧𑐵𑐴𑐶𑐬
+pracalit_672.png	𑐳𑐿𑐣𑐶𑐎𑐴𑐬𑐸𑐎𑑀 𑑑𑑔𑑖𑑓
+pracalit_673.png	𑐡𑐬𑐵𑐖𑐧𑐵𑐚 𑐳𑐟𑑂𑐎𑐵𑐬𑐰𑐵𑐥𑐟
+pracalit_674.png	𑐬𑐾𑐎𑐬𑑂𑐜𑐶𑐒𑐩𑐿 𑐥𑐎𑑂𑐬𑐾𑐎𑑀
+pracalit_675.png	𑐧𑐶𑐧𑐬𑐞𑐮𑐵𑐃 𑐜𑐵.𑐣𑑂𑐫𑑁𑐥𑐵𑐣𑐾𑐮𑐾
+pracalit_676.png	𑐬𑐵𑐖𑐟𑐣𑑂𑐟𑑂𑐬𑐮𑐵𑐃
+pracalit_677.png	𑐀𑐩𑐾𑐖𑐣𑐎𑑀
+pracalit_678.png	𑐐𑐸𑐩𑐵𑐂𑐳𑐎𑐾 𑑋
+pracalit_679.png	𑐀𑐮𑑂𑐳𑐶
+pracalit_680.png	𑐄𑐟𑑂𑐬𑐡𑐵
+pracalit_681.png	𑐁𑐬𑑀𑐴𑐞𑐐𑐬𑑂𑐣𑐾
+pracalit_682.png	𑐜𑐷𑐥𑐷𑐁𑐬𑐎𑐵 𑐦𑐶𑐩𑐾𑐮 ,
+pracalit_683.png	𑐴𑐾𑐬𑐶𑐖𑐾𑐚
+pracalit_684.png	𑐩𑐾𑐚𑐶𑐂𑐣𑐳𑐎𑐾𑐎𑑀
+pracalit_685.png	𑐎𑐵𑐣𑑂𑐟𑐶𑐥𑐸𑐬𑐎𑑀
+pracalit_686.png	𑐮𑐳𑐸𑐣𑐮𑐾 𑐬𑐠𑐧𑐵𑐚
+pracalit_687.png	𑐂𑐣𑑂𑐚𑐬𑐣𑐾𑐚𑐮𑐵𑐃 𑐡𑑁𑐜𑐶𑐫𑑀 𑑋
+pracalit_688.png	𑐥𑐬𑐾𑐕𑐸 , 𑐎𑐚𑐸𑐰𑐵𑐮
+pracalit_689.png	𑐏𑐸𑐮𑐵𑐮
+pracalit_690.png	𑐬𑐵𑐂𑐎𑐵
+pracalit_691.png	𑐥𑑂𑐬𑐧𑐣𑑂𑐢𑐎𑐬𑑂𑐟𑐵 , 𑐁𑐫𑑀𑐖𑐣𑐵𑐳𑑃𑐐
+pracalit_692.png	𑐫𑐵𑐟𑑂𑐬𑐵𑐴𑐬𑐹𑐧𑐵𑐬𑐾 𑐏𑐳𑑂𑐎𑐶𑐬𑐴𑐾𑐎𑑀
+pracalit_693.png	(𑐐𑐠𑐾𑐎𑐶
+pracalit_694.png	𑐳𑐴𑐬𑐴𑐬𑐹𑐎𑑀
+pracalit_695.png	𑐰𑐶𑐩𑐵 , 𑐨𑐸𑐚𑐵𑐣𑐩𑐵
+pracalit_696.png	𑐂𑐩𑑂𑐥𑑂𑐫𑐵𑐎𑑂𑐚𑐳𑑃𑐐 𑐰𑐶𑐣𑐫𑐥𑐕𑐶
+pracalit_697.png	𑐩𑐶𑐏𑐵 𑐬𑐸𑐥𑐿𑐿𑐫𑐵𑑃
+pracalit_698.png	𑐱𑑄𑐎𑐬𑐣𑐐𑐬𑐩𑐵 𑐁𑐢𑐵𑐬𑐳𑐴𑐶𑐟
+pracalit_699.png	𑐡𑐸𑐂𑐚𑐵𑐩𑐵 𑐣𑐐𑐬𑐶𑐡𑐶𑐣𑐸𑐴𑑀𑐮𑐵 𑑋
+pracalit_700.png	𑐎𑐺𑐲𑑂𑐞𑐥𑐸𑐬𑐎𑑀
+pracalit_701.png	𑐣𑐶𑐣𑐾
+pracalit_702.png	𑐁𑐱𑑂𑐬𑐶𑐟𑐮𑐵𑐃 𑐳𑑂𑐥𑐲𑑂𑐚𑐷𑐎𑐬𑐞𑐳𑐩𑑂𑐩
+pracalit_703.png	𑐕𑐶𑐬𑑂𑐣𑐾𑐮𑐵𑐃
+pracalit_704.png	𑐥𑐸𑐮𑐶𑐳𑐧𑐷𑐔 𑐧𑐝𑐵𑐂𑐬𑐵𑐏𑐶𑐊𑐎𑑀
+pracalit_705.png	𑐎𑑀𑐬𑑂𑐳 ,
+pracalit_706.png	𑐖𑑂𑐘𑐵𑐣𑐶𑐣 𑐮𑐵𑐬𑑂𑐎𑐾𑐎𑑀
+pracalit_707.png	𑐴𑐸𑐣𑐎𑐵 𑐐𑐬𑐶𑐬𑐴𑐣𑐸𑐥¥𑐫𑑀 𑑋
+pracalit_708.png	𑐳𑐩𑑂𑐨𑐵𑐬𑐐𑐬𑑂𑐣 𑐐𑐬𑐶𑐣𑐾𑐕𑐣𑑂
+pracalit_709.png	𑐩𑑀𑐴𑐬𑐾𑐜𑐵𑑃𑐜𑐵𑐩𑐵
+pracalit_710.png	𑐥𑑀𑐟𑐾𑐖𑐳𑑂𑐟𑑀
+pracalit_711.png	𑐳𑐵𑐠𑐷𑐳𑐵𑐠𑐷𑐧𑐷𑐔 𑐳𑐵𑐩𑐵𑐣𑐴𑐬𑐹𑐳𑐩𑐾𑐟
+pracalit_712.png	𑐎𑐘𑑂𑐔𑐣𑐖𑑄𑐑𑐵𑐟𑐶𑐬 𑐴𑐵𑐂𑐖𑐩𑑂𑐧𑐩𑐵𑐬𑑂𑐦𑐟
+pracalit_713.png	𑐫𑑀𑐖𑐣𑐵 ?
+pracalit_714.png	𑐠𑐵𑐮𑑂𑐣𑐸𑐀𑐑𑐶 𑐰𑐣𑐵𑐄𑐣𑐎𑐵
+pracalit_715.png	𑐀𑐥𑑂𑐜𑐾𑐚
+pracalit_716.png	𑐧𑑂𑐬𑐴𑑂𑐩𑐵𑐞𑑂𑐜𑐧𑐵𑐚 𑐗𑐵𑑃𑐎𑑂𑐬𑐷𑐎𑑀
+pracalit_717.png	𑐥𑐡𑑂𑐫𑐵𑐱𑑂𑐬𑐷 𑐀𑐧𑐢𑐶
+pracalit_718.png	𑐁𑐬𑑂𑐖𑐣𑐳𑐩𑐾𑐟
+pracalit_719.png	𑐩𑐵𑐫𑐵𑐖𑐵𑐮𑐩𑐵
+pracalit_720.png	𑐚𑐵𑐬𑐾𑐬
+pracalit_721.png	𑐎𑐳𑐿𑐮𑐵𑐬𑑂𑐫 𑑑𑑕𑑕.𑑕 ,
+pracalit_722.png	𑐳𑑂𑐥𑐳𑑂𑐚𑐷𑐎𑐬𑐞𑐩𑐵
+pracalit_723.png	𑐮𑐶𑐩𑐷𑐎𑑀
+pracalit_724.png	𑐕𑐮𑐵𑐒𑐣𑐾𑐥𑐵𑐮𑐷 𑐧𑐑𑑁𑐜𑐵 ,
+pracalit_725.png	𑐥𑐸𑐬𑑂𑐫𑐵𑐊𑐮𑐐𑐟𑑂𑐟𑐿 𑐐𑐬𑐶𑐊𑐩𑐵𑐟𑑂𑐬
+pracalit_726.png	𑐩𑐿𑐡𑐵 , 𑐊𑐎𑐳𑐴𑐶𑐟
+pracalit_727.png	𑐎𑐺𑐲𑐶𑐮𑐵𑐃
+pracalit_728.png	𑐳𑑄𑐡𑐷𑐥 𑐩𑐸𑐏𑑂𑐫𑐬𑐹𑐥𑐩𑐵
+pracalit_729.png	𑐮𑐾𑐚𑐵𑐒𑑙
+pracalit_730.png	𑐳𑐣𑑂𑐟𑑀𑐲𑐳𑐶𑑄𑐴
+pracalit_731.png	𑐜𑐵.𑐁𑑃𑐔𑐮
+pracalit_732.png	𑐀𑐐𑑂𑐮𑑀
+pracalit_733.png	𑐩𑐶𑐮𑐾 ,
+pracalit_734.png	𑐰𑐳𑑂𑐟𑐸𑐴𑐬𑐹𑐳𑑃𑐐𑐿
+pracalit_735.png	𑐳𑑂𑐫𑐵𑐒𑑂𑐖𑐵𑐎𑐿 𑐩𑐵𑐠𑐶𑐎𑐵
+pracalit_736.png	𑐜𑐶𑐖𑐵𑐂𑐣𑐬𑐴𑐬𑐹𑐮𑐾
+pracalit_737.png	𑐏𑐾𑐮𑐖𑐐𑐟𑑂𑐎𑐿 𑐀𑐢𑑂𑐫𑐫𑐣𑐴𑐬𑐹𑐎𑐿
+pracalit_738.png	𑐨𑐊𑐎𑐵𑐴𑐬𑐸𑐎𑑀 𑐡𑐶𑐣𑐸𑐣
+pracalit_739.png	𑐳𑐾𑐣𑑂𑐳𑐬 𑐀𑐎𑑂𑐲𑐸𑐞𑑂𑐞𑐟𑐵
+pracalit_740.png	𑐰𑐶𑐱𑑂𑐰𑐰𑐶𑐡𑑂𑐫𑐵𑐫𑐮𑐎𑑀
+pracalit_741.png	𑐧𑐵𑐮𑐶𑐊𑐎𑑀 𑐩𑐵𑐣𑑂𑐳𑐣𑐮𑐾
+pracalit_742.png	𑐧𑐝𑑂𑐣𑐾𑐩𑐵
+pracalit_743.png	𑐧𑐴𑐳𑐳𑐴𑐶𑐟𑐎𑑀
+pracalit_744.png	𑐳𑐳𑑂𑐥𑐾𑐣𑑂𑐜𑐾𑐜 𑐩𑐶𑐚𑐬𑐖𑐟𑐶
+pracalit_745.png	𑐧𑐶𑐮𑐏𑐧𑐣𑑂𑐡 𑐥𑑂𑐬𑐫𑐵𑐳𑑒𑑑
+pracalit_746.png	𑑔.𑑔𑑔 𑐧𑐳𑑂𑐣𑐸𑐥𑐬𑑂𑐕
+pracalit_747.png	𑐐𑑂𑐫𑐵𑐧𑑀𑐣𑐵𑐂𑐖 𑐀𑐣𑑂𑐟𑐬𑑂𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐶𑐫𑐎𑐵
+pracalit_748.png	𑐖𑑂𑐫𑐵𑐣𑐳𑐩𑐾𑐟
+pracalit_749.png	𑐫𑑀𑐖𑐣𑐵𑐎𑐀𑐣𑐸𑐳𑐵𑐬
+pracalit_750.png	𑐰𑐵𑐒𑑂𑐡𑐾𑐮 𑐁𑐟𑑂𑐩𑐨𑐶𑐬𑑂𑐣𑐬
+pracalit_751.png	𑐥𑑂𑐬𑐔𑐞𑑂𑐜 , 𑐥𑑂𑐬𑐱𑑂𑐣𑐥𑐟𑑂𑐬𑐩𑐵
+pracalit_752.png	𑐰𑐶𑐡𑑂𑐫𑐵𑐬𑑂𑐠𑐷𑐳𑑃𑐐𑐿
+pracalit_753.png	𑐂𑐎𑑂𑐫𑐵𑐣𑐎𑐵
+pracalit_754.png	𑐰𑐿𑐬𑐵𑐐𑐷𑐳𑐴𑐶𑐟
+pracalit_755.png	𑐎𑑄𑐎𑑂𑐬𑐶𑐚𑐎𑐵
+pracalit_756.png	𑐎𑐺𑐲𑐶𑐎𑐬𑑂𑐩𑐳𑐩𑐾𑐟
+pracalit_757.png	𑐣𑐵𑐩𑐵𑐰𑐮𑐷𑐧𑐵𑐚 𑐧𑑂𑐮𑐸𑐩𑑂𑐧𑐬𑑂𑐐
+pracalit_758.png	𑐎𑐿𑐮𑐵𑐱𑐩𑐵
+pracalit_759.png	𑐔𑐶𑐳𑐶𑐣𑐸𑐎𑑀 𑐟𑐣𑐵𑐰𑐮𑐐𑐵𑐫𑐟
+pracalit_760.png	𑐬𑑂𑐫𑐹𑐩𑐵𑐚𑐶𑐎
+pracalit_761.png	𑐳𑐸𑐁𑐬𑐾𑐖𑐮𑐾 𑐖𑐶𑐩𑑂𑐩𑐾𑐰𑐵𑐬𑐳𑐸𑐎𑐸𑐩𑑂𑐰𑐵𑐳𑐷
+pracalit_762.png	𑐰𑐶𑐐𑐵𑐬𑐾𑐎𑐵
+pracalit_763.png	𑐩𑐶𑐛𑐸𑐮𑐾 𑐀𑐢𑑂𑐫𑐎𑑂𑐲
+pracalit_764.png	𑐀𑐳𑑂𑐠𑐵𑐫𑐷𑐮𑐵𑐃 𑐂𑐮𑐵𑐩𑐎𑐵𑐛𑐩𑐵𑐜𑑁𑑃𑐎𑑀
+pracalit_765.png	𑐎𑐵𑐂𑐩𑑂𑐴 𑐣𑑂𑐰𑐳𑑅
+pracalit_766.png	𑐴𑐬𑐎𑑀𑐴𑐷
+pracalit_767.png	𑐥𑐵𑐛𑑀 , 𑐆𑐞𑐷𑐴𑐬𑐸𑐳𑑃𑐐
+pracalit_768.png	𑐀𑐩𑐾𑐬𑐶𑐎𑐷𑐴𑐬𑐹𑐎𑑀 𑐄𑐥𑐮𑐧𑑂𑐢𑐶𑐧𑐷𑐔
+pracalit_769.png	𑐩𑐵𑐂𑐐𑑂𑐬𑐾𑐣 𑐂𑐳𑐵𑐃𑑅
+pracalit_770.png	𑐐𑑀𑐛𑐩𑐵
+pracalit_771.png	𑐩𑐣𑑂𑐔𑐸𑐬𑐶𑐫𑐵𑐩𑐵 𑐑𑐚𑐵𑐄𑐣𑐾 𑑋
+pracalit_772.png	𑐥𑐸𑐥𑑂𑐥𑐧𑐮𑐥𑐸𑐬 𑐔𑐎 ,
+pracalit_773.png	𑐧𑐵𑐮𑐎𑐴𑐬𑐸𑐮𑐾
+pracalit_774.png	𑐣𑐎𑑂𑐳𑐵𑐖𑐳𑑂𑐟𑐿
+pracalit_775.png	𑐟𑐶𑐬𑑂𑐣𑐸𑐕 𑐴𑐟𑑂𑐎𑐾𑐮𑐵𑐎𑑀
+pracalit_776.png	𑐔𑐵𑐥𑐮𑐵𑐃 𑐧𑐵𑐣𑑂𑐜
+pracalit_777.png	𑐩𑐴𑐵𑐫𑐵𑐣𑐷
+pracalit_778.png	𑐀𑐬𑑂𑐠𑐟𑐣𑑂𑐟𑑂𑐬𑐴𑐬𑐹𑐎𑑀
+pracalit_779.png	𑐧𑐵𑐴𑑂𑐬𑐩𑐵𑐳𑐾
+pracalit_780.png	𑐫𑐸𑐂𑐊𑐦𑐊𑐎𑑀 𑐰𑐶𑐩𑐵𑐣𑐳𑑂𑐠𑐮𑐩𑐿
+pracalit_781.png	𑐣𑐶𑐬𑑂𑐨𑐬𑐟𑐵𑐮𑐵𑐃 𑐦𑐹𑐜𑐩𑐵𑐞𑑂𑐜𑐸𑐰𑐷𑐔
+pracalit_782.png	𑐜𑑃𑐐𑑁𑐬𑐵𑐮𑐾
+pracalit_783.png	𑐧𑐸𑐰𑐵𑐮𑐵𑐃
+pracalit_784.png	𑑑𑑙𑑗𑑖𑑒𑑕𑑖
+pracalit_785.png	𑐢𑐣𑐸𑐲𑐐𑑂𑐬𑐵𑐩 ,
+pracalit_786.png	𑐳𑐸𑐟𑐵𑐬𑐶𑐫𑐵 ,
+pracalit_787.png	𑐧𑐵𑐮𑐧𑐶𑐵𑐮𑐎𑐵 , 𑐣𑐾𑐎𑐥𑐵𑐩𑐵𑐮𑐾𑐎𑑀
+pracalit_788.png	𑐳𑐾𑐧𑑀𑐣𑐎𑑀
+pracalit_789.png	𑐳𑐸𑐣𑑂𑐣𑐶𑐊𑐩𑐵 𑑋
+pracalit_790.png	𑐬𑐶𑐮𑐴𑐬𑐹
+pracalit_791.png	𑐥𑐡𑐩𑐧𑐴𑐵𑐡𑐸𑐬 𑐢𑐬𑑂𑐩𑐵𑐰𑐮𑐩𑑂𑐧𑐷
+pracalit_792.png	𑐠𑐰𑐵𑐒𑐧𑐵𑐚
+pracalit_793.png	𑐒𑐵𑐰𑐵𑐚𑐵𑐳𑐷 𑐣𑐶𑐴𑐷𑐟𑑂
+pracalit_794.png	𑐴𑐵𑐟𑐏𑐸𑐚𑑂𑐚𑐵𑐩𑐵 𑐧𑐵𑐢𑑂𑐫𑐟𑐵
+pracalit_795.png	𑐩𑐵𑐚 𑐩𑐐𑐬𑐴𑐬𑐸𑐎𑑀
+pracalit_796.png	𑐀𑐳𑑂𑐚𑑂𑐬𑐵𑐖𑐾𑐣𑐾𑐎𑐮𑐾
+pracalit_797.png	𑐐¥𑐫𑑁𑑄 ,
+pracalit_798.png	𑐣𑐶𑐬𑑂𑐰𑐵𑐔𑐎𑑀
+pracalit_799.png	𑐥𑐵𑑃𑐜𑐾𑐎𑑀
+pracalit_800.png	𑐎𑐬𑐡𑐵𑐟𑐵
+pracalit_801.png	𑐣𑑄𑑗 ,
+pracalit_802.png	𑐮𑐶𑐏𑐟𑐮𑐾 𑐴𑐳𑑂𑐟𑐵𑐣𑑂𑐟𑐬𑐞𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+pracalit_803.png	𑐥𑐡𑐵𑐢𑐶𑐎𑐵𑐬𑐧𑐶𑐣𑐵 𑐥𑐬𑐶𑐔𑐫𑐟𑑂𑐬
+pracalit_804.png	𑐳𑐵𑐂𑐟𑐩𑐵
+pracalit_805.png	𑐊𑐳𑐶𑐜𑐫𑐸𑐎𑑂𑐟
+pracalit_806.png	𑐄𑐥𑐩𑐴𑐵𑐳𑐔𑐶𑐰 , 𑐠𑑂𑐰𑐵𑑅
+pracalit_807.png	𑐳𑐦𑐵𑐬𑐷
+pracalit_808.png	𑐔𑐣𑑂𑐡𑑂𑐬𑐵𑐐𑐶𑐬𑐶
+pracalit_809.png	𑐊𑐖𑐷𑐊𑐮 𑐎𑐵𑐧𑐸𑐮
+pracalit_810.png	𑐩𑐵𑐰𑐮𑐷𑐩𑐵 𑐃𑐴𑑂𑐬𑐶𑐎𑐣𑐎𑐵
+pracalit_811.png	𑐀𑐩𑐮𑐵𑐎𑑀 𑐣𑐾𑐟𑐺𑐟𑑂𑐰𑐴𑐬𑐹𑐮𑐾
+pracalit_812.png	𑐣𑐺𑐟𑑂𑐫𑐩𑐵 𑐩𑐶𑐔𑐶𑐊𑐎𑑀𑐮𑐐𑐵𑐫𑐟
+pracalit_813.png	𑐬𑐐𑐟𑐎𑐵 𑐳𑐎𑑂𑐣𑐸𑐴𑐸𑐣𑑂𑐣𑐠𑑂𑐫𑑀 𑑋
+pracalit_814.png	𑐧𑐮𑐶𑐡𑐵𑐣𑐷𑐧𑐵𑐚
+pracalit_815.png	𑐜𑐶𑐳𑐶𑐊𑐩𑐳𑐷𑐎𑑀
+pracalit_816.png	𑐟𑐵𑐮𑐳𑐩𑑂𑐩𑐎𑑀
+pracalit_817.png	𑐊𑐲𑑂𑐚𑑂𑐬𑐵𑐖𑐾𑐣𑐶𑐎𑐵𑐮𑐾 𑐰𑐶𑐰𑐾𑐎𑐮𑐾
+pracalit_818.png	𑐴𑐸𑐮𑐶𑐫𑐵𑐣𑐎𑑀
+pracalit_819.png	𑐩𑐚𑑂𑐚𑐶𑐟𑐾𑐮𑐎𑑀 𑐬𑐴𑐣𑐾𑐴𑐬𑐹
+pracalit_820.png	𑐳𑐩𑑂𑐫𑐵𑐄𑐣𑐾 𑐳𑑀𑐔𑑂𑐣𑐸𑐳𑑂
+pracalit_821.png	𑐰𑑂𑐫𑐵𑐎𑐀𑐥 𑐨𑐾𑐬𑐶𑐊𑐣𑑂𑐚𑐮𑐾
+pracalit_822.png	𑐧𑐖𑑂𑐬𑐵𑐔𑐵𑐬𑑂𑐫𑐐𑐞𑐾𑐱𑐩𑐵𑐣𑐮𑐾 𑐮𑐵𑐫𑐾𑐐𑐸
+pracalit_823.png	𑐣𑑀𑐚𑐶𑐦𑐶𑐎𑐾𑐳𑐣
+pracalit_824.png	𑐕𑐵𑐥𑐵𑐏𑐵𑐣𑐵𑐴𑐬𑐹
+pracalit_825.png	𑐚𑑂𑐬𑐵𑐂𑐧𑐾𑐎𑐬𑐩𑐵 𑐳𑑂𑐮𑑂𑐫𑐵𑐰
+pracalit_826.png	𑐔𑐸𑐣𑐶𑐊𑐬 𑐀𑐣𑐸𑐲𑐵
+pracalit_827.png	𑐖𑐸𑐚𑐩𑐶𑐮𑐩𑐵 𑐨𑑀𑐖 𑑋
+pracalit_828.png	𑑒𑑖𑑙𑐳𑐵𑐮𑐳𑐩𑑂𑐩
+pracalit_829.png	𑐫𑐵𑐡𑐰𑐮𑐵𑐃 𑐳𑐸𑐃𑐫𑐵𑐩𑐵
+pracalit_830.png	𑐖𑐣𑐳𑐵𑐩𑐵𑐣𑑂𑐫𑐳𑑃𑐐 𑐳𑐵𑐂𑐧𑐬𑐳𑑂𑐚𑐵𑐬
+pracalit_831.png	𑐣𑐶𑑅𑐱𑐸𑐮𑑂𑐎𑐴𑐸𑐣𑐾 𑐱𑑂𑐬𑐷𑐰𑐵𑐳𑑂𑐟𑐰
+pracalit_832.png	𑐧𑐴
+pracalit_833.png	𑐮𑐴𑐬𑐾 𑐳𑐎𑐶𑐟𑐶𑐎𑑀
+pracalit_834.png	𑐳𑐶𑐬𑑂𑐖𑐣𑐮𑐾
+pracalit_835.png	𑐩𑑂𑐫𑐵𑐣𑑂𑐜𑐾𑐚
+pracalit_836.png	𑐰𑐵𑐂𑐰𑐵𑐂𑐎𑑀 𑐳𑐷𑐩𑐵𑑄𑐎𑐣
+pracalit_837.png	𑐎𑐸𑐴𑐵𑐂𑐫𑑀 𑑋 𑐣𑐵𑐰𑐷𑐡𑐮𑐾
+pracalit_838.png	𑐁𑐳
+pracalit_839.png	𑐨𑑂𑐫𑐵𑐎𑐸𑐩𑐳𑐸𑐬𑐸
+pracalit_840.png	𑐮𑐵𑐂𑐣𑐩𑐿 𑐥𑐵𑐚𑐵𑐩𑐵
+pracalit_841.png	𑐀𑐐𑐸𑐰𑐵𑐎𑑀 𑐕𑑂𑐫𑑄𑐐𑐹
+pracalit_842.png	𑐂𑐩𑐣𑐵𑐠
+pracalit_843.png	𑐣𑑂𑐫𑐵𑐬𑑀𑐧𑐜𑐷 𑐥𑐬𑐾𑐬𑐵𑐮𑐾
+pracalit_844.png	𑐟𑐟𑑂𑐥𑐬 𑐮𑐵𑐬𑑂𑐳𑐾𑐣
+pracalit_845.png	𑐱𑐾𑐏𑐩𑑀𑐴𑐩𑑂𑐩𑐡 𑐬𑐁𑐢𑐸𑐣𑐶𑐎
+pracalit_846.png	𑐑𑐚𑐑𑐚𑐧𑐵𑐳𑐷
+pracalit_847.png	𑐣𑑀𑐩𑐶𑐣𑐾𑐳𑐣𑐮𑐾 𑐥𑑂𑐬𑐰𑐔𑐣𑐎𑑀
+pracalit_848.png	𑐄𑐡𑑂𑐫𑑀𑐐𑐩𑐣𑑂𑐟𑑂𑐬𑐷𑐎𑑀
+pracalit_849.png	𑐧𑑂𑐮𑑀𑐣 , 𑐖𑑀𑐴𑐬𑐷𑐮𑐵𑐃
+pracalit_850.png	𑐧𑐶𑐟𑑀𑐳𑑂 𑑋
+pracalit_851.png	𑐨𑐵𑐬𑐡𑐴
+pracalit_852.png	𑐁𑐊𑐣𑐣𑑂
+pracalit_853.png	𑐱𑐎𑑂𑐟𑐶𑐳𑐩𑐾𑐟
+pracalit_854.png	𑐖𑑂𑐫𑐵𑐛𑐵 𑑓𑑒𑑓.𑑔
+pracalit_855.png	𑐧𑐵𑑃𑐚𑑂𑐠𑑂𑐫𑑀 𑑋
+pracalit_856.png	𑐧𑐵𑐬𑑂𑐣𑐹 𑑋
+pracalit_857.png	𑐎𑐴𑐵𑑃𑐧𑐵𑐚 ? 𑐩𑐸𑐎𑑂𑐟𑐎𑐮𑐵𑐃
+pracalit_858.png	𑐳𑑂𑐚𑐵𑐬𑐎𑑀 𑐧𑐝𑐵𑐬𑑂𑐣
+pracalit_859.png	𑐎𑐵𑐬𑑂𑐫𑐵𑐮𑐫𑐳𑐩𑐾𑐟
+pracalit_860.png	𑐐𑐬𑐾 .
+pracalit_861.png	𑐳𑐘𑑂𑐔𑐶𑐟𑐷𑐩𑐵 𑐩𑐵𑐬𑑂𑐎𑐬
+pracalit_862.png	𑐧𑐬𑑂𑐡𑐶𑐫𑐵 ,
+pracalit_863.png	𑐳𑑄𑐑𑐵𑐃 𑐎𑐵𑐛𑐩𑐵𑐜𑑁𑑄𑐥𑐕𑐶
+pracalit_864.png	𑐀𑐣𑐸𑐩𑐵𑐣𑐩𑐵
+pracalit_865.png	𑐨𑐵𑐐𑑂𑐫𑑀𑐡𑐫
+pracalit_866.png	𑐎𑐸𑐴𑐵𑐊𑐎𑑀 𑐧𑐵𑐮𑐩𑐣𑑀𑐰𑐶𑐖𑑂𑐘𑐵𑐣𑐎𑑀
+pracalit_867.png	𑐂𑐳𑐶𑐖𑐷
+pracalit_868.png	𑐡𑐾𑐮𑐵𑐣𑑂
+pracalit_869.png	𑐚𑑂𑐬𑐾𑐎𑐶𑐒𑐩𑐵
+pracalit_870.png	𑐀𑐣𑐮𑐵𑐂𑐣𑐏𑐧𑐬𑐎𑐬𑑂𑐩𑐷
+pracalit_871.png	𑐩𑐸𑐾𑐮𑐸𑐎𑐩𑐵
+pracalit_872.png	𑐠𑐎𑐵𑑅 𑐐𑐸𑐛𑐷𑐎𑐿
+pracalit_873.png	𑐬𑐵𑐄𑐚𑐶𑐒𑐩𑐵
+pracalit_874.png	𑐕𑐸𑐚𑑂𑐚𑑂𑐫𑐵𑐊𑐬 𑐧𑐵𑐢𑑂𑐫𑐟𑐵𑐮𑐾 ,
+pracalit_875.png	𑐧𑐵𑐢𑑂𑐫𑐟𑐵𑐮𑐾 𑐂𑐬𑐶𑐧𑐵𑐒
+pracalit_876.png	𑐰𑐾𑐡𑐮𑐾 𑐕𑑁𑑃 ?
+pracalit_877.png	𑐥𑑂𑐬𑐖𑐵𑐟𑐶𑐴𑐬𑐹𑐩𑐢𑑂𑐫𑐾 𑐀𑐢𑑂𑐫𑐵𑐐𑐩𑐣𑐎𑑀
+pracalit_878.png	𑐥𑑂𑐬𑐢𑐵𑐣𑐩𑐣𑑂𑐟𑑂𑐬𑐷𑐳𑐨𑐵𑐩𑐸𑐏
+pracalit_879.png	𑐩𑐬𑑂𑐳𑑂𑐫𑐵𑐒𑑂𑐡𑐷𑐎𑐵
+pracalit_880.png	𑐢𑐣𑐧𑐴𑐵𑐡𑐸𑐬𑐮𑐵𑐃 𑐃𑐥𑐾𑐩𑐾𑐣𑑂𑐚𑐧𑐵𑐚
+pracalit_881.png	𑑒𑑖𑑓𑑖𑑔
+pracalit_882.png	𑐥𑐱𑑂𑐔𑐶𑐩𑐵𑐴𑐬𑐹 𑑋 𑐨𑐊𑐎𑐵
+pracalit_883.png	𑐰𑐶𑐩𑐵𑐣𑐳𑑂𑐠𑐮𑐳𑐩𑑂𑐧𑐡𑑂𑐢
+pracalit_884.png	𑐥𑐵𑐎𑐶𑐳𑑂𑐟𑐵𑐣𑐮𑐐𑐵𑐫𑐟
+pracalit_885.png	𑐀𑐜𑐶𑐊𑐎𑐿
+pracalit_886.png	𑐖𑐾𑐛𑐷𑐳𑐵𑐳𑐹 𑐬𑐶𑐳𑑀𑐬𑑂𑐚𑐩𑐵
+pracalit_887.png	𑐳𑑁𑐏𑐶𑐣𑐴𑐬𑐹
+pracalit_888.png	𑐳𑑄𑐎𑐮𑑂𑐥 , 𑐧𑑂𑐫𑐵𑐚𑐶𑐒𑐟𑐬𑑂𑐦
+pracalit_889.png	𑐏𑐳𑑂𑐎𑐣𑐸𑐎𑑀 𑐣𑐨𑐊𑐎𑑀
+pracalit_890.png	𑐐𑑂𑐮𑑀𑐧𑐮𑐎𑐾𑐣𑑂𑐡𑑂𑐬𑐶𑐫 𑑕𑑖.𑑖
+pracalit_891.png	𑐂𑐣𑐎𑐬𑑂𑐥𑑀𑐬𑐾𑐚𑐎𑑀 𑐬𑑀𑐚𑐷𑐧𑐾𑐚𑐷𑐎𑑀
+pracalit_892.png	𑐣𑐣𑐦𑐶𑐎𑑂𑐳𑐣𑐩𑐵 𑐥𑑂𑐬𑑄𑐲𑑂𑐚𑑂𑐫𑐵𑐄𑐣
+pracalit_893.png	𑐐𑐊𑐎𑐵𑐩𑐢𑑂𑐫𑐾 𑐱𑐶𑐏𑐬𑐮𑐵𑐮
+pracalit_894.png	𑐥𑐵𑐄𑐣𑐾𑐰𑐵𑐮𑐵 𑐣𑐸𑐣𑐟𑐾𑐮 ,
+pracalit_895.png	𑐔𑐾𑐟𑐬𑐵𑐩
+pracalit_896.png	𑐴𑐿
+pracalit_897.png	𑐥𑐹𑐬𑑂𑐰𑐩𑐣𑑂𑐟𑑂𑐬𑐷𑐎𑑀
+pracalit_898.png	𑐧𑐚𑐸𑐰𑐵𑐴𑐬𑐹𑐩𑐵𑐠𑐶𑐳𑐩𑐾𑐟
+pracalit_899.png	𑐁𑐎𑐵𑐳𑐩𑐿 𑐳𑐶𑐮𑐵𑐂𑐎𑐚𑐵𑐂𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+pracalit_900.png	𑐡𑐾𑐌𑐳𑑂
+pracalit_901.png	𑐥𑑂𑐰𑐵𑐂𑐣𑑂𑐚
+pracalit_902.png	𑐎𑑂𑐫𑐸𑐊𑐮𑐂𑐜𑐷
+pracalit_903.png	𑐴𑐰𑐵𑐬𑐷 𑐐𑐸𑐬𑐸𑐒𑑂
+pracalit_904.png	𑐎𑐸𑑄;
+pracalit_905.png	𑐧𑐶𑐱𑑂𑐰𑐵𑐳𑐑𑐵𑐟
+pracalit_906.png	𑐣𑐬𑑀𑐎𑑂𑐡𑐵
+pracalit_907.png	𑐳𑐧 𑑋
+pracalit_908.png	𑐥𑐵𑐚𑐾𑐧𑐵𑐑𑐎𑑀
+pracalit_909.png	𑐥𑐬𑐶𑐰𑐬𑑂𑐟𑐣𑐳𑐴𑐶𑐟𑐎𑑀 𑐧𑐣𑑂𑐡𑐷𑐥𑐸𑐬𑐧𑐵𑐚
+pracalit_910.png	𑐨𑐵𑐐𑐶𑐣𑑂𑐣 𑑋 𑐩𑐵𑐣𑐾𑐎𑑀 ,
+pracalit_911.png	𑐰𑑂𑐫𑐰𑐴𑐵𑐬𑐳𑑃𑐐 𑐥𑑂𑐬𑐟𑐶𑐮𑐶𑐥𑐶𑐩𑐵
+pracalit_912.png	𑑓𑑔𑑖.𑑔𑑖 ,
+pracalit_913.png	𑐂𑐎𑐵𑐃𑐴𑐬𑐹 𑐗𑐬𑐷𑐳𑑃𑐐𑐿
+pracalit_914.png	𑐨𑐵𑐂𑐧𑐴𑐶𑐣𑐷 𑐬𑑀𑐩𑐾𑐮𑐷𑐴𑐬𑐹𑐮𑐾
+pracalit_915.png	𑐳𑐸𑐰𑐶𑐢𑐵𑑑𑑕 𑐁𑐮𑐚𑐵𑐮𑐾
+pracalit_916.png	𑐡𑐵𑐦𑑂𑐰𑑅 𑐥𑑂𑐬𑐵𑐫𑑅𑐖𑐳𑑀
+pracalit_917.png	𑐕÷𑐕𑐿𑐣 ? 𑐟𑐸𑐬𑑂𑐐𑐾𑐣𑐾𑐨
+pracalit_918.png	𑐁𑐎𑐵𑐱𑐖𑐳𑑂𑐟𑐿 𑑋 𑐨𑐾𑐬𑐶𑐫𑐣𑑂𑐚𑐎𑑀
+pracalit_919.png	𑐔𑐶𑐟𑐰𑐣𑐰𑐵𑐳𑐷𑐧𑐵𑐚
+pracalit_920.png	𑐎𑑂𑐮𑐳𑑂𑐚𑐬𑐩𑐵 𑐎𑐸𑐟𑐸𑑄
+pracalit_921.png	𑐨𑐵𑑃𑐜𑐶𑐊𑐥𑐕𑐶 𑐀𑐣𑐸𑐨𑐹𑐟𑐶𑐎𑑀
+pracalit_922.png	𑐦𑑂𑐫𑐵𑑃𑐎𑐾𑐬 , 𑐰𑐵𑐫𑐸𑐸𑐳𑑃𑐐𑐿
+pracalit_923.png	𑐊𑐩𑐦𑐾𑐚𑐵𑐩𑐵𑐃𑐣 𑐬𑐾𑐜𑐶𑐫𑑀𑐧𑐵𑐚
+pracalit_924.png	𑐥𑑂𑐬𑑂𑐬𑐱𑑂𑐣𑐵𑐰𑐮𑐷
+pracalit_925.png	𑐴𑐾𑐦𑐬 𑐰𑐵𑐬𑐾
+pracalit_926.png	𑐀𑑃𑐛𑑂𑐫𑐵𑐊 𑑋
+pracalit_927.png	𑐐𑐵𑐂𑐜𑐮𑐐𑐵𑐫𑐟
+pracalit_928.png	𑐎𑐶𑐟𑐵𑐧𑐷
+pracalit_929.png	𑐎𑑂𑐫𑐵𑐬𑐵𑐨𑐵𑐣 𑐎𑐸𑐲𑑂𑐛𑐬𑑀𑐐𑐷𑐎𑐵
+pracalit_930.png	𑐥𑑂𑐬𑐩𑐸𑐴𑐏𑐴𑐬𑐸 𑐳𑐶𑐎𑐵𑐬𑐷𑐧𑐵𑐚
+pracalit_931.png	𑐬𑐵𑐖𑐥𑐬𑐶𑐰𑐵𑐬
+pracalit_932.png	𑐧𑐶𑐖𑐸𑐎𑑂𑐕𑐾𑐮𑐾 𑐳𑐦𑐠𑐐𑑂𑐬𑐴𑐞
+pracalit_933.png	𑐚𑑂𑐰𑐶𑐚𑐬𑐩𑐵𑐬𑑂𑐦𑐟 𑐳𑐶𑐣𑑀𑐦𑐬𑑂𑐩𑐧𑐵𑐚
+pracalit_934.png	𑐬𑐵𑐖𑐨𑐞𑑂𑐜𑐵𑐬𑐷 𑑋
+pracalit_935.png	𑐜𑐾𑐣𑑂𑐜𑑂𑐬𑑀𑐧𑐶𑐫𑐩𑑂𑐎𑐵
+pracalit_936.png	𑐐𑐵𑐣𑐵𑐧𑐖𑐵𑐣𑐵
+pracalit_937.png	𑐳𑐎𑐶𑐣𑑂𑐠𑑂𑐫𑑀
+pracalit_938.png	𑑖𑐳𑐫 𑐐𑐿𑐬𑐨𑑁𑐐𑑀𑐮𑐶𑐎
+pracalit_939.png	𑐔𑐶𑐣𑑂𑐡𑐿𑐣𑐠𑐾 𑑋 𑐳𑐸𑐎𑑂𑐏𑐵𑐫𑐵𑐩
+pracalit_940.png	𑐩𑐔𑐵 𑐩𑐴𑐵𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐳𑐩𑑂𑐩𑐎𑑀
+pracalit_941.png	𑐫𑐡𑐸𑐣𑐵𑐠
+pracalit_942.png	𑐮𑐑𑐸𑐰𑐶𑐟𑑂𑐟 , 𑐫𑐷𑐢𑑂𑐫𑐾
+pracalit_943.png	𑐮𑐶𑐣𑐸𑐨𑐊𑐎𑑀
+pracalit_944.png	𑐮𑐦𑐜𑐵𑐴𑐬𑐹𑐮𑐾
+pracalit_945.png	𑐳𑐶𑐎𑐵𑐄𑑃𑐡𑐵
+pracalit_946.png	𑐀𑐐𑐸𑐰𑐵𑐴𑐬𑐸
+pracalit_947.png	𑐳𑑂𑐚𑐾𑐥 𑐥𑐡𑐴𑐬𑐸𑐎𑐵
+pracalit_948.png	𑐎𑑂𑐫𑐵𑐜𑐾𑐜 𑐎𑐸𑐮𑑂𑐔𑐾𑐬
+pracalit_949.png	𑐡𑐵𑐴𑐵𑐮𑐧𑐵𑐚 𑐣𑐰𑐮𑐥𑐬𑐵𑐳𑐷𑐥𑐹𑐬𑑂𑐰𑐷
+pracalit_950.png	𑐄𑐴𑐵𑑃𑐮𑐵𑐃
+pracalit_951.png	𑐊𑐩𑐵𑐮𑐾𑐎𑐵𑐮𑐾
+pracalit_952.png	𑐬𑐵𑐖𑐰𑐶𑐬𑐵𑐖𑐴𑐣𑐸𑐩𑐵𑐣𑐣𑐐𑐬
+pracalit_953.png	𑐣𑑂𑐫𑐵𑐫𑐔𑐵𑐴𑐶𑑃 𑐣𑐾𑐥𑐵𑐮𑐣𑐶𑐎𑐚𑐎𑐵
+pracalit_954.png	𑐊𑐖𑐾𑐞𑑂𑐜𑐵𑐎𑐵 𑐁𑐩𑐄𑐥𑐨𑑀𑐎𑑂𑐟𑐵𑐎𑑀
+pracalit_955.png	𑐳𑑂𑐰𑐵𑐬𑐾𑐖𑐎𑑀 𑐍𑐛𑑂𑐛𑐷 ,
+pracalit_956.png	𑐊𑐴𑐟𑐾𑐬𑐵𑐖𑐩𑐵
+pracalit_957.png	𑐄𑐔𑑂𑐔𑐩𑐢𑑂𑐫𑐩
+pracalit_958.png	𑐔𑐸𑑃𑐜𑑂𑐫𑑀 𑑋 𑐐𑐶𑐬𑑀𑐴𑐮𑐵𑐃
+pracalit_959.png	𑐳𑐨𑐵𑐥𑐟𑐶𑐴𑐬𑐸𑐳𑑃𑐐
+pracalit_960.png	𑐬𑐵𑐖𑑂𑐫𑐬𑑀𑐴𑐞 ,
+pracalit_961.png	𑐀𑐩𑐺𑐟𑐩𑐫
+pracalit_962.png	𑐧𑐵𑐮𑐎𑐸𑐩𑐵𑐬𑐷𑐎𑑀
+pracalit_963.png	𑐎𑐩𑑂𑐥𑐶𑐚𑐶𑐚𑐶𑐨 𑐧𑐵𑐐𑑂𑐡𑑂𑐰𑐵𑐬 ,
+pracalit_964.png	𑐩𑐿𑐡𑐵𑐎𑑀
+pracalit_965.png	𑐧𑐸𑐗𑐶𑐳𑐎𑐾𑑄
+pracalit_966.png	𑐖𑐜𑐶𑐧𑐸𑐚𑐷𑐧𑐵𑐚 𑐣𑐾𑐥𑐵𑐮𑐥𑐬𑑂𑐰𑐟𑐵𑐬𑑀𑐴𑐞
+pracalit_967.png	𑐛𑐴𑐬𑑂𑐫𑐵𑐊𑐎𑐵 𑐦𑐵𑐂𑐧𑑂𑐬𑑀𑐊𑐜𑐶𑐣𑑀𑐩𑐵
+pracalit_968.png	𑐴𑐮𑑂𑐚 𑐡𑐵𑐟𑐺𑐣𑐶𑐎𑐵𑐫
+pracalit_969.png	𑐔𑐶𑐎𑐶𑐟𑑂𑐳𑐎𑐴𑐬𑐹𑐧𑐵𑐚 𑐰𑐶𑐎𑐾𑐱𑐮𑐵𑐃
+pracalit_970.png	𑐬𑐵𑐎𑑂𑐲𑐳𑐎𑑀 𑐴𑑀𑐮𑐶𑐎𑐵
+pracalit_971.png	𑐳𑐸𑐡𑐬𑑂𑐱𑐣 𑐎𑐣𑐎𑐮𑐟𑐵
+pracalit_972.png	𑐀𑐬𑑀𑐥𑐩𑐵
+pracalit_973.png	𑐫𑑀𑐖𑐣𑐵𑐥𑐹𑐬𑑂𑐰𑐎
+pracalit_974.png	𑐏𑐵𑐣𑐾𑐥𑐵𑐣𑐶 𑐥𑐸𑐸𑐣𑑅
+pracalit_975.png	𑐥𑐵𑑃𑐔𑑁𑑄𑐡𑐾𑐏𑐶 𑐣𑐾𑐟𑐵𑐳𑐵𑐩𑐸
+pracalit_976.png	𑐖𑐣𑐬𑐵
+pracalit_977.png	𑐳𑐨𑑂𑐫𑐟𑐵𑐩𑐿
+pracalit_978.png	𑐕𑐸𑐚𑐵𑐄𑐣𑐾 𑐁𑐒𑑂𑐧𑑀𑐮𑐾
+pracalit_979.png	𑐧𑐳𑐧𑐵𑐚
+pracalit_980.png	𑐀𑐚𑑀𑐩𑐾𑐚𑐶𑐎 , 𑐥𑑂𑐬𑐟𑐶𑐫𑑀𑐐𑐷𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_981.png	𑐴𑐿𑐣 𑐎𑐥𑐵𑐜𑐷
+pracalit_982.png	𑐮𑐾𑐏𑐶𑐂𑐬𑐴𑐾𑐎𑐵 𑐎𑑂𑐫𑐵𑐨𑐮𑐷
+pracalit_983.png	𑐴𑑀𑐎𑐬𑑂𑐩𑐮𑐾
+pracalit_984.png	𑐥𑐷𑐜𑐵𑐩𑐫 𑐳𑑂𑐟𑑂𑐬𑐷𑐎𑑀
+pracalit_985.png	𑐨𑐵𑐲𑑂𑐫
+pracalit_986.png	𑐖𑐸𑐬𑑂𑐩𑐸𑐬𑐵𑐂𑐬𑐴𑐾𑐎𑑀𑐩𑐵 𑐀𑐦𑐶𑐩𑐔𑐷𑐎𑑀
+pracalit_987.png	𑐮𑐐𑐵𑐫𑐟𑐧𑐶𑐔 𑐨𑐸𑐖𑐵𑐮𑐾
+pracalit_988.png	𑐧𑑂𑐫𑐸𑑃𑐗𑐵𑐄𑑃𑐠𑑂𑐫𑑀 𑐣𑐮𑐐𑐵𑐜𑐎𑑀
+pracalit_989.png	𑐥𑐜𑑂𑐎𑐶𑐫𑑀 𑐐𑐿𑐿𑑃𑐜𑐵 ,
+pracalit_990.png	𑐥𑑂𑐬𑐡𑐵𑐫𑐎𑐨𑐣𑑂𑐡𑐵
+pracalit_991.png	𑐥𑐵𑐥𑐮𑐾 𑐴𑐵𑐳𑐶𑐩𑐖𑐵𑐎𑐩𑐿
+pracalit_992.png	𑐂𑐮𑐾𑐩𑐾𑐣𑑂𑐚𑐴𑐬𑐹𑐎𑑀
+pracalit_993.png	𑐧𑑂𑐬𑐵𑐄𑐖𑐶𑐒 𑐣𑐰𑐮𑐳𑐶𑑄𑐴
+pracalit_994.png	𑐬𑑀𑐂𑐫𑑀 𑐬𑐵𑐰𑐞𑐴𑐬𑐹
+pracalit_995.png	𑐥𑑂𑐬𑐟𑐶𑐱𑐮𑐾
+pracalit_996.png	𑐧𑐔𑑂𑐕 ,
+pracalit_997.png	𑐫𑐸𑐰𑐬𑐵𑐖
+pracalit_998.png	𑐗𑐸𑐞𑑂𑐜𑑂𑐫𑐵𑐂𑐣𑑂𑐕 𑑋 𑐌𑐩𑐵𑐣𑐎𑐵
+pracalit_999.png	𑐣𑐶𑐠𑐵𑐬𑐶𑐳𑐎𑐾𑐎𑐷 𑐥𑐬𑑂𑐏𑐶𑐣
+pracalit_1000.png	𑐀𑐮𑐸
+pracalit_1001.png	𑐖𑐣𑑂𑐫𑐎𑐵𑐬𑑂𑐫𑐩𑐵 𑐥𑐴𑐶𑐮𑐾𑐨𑐣𑑂𑐡𑐵
+pracalit_1002.png	𑐳𑐩𑐳𑑂𑐫𑐵𑐴𑐬𑐸𑐩𑐵
+pracalit_1003.png	𑐳𑑂𑐠𑐮𑐡𑐾𑐏𑐶 𑐀𑐕𑐵𑐩𑐧𑐵𑐳𑐷
+pracalit_1004.png	𑐳𑐬𑐮 , 𑐜𑑂𑐬𑐾𑐳𑐩𑐵
+pracalit_1005.png	𑐧𑐵𑐮𑐰𑐶𑐎𑐵𑐳𑐩𑐵
+pracalit_1006.png	𑐀𑐨𑐶𑐰𑐺𑐡𑑂𑐑𑐶
+pracalit_1007.png	𑐰𑐶𑐮𑐵𑐳𑐶𑐟𑐵𑐥𑐹𑐬𑑂𑐞 𑐨𑐣𑑂𑐣𑐸𑐨𑐊𑐕 𑑋
+pracalit_1008.png	𑐳𑐒𑑂𑐏𑐸𑐰𑐵𑐳𑐨𑐵 ,
+pracalit_1009.png	𑐠𑐥𑐑𑐚𑐳𑑃𑐐
+pracalit_1010.png	𑐖𑑀𑐳𑐩𑐣𑐷
+pracalit_1011.png	𑐳𑑂𑐰𑐶𑐩𑐶𑐒𑐎𑐵 𑐜𑐧𑑂𑐮𑐸𑐚𑐷𑐁𑐃
+pracalit_1012.png	𑐩𑑂𑐫𑐵𑐐𑑂𑐣𑐳
+pracalit_1013.png	𑐮𑑂𑐫𑐵𑐜 𑐨𑑂𑐫𑐹𑐖𑐎𑑀
+pracalit_1014.png	𑐁𑐰𑐱𑑂𑐫𑐎𑐟𑐵
+pracalit_1015.png	𑐰𑐷𑐬𑐐𑐣𑑂𑐖𑐧𑐵𑐚
+pracalit_1016.png	𑐡𑐵𑐒𑐏𑑀𑐮𑐵𑐎𑑀 𑐴𑐾𑐬 𑑋
+pracalit_1017.png	𑐴𑐟𑑂𑐫𑐵𑐥𑐕𑐶 𑐡𑐵𑐫𑐶𑐟𑑂𑐰𑐴𑐬𑐸
+pracalit_1018.png	𑐔𑐶𑐣𑐵𑐄𑐣𑐸𑐨𑐊𑐎𑑀 𑐥𑐸𑐳𑑂𑐟𑐵𑐎𑑀
+pracalit_1019.png	𑐩𑐶𑐔𑐾𑐎𑑀𑐩𑐵 𑐀𑐩𑐾𑐖𑐣𑐖𑐳𑑂𑐟𑐵
+pracalit_1020.png	𑐡𑐸𑐬𑐸
+pracalit_1021.png	𑐔𑐵𑐬𑐖𑐣𑐵𑐧𑐵𑐴𑐾𑐎
+pracalit_1022.png	𑐡𑐸𑐴𑐸𑐣𑐾 𑐳𑐶𑑄𑐴𑐳𑐵𑐬𑑂𑐠𑐧𑐵𑐴𑐸𑐎𑑀
+pracalit_1023.png	𑐳𑐶𑐐𑑂𑐡𑐾𑐮 ,
+pracalit_1024.png	𑐣𑐸𑐴𑐵𑐂𑐳𑐎𑐾𑐥𑐕𑐶
+pracalit_1025.png	𑐎𑐩𑐶𑐚𑐷𑐴𑐬𑐹𑐎𑑀 𑐎𑐳𑑂𑐚𑐳𑑃𑐐
+pracalit_1026.png	𑑘𑑗 𑐥𑐸𑐣𑐬𑐵𑐰𑑀𑐮𑐎𑐣𑐫𑑀𑐐𑑂𑐫
+pracalit_1027.png	𑐬𑐳𑑂𑐳𑐵𑐎𑐳𑐷
+pracalit_1028.png	𑐊𑐩𑑂𑐧𑐸𑐮𑐾𑐣𑑂𑐳 , 𑐨𑐎𑑀
+pracalit_1029.png	𑐰𑐵𑐮𑐾𑐣𑑂𑐳𑑂𑐎𑐷𑐩𑐵 𑑋
+pracalit_1030.png	𑐂𑐊𑐩𑐊𑐡𑑂𑐰𑐵𑐬𑐵
+pracalit_1031.png	𑐦𑐮𑐵𑐣𑐵𑐮𑐾 𑐱𑐴𑐬𑐩𑐿
+pracalit_1032.png	𑐌𑐨𑐬𑐶𑐫𑐣 𑐁𑐱𑑂𑐔𑐬𑑂𑐫𑐮𑐾
+pracalit_1033.png	𑐡𑑀𑐣𑐵 𑐁𑐦𑐣𑑂𑐟𑐧𑐵𑐚
+pracalit_1034.png	𑐡𑐵𑐧𑐵
+pracalit_1035.png	𑐦𑐬𑑂𑐩𑐵𑐂𑐳𑐩𑐵
+pracalit_1036.png	𑐐𑑀𑐮𑑂𑐜𑐎𑐥𑐩𑐵 𑐥𑐝𑑂𑐡𑐵𑐎𑑀
+pracalit_1037.png	𑐥𑐬𑑂𑐦𑐬𑑂𑐩𑐾𑐣𑑂𑐳𑐩𑐵 𑐊𑐎𑐔𑐵𑐮𑐶𑐳
+pracalit_1038.png	𑐎𑐾𑐖𑐷𑐧𑐵𑐚 𑑑𑑗𑑒𑐐 ,
+pracalit_1039.png	𑐁𑑃𑐏𑐷𑐗𑑂𑐫𑐵𑐮
+pracalit_1040.png	𑐴𑐾𑐬𑑂𑐡𑐵𑐴𑐬𑑂𑐡𑐿
+pracalit_1041.png	𑐧𑐵𑐧𑐸𑐬𑐵𑐩𑐖𑐷𑐮𑐵𑐃
+pracalit_1042.png	𑐄𑐟𑑂𑐏𑐣𑐣𑐩𑐵𑐬𑑂𑐦𑐟 𑐰𑐶𑐳𑑂𑐦𑑀𑐚𑐣 ,
+pracalit_1043.png	𑐳𑐘𑑂𑐔𑐵𑐬𑐩𑐵𑐢𑑂𑐫𑐩𑐴𑐬𑐹𑐎𑐵
+pracalit_1044.png	𑐎𑐵𑐬𑑂𑐧𑑀𑐴𑐵𑐂𑐜𑑂𑐬𑐾𑐜
+pracalit_1045.png	𑐛𑐴𑐬𑐶𑑄𑐡𑐿𑐣 𑐳𑐶𑐘𑑂𑐔𑐵𑐃𑐩𑐣𑑂𑐟𑑂𑐬𑐷
+pracalit_1046.png	𑑙𑐳𑑀𑐩𑐧𑐵𑐬 𑐆𑐲𑐶𑐬𑐵𑐖
+pracalit_1047.png	𑐡𑑂𑐰𑐣𑑂𑐡𑑂𑐰𑐥𑐷𑐜𑐶𑐟𑐮𑐵𑐃 𑐎𑐬𑐸𑐞𑐵
+pracalit_1048.png	𑐟𑐵𑐩𑑂𑐬𑐥𑐟𑑂𑐬𑐮𑐾 𑐎𑐺𑐲𑑂𑐞𑐵𑐮𑐾
+pracalit_1049.png	𑐖𑐐𑑂𑐐𑐵𑐢𑐣𑐷𑐳𑑃𑐐 𑐣𑐡𑐷
+pracalit_1050.png	𑐀𑐳𑐩𑐗𑐡𑐵𑐬𑐷𑐧𑐷𑐔𑐧𑐵𑐚
+pracalit_1051.png	𑐩𑑀𑐴𑐣𑐥𑑂𑐬𑐳𑐵𑐡 𑐰𑐷𑐬𑐐𑐣𑑂𑐖𑐛𑑀𑐬𑐷
+pracalit_1052.png	𑐧𑑂𑐫𑐰𑐳𑐵𑐫
+pracalit_1053.png	𑐡𑐸𑐃𑐡𑐶𑐣𑐀𑐑𑐶
+pracalit_1054.png	𑐟𑐶𑐣𑐎𑑀
+pracalit_1055.png	𑐂𑐣𑑂𑐳𑑂𑐫𑑀𑐬𑐾𑐣𑑂𑐳𑐳𑐴𑐶𑐟
+pracalit_1056.png	𑐳𑑄𑐰𑐶𑐢𑐵𑐣𑐳𑐶𑐟
+pracalit_1057.png	𑐰𑐵𑐟𑐵𑐰𑐬𑐞𑐳𑑃𑐐
+pracalit_1058.png	𑐫𑐸𑐣𑐶𑐫𑐣𑐮𑐾 𑐡𑐾𑐏𑑂𑐫𑑁 𑑋
+pracalit_1059.png	𑐩𑐮𑐒𑑂𑐐𑐰𑐵𑐎𑐵
+pracalit_1060.png	𑐩𑐵𑐳𑑂𑐎𑐾
+pracalit_1061.png	𑐏𑐵𑐐𑐎𑑀
+pracalit_1062.png	𑐚𑐵𑑃𑐜𑐷
+pracalit_1063.png	𑐥𑐿𑐡𑐮𑐫𑐵𑐟𑑂𑐬𑐷𑐮𑐵𑐃
+pracalit_1064.png	𑐳𑐔𑑂𑐔𑐶𑐣 𑐁𑐦𑐸𑐴𑐬𑐸𑐎𑐵
+pracalit_1065.png	𑐔𑐮𑐵𑐄𑐣𑐎𑑀
+pracalit_1066.png	𑐩𑐸𑐐𑑂𑐮𑐶𑐣 , 𑐨𑐵𑐬𑐟𑐎𑐰
+pracalit_1067.png	𑐴𑐶𑐬𑑀𑐴𑐬𑐸𑐎𑑀 𑐁𑐎𑐵𑑄𑐎𑑂𑐲𑐷𑐳𑐵𑐩𑐸
+pracalit_1068.png	𑐎𑐵𑐫𑐳𑑂𑐠 𑑋
+pracalit_1069.png	𑐥𑐵𑐂
+pracalit_1070.png	𑐰𑐶𑐖𑑂𑐘𑐵𑐣𑐳𑑃𑐐
+pracalit_1071.png	𑐥𑑂𑐬𑐵𑐰𑐶𑐮𑐵𑐃 𑐥𑐸¥𑐫𑐵𑐂𑐊𑐎𑑀 ,
+pracalit_1072.png	𑐣𑐥𑐸𑑄𑐱𑐎𑐟𑐵𑐩𑐵 𑐊𑐣𑐊𑐳𑐖𑐾𑐊𑐦
+pracalit_1073.png	𑐰𑐎𑑂𑐟𑐶
+pracalit_1074.png	𑐳𑐣𑐎𑐎𑑀
+pracalit_1075.png	𑐳𑑂𑐰𑐷𑐚𑐏𑐖𑐵𑐣𑐵
+pracalit_1076.png	𑐧𑐵𑑃𑐗𑑀𑐥𑐣𑐧𑐵𑐴𑐾𑐎
+pracalit_1077.png	𑐳𑐣𑑂𑐔𑐵𑐩𑐵𑐣 𑐡𑐾𑐰𑐟𑐵𑐳𑑃𑐐𑐿
+pracalit_1078.png	𑐰𑐬𑑂𑐔𑐳𑑂𑐰 𑐳𑐴𑐫𑑀𑐐𑐡𑐵𑐟𑐵𑐩𑐵𑐬𑑂𑐦𑐟
+pracalit_1079.png	𑐊𑐩𑐥𑐷𑐎𑐿
+pracalit_1080.png	𑐥𑑂𑐬𑐟𑐶𑐥𑑂𑐬𑐱𑑂𑐣𑐴𑐬𑐹𑐎𑑀
+pracalit_1081.png	𑐄𑐎𑑂𑐮𑐶𑐣𑐾 𑐴𑐎𑐩𑐵𑐠𑐶
+pracalit_1082.png	𑐟𑑂𑐫𑐴𑐵𑑃𑐳𑑂𑐠𑐶𑐟
+pracalit_1083.png	𑐣𑐨𑐊𑐩𑐵 𑐩𑐵𑐬𑑂𑐎𑑂𑐳𑐰𑐵𑐡 ,
+pracalit_1084.png	𑐴𑐶𑑃𑐜𑑂𑐡𑐾 𑐣𑐵𑐂𑐖𑐾𑐬𑐶𑐫𑐵𑐩𑐵
+pracalit_1085.png	𑐁𑐂𑐖𑐷𑐥𑐷
+pracalit_1086.png	𑐨𑐵𑐫𑑀𑐮𑐶𑐣 𑐁𑐃𑐃𑐃
+pracalit_1087.png	𑐳𑐾𑐟𑑀𑐳𑐵𑐚𑐷𑐳𑑃𑐐 𑐌𑐳𑐶𑐩
+pracalit_1088.png	𑐳𑑀𑐳𑑃𑐐
+pracalit_1089.png	𑐎𑐵𑐫𑐳𑑂𑐠 , 𑐡𑐾𑐱𑐩𑐵 𑑋
+pracalit_1090.png	𑐥𑐸𑐐𑑂𑐣𑐎𑑀 𑐜𑑀𑐩𑐾𑐣𑐩𑐵
+pracalit_1091.png	𑐧𑐣𑐸
+pracalit_1092.png	𑐳𑐎𑐾𑐎𑐵𑐴𑐬𑐹
+pracalit_1093.png	𑐧𑐸𑐗𑑂𑐕𑐣𑑂 𑑋
+pracalit_1094.png	𑐰𑐶𑐡𑑂𑐬𑐸𑐥
+pracalit_1095.png	𑐡𑐸𑐏𑐡
+pracalit_1096.png	𑐳𑐎𑐶𑐊𑐣𑑂 𑑋 𑐰𑐶𑐖𑐫𑐮𑐵𑐃
+pracalit_1097.png	𑐀𑐮𑑂𑐳𑐬𑐖𑐳𑑂𑐟𑑀
+pracalit_1098.png	𑐣𑑀𑐚𑑄𑐎𑐷𑐩𑐿
+pracalit_1099.png	𑐏𑐮𑐎𑐮𑐾 𑐎𑑂𑐫𑐵𑐬𑐶𑐒
+pracalit_1100.png	𑐥𑐷𑐜𑐵𑐴𑐬𑐹 𑐐𑐿𑐬𑐁𑐏𑑂𑐫𑐵𑐣
+pracalit_1101.png	𑐳𑐸𑐩𑐵𑐟𑑂𑐬𑐵𑐩𑐵
+pracalit_1102.png	𑐬𑐠𑐷𑐴𑐬𑐹
+pracalit_1103.png	𑐀𑐡𑐵𑐮𑐟𑐥𑑂𑐬𑐟𑐶𑐎𑑀
+pracalit_1104.png	𑐳𑐎𑐶𑐊𑐕 𑑋
+pracalit_1105.png	𑐏𑐵𑐣𑐥𑐶𑐣𑐎𑐵 𑐚𑐾𑐜𑑂𑐬𑐶𑐒
+pracalit_1106.png	𑐳𑑄𑐑𑐶𑐫𑐟𑐵𑐩𑐵 𑐳𑐎𑑂𑐳𑐾𑐳
+pracalit_1107.png	𑐣𑐰𑐄𑐡𑑂𑐫𑐩𑐷𑐴𑐬𑐸𑐮𑐾
+pracalit_1108.png	𑐀𑐣𑑂𑐟𑐬𑐳𑑄𑐑𑐬𑑂𑐲𑐴𑐬𑐸𑐮𑐵𑐃 𑐳𑐶𑑃𑐖𑐵
+pracalit_1109.png	𑐳𑐵𑐟𑐵𑐀𑐑𑐶 , 𑐦𑑂𑐬𑐾𑐩𑐰𑐬𑑂𑐎𑐧𑐵𑐚
+pracalit_1110.png	𑐦𑐵𑐂𑐖𑐬 ,
+pracalit_1111.png	𑐜𑐝𑐾𑐮𑑀𑐴𑐬𑐸 𑐖𑐵𑐟𑐶𑐫 ,
+pracalit_1112.png	𑐥𑐴𑐶𑐮𑑂𑐫𑐵𑐄𑑃𑐡𑐿
+pracalit_1113.png	𑐣𑐶𑐰𑐡𑐾𑐰𑐣 𑐰𑑂𑐫𑐵𑐎𑑂𑐎
+pracalit_1114.png	𑐳𑐵𑐫𑐮 ,
+pracalit_1115.png	𑐥𑐟𑑂𑐬𑐶𑐎𑐵𑐡𑑂𑐰𑐵𑐬𑐵
+pracalit_1116.png	𑐳𑐶𑐟𑐵𑐎𑑀 𑐎𑑂𑐲𑐩𑐟𑐵𑐀𑐣𑐸𑐳𑐵𑐬𑐎𑑀
+pracalit_1117.png	𑐡𑐾𑐏𑐵𑐄𑑃𑐡𑐿𑐰𑐿𑐎𑐮𑑂𑐥𑐶𑐎 𑐄𑐥𑐨𑑀𑐎𑑂𑐟𑐵𑐴𑐬𑐸𑐮𑐾
+pracalit_1118.png	𑐣𑐶𑐬𑑂𑐡𑐾𑐱𑐣𑐵𑐮𑐫𑐴𑐬𑐹𑐮𑐾
+pracalit_1119.png	𑐰𑐶𑐎𑐳𑐶𑐟 ,
+pracalit_1120.png	𑑖𑑒𑑑𑑗
+pracalit_1121.png	𑐳𑐵𑐳𑐹𑐳𑐴𑐶𑐟 𑐴𑐵𑐟𑑂𑐟𑐷𑐨𑐣𑑂𑐡𑐵
+pracalit_1122.png	𑐩𑐵𑐚𑑀 𑐥𑑂𑐬𑑂𑐬𑐴𑐬𑐷𑐎𑑀
+pracalit_1123.png	𑐕𑐸𑐰𑐵𑐄𑐣𑐮𑐵𑐃
+pracalit_1124.png	𑐥𑐷𑐜𑐎
+pracalit_1125.png	𑐧𑐳𑐾𑐎𑑀
+pracalit_1126.png	𑐕𑐵𑐜𑐣𑐸
+pracalit_1127.png	𑐚𑑂𑐬𑐵𑐨𑐮𑑂𑐳𑐎𑑀 𑐔𑐣𑑂𑐡𑐶𑐎𑐵
+pracalit_1128.png	𑐎𑐣𑐾𑐎𑑂𑐳𑐣𑐎𑑀
+pracalit_1129.png	𑐣𑐶𑐬𑐾𑐬𑐾 𑐑𑐾𑐬𑐵𑐧𑐵𑐬𑐎𑑀
+pracalit_1130.png	𑐩𑐴𑐵𑐰𑐬𑐶𑐲𑑂𑐛 𑐣𑐣𑑂𑐡𑐐𑐵𑐄𑑃
+pracalit_1131.png	𑐊𑐳𑐶𑐫𑐵𑐖𑐳𑑂𑐟𑐵
+pracalit_1132.png	𑐝𑐵𑐮𑑂𑐣𑐸 ,
+pracalit_1133.png	𑐧𑐵𑑃𑐔𑑂𑐣𑐾 ?
+pracalit_1134.png	𑐧𑐶𑐣𑑂𑐡𑐸𑐣𑐖𑐶𑐎 𑐟𑐵𑐐𑐟
+pracalit_1135.png	𑐥𑐸𑐲𑑂𑐥𑐎𑐩
+pracalit_1136.png	𑐮𑐰𑐖𑐮𑐾 𑐥𑐷𑐥𑐷
+pracalit_1137.png	𑐎𑑀𑐮𑑂𑐚𑑀
+pracalit_1138.png	𑐐𑐬𑐵𑐫𑑀
+pracalit_1139.png	𑐴𑐳𑑂𑐟𑐷𑐴𑐬𑐹 𑐂𑐟𑑂𑐟𑐶𑐴𑐵𑐡𑐮𑐐𑐵𑐫𑐟
+pracalit_1140.png	𑐄𑐟𑑂𑐳𑐬𑑂𑐖𑐣𑐎𑑀
+pracalit_1141.png	𑐗𑐸𑐎𑑂𑐫𑐵𑐄𑐣
+pracalit_1142.png	𑐱𑐾𑐦𑑀𑐎𑑂𑐳𑐸𑐣𑑂𑐜𑑀𑐳𑐩𑑂𑐩 𑐑𑐬𑐩𑐵𑐠𑐶
+pracalit_1143.png	𑐥𑐎𑐵𑐄𑑃𑐡𑐵
+pracalit_1144.png	𑐡𑐵𑐐𑐶𑐣𑑂𑐠𑐾
+pracalit_1145.png	𑐬𑐾𑐏𑐵𑐴𑐬𑐸𑐩𑐵
+pracalit_1146.png	𑐨𑐷𑐏 𑐔𑐵𑐥𑐵𑐐𑐵𑑃𑐂𑐎𑑀
+pracalit_1147.png	𑐰𑐣𑑂𑐫𑐖𑐣𑑂𑐟𑐸𑐎𑐵
+pracalit_1148.png	𑐕𑐿𑐣𑑁 , 𑐀𑐨𑐶𑐰𑑂𑐫𑐎𑑂𑐟𑐶𑐨𑐣𑑂𑐡𑐵
+pracalit_1149.png	𑐔𑑀𑐬𑐶𑐊𑐎𑑀
+pracalit_1150.png	𑐬𑐵𑐛𑑁𑐬𑐎𑐵 𑐳𑐵𑐰𑐬𑑂𑐖𑐣𑐶𑐎
+pracalit_1151.png	𑐥𑐵𑑄𑐐𑑂𑐬𑐾𑐎𑑀 𑐧𑐔𑑂𑐣𑐾
+pracalit_1152.png	𑐳𑑂𑐰𑐵𑐳𑑂𑐠𑑂𑐫𑐎𑐬𑑂𑐩𑐷𑐩𑐵𑐠𑐶 𑐬𑐾𑐦𑑂𑐬𑐷𑐖𑐾𑐬𑐾𑐳𑐣𑐎𑑀
+pracalit_1153.png	𑐀𑐳𑑂𑐥𑐟𑐵𑐮𑐀𑐐𑐵𑐜𑐶 𑐣𑐐𑐬𑑂𑐣
+pracalit_1154.png	𑐩𑐵𑑄𑐳𑐵𑐴𑐵𑐬𑐷𑐖𑐫𑐵𑐣𑐣𑑂𑐡
+pracalit_1155.png	𑐳𑐴𑐶𑐡𑐸𑐮
+pracalit_1156.png	𑐰𑐶𑐢𑐶𑐰𑐶𑐢𑐵𑐣𑐰𑐶𑐥𑐬𑐷𑐟𑐎𑐵 𑐜𑑂𑐬𑐶𑑄𑐎𑑂𑐳𑐎𑑀
+pracalit_1157.png	𑐣𑐾𑐟𑐵𑐩𑐢𑑂𑐫𑐾
+pracalit_1158.png	𑐜𑐶𑐥𑐶𑐳𑐷𑐩𑐸𑐣𑐶 𑐐𑐞𑐎𑐩𑐵
+pracalit_1159.png	𑐨𑐣𑑂𑐣𑐸𑐨𑐫𑑀𑐗𑐵𑐬𑐎𑑀 𑐬𑐴𑐾𑐣𑐥𑐣𑐶
+pracalit_1160.png	𑐥𑐿𑐟𑐮𑐵 𑑋
+pracalit_1161.png	𑐳𑐷𑐳𑐷 𑐩𑐸𑐏𑑂𑐫𑐩𑐣𑑂𑐟𑑂𑐬𑐷𑐳𑐩𑐾𑐟
+pracalit_1162.png	𑐐𑑁𑐬𑐷𑐎𑐵 𑐀𑐣𑑂𑐣𑐥𑐹𑐬𑑂𑐞𑐎𑑀
+pracalit_1163.png	𑐥𑑂𑐬𑐫𑑀𑐐𑑅 𑐊𑐳𑐶𑐫𑐵𑐮𑐐𑐵𑐫𑐟
+pracalit_1164.png	𑐥𑐸𑐮÷𑐳𑐜𑐎 , 𑐀𑐨𑐶𑐮𑐾𑐏𑐵𑐮𑐫𑐮𑐵𑐃
+pracalit_1165.png	𑐧𑐎𑐳𑐥𑐟𑑂𑐬 ,
+pracalit_1166.png	𑐩𑐵𑐳𑐶𑐣𑐾 , 𑐧𑐬𑑂𑐜𑐣
+pracalit_1167.png	𑐰𑐾𑐱𑐨𑐹𑐲𑐵 , 𑐳𑑀𑐥
+pracalit_1168.png	𑐬𑐰𑐶𑐣𑑂𑐡𑐬𑐣𑐵𑐠 𑐨𑐵𑐣𑑂𑐕𑐵 ,
+pracalit_1169.png	𑐀𑐣𑐸𑐎𑐵 𑐫𑐸𑐡𑑂𑐢𑐎𑑁𑐱𑐮𑐎𑑀
+pracalit_1170.png	𑐧𑐿𑑄𑐎𑐳𑑃𑐐𑐿
+pracalit_1171.png	𑐟𑑂𑐬𑐵𑐴𑐶𑐩𑐵𑐩
+pracalit_1172.png	𑐣𑐵𑐬𑐷𑐰𑐬𑑂𑐐𑐎𑑀
+pracalit_1173.png	𑐬𑐵𑐏𑑂𑐣𑐾𑐕 𑐣𑐥𑐳𑐸𑐣𑑂
+pracalit_1174.png	𑐴𑐾𑐚𑑁𑑄𑐜𑐵𑑑𑑑 ,
+pracalit_1175.png	𑐥𑐾𑐚𑑂𑐬𑑀𑐮 , 𑐀𑐩𑐶𑐚
+pracalit_1176.png	𑐩𑐵𑐬𑑂𑐔𑐨𑐶𑐟𑑂𑐬 𑐮𑐸𑐂
+pracalit_1177.png	𑐁𑑄𑐟𑐎
+pracalit_1178.png	𑐥𑐵𑑃𑑄𑐔𑐖𑐣𑐵𑐮𑐵𑐃
+pracalit_1179.png	𑐳𑑂𑐎𑑂𑐰𑐵𑐫𑐬𑐟𑐶𑐬 𑐄𑐔𑐵𑐮𑐶𑐊𑐎𑑀𑐩𑐵
+pracalit_1180.png	𑐮𑐶𑐣𑐸𑐴𑐸𑐣
+pracalit_1181.png	𑐰𑐶𑐱𑐸𑐒𑑂𑐏𑐾𑐮𑐾 𑐥𑐟𑑂𑐫𑐵𑐄𑐣𑐾𑐩𑐢𑑂𑐫𑐾
+pracalit_1182.png	𑐜𑐶𑐴𑐵𑐂𑐜𑑂𑐬𑐾𑐳𑐣𑐧𑐵𑐚
+pracalit_1183.png	𑐳𑐵𑐧𑐸𑐡𑑂𑐡𑐶𑐣𑐎𑑀
+pracalit_1184.png	𑐬𑐵𑐖𑐎𑐸𑐩𑐵𑐬𑐷𑐮𑐾 𑐮𑐶𑐂𑐡𑐶𑐄𑑃
+pracalit_1185.png	𑐐𑐬𑑂𑐕𑑁𑑄 ?
+pracalit_1186.png	𑐐𑐶𑐬𑐶𑐱𑐣𑐣𑑂𑐡𑐣
+pracalit_1187.png	𑐕𑐄𑐣𑐮𑐾 𑐨𑐵𑐲𑐵𑐳𑐵𑐴𑐶𑐟𑑂𑐫𑐩𑐵𑐠𑐶𑐎𑑀
+pracalit_1188.png	𑐜𑐸𑐧𑑂𑐣𑐧𑐵𑐚 𑐫𑐱𑑀𑐢𑐬𑐵𑐮𑐵𑐃
+pracalit_1189.png	𑐳𑐾𑐣𑐴𑐬𑐸𑐮𑐾
+pracalit_1190.png	𑑗𑑗𑑖 ,
+pracalit_1191.png	𑐣𑐾𑐚𑐰𑐬𑑂𑐎𑐳𑐩𑑂𑐩 𑐎𑐸𑐏𑐸𑐬𑐵𑐏𑑀𑐬𑐎𑑀
+pracalit_1192.png	𑐏𑐮𑐸 𑐳𑑂𑐥𑐵𑐂𑐳𑐾𑐳𑑂
+pracalit_1193.png	𑐧𑐾𑐠𑐶𑐟𑐷𑐎𑑀
+pracalit_1194.png	𑐧𑐣𑑂𑐡𑐸𑐎𑐳𑐩𑑂𑐧𑐣𑑂𑐢𑐷
+pracalit_1195.png	𑐴𑐜𑑂𑐜𑐷𑐧𑐶𑐔𑐎𑑀
+pracalit_1196.png	𑐴𑐶𑑃𑐜𑐾𑐥𑐕𑐶 𑐄𑐩𑐵𑐬𑐶𑐣𑑂 𑑋
+pracalit_1197.png	𑐏𑑀𑐮𑐵𑐳𑑃𑐐𑐿
+pracalit_1198.png	𑐖𑐵𑑃𑐔𑐾𑐬
+pracalit_1199.png	𑐏𑐵𑐥𑑂𑐳𑐵
+pracalit_1200.png	𑐡𑐮𑐴𑐣𑐖𑐣𑑂𑐫 , 𑐜𑐶𑐦𑐾𑐣𑑂𑐜𑐬𑐴𑐬𑐹
+pracalit_1201.png	𑐗𑐣𑑂𑐜𑐵 , 𑐗𑐬𑐷𑐮𑐵𑐃
+pracalit_1202.png	𑐥𑐿𑐡𑐮𑐫𑐵𑐟𑑂𑐬𑐸 𑐰𑐜𑐵𑑘
+pracalit_1203.png	𑐳𑐶𑐩𑐵𑐬𑐳𑑃𑐐
+pracalit_1204.png	𑐧𑐣𑑂𑐖𑐷 𑐖𑐩𑐵𑐊𑐎𑑀
+pracalit_1205.png	𑐳𑐸𑐗𑐵𑐰𑐀𑐣𑐸𑐬𑐹𑐥 𑐑𑐚𑐣𑐵𑐎𑑂𑐬𑐩𑐴𑐬𑐹𑐮𑐵𑐃
+pracalit_1206.png	𑐐𑐬𑐶𑐡𑐿𑑃
+pracalit_1207.png	𑐳𑐵𑐣𑐾𑐥𑐵𑐳𑑂𑐠𑐶𑐟 𑐴𑐾𑐬𑑂𑐩𑐾𑐳
+pracalit_1208.png	𑐱𑐷𑐬𑑂𑐲𑐎 𑐬𑑀𑐴𑐶𑐟𑐎𑑀
+pracalit_1209.png	𑐰𑐬𑑂𑐐𑐰𑐵𑐚 𑐮𑐩𑑂𑐧𑑂𑐫𑐵𑐄𑐣𑐸
+pracalit_1210.png	𑐀𑐟𑑂𑐫𑐵𑐔𑐵𑐬𑐮𑐾
+pracalit_1211.png	𑐔𑐶𑐫𑐬
+pracalit_1212.png	𑐦𑐿𑐮𑐶𑑄𑐡𑐵 𑐎𑑀𑐮𑐩𑑂𑐫𑐵𑐣𑐎𑑀
+pracalit_1213.png	𑐖𑐿𑐰𑐶𑐎𑐩𑐵𑐬𑑂𑐐𑐖𑐳𑑂𑐟𑑀
+pracalit_1214.png	𑐮𑐵𑐂𑐎𑑂𑐳
+pracalit_1215.png	𑐀𑐣𑐸𑐬𑐵𑐐𑐮𑐾
+pracalit_1216.png	𑐳𑐶𑐎𑑂𑐳𑐬𑑂𑐳𑐮𑐾 𑐄𑐮𑑂𑐮𑐵𑐳𑐥𑐹𑐬𑑂𑐰𑐎
+pracalit_1217.png	𑐴𑐵𑐬𑐧𑐵𑐬𑐾 𑐏𑐾𑐮𑐵𑐂𑐳𑐎𑐾𑐎𑐷
+pracalit_1218.png	𑐩𑐸𑐖𑐴𑐶𑐎𑑀𑐨𑐮𑐾
+pracalit_1219.png	𑐀𑐐𑑂𑐬𑐐𑐞𑑂𑐫
+pracalit_1220.png	𑐎𑐿𑐮𑐵𑐱𑐧𑐵𑐚
+pracalit_1221.png	𑐰𑐵𑐬𑐾 𑐎𑐵𑐮𑐾𑐩𑐵𑐠𑐶
+pracalit_1222.png	𑐥𑐳𑐮𑐀𑐐𑐵𑐜𑐶 𑐂𑐳𑐵𑐬𑐵
+pracalit_1223.png	𑐟𑐶𑐩𑐷𑐀𑐮𑐐𑐀𑐮𑐐
+pracalit_1224.png	𑐡𑑀𑐴𑐣𑐮𑐾
+pracalit_1225.png	𑐥𑑂𑐬𑐵𑐣𑑂𑐟𑐴𑐬𑐹𑐎𑐵 𑐳𑐬𑑄𑐐𑐵𑐮𑐾
+pracalit_1226.png	𑐥𑐵𑐄𑑃𑐡𑐿𑐣𑐠𑐾 𑑋
+pracalit_1227.png	𑐣𑐩𑑂𑐬 , 𑐳𑑄𑐎𑐚𑐳𑑃𑐐
+pracalit_1228.png	𑐏𑑀𑐖𑑁𑑄 𑑋
+pracalit_1229.png	𑐳𑑄𑐫𑑀𑐎𑐟𑑂𑐰𑐩𑐵 𑐬𑐾𑐳𑑂𑐚𑐸𑐬𑐾𑐣𑑂𑐚𑐳𑐴𑐶𑐟𑐎𑐵
+pracalit_1230.png	𑐡𑐬𑐿𑐫𑐵𑐳𑑂𑐠𑐶𑐟
+pracalit_1231.png	𑐥𑑀𑐏𑑂𑐣𑐸𑐨𑐊𑐎𑑀 𑐳𑐵𑐩𑐸𑐡𑐫𑐶𑐎
+pracalit_1232.png	𑐖𑐐𑐵𑐄𑐣
+pracalit_1233.png	𑐰𑐺𑐟𑑂𑐟𑐶𑐮𑐐𑐵𑐫𑐟𑐎𑐵 𑐠𑐥𑑂𑐣𑐾 ,
+pracalit_1234.png	𑐳𑐩𑑂𑐩𑐵𑐣𑐶𑐟𑐔𑐾𑐩𑑂𑐧𑐬𑐮𑐾
+pracalit_1235.png	𑐳𑑄𑐮𑐐𑑂𑐣𑐟𑐵𑐎𑐵
+pracalit_1236.png	𑐏𑐾𑐳𑑂𑐬𑑁𑐮𑐎𑐿 𑐮𑐖𑐩𑐵
+pracalit_1237.png	𑐁𑐛𑐧𑐷𑐳𑑓 𑐰𑐶𑐨𑐹𑐲𑐶𑐟𑐮𑐾
+pracalit_1238.png	𑐥𑑂𑐬𑐩𑐸𑑂𑐏
+pracalit_1239.png	𑐣𑐐𑐬𑐵𑐊𑐎𑑀 𑐣𑐶𑐎𑐵𑐫𑐡𑐾𑐏𑐶
+pracalit_1240.png	𑐎𑐬𑑂𑐩𑐔𑐵𑐬𑐷𑐖𑐳𑑂𑐟𑑀 𑐏𑐶𑐬 ,
+pracalit_1241.png	𑐏𑐿𑐬𑑀 , 𑐩𑐶𑐣𑐶𑐳𑑂𑐚𑐬
+pracalit_1242.png	𑐬𑐒𑐧𑐬𑐳𑐾
+pracalit_1243.png	𑐥𑐟𑑂𑐬𑐎𑐵𑐬𑐩𑐵𑐗
+pracalit_1244.png	𑐨𑐸𑑃𑐜𑐷
+pracalit_1245.png	𑐥𑑂𑐬𑐨𑐵𑐰𑐎𑐵𑐬𑐷𑐟𑐵 𑐳𑐵𑐬𑑂𑐕𑐣𑑂 𑑋
+pracalit_1246.png	𑐩𑐞𑑂𑐜𑐮𑐷𑐎𑐿 𑑒𑑕𑑗𑑘 ,
+pracalit_1247.png	𑐣𑑂𑐫𑐵𑐫𑐵𑐮𑐫𑐥𑑂𑐬𑐟𑐶𑐎𑑀 𑐩𑐶𑐟𑑂𑐬𑐴𑐬𑐸𑐎𑑀
+pracalit_1248.png	𑐩𑐬𑑂𑐣𑐶𑐒𑑂𑐐 𑐟𑐶𑐬𑐳𑑂𑐎𑐵𑐬𑐫𑐸𑐎𑑂𑐟
+pracalit_1249.png	𑐚𑐸𑐒𑑂𑐐𑑀𑐩𑐵 𑐥𑐣𑐶𑐁𑐂
+pracalit_1250.png	𑐔𑑁𑐢𑐵𑐬𑐷
+pracalit_1251.png	𑐧𑐶𑐳𑑁𑐣𑐷𑐩𑐵 𑐰𑐣𑐳𑑂𑐥𑐟𑐶𑐮𑐵𑐃
+pracalit_1252.png	𑐮𑑂𑐫𑐵𑐄𑐣𑐳𑐩𑐾𑐟
+pracalit_1253.png	𑐧𑐜𑐵𑐑𑐬 𑐟𑐾𑐧𑑂𑐧𑐬𑐮𑐾
+pracalit_1254.png	𑐳𑑀𑐢𑐾𑐥𑐕𑐶
+pracalit_1255.png	𑐠𑐵𑐮𑐣𑐶 𑐴𑐚𑐳𑑂𑐥𑐚𑐴𑐬𑐹
+pracalit_1256.png	𑐄𑐡𑑂𑐡𑐷𑐥𑐎𑐴𑐬𑐹𑐎𑑀
+pracalit_1257.png	𑐴𑐳𑑂𑐟𑐵𑐎𑑂𑐲𑐬𑐮𑐾
+pracalit_1258.png	𑐎𑐸𑐣𑑂𑐣𑐶 ?
+pracalit_1259.png	𑐖𑐐𑑂𑐐𑐵𑐢𑐣𑐷𑐴𑐬𑐹𑐮𑐾 𑐀𑐳𑑂𑐥𑐟𑐵𑐮𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_1260.png	𑐧𑐸𑐣𑐾 𑑋
+pracalit_1261.png	𑐧𑐿𑐎𑐥𑑂𑐬𑐟𑐶𑐎𑑀 𑐩𑐵𑐮𑐵𑐩𑐵
+pracalit_1262.png	𑐮𑐖𑑂𑐖𑐵𑐰𑐟𑐷 𑐀𑐣𑐸𑐴𑐵𑐬𑐴𑐬𑐸
+pracalit_1263.png	𑐳𑑂𑐥𑐾𑐮𑐩𑐵
+pracalit_1264.png	𑐳𑑀𑐟𑐷𑐥𑐳𑐮 ,
+pracalit_1265.png	𑐎𑐵𑐧𑐾𑐮𑐷𑐮𑐾 𑐩𑐶𑐚𑐬𑐎𑑀
+pracalit_1266.png	𑐫𑐴𑐷𑐧𑐷𑐔𑐩𑐵 𑐥𑑂𑐬𑐠𑐵𑐰𑐶𑐬𑐸𑐡𑑂𑐢𑐎𑑀
+pracalit_1267.png	𑐀𑐢𑐶𑐎𑐵𑐬𑐰𑐶𑐥𑐬𑐶𑐟 𑐌𑐜𑐵𑐬𑐎𑐷
+pracalit_1268.png	𑐟𑐟𑑂𑐎𑐵𑐮𑐷𑐣𑐱𑑂𑐬𑐷
+pracalit_1269.png	𑐐𑑀𑐲𑑂𑐛𑐷𑐮𑐐𑐵𑐫𑐟 𑐣𑑂𑐫𑐹𑐣𑐩𑐵𑐟𑑂𑐬𑐵𑐩𑐵
+pracalit_1270.png	𑐮𑑀𑐳𑐾
+pracalit_1271.png	𑐊𑐣𑐥𑐷𑐁𑐬 𑐨𑐬𑑂𑐣𑐵𑐖𑐳𑑂𑐟𑐵
+pracalit_1272.png	𑐏𑐵𑐳𑐿 𑐦𑐾𑐮𑐵
+pracalit_1273.png	𑐥𑑂𑐬𑐾𑐬𑐞𑐵𑐡𑐵𑐫𑐎 𑐜𑐣𑐎𑑀
+pracalit_1274.png	𑐬𑐴𑑃𑐡𑐿𑐣𑐣𑑂 𑐬𑐰𑐬𑐟𑑂𑐣
+pracalit_1275.png	𑐧𑐷𑐩𑐎𑐮𑐾 𑐀𑐣𑐾𑐎𑐵𑐣𑐾𑐎
+pracalit_1276.png	𑐖𑐸𑐬𑑂𑐩 𑐬𑐶𑐨𑑂𑐫𑐹𑐎𑐵
+pracalit_1277.png	𑐧𑐖𑐬𑑄𑐐
+pracalit_1278.png	𑐏𑐸𑐳𑐎𑑀 𑐳𑐸𑐬𑐸𑐁𑐟𑐮𑐵𑐃
+pracalit_1279.png	𑐍𑐳𑐟𑐩𑐵
+pracalit_1280.png	𑐏𑑀𑐳𑑂𑐕𑐣𑑂 𑐬𑐒𑑂𑐐𑐩𑐘𑑂𑐔𑐎𑑀
+pracalit_1281.png	𑐥𑐸𑐸¥𑐫𑐵𑐄𑐣𑐾
+pracalit_1282.png	𑐳𑐣𑑂𑐡𑐷𑐥𑐳𑑃𑐐𑐿 𑐎𑑂𑐫𑐵𑐣𑑂𑐳𑐬𑐖𑐳𑑂𑐟𑑀
+pracalit_1283.png	𑐩𑐵𑐬𑑂𑐐𑐧𑐵𑐚 𑐥𑑂𑐬𑐟𑑂𑐫𑐵𑐬𑑀𑐥
+pracalit_1284.png	𑐦𑐣𑑂𑐜𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_1285.png	𑐔𑑁𑐥𑐵𑐊𑐩𑐵 𑐠𑐵𑐥𑐾𑐬𑐨𑐣𑑂𑐡𑐵
+pracalit_1286.png	𑐡𑑂𑐰𑐿𑐩𑐵𑐖𑐸𑐎𑑀 𑐟𑐥𑐵𑐃𑑄𑐴𑐬𑐹𑐧𑐵𑐚
+pracalit_1287.png	𑐥𑐎𑑂𑐲𑐔𑐵𑐴𑐶𑑃 𑐬𑐶𑐴𑐵𑐃𑐎𑑀
+pracalit_1288.png	𑐰𑑂𑐫𑐵𑐰𑐳𑑂𑐠𑐵𑐎𑑀𑐾
+pracalit_1289.png	𑐣𑐶𑐫𑐩𑐴𑐬𑐹𑐳𑐩𑐾𑐟
+pracalit_1290.png	𑐩𑐴𑐵𑑄𑐎𑐵𑐮𑐔𑑁𑐬𑐳𑑂𑐠𑐶𑐟 𑐎𑑂𑐲𑐞𑐴𑐬𑐸𑐎𑑀
+pracalit_1291.png	𑐥𑐵𑐳𑐳𑐩𑐾𑐟
+pracalit_1292.png	𑐥𑐸𑐣𑐥𑑂𑐬𑑂𑐬𑐫𑑀𑐐 𑐀𑐐𑐶
+pracalit_1293.png	𑐡𑐧𑐶𑐊𑐎𑐵
+pracalit_1294.png	𑐚𑑀 , 𑐱𑐣𑐶𑐡𑐾𑐰𑐳𑑃𑐐
+pracalit_1295.png	𑐩𑐸𑐐𑐸𑐧𑐵𑐚
+pracalit_1296.png	𑐁𑐣𑑀
+pracalit_1297.png	𑐝𑐵𑐮𑑂𑐣𑐸 𑐀𑐎𑐳𑐴𑐶𑐟
+pracalit_1298.png	𑐨𑐵𑐰𑐀𑐨𑐶𑐰𑑂𑐫𑐎𑑂𑐟𑐶 𑐮𑐶𑐂𑐊𑐎𑑀
+pracalit_1299.png	𑐎𑐸𑐳𑐮𑐵𑐃
+pracalit_1300.png	𑐴𑐾𑐧𑐷𑐳𑐩𑑂𑐩𑐎𑐵 𑐧𑐝𑐵𑐂𑐡𑐶𑐫𑑀 𑑋
+pracalit_1301.png	𑐏𑐿𑐏𑐧𑐬𑐷 𑐖𑑂𑐘𑐵𑐣𑐾𑐣𑑂𑐡𑑂𑐬𑐰𑐶𑐎𑑂𑐬𑐩
+pracalit_1302.png	𑐬𑐳𑐸𑐰𑐵𑐐𑐜𑐷
+pracalit_1303.png	𑐎𑐾𑐬𑐮𑐵𑐎𑐵 𑐐𑐸𑐩𑐵𑐄𑑃𑑄𑐡𑐿
+pracalit_1304.png	𑐊𑐩𑑂𑐧𑐸𑐮𑐾𑐣𑑂𑐳𑐮𑐾 𑐩𑐣𑐵𑐂𑐣𑐸𑐥𑐬𑑂𑐣𑐾
+pracalit_1305.png	𑐧𑑂𑐮𑐎𑐀𑐣𑐸𑐳𑐵𑐬𑐎𑑀
+pracalit_1306.png	𑐣𑐾𑐟𑐺𑐟𑑂𑐰𑐨𑐣𑑂𑐡𑐵
+pracalit_1307.png	𑐀𑐳𑐸𑐬𑐣𑐮𑐾 𑐀𑐥𑐣𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐡𑐕 𑑋
+pracalit_1308.png	𑐔𑐚𑐵𑐊𑐎𑑀
+pracalit_1309.png	𑐎𑐮𑐎𑐮
+pracalit_1310.png	𑐔𑐬𑐾𑐳 , 𑐌𑐝𑐵𑐊𑐎𑐵
+pracalit_1311.png	𑐳𑐒𑑂𑐑𑐬𑑂𑐲 , 𑐔𑐶𑐣𑐸
+pracalit_1312.png	𑐩𑐴Œ𑐰𑐵𑐎𑐵𑑄𑐎𑑂𑐲𑐵𑐮𑐾
+pracalit_1313.png	𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐶𑐫𑐳𑐨𑐵𑐎𑑀
+pracalit_1314.png	𑐟𑐵𑐎𑐵 𑐖𑐵𑐰𑐵𑐎𑐵
+pracalit_1315.png	𑐮𑐶𑐣𑐶𑐫𑐣
+pracalit_1316.png	𑐩𑑀𑐰𑐶𑐮𑐵𑐃𑐮𑐾𑐳𑐣
+pracalit_1317.png	𑐥𑐹𑐬𑑂𑐞𑐶𑐩𑐵 𑑋 𑐠𑐵𑐐𑐸
+pracalit_1318.png	𑐮𑐵𑐥𑐬𑐧𑐵𑐴𑐷𑐳𑐩𑐾𑐟 𑐳𑐎𑑂𑐣𑐸𑐥𑐬𑑂𑐡𑐕 𑑋
+pracalit_1319.png	𑐰𑐿𑐱𑐵𑐏𑐩𑐿 , 𑐧𑐷𑐜𑐷𑐊𑐳𑐮𑐾
+pracalit_1320.png	𑐖𑐣𑐎𑐥𑐸𑐬𑐮𑐵𑐃 𑐎𑐩𑐶𑐚𑐷𑐧𑐵𑐚
+pracalit_1321.png	𑐧𑑀𑐣𑐳𑐥𑐕𑐶
+pracalit_1322.png	𑐐𑑂𑐬𑐵𑐩𑐠𑐵𑐣 , 𑐬𑐵𑐏𑑂𑐣𑐸𑐨𑑀 𑑋
+pracalit_1323.png	𑐄𑐛𑑂𑐟𑐶
+pracalit_1324.png	𑐣𑐬𑑂𑐳𑐬𑐷𑐎𑐵 𑐠𑐬𑑂𑐩𑐐𑐣𑐧𑐵𑐚
+pracalit_1325.png	𑐁𑐒𑑂𑐧𑐸𑐴𑐵𑐒𑑂𑐐𑐮𑐵𑐃
+pracalit_1326.png	𑐎𑐮𑑂𑐥𑐣𑐵𑐱𑐷𑐮𑐟𑐵𑐎𑑀 𑐰𑐵𑐬𑐾𑐎𑑂𑐥𑐵𑐎𑑀
+pracalit_1327.png	𑐥𑐵𑐬𑑂𑐚𑐥𑐹𑐬𑑂𑐖𑐵𑐴𑐬𑐸 𑐴𑐎𑐥𑑂𑐬𑐡𑐎𑐵𑐾
+pracalit_1328.png	𑐨𑐾𑐚𑑂𑐣𑐸𑐥𑐬𑑂𑐣𑐾 𑐣𑐶𑐫𑐸𑐎𑑂𑐟𑐶𑐰𑐶𑐣𑐵
+pracalit_1329.png	𑐬𑐶𑐦𑐵𑐂𑐣𑐩𑐾𑐣𑑂𑐚𑐎𑑀 𑐫𑐹𑐣𑐜𑐷𑐥𑐷𑐴𑐬𑐸𑐮𑐾
+pracalit_1330.png	𑐎𑐸𑐬𑑂𑐣𑐾𑐕𑐸 𑑋
+pracalit_1331.png	𑐩𑐴𑐵𑐣𑐶𑐬𑑂𑐡𑐾𑐱𑐎𑐳𑐴𑐶𑐟
+pracalit_1332.png	𑐊𑐣𑑂𑐚𑐶𑐦𑑄𑐐𑐮
+pracalit_1333.png	𑐏𑐟𑑂𑐬𑐷𑐳𑑃𑐐𑐿 𑐨𑐣𑑂𑐣𑐾𑐎𑐵
+pracalit_1334.png	𑐀𑐎𑐵𑐄𑐣𑑂𑐚𑐮𑐾 𑐩𑐸𑐮𑐸𑐎𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_1335.png	𑐥𑐳𑐮𑐾 𑐀𑐴𑑄𑐎𑐵𑐬𑐷𑐎𑑀
+pracalit_1336.png	𑐩𑐖𑐡𑐹𑐬
+pracalit_1337.png	𑐱𑐸𑐨𑐵𑐲𑐔𑐣𑑂𑐡𑑂𑐬 𑐀𑐣𑐸𑐨𑐰
+pracalit_1338.png	𑐱𑑂𑐬𑐷
+pracalit_1339.png	𑐁𑐦𑐣𑑂𑐟𑐴𑐬𑐸𑐮𑐵𑐃 𑐰𑐵𑐮𑐎𑐺𑐲𑑂𑐞
+pracalit_1340.png	𑐴𑐰𑐵𑐃𑐖𑐴𑐵𑐖Þ𑐎𑑀 𑐀𑐰𑐳𑐬𑐰𑐵𑐡𑐖𑐳𑑂𑐟𑐵
+pracalit_1341.png	𑐏𑐸𑐚𑑂𑐚𑐵𑐮𑐾 𑐳𑐎𑑂𑐏𑐵
+pracalit_1342.png	𑐟𑐵𑐥𑑂𑐮𑐾𑐖𑐸𑐒𑐰𑐵𑐳𑐷𑐮𑐐𑐵𑐫𑐟𑐧𑐵𑐚
+pracalit_1343.png	𑐳𑐾𑐮𑑂𑐦𑐷𑐮𑐾 𑐄𑐡𑐬𑐬𑑀𑐐 ,
+pracalit_1344.png	𑐥𑑂𑐬𑑀𑐚𑐾𑐎𑑂𑐳𑐣
+pracalit_1345.png	𑐴𑐸𑐳𑐾𑐣𑐎𑐵 𑐧𑐶𑐱𑑂𑐰𑐵𑐳𑐑𑐵𑐟
+pracalit_1346.png	𑐩𑐢𑑂𑐫𑐩𑐩𑐵 𑐮𑐶𑐣𑐸𑐴𑐸𑑃𑐡𑐵
+pracalit_1347.png	𑐴𑐶𑐣𑑂𑐡𑐸𑐳𑑂𑐟𑐵𑐣 𑑋 𑐩𑐟𑑂𑐬𑐵𑐮𑐫𑐎𑑀
+pracalit_1348.png	𑐀𑐩𑐵𑐣𑐮𑐵𑐃
+pracalit_1349.png	𑐣𑐥𑐳𑑂𑐣 𑐁𑑃𑐄𑐕 𑑋
+pracalit_1350.png	𑐩𑐣𑑂𑐟𑑂𑐬𑐵𑐮𑐫𑐳𑑃𑐐
+pracalit_1351.png	𑐰𑐶𑐱𑐾𑐲𑐵𑐒𑑂𑐎𑐩𑐵
+pracalit_1352.png	𑐩𑐵𑐣𑑂𑐕𑐾𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_1353.png	𑐎𑐺𑐲𑐎𑐴𑐬𑐹𑐮𑐾 𑐩𑑀𑐄𑐳𑐵𑐮𑐵𑐃
+pracalit_1354.png	𑐐𑑁𑐱𑐵𑐮𑐵𑐩𑐵 𑐧𑐳𑑂𑐟𑐷𑐴𑐬𑐹𑐩𑐵
+pracalit_1355.png	𑐖𑐸𑐢𑐶𑐬𑐴𑑃𑐡𑐵𑐳𑐩𑐾𑐟 𑐑𑐚𑐣𑐵𑐴𑐬𑐹
+pracalit_1356.png	𑐎𑐵𑐏𑐩𑐿 𑐊𑐳𑐾𑐖 ,
+pracalit_1357.png	𑐀𑐳𑐬𑐳𑐩𑐾𑐟 𑐣𑐡𑑀𑐴𑑀𑐫𑐵𑐃
+pracalit_1358.png	𑐳𑑄𑐏𑐸𑐰𑐵𑐳𑐨𑐵𑐧𑐵𑐴𑐾𑐎 𑐧𑐳𑑂𑐡𑐵𑐩𑐾𑐬𑑀
+pracalit_1359.png	𑐧𑐾𑐲𑑂𑐚 𑐣𑐵𑐚𑑂𑐫𑐫𑐸𑐢𑐮𑐾
+pracalit_1360.png	𑐬𑐵𑐣𑐷𑐳𑑃𑐐𑐿
+pracalit_1361.png	𑐳𑐶𑐩𑐮𑐵
+pracalit_1362.png	𑐥𑑂𑐬𑐟𑐶𑐳𑐾𑐎𑐾𑐣𑑂𑐜
+pracalit_1363.png	𑐧𑐵𑐩𑑂𑐧𑑀𑐮𑐶𑐩𑐳𑑂𑐠𑐶𑐟
+pracalit_1364.png	𑐁𑐩𑐵𑐥𑐕𑐶 𑐟𑐬𑐶𑐎𑐵𑐬𑐮𑐾
+pracalit_1365.png	𑐔𑐮𑐵𑐫𑐣𑐩𑐵𑐣 𑐎𑐬𑐶𑐜𑑀𑐬𑐎𑐿
+pracalit_1366.png	𑐄𑐥𑐖𑐎𑐿
+pracalit_1367.png	𑐬𑐵.𑐥
+pracalit_1368.png	𑐣𑐔𑐮𑑂𑐣𑐸
+pracalit_1369.png	𑐖𑑃𑐔𑐵𑐄𑑃𑐡𑐵
+pracalit_1370.png	𑐚𑑂𑐬𑐾𑐎𑐶𑐒𑐩𑐵
+pracalit_1371.png	𑐧𑐶𑐐𑑂𑐬𑑃𑐡𑐿𑐕 𑑋 𑐱𑐎𑑂𑐟𑐶𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐎𑐵
+pracalit_1372.png	𑐕𑐵𑐄𑐣𑐎𑐵
+pracalit_1373.png	𑐥𑐬𑐷𑐎𑑂𑐲𑐵𑐮𑐐𑐵𑐫𑐟 𑐕𑐸𑐚𑐎𑑀
+pracalit_1374.png	𑐎𑐩𑐮𑐵𑐳𑑂𑐠𑐶𑐟
+pracalit_1375.png	𑐥𑑂𑐬𑐳𑐰𑐥𑐕𑐶
+pracalit_1376.png	𑐁𑐊𑐎𑐵𑐳𑐩𑐾𑐟 𑐧𑐚𑐸𑐰𑐵𑐖𑐳𑑂𑐟𑑀
+pracalit_1377.png	𑐳𑐶𑑄𑐴𑐡𑐬𑐰𑐵𑐬𑐨𑐶𑐟𑑂𑐬
+pracalit_1378.png	𑐁𑐂𑐥𑐸𑐐𑑂𑐣𑐸𑐨𑐊𑐎𑑀 𑐟𑐸𑐮𑐩𑐵𑐫𑐵
+pracalit_1379.png	𑐩𑐺𑐟𑑂𑐫𑐸𑐡𑐬 𑐖𑐷𑐊𑐩𑐮𑐾
+pracalit_1380.png	𑐣𑐾𑐬𑐸
+pracalit_1381.png	𑐎𑐵𑐲𑑂𑐛𑐩𑐞𑑂𑐜𑐥
+pracalit_1382.png	𑐏𑐜𑑂𑐐𑐧𑐴𑐵𑐡𑐸𑐬𑐮𑐾
+pracalit_1383.png	𑐰𑐬𑑂𑐲𑑁
+pracalit_1384.png	𑐖𑐣𑐩𑐵𑐾𑐬𑑂𑐔𑐵𑐮𑐾 𑐥𑐎𑑂𑐬𑐵𑐄𑐧𑐵𑐚
+pracalit_1385.png	𑐥𑐵𑐃𑐣𑐾𑐕 𑑋 𑐠𑐶𑐬𑐾𑐣𑑂𑐡𑑂𑐬
+pracalit_1386.png	𑐑𑐵𑑃𑐳
+pracalit_1387.png	𑐎𑐮𑐎𑐵𑐬𑐏𑐵𑐣𑐵𑐧𑐵𑐚
+pracalit_1388.png	𑐖𑐣𑐎𑐣𑐐𑐬𑐎𑐵
+pracalit_1389.png	𑑔𑑘 𑐀𑐬𑑂𑐣𑐵𑐮𑑂𑐚𑐐𑐟
+pracalit_1390.png	𑐝𑐸𑑄𑐐𑑂𑐬𑑀
+pracalit_1391.png	𑐰𑐶𑐔𑐵𑐬𑐰𑐶𑐖𑑂𑐘𑐵𑐣 𑐣𑐐𑐬𑐾𑐎𑑀𑐩𑐵 ,
+pracalit_1392.png	𑐳𑐧𑐳𑑂𑐚𑐾𑐳𑐣𑐳𑐩𑑂𑐩 𑐴𑐸𑐔𑐶𑐮
+pracalit_1393.png	𑐬𑐵𑐡𑐵 𑐄𑐥𑐖 ,
+pracalit_1394.png	𑐚𑐵𑐳𑑂𑐎
+pracalit_1395.png	𑐴𑐸𑐂𑐎𑐶𑐫𑐵𑑄𑐐𑐮𑐾 𑐖𑐟𑐣𑐮𑐾
+pracalit_1396.png	𑐳𑑄𑐎𑑂𑐬𑐩𑐞𑐎𑐵𑐮𑐶𑐣
+pracalit_1397.png	𑐩𑐵𑐣𑐩𑐬𑑂𑐡𑐣 𑐩𑐵𑐌𑐧𑐵𑐡𑐷 ,
+pracalit_1398.png	𑐨𑐣𑑁𑐡𑐵𑐮𑐵𑐃
+pracalit_1399.png	𑐟𑐵𑐬𑐴𑐬𑐸𑐧𑐵𑐚
+pracalit_1400.png	𑐣𑐶𑐎𑐵𑐮𑐾𑐣 ,
+pracalit_1401.png	𑐰𑐶𑐌𑐥𑐷𑐩𑐵 𑐎𑐶𑐬𑑂𑐐𑐶𑐳𑑂𑐟𑐵𑐣𑐧𑐷𑐔𑐎𑑀
+pracalit_1402.png	𑐩𑐸𑐩𑑂𑐧𑐂𑐎𑐵 𑐬𑐾𑐜𑑂𑐜𑐷𑐮𑐾
+pracalit_1403.png	𑐮𑐟𑑂𑐫𑐵𑐊𑐎𑑀 ? 𑑒𑑑𑑗÷𑑑𑑘
+pracalit_1404.png	𑐏𑐾𑐟𑐷𑐥𑑂𑐬𑐟𑐶
+pracalit_1405.png	𑐰𑐵𑐎𑐌𑐨𑐬𑐎𑑀
+pracalit_1406.png	𑐖𑐵𑐣𑐾 𑑋 𑐩𑐸𑐐𑐵𑐎𑑀
+pracalit_1407.png	𑐎𑐬𑑂𑐥 𑑋 𑐳𑐡𑐬𑐩𑐸𑐎𑐵𑐩𑐵
+pracalit_1408.png	𑐨𑐣𑑂𑐣𑐸𑐥𑐬𑑂𑐫𑑀
+pracalit_1409.png	𑐬𑑀𑐫𑐮𑑂𑐚𑐷𑐩𑐢𑑂𑐫𑐾
+pracalit_1410.png	𑐴𑐵𑐎𑑅𑐫𑐵
+pracalit_1411.png	𑐊𑐮𑐶𑐨𑐶𑐳𑐣
+pracalit_1412.png	𑐟𑐵𑐂𑐥𑐾𑐳𑑃𑐐
+pracalit_1413.png	𑐳𑐎𑑂𑐣𑐾𑐕𑑁𑑃 ,
+pracalit_1414.png	𑑑𑑐 𑐬𑐵𑐰𑐮𑐥𑐶𑑄𑐜𑐷𑐎𑑀
+pracalit_1415.png	𑐡𑐾𑐱𑐿
+pracalit_1416.png	𑐣𑐶𑐬𑑂𑐡𑐾𑐱𑐣𑐴𑐬𑐹 𑐥𑐹𑐬𑑂𑐞𑐬𑐹𑐥𑐩𑐿
+pracalit_1417.png	𑐣𑐶𑐧𑐣𑑂𑐢𑐎𑐵𑐬𑐴𑐬𑐹𑐎𑑀
+pracalit_1418.png	𑐥𑐵𑑄𑐐𑑂𑐬𑐵𑐴𑐬𑐸𑐩𑐵 𑐔𑑁𑑃𑐬𑐷𑐴𑐬𑐸
+pracalit_1419.png	𑐟𑐵𑐮𑐳𑑃𑐐
+pracalit_1420.png	𑐡𑐵𑐴𑐵𑐮𑐮𑐾 𑐟𑐵𑐬𑐴𑐬𑐸
+pracalit_1421.png	𑐮𑑂𑐫𑐵𑐄𑑃𑐕𑐸
+pracalit_1422.png	𑐩𑐸𑐏 𑐥𑑂𑐬𑐩𑐸𑐏𑐎𑑀𑐳𑐩𑐾𑐟
+pracalit_1423.png	𑐐𑐐𑐵𑐮𑐦𑐾𑐡𑐷𑐎𑐵 𑐳𑐶𑐮𑐸𑐎
+pracalit_1424.png	𑐩𑐹𑐟𑐶𑐮𑐵𑐃
+pracalit_1425.png	𑐧𑐟𑑂𑐟𑐷𑐣𑐧𑐮𑑂𑐣𑐾 𑐩𑐡𑐸𑐐𑐸
+pracalit_1426.png	𑐳𑐸𑐣𑐸𑐰𑐵𑐂𑐮𑐾
+pracalit_1427.png	𑐬𑐵𑐩𑐥𑑂𑐬𑐳𑐵𑐮
+pracalit_1428.png	𑐀𑐣𑑂𑐢𑑀𑐥𑐣𑐎𑐵 𑐦𑐬𑑂𑐎𑐶𑐊𑐎𑐵𑐴𑐬𑐹𑐩𑐵
+pracalit_1429.png	𑐄𑐥𑐨𑑀𑐐𑐰𑐵𑐡𑐷
+pracalit_1430.png	𑐣𑐶𑐡𑐵𑐂𑐣𑑂𑐕 𑐐𑐬𑑂𑐡𑐿𑐣𑑁𑑄
+pracalit_1431.png	𑐮𑐶𑐰𑐶𑐣𑐮𑐾 𑐴𑑀𑐮𑑀𑐐𑑂𑐬𑐵𑐩
+pracalit_1432.png	𑐎𑐵𑐬𑑂𑐠𑐎𑐮𑐵𑐃 𑐰𑐣𑐎𑐬𑑂𑐩𑐷
+pracalit_1433.png	𑐁𑑃𑐐𑐣𑐩𑐵𑐟𑐬 𑐮𑑀𑐎𑐥𑐡𑑂𑐢𑐟𑐶𑐎𑑀
+pracalit_1434.png	𑐣𑐵𑐔𑐶𑐬𑐴𑐾𑐕𑐣𑑂 𑑋
+pracalit_1435.png	𑐩𑐶𑐫𑐵𑐐𑐷 𑐣𑐶𑐱𑐵𑐣
+pracalit_1436.png	𑐀𑐐𑑂𑐣𑐶𑐩𑐵 𑐩𑑁𑐬𑐷𑐖𑐣𑑂𑐫
+pracalit_1437.png	𑐑𑑂𑐫𑐸𑐎𑐸𑐩𑐵𑐬𑐷𑐎𑑀 𑐮𑐔𑐎𑐏𑐥𑐟
+pracalit_1438.png	𑐳𑐴𑐨𑐵𑐐𑐷𑐎𑐵𑐀𑐣𑐸𑐳𑐵𑐬
+pracalit_1439.png	𑐥𑐵𑐩𑑂𑐮𑐵 𑐁𑐊 ?
+pracalit_1440.png	𑐐𑐵𑐫𑐶𑐎𑐵𑐳𑑃𑐐𑐎𑑀
+pracalit_1441.png	𑐮𑐾𑐖𑐬 ,
+pracalit_1442.png	𑐖𑐵𑑃𑐔𑐶𑐣𑐾 𑐀𑐣𑐸𑐬𑐸𑐥𑐎𑐵
+pracalit_1443.png	𑐫𑐩𑐸𑐣𑐵𑐩𑐵𑐃 𑐂𑐣𑐵𑐬𑐩𑐵
+pracalit_1444.png	𑐥𑐵𑐬𑑂𑐎𑐎𑐵 𑐧𑐸𑐚𑐷
+pracalit_1445.png	𑐰𑐜𑐵𑐳𑐡𑐳𑑂𑐫𑐴𑐬𑐹𑐮𑐵𑐃
+pracalit_1446.png	𑐬𑐾𑐦𑑂𑐬𑐶𑐖𑐾𑐣𑐾𑐬𑐾𑐚𑐬𑐴𑐬𑐸 𑐬𑐸𑐝𑐶𑐰𑐵𑐡𑐮𑐵𑐃
+pracalit_1447.png	𑐩𑐶𑐮𑐵𑐄𑐣𑐟𑐶𑐬𑐿
+pracalit_1448.png	𑐬𑐵𑐖𑐡𑐾𑐰𑐷 ,
+pracalit_1449.png	𑐗𑐶𑑃𑐐𑐵𑐖𑐳𑑂𑐟𑑀 ,
+pracalit_1450.png	𑐥𑑂𑐬𑐵𑐢𑐶𑐎𑐬𑐞𑐩𑐵𑐟𑐴𑐟𑐩𑐵 𑐥𑑂𑐬𑐖𑐣𑐣𑐎𑐵
+pracalit_1451.png	𑐰𑐵𑐎𑑂𑐫𑐴𑐬𑐹𑐮𑐾 𑐜𑐵.𑐳𑐸𑐰𑐾𑐡𑐷𑐎𑑀
+pracalit_1452.png	𑐁𑐃𑐊𑐣𑐖𑐷𑐌𑐴𑐬𑐹𑐎𑑀
+pracalit_1453.png	𑐄𑐨𑐶𑐣𑑂𑐕𑑁𑑄 ,
+pracalit_1454.png	𑐜𑐶𑐣𑐵𑐮𑐾
+pracalit_1455.png	𑐊𑐎𑐧𑐴𑐵𑐡𑐸𑐬
+pracalit_1456.png	𑐐𑐶𑐬𑐷𑐰𑐶𑐬𑐸𑐡𑑂𑐢
+pracalit_1457.png	𑐀𑑄𑐱𑐎𑐵
+pracalit_1458.png	𑐖𑐶𑐟𑐣𑐖𑐶𑐎
+pracalit_1459.png	𑐎𑑂𑐲𑐫𑐬𑑀𑐾𑐐𑐎𑐵 𑐣𑐾𑐥𑑂𑐳𑐾𑐩𑐿
+pracalit_1460.png	𑐐𑐵𑐄𑑃𑐑𑐬𑐎𑑀 𑐳𑑄𑐱𑐵𑐾𑐢𑐣
+pracalit_1461.png	𑐧𑐳𑑂𑐣𑐵𑐳𑐵𑐠
+pracalit_1462.png	𑐥𑐮𑐧𑐷
+pracalit_1463.png	𑐏𑐟𑑄 𑐨𑐵𑐬𑑀𑐎𑐵
+pracalit_1464.png	𑐳𑐶𑑄𑐴 ,
+pracalit_1465.png	𑐳𑐩𑐶𑐟𑐶𑐴𑐬𑐹𑐩𑐵 𑐩𑐶𑐮𑐾𑐎𑑀
+pracalit_1466.png	𑐳𑑄𑐬𑐔𑐣𑐵𑐴𑐬𑐸 ,
+pracalit_1467.png	𑐖𑐩𑐷𑐣𑐧𑐵𑐚 𑐳𑐟𑑂𑐟𑐵𑐳𑐵𑐬𑐠𑐷
+pracalit_1468.png	𑐝𑐸𑐒𑑂𑐐𑐾
+pracalit_1469.png	𑐎𑑂𑐫𑐹𑐦𑐶𑐚 𑐄𑐣𑐷𑐴𑐬𑐸𑐩𑐵
+pracalit_1470.png	𑐳𑐶𑑄𑑄𑐴
+pracalit_1471.png	𑐥𑐝𑑂𑐡𑐿𑐕𑐣𑑂 , 𑐰𑑂𑐫𑐰𑐳𑑂𑐠𑐵𑐥𑐣
+pracalit_1472.png	𑐎𑐮𑐷
+pracalit_1473.png	𑐴𑐵𑐮𑐶𑐳𑐎𑐾𑐎𑐵
+pracalit_1474.png	𑐰𑐶𑐡𑑂𑐫𑐵𑐮𑐫𑐴𑐬𑐸𑐎𑐵 𑐄𑐜𑐵𑐣 ,
+pracalit_1475.png	𑐮𑐐𑐵𑐣𑐷𑐎𑐬𑑂𑐟𑐵𑐎𑑀
+pracalit_1476.png	𑐡𑑀𑐰𑐵 𑐱𑐸𑐨𑐾𑐔𑑂𑐕𑐵 𑑋
+pracalit_1477.png	𑐬𑐵𑐖𑐸𑐩𑐵𑐲𑑂𑐚𑐬𑐮𑐾 𑐨𑐎𑑂𑐟𑐥𑐸𑐬𑐟𑐶𑐬𑐧𑐵𑐚
+pracalit_1478.png	𑐬𑐔𑑂𑐣𑐾𑐥𑑂𑐬𑐟𑐶 𑐩𑐴𑐵𑐡𑐷𑐥
+pracalit_1479.png	𑐳𑐥𑑂𑐟𑐬𑑂𑐲𑐶 𑐱𑐎𑑂𑐟𑐶𑐥𑑂𑐬𑐳𑐵𑐡
+pracalit_1480.png	𑐗𑐞𑑂𑐗𑐚𑐮𑐾 𑐎𑐬𑑂𑐩𑐥𑑂𑐬𑐟𑐶
+pracalit_1481.png	𑐣𑐵𑐠𑐵𑐣𑐶𑐫𑐮
+pracalit_1482.png	𑐜𑐶𑐥𑑀𑐨𑐶𑐟𑑂𑐬 𑐖𑐸𑐬𑐵𑐥 ,
+pracalit_1483.png	𑐦𑐸𑐮𑐶𑐬𑐴𑐎𑑀 𑐳𑐶𑐎𑑂𑐰𑐾𑐣𑑂𑐳𑐬
+pracalit_1484.png	𑐜𑐬 ?
+pracalit_1485.png	𑐮𑐵𑐥𑐬𑐧𑐵𑐴𑐶 𑐳𑑀𑐮𑐾𑐜𑐵𑑃𑐜𑐵
+pracalit_1486.png	𑐖𑐣𑐩𑐟𑐳𑐒𑑂𑐐𑑂𑐬𑐴𑐎𑐵
+pracalit_1487.png	𑐮𑐶𑐜𑐬𑐴𑐬𑐸𑐮𑐵𑐃 𑐥𑑂𑐬𑐱𑐶𑐎𑑂𑐲𑐞𑐮𑐾
+pracalit_1488.png	𑐎𑐮𑐾𑐖𑐎𑐵
+pracalit_1489.png	𑐔𑐵𑐌𑐳𑐟𑐶 ,
+pracalit_1490.png	𑐨𑐾𑐚𑐰𑐵𑐮𑐮𑐵𑐃
+pracalit_1491.png	𑐎𑐾𑐬𑐶𑐩 𑐏𑐶𑐔𑐵𑐟𑐵𑐣𑐷 ,
+pracalit_1492.png	𑐳𑐩𑑂𑐗𑐵𑐄𑑃𑐡𑐵𑐳𑐩𑐾𑐟
+pracalit_1493.png	𑐳𑑂𑐥𑐸𑐟𑐣𑐶𑐎𑑕
+pracalit_1494.png	𑐔𑐶𑐔𑑂𑐫𑐵𑐂𑐔𑐶𑐔𑑂𑐔𑑂𑐫𑐵𑐂
+pracalit_1495.png	𑐳𑑀𑐖𑐵𑐎 𑐳𑐦𑑂𑐚𑐰𑐫𑐬 ,
+pracalit_1496.png	𑑙𑑘.𑑕
+pracalit_1497.png	𑐥𑑂𑐬𑐟𑐶𑐣𑐶𑐢𑐶𑐳𑐨𑐵𑐨𑐶𑐟𑑂𑐬𑐎𑑀
+pracalit_1498.png	𑐐𑐬𑑂𑐣𑐾𑐮𑐾
+pracalit_1499.png	𑐣𑐮𑐾𑐏𑐾𑐬 , 𑐎𑐥𑐜𑐵𑐳𑐩𑑂𑐩
+pracalit_1500.png	𑐏𑐸𑐮𑐶𑐳𑐎𑑂𑐕 𑑋
+pracalit_1501.png	𑐡𑐶𑐡𑐷𑐧𑐴𑐶𑐣𑐷𑐧𑐷𑐔 𑐳𑐸𑐳𑑂𑐎𑐾𑐬𑐵𑐳𑑃𑐐𑐿
+pracalit_1502.png	𑐦𑐾𑐲𑑂𑐚𑐶𑐨𑐮𑐎𑐵
+pracalit_1503.png	𑐳𑑄𑐑𑐀𑐣𑐸𑐳𑐵𑐬 𑐳𑑂𑐠𑐵𑐣𑐷𑐫𑐧𑐵𑐚𑐿
+pracalit_1504.png	𑐄𑐟𑑂𑐟𑐬𑐵𑐬𑑂𑐡𑑂𑐢𑐩𑐵 𑐮𑐶𑐩𑑂𑐧𑐹𑐎𑐵
+pracalit_1505.png	𑐄𑐳𑐎𑑀
+pracalit_1506.png	𑐖𑐐𑐵𑐄𑐣𑐾𑐕𑐣𑑂 𑑋 𑐳𑐶𑑄𑐔𑐵𑐃𑐫𑐸𑐎𑑂𑐟
+pracalit_1507.png	𑐩𑐾𑐮𑑀𑐜𑐷
+pracalit_1508.png	𑐁𑐊𑐎𑑀𑐡𑐾𑐏𑐶
+pracalit_1509.png	𑐨𑐶𑐖𑐶𑐣𑐾𑐮𑐵
+pracalit_1510.png	𑐆𑐲𑐶𑐩𑐸𑐣𑐶 ,
+pracalit_1511.png	𑐢𑐸𑑃𑐰𑐵𑐎𑑀
+pracalit_1512.png	𑐎𑑂𑐫𑐵𑐩𑐾𑐬𑐵 ,
+pracalit_1513.png	𑐳𑐶𑐳𑐶𑐜𑐶 𑐳𑐎𑑂𑐠𑑂𑐫𑑀
+pracalit_1514.png	𑐧𑐾𑐬𑐵
+pracalit_1515.png	𑐀𑐩𑐸𑐰𑐵
+pracalit_1516.png	𑐡𑐾𑐰𑐡𑐹𑐟𑐴𑐬𑐸𑐎𑑀
+pracalit_1517.png	𑐁𑐨𑐵𑐎𑐷
+pracalit_1518.png	𑐄𑐡𑑂𑐫𑑀𑐐𑐷𑐥𑑂𑐬𑐟𑐶 𑐳𑐸𑐬𑐎𑑂𑐲𑐵𑐎𑑀
+pracalit_1519.png	𑐑𑐬𑐧𑐷𑐔 𑐚𑐬𑑂𑐎𑐷𑐮𑐾
+pracalit_1520.png	𑐐𑑁𑐱𑐵𑐮𑐵𑐩𑐵
+pracalit_1521.png	𑐳𑐶𑑄𑐐𑐬𑐵𑐩𑐳𑑃𑐐𑐿 𑐀𑐰𑐶𑐎𑐵𑐳𑐎𑑀
+pracalit_1522.png	𑐎𑐔𑐶𑐫𑐵𑑃
+pracalit_1523.png	𑐖𑐒𑑂𑐎 𑐬𑐹𑐔𑐷
+pracalit_1524.png	𑐨𑐃𑐬𑐴𑐣𑐾 𑑋 𑐁𑑃𑐏𑐷𑐨𑑁𑑄
+pracalit_1525.png	𑐊𑐎𑑂𑐳𑐾𑐳 𑐟𑐣𑑂𑐣𑐾𑐬𑐷𑐴𑐬𑐹
+pracalit_1526.png	𑐐𑐟𑐶𑐮𑐶𑐣𑐾 𑐎𑐩𑑂𑐫𑐸𑐣𑐶𑐳𑑂𑐚𑐴𑐬𑐸
+pracalit_1527.png	𑐥𑐵𑐎𑐶𑐳𑑂𑐟𑐵𑐎𑑀
+pracalit_1528.png	𑐳𑑃𑐗
+pracalit_1529.png	𑐟𑐥𑐟𑐥 𑐳𑑄𑐎𑑂𑐬𑐩𑐞𑐎𑐵
+pracalit_1530.png	𑐡𑐸𑐳𑑂𑐰𑐥𑑂𑐣𑐎𑑀 𑐎𑐩𑐶𑐚𑐶 ,
+pracalit_1531.png	𑐳𑐒𑑂𑐎𑐚𑐵𑐎𑑀 𑐫𑑁𑐣𑐟𑐺𑐥𑑂𑐟𑐶𑐎𑑀
+pracalit_1532.png	𑐱𑐸𑐎𑑂𑐮𑐵𑐦𑐵𑑃𑐚𑐵𑐟𑐬𑑂𑐦
+pracalit_1533.png	𑐩𑐶𑐣𑐾𑐚𑐎𑑀 𑐳𑑂𑐫𑐵𑐫𑐾
+pracalit_1534.png	𑐬𑑄𑐐𑐧𑐶𑐬𑑄𑐐𑐷
+pracalit_1535.png	𑐧𑐵𑐐𑐮𑐸𑐒𑐮𑐵𑐃 𑐰𑐺𑐡𑑂𑐢𑐥𑑂𑐬𑐟𑐶
+pracalit_1536.png	𑐬𑑀𑐎𑐶𑐣𑐾𑐕 𑑋 𑐣𑐶𑐲𑑂𑐎𑐵𑐱𑐣𑐧𑐵𑐚
+pracalit_1537.png	𑐐𑑂𑐬𑐴𑐨𑐶𑐟𑑂𑐬 𑑋
+pracalit_1538.png	𑐰𑐣𑐾 𑐁𑐱𑐵𑐳𑐩𑑂𑐩
+pracalit_1539.png	𑐰𑐶𑐖𑑂𑐘𑐵𑐥𑐣 ?
+pracalit_1540.png	𑐣𑐵𑐳𑐶𑑃𑐡𑐵
+pracalit_1541.png	𑐄𑐣𑐿𑐎𑐵𑐾
+pracalit_1542.png	𑑖𑑙𑑖𑑑𑑘 𑐳𑐵𑐟𑐵𑐩𑐵 ,
+pracalit_1543.png	𑐢𑐩𑑂𑐎𑐶 𑐩𑐵𑐣𑐎𑐩𑐵𑐠𑐶
+pracalit_1544.png	𑐩𑐺𑐡𑑄𑐐 ,
+pracalit_1545.png	𑐧𑐶𑐣𑑀𑐡𑐳𑑄𑐐
+pracalit_1546.png	𑐄𑐟𑑂𑐥𑐵𑐡𑐣𑐱𑐷𑐮𑐟𑐵𑐩𑐵 𑐎𑐵𑐬𑑂𑐫𑐵𑐡𑐾𑐱𑐀𑐣𑐸𑐳𑐵𑐬
+pracalit_1547.png	𑐄𑐩𑐵𑐮𑐶𑐡𑐶𑐄𑑃 , 𑐁𑐥𑐟𑑂𑐟𑐎𑐵𑐮𑐷𑐣
+pracalit_1548.png	𑐣𑐵𑐐𑐬𑐶𑐎𑐣𑐵𑐐𑐬𑐶𑐎
+pracalit_1549.png	𑐥𑑂𑐬𑐶𑐥𑐾𑐩𑐾𑐣𑑂𑐚
+pracalit_1550.png	𑐔𑐮𑐵𑐄𑐣𑐾𑐴𑐬𑐹
+pracalit_1551.png	𑐝𑐵𑐮𑐶𑐡𑐶𑐊 𑑋 𑐨𑐾𑐚𑑂𑐣𑐸𑐳𑑂
+pracalit_1552.png	𑐥𑐵𑐂𑐊𑐣 𑑋 𑐡𑐶𑐩𑐵𑐐𑐷
+pracalit_1553.png	𑐚𑑂𑐬𑐵𑐨𑐮𑐬𑐬𑑂𑐳 𑑑𑑘𑑖.𑑘 ,
+pracalit_1554.png	𑐳𑐘𑑂𑐔𑐵𑐬𑐎𑐬𑑂𑐩𑐷𑐴𑐬𑐹𑐳𑑃𑐐𑐎𑑀
+pracalit_1555.png	𑐩𑐸𑐳𑐮𑐩𑐵𑐣 ,
+pracalit_1556.png	𑐑𑐵𑐫𑐮𑐎𑑀 𑐰𑐶𑐎𑐵𑐳𑐰𑐶𑐣𑐵
+pracalit_1557.png	𑐟𑐵𑐥𑑂𑐮𑐾𑐖𑐸𑐒𑑂𑐐𑐩𑐵
+pracalit_1558.png	𑐳𑐹𑐔𑐎𑐵𑐒𑑂𑐎𑐮𑐾
+pracalit_1559.png	𑐨𑐸𑐎𑑂𑐟𑐵𑐣𑐷𑐧𑐵𑐥𑐟𑐎𑑀 𑐂𑐣𑑂𑐚𑐾𑐮𑐶𑐖𑐾𑐣𑑂𑐳𑐎𑐵
+pracalit_1560.png	𑐨𑑂𑐫𑐵𑐂𑐣𑐨𑑂𑐫𑐵𑐂 𑐳𑐸𑐴𑐵𑐄𑑃𑐕𑐾 𑑋
+pracalit_1561.png	𑐚𑐷𑐚𑑂𑐰𑐵𑐣𑑂𑐚𑐷
+pracalit_1562.png	𑐑𑐬𑐧𑐵𑐳𑐎𑑀 𑐩𑐴𑑃𑐐𑑁
+pracalit_1563.png	𑐬𑐵𑐂𑐜𑐬𑐧𑐷𑐔𑐎𑑀
+pracalit_1564.png	𑐥𑑂𑐬𑐡𑐬𑑂𑐱𑐣𑐷𑐳𑑂𑐠𑐮 , 𑐎𑑁𑐱𑐮𑐩𑑂 𑑋
+pracalit_1565.png	𑐦𑐸𑐚𑐾𑐠𑐾
+pracalit_1566.png	𑐝𑐸𑑄𑐐𑐵𑐎𑐵 𑐳𑑄𑐑𑐀𑐣𑑂𑐟𑐬𑑂𑐐𑐟𑐎𑑀
+pracalit_1567.png	𑐩𑐿𑐰𑐵𑐏𑑀𑐮𑐵 ,
+pracalit_1568.png	𑐐𑑀𑐮𑐮𑐾 𑐳𑐸𑐗𑐵𑐰𑐩𑐵𑐠𑐶
+pracalit_1569.png	𑐍𑐔𑐶𑐟𑑂𑐫𑐟𑐵𑐎𑑀 𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐨𑐹𑐲𑐞
+pracalit_1570.png	𑐖𑐶𑐬𑑅
+pracalit_1571.png	𑐩𑑀𑐚𑑀𑐎𑐬𑑂𑐥𑐮𑐾
+pracalit_1572.png	𑐕𑑀𑐬𑐵𑐴𑐬𑐹𑐳𑑃𑐐
+pracalit_1573.png	𑐥𑐵𑑄𑐐𑑂𑐬𑐵𑐮𑐾
+pracalit_1574.png	𑐳𑐬𑐡𑐵𑐬𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+pracalit_1575.png	𑐬𑐸𑐥𑐿𑐫𑐵𑑃𑐳𑐴𑐶𑐟𑐎𑑀 𑐩𑐐𑐬𑐔𑐣𑑂𑐡𑑂𑐬𑐵𑐐𑐶𑐬𑐶𑐩𑐵
+pracalit_1576.png	𑐕𑐡𑐶𑐣𑐴𑐸𑑃
+pracalit_1577.png	𑐳𑐸𑐩𑐡𑐵𑐫𑐎𑑀 𑐳𑐬𑑂𑐱𑐟
+pracalit_1578.png	𑐮𑐜𑑂𑐕𑐣𑑂
+pracalit_1579.png	𑐥𑑂𑐬𑐟𑐶𑐫𑑀𑐐𑐶𑐟𑐵𑐁𑐫𑑀𑐖𑐣𑐵
+pracalit_1580.png	𑐰𑑂𑐫𑐵𑐥𑐵𑐬𑐷𑐩𑐵𑐠𑐶 𑐴𑐖𑐵𑐬𑑑𑑖𑑕
+pracalit_1581.png	𑐠𑐵𑐴𑐵𑐣𑐐𑐬𑐧𑐵𑐳𑐷𑐮𑐾
+pracalit_1582.png	𑐑𑐬𑐎𑐵𑐬𑑂𑐫𑐵𑐮𑐫𑐩𑐵
+pracalit_1583.png	𑑓𑑔𑑒𑑑 𑐥𑐶𑐚𑐾 𑑋
+pracalit_1584.png	𑐳𑐶𑐮𑐵𑐂𑐡𑐶𑐂𑐣𑑂 𑑋
+pracalit_1585.png	𑐥𑐡𑐶𑐎𑐴𑐸𑐡𑑂𑐡𑐵
+pracalit_1586.png	𑐧𑐶𑐖𑐾𑐟𑐵𑐮𑐾 𑑑𑑘𑑓𑑔
+pracalit_1587.png	𑐄𑐥𑐵𑐢𑐶𑐩𑐵 𑐮𑐵𑐨𑐎𑐬
+pracalit_1588.png	𑐕𑐵𑐜𑑆𑐣𑐸
+pracalit_1589.png	𑐁𑐄𑐣𑐸𑐀𑐑𑐶𑐎𑑀 𑐐𑐴𑐨𑐬𑐶
+pracalit_1590.png	𑐜𑑀𑐎𑐾𑐧𑐖𑐵𑐬 𑐁𑐰𑐵𑐖𑐧𑐷𑐔𑐩𑐿
+pracalit_1591.png	𑐄𑐮𑐣𑐾 𑐣𑐡𑐬𑐮𑑂𑐫𑐵𑐣𑑂𑐜 ,
+pracalit_1592.png	𑐠𑐾𑐧𑐾
+pracalit_1593.png	𑐖𑐸𑐚𑐵𑐄𑐣𑐎𑑀 𑐧𑑂𑐫𑐸𑑃𑐗𑐶𑐊𑐎𑐵
+pracalit_1594.png	𑐝𑐸𑐰𑐵𑐣𑐷𑐎𑐬𑑂𑐟𑐵𑐮𑐵𑐃 𑐴𑐶𑐩𑐱𑑂𑐬𑐷
+pracalit_1595.png	𑐳𑐵𑐠𑐀𑐑𑐶
+pracalit_1596.png	𑐩𑐣𑑂𑐟𑑂𑐬𑐵𑐮𑐫𑐀𑐐𑐵𑐜𑐶 𑐥𑐡𑐢𑐵𑐬𑐎𑐮𑐾
+pracalit_1597.png	𑐁𑐃𑐦𑑀𑐣𑐡𑑂𑐰𑐵𑐬𑐵
+pracalit_1598.png	𑐔𑐥𑑂𑐥𑐮𑐖𑐸𑐟𑑂𑐟𑐵 𑐰𑐶𑐡𑐾𑐱𑐷𑐩𑐵
+pracalit_1599.png	𑐡𑐵𑐂𑐨𑐵𑐄𑐖𑐹
+pracalit_1600.png	𑐎𑐘𑑂𑐔𑐣𑐥𑐸𑐬𑐷
+pracalit_1601.png	𑐣𑐵𑐩 𑑋
+pracalit_1602.png	𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐳𑐴𑐶𑐟𑐎𑑀 𑐥𑐕𑐵𑐬𑐶𑐡𑐶𑐣𑑂𑐕 𑑋
+pracalit_1603.png	𑐳𑐸𑐳𑑂𑐟𑐵𑐄𑑃𑐡𑑀 𑐜𑐬𑑂𑐩𑐵𑐚𑑀𑐮𑐶𑐖𑐩𑐵
+pracalit_1604.png	𑐩𑐣𑐴𑐬𑐶𑐳𑐩𑐾𑐟 𑐥𑐛𑐵𑐄𑐣𑐎𑐿
+pracalit_1605.png	𑐀𑐨𑐶𑐩𑐵𑐣𑐧𑐵𑐴𑐾𑐎 𑐰𑐶𑐰𑐵𑐡𑐳𑑃𑐐𑐿
+pracalit_1606.png	𑐐𑐬𑑂𑐣𑐾𑐳𑐴𑐶𑐟
+pracalit_1607.png	𑐨𑐵𑑃𑐔𑐶𑐣𑑂𑐣 ,
+pracalit_1608.png	𑐳𑑂𑐰𑐵𑐣𑑂𑐟𑑅
+pracalit_1609.png	𑐎𑐵𑐣𑑂𑐕𑐵𑐬𑐵𑐩 𑐟𑑂𑐫𑐟𑐶𑐰𑐾𑐮𑐵𑐳𑐩𑑂𑐩
+pracalit_1610.png	𑐎𑐿𑐫𑐵𑑃𑐿
+pracalit_1611.png	𑐁𑑃𑐚𑐾𑐬 𑐧𑐶𑐜𑐵𑐳𑐿𑐣
+pracalit_1612.png	𑐣𑐏𑐶𑐔𑐣𑐾 ,
+pracalit_1613.png	𑐧𑑄𑐐𑐮𑐵𑐡𑐾𑐱𑐰𑐶𑐬𑐹𑐡𑑂𑐢𑐎𑑀 𑐥𑐵𑐮𑑂𑐴𑐷
+pracalit_1614.png	𑐎𑐩𑐮𑐵𑐩𑐵𑐃𑑗𑐎𑐵
+pracalit_1615.png	𑐣𑐴𑐵𑐮𑑁𑑃 𑐊𑐫𑐬𑐩𑐵
+pracalit_1616.png	𑐦𑐎𑐣
+pracalit_1617.png	𑐎𑐮𑐵𑐮𑐾𑐏𑐎
+pracalit_1618.png	𑐎𑐰𑐶𑐟𑐵𑐮𑐾
+pracalit_1619.png	𑐁𑐢𑐵𑐬𑐱𑐶𑐮𑐵𑐴𑐬𑐹 𑐬𑐖𑐶𑐲𑑂𑐚𑐵𑐬𑐮𑐵𑐃
+pracalit_1620.png	𑐳𑐩𑐶𑐬𑐮𑐵𑐃
+pracalit_1621.png	𑐐𑐬𑐵𑐄𑐣𑐸𑐀𑐑𑐶 𑐧𑐵𑐁𑐩𑐵𑐧𑐵𑐚
+pracalit_1622.png	𑐮𑑂𑐫𑐵𑐄𑑃𑐠𑐾 𑑋
+pracalit_1623.png	𑐎𑐵𑐬𑑂𑐫𑐎𑑂𑐬𑐩𑐴𑐬𑐹𑐮𑐵𑐃 𑐥𑐬𑐾𑐣 ,
+pracalit_1624.png	𑐧𑐸𑐴𑐵𑐬𑐷𑐮𑐵𑐃
+pracalit_1625.png	𑐰𑐶𑐡𑑂𑐫𑐵 𑑋 𑐣𑐺𑐟𑑂𑐫𑐮𑐾
+pracalit_1626.png	𑐏𑐸𑐰𑐵𑐄𑐣 𑐣𑐾𑐟𑐺𑐟𑑂𑐰𑐥𑑄𑐎𑑂𑐟𑐶
+pracalit_1627.png	𑐀𑐢𑑂𑐫𑑂𑐫𑐣 𑐦𑐸𑐎𑐾𑐎𑑀
+pracalit_1628.png	𑐱𑑀𑐨𑐬𑐵𑐖𑐮𑐵𑐃 𑐢𑐹𑐰𑐵𑑃𑐢𑐹𑐰𑐵𑑃𑐮𑐾
+pracalit_1629.png	𑐟𑐷𑐬𑑂𑐠𑐳𑑂𑐠𑐮𑐎𑐵 𑐣𑑂𑐴𑑂𑐫𑐮𑐸𑐰𑐵𑑅
+pracalit_1630.png	𑐂𑐣𑑀𑐨𑐾𑐚𑐎𑐵
+pracalit_1631.png	𑐏𑐩𑑂𑐧𑐵𑐏𑐩𑑂𑐧𑐵𑐩𑐵
+pracalit_1632.png	𑐩𑐺𑐐𑑁𑐮𑐵𑐀𑐔𑐵𑐬𑐩𑐵 𑐊𑐣𑑂𑐐𑐸𑐳𑑀
+pracalit_1633.png	𑐥𑑂𑐬𑐬𑑂𑐰𑐡𑑂𑐢𑐣𑐎𑐵 𑐩𑐵𑐮𑑂𑐜𑑀𑐨𑐵𑐩𑐵𑐠𑐶
+pracalit_1634.png	𑐚𑑄𑐐𑐵𑐮𑐳𑐩𑑂𑐩 𑑓𑐮𑐾
+pracalit_1635.png	𑐨𑑀𑐮𑐶𑐥𑐮𑑂𑐚𑐧𑐵𑐚𑐿
+pracalit_1636.png	𑐢𑐺𑐲𑑂𑐚𑐟𑐵 𑐩𑐵𑐮𑐳𑐵𑐩𑐵𑐣𑐩𑐵
+pracalit_1637.png	𑐎𑑀𑐳 𑐥𑑂𑐬𑐟𑐶𑐱𑑀𑐢𑐎𑑀
+pracalit_1638.png	𑐧𑑂𑐬𑐵𑐖𑐶𑐮 ,
+pracalit_1639.png	𑐥𑐵𑐂𑐮𑐿𑐥𑐶𑐔𑑂𑐕𑐾
+pracalit_1640.png	𑐩𑑂𑐰𑐴𑑅 𑐡𑐾𑐏𑐵𑐥𑐬𑑂𑐫𑑁 𑑋
+pracalit_1641.png	𑐣𑐡𑐷𑐥𑐱𑑂𑐔𑐶𑐩 ,
+pracalit_1642.png	𑐎𑐸𑐱𑐮𑐮𑐾 𑐥𑐸𑐲𑑂𑐥𑐩𑐎𑐮
+pracalit_1643.png	𑐜𑐵.𑐗𑐵𑐮𑐾
+pracalit_1644.png	𑐦𑐿𑐮𑐵𑐂𑐡𑐶𑐣𑑂𑐕𑐣𑑂 𑑋
+pracalit_1645.png	𑐧𑐶𑐠𑑀𑐮𑐾𑐎𑑀
+pracalit_1646.png	𑐳𑐒𑑂𑐎𑑂𑐲𑐾𑐥𑐟𑑅 𑐣𑐶𑐬𑑂𑐩𑐟𑐵𑐥𑐹𑐬𑑂𑐰𑐎
+pracalit_1647.png	𑐳𑐩𑑂𑐗𑐶𑐡𑐵 𑐩𑐵𑐩𑐶𑐮𑐵𑐎𑐵
+pracalit_1648.png	𑐏𑐶𑐔𑐶𑐬𑐴𑐾𑐎𑐵 , 𑐳𑐟𑐶𑐳
+pracalit_1649.png	𑐳𑑂𑐎𑐸𑐚𑐬𑐴𑐬𑐸
+pracalit_1650.png	𑐩𑐸𑐎𑑂𑐟𑐎𑐮𑐾
+pracalit_1651.png	𑐳𑐵𑐴𑐸𑐎𑐷 𑐬𑐵𑐖𑑂𑐫𑐳𑑂𑐬𑑀𑐟𑐎𑑀
+pracalit_1652.png	𑐣𑐰𑐶𑐣𑑂𑐡𑑂𑐬𑐖𑐷 𑐰𑐶𑐎𑐾𑐣𑑂𑐜𑐩𑐵
+pracalit_1653.png	𑐥𑑂𑐬𑐫𑑀𑐐𑐳𑐩𑐾𑐟 𑐖𑑂𑐫𑐵𑐣𑐿
+pracalit_1654.png	𑐜𑐾𑐚𑐩𑐵
+pracalit_1655.png	𑑓𑐍𑑄
+pracalit_1656.png	𑐳𑐣𑑂𑐖𑐫 𑐱𑑂𑐬𑐺𑑄𑐏𑐮𑐵𑐎𑐵
+pracalit_1657.png	𑐳𑐒𑑂𑐎𑑂𑐬𑐩𑐞𑐨𑐣𑑂𑐡𑐵 𑐥𑐳𑐮𑐳𑐩𑐾𑐟
+pracalit_1658.png	𑐏𑐵𑑃𑐧𑑀
+pracalit_1659.png	𑐜𑐵𑐫𑐩𑐞𑑂𑐜𑐮𑐵𑐃
+pracalit_1660.png	𑐬𑑀𑐮𑑂𑐰𑐵𑐮𑐶𑐒 𑐬𑑂𑐫𑐵𑐮𑐳𑐶𑑃𑐐𑐵𑐣
+pracalit_1661.png	𑐳𑐬𑑀𑐖𑐐𑑀𑐥𑐵𑐮 , 𑐮𑐎𑑂𑐲𑑂𑐩𑐞𑐮𑐾
+pracalit_1662.png	𑐟𑐵𑐩𑐵𑐎𑑀𑐳𑐷𑐧𑐵𑐴𑐾𑐎
+pracalit_1663.png	𑐳𑑄𑐬𑐔𑐣𑐵𑐩𑐵 , 𑐳𑑂𑐥𑐶𑐎𑐬𑐴𑐬𑐸𑐩𑐵
+pracalit_1664.png	𑐳𑐸𑐡𑐹𑐬𑐥𑐹𑐬𑑂𑐰𑐩𑐵 𑑔𑑑𑐍𑑃
+pracalit_1665.png	𑐡𑐮𑐧𑐴𑐵𑐡𑐸𑐬
+pracalit_1666.png	𑐥𑑂𑐫𑐵𑑄𑐎𑑂𑐬𑐶𑐫𑐵𑐚𑐵𑐂𑐚𑐳 𑐏𑐶𑐳𑐷𑐚𑐶𑐄𑐬𑐷
+pracalit_1667.png	𑐖𑑀𑐴𑑀𑐮𑐵𑐃
+pracalit_1668.png	𑐮𑐵𑐩𑐐𑐵𑐡𑐾 𑐠𑐬𑐶𑐠𑐬𑐶𑐎𑑀
+pracalit_1669.png	𑐟𑐸𑐮𑐳𑐷𑐡𑐵𑐳𑐮𑐾 𑐩𑐴𑐶𑐮𑐵𑐰𑐶𑐬𑐸𑐡𑑂𑐰
+pracalit_1670.png	𑐫𑐸𑐰𑐎𑐎𑑀 𑐩𑐵𑐢𑐰𑐮𑐾
+pracalit_1671.png	𑑖𑑕
+pracalit_1672.png	𑐴𑐬𑐳𑐩𑐳𑑂𑐫𑐵
+pracalit_1673.png	𑐊𑐎𑐎𑑂𑐲𑐞 𑐧𑐵𑐮𑐳𑐾𑐣𑐵𑐮𑐵𑐃
+pracalit_1674.png	𑐳𑐔𑐩𑐵𑐬𑑂𑐦𑐟 𑐩𑐵𑐴𑐸𑐬𑐷𑐑𑐵𑐬 ,
+pracalit_1675.png	𑐣𑑂𑐫𑐵𑐫𑐵𑐢𑐷𑐱𑐡𑐾𑐏𑐶 𑐊𑐎𑐾𑐜𑐩𑐷
+pracalit_1676.png	𑐁𑐟𑑂𑐟𑐶𑐣𑐸𑐨𑐫𑑀 𑑋 𑐮𑐾𑐏𑐾𑐬 ,
+pracalit_1677.png	𑐳𑐿𑐫𑐵𑑃 𑐐𑐬𑐾𑐥𑐕𑐶𑐩𑐵𑐟𑑂𑐬𑐿
+pracalit_1678.png	𑐂𑐖𑐵𑐖𑐟𑐎𑑀
+pracalit_1679.png	𑐖𑑀𑐜𑐶𑐡𑐵𑐬 ,
+pracalit_1680.png	𑐨𑐬𑐏𑐬𑐿 𑐰𑐶𑐢𑐵𑐣𑐟
+pracalit_1681.png	𑐳𑐬𑐶𑐟𑐵𑐮𑐵𑐃 𑐔𑑂𑐫𑐵𑐥𑐶𑐊𑐎𑐵
+pracalit_1682.png	𑐥𑐵𑐣𑐵𑐩𑐿 𑐣𑐵𑐜𑐩
+pracalit_1683.png	𑐐𑐬𑑂𑐡𑐠𑐾𑑃 ,
+pracalit_1684.png	𑐮𑑂𑐫𑐵𑐂𑐊𑐧𑐵𑐥𑐟 𑐟𑑀𑐎𑐾𑐎𑐿
+pracalit_1685.png	𑐳𑐨𑐵𑐳𑐡 𑐮𑐴𑐬𑐵𑐴𑐬𑐸
+pracalit_1686.png	𑐳𑑄𑐰𑐾𑐡𑐣𑐵𑐴𑐷𑐣 𑐳𑑂𑐫𑐵𑐒𑐟𑐵𑐣𑐎𑑀
+pracalit_1687.png	𑐳𑑃𑐐𑐵𑐮𑐾𑐎𑐵
+pracalit_1688.png	𑐧𑐣𑑂𑐫𑑀
+pracalit_1689.png	𑑒𑑒𑑕. 𑐑𑐚𑐵𑐣𑐎𑑂𑐬𑐩𑐴𑐬𑐸𑐮𑐾
+pracalit_1690.png	𑐳𑐸𑐣𑑂𑐡𑐵𑐳𑐮𑐾
+pracalit_1691.png	𑐎𑐬𑑂𑐣𑐵𑐚𑐎𑐮𑐾 𑐝𑐶𑐚
+pracalit_1692.png	𑐣𑐶𑐳𑑂𑐰𑐵𑐬𑑂𑐠
+pracalit_1693.png	𑐴𑐶𑐩𑐵𑑄𑐔𑐮𑐩𑐵
+pracalit_1694.png	𑐰𑑂𑐫𑐵𑐥𑐵𑐬𑐷𑐡𑑂𑐰𑐵𑐬𑐵
+pracalit_1695.png	𑐬𑐵𑐩𑐩𑐣𑑂𑐡𑐶𑐬𑐎𑐵
+pracalit_1696.png	𑐎𑐵𑐬𑑂𑐎𑐷 𑑋 𑐳𑑄𑐳𑐡𑑂𑐮𑐾
+pracalit_1697.png	𑐛𑐵𑐄𑑃𑐴𑐬𑐸 𑐣𑐾𑐚𑐦𑑂𑐮𑐶𑐦𑐎𑑂𑐳𑐩𑐵
+pracalit_1698.png	𑐬𑐵𑐟𑑂𑐬𑐶𑐰𑐶𑐱𑑂𑐬𑐵𑐩𑐳𑑂𑐠𑐮𑐎𑑀
+pracalit_1699.png	𑐁𑐔𑐬𑐳𑑄𑐴𑐶𑐟𑐵 , 𑐗𑐾𑐮𑑂𑐣𑐸𑐥𑐬𑑂𑐕 𑑋
+pracalit_1700.png	𑐄𑐥𑐾𑐣𑑂𑐡𑑂𑐬𑐧𑐵𑐧𑐸𑐸𑐬𑐵𑐩
+pracalit_1701.png	𑐥𑐬𑐷𑐎𑑂𑐲𑐞
+pracalit_1702.png	.𑑓𑑙
+pracalit_1703.png	𑑑𑑘𑑕𑑙 𑐣𑐧𑐣𑑂𑐣𑐾 ,
+pracalit_1704.png	𑐔𑐶𑐮𑑂𑐮𑑀𑐫𑐸𑐎𑑂𑐟
+pracalit_1705.png	𑐳𑐩𑐣𑑂𑐰𑐫𑐎𑐬𑑂𑐟𑐵
+pracalit_1706.png	𑐨𑐣𑐵𑐂𑐧𑐵𑐚 𑐧𑐸𑐣𑐾 𑑋
+pracalit_1707.png	𑐣𑐶𑐖𑐬𑐘𑑂𑐖𑐣
+pracalit_1708.png	𑐴𑐸𑐬𑑂𑐎𑐣𑐸𑐨𑐊𑐎𑐷
+pracalit_1709.png	𑐎𑐩𑑂𑐥𑐣𑐷𑐴𑐬𑐸𑐳𑑃𑐐 𑐧𑐶𑐳𑑁𑑄
+pracalit_1710.png	𑐄𑐛𑐵𑐂𑐳𑐎𑐾𑐎𑑀 𑐰𑐶𑐎𑐵𑐳𑐩𑐵 𑑋
+pracalit_1711.png	𑐧𑐔𑐵𑐅 ,
+pracalit_1712.png	𑐳𑑂𑐰𑐿𑐬𑐎𑐮𑑂𑐥𑐣𑐵𑐎𑐵
+pracalit_1713.png	𑐳𑐩𑐵𑐮𑐶𑐊𑑃 𑑋 𑐦𑐾𑐧𑐸𑑂𑐬𑐀𑐬𑐷
+pracalit_1714.png	𑐣𑐶𑐬𑐸 𑐣𑐶𑐳𑑂𑐎𑐣𑐾𑐴𑐬𑐸𑐮𑐾
+pracalit_1715.png	𑐣𑐏𑐶𑐮𑐷
+pracalit_1716.png	𑐏𑑂𑐫𑑅𑐩𑐵
+pracalit_1717.png	𑐬𑐔𑐾𑐎𑐷
+pracalit_1718.png	𑐬𑐷𑐳
+pracalit_1719.png	𑐣𑑀𑐚𑐴𑐬𑐹 𑐥𑐵𑐬𑐶𑐖𑐵𑐟𑐎𑑀
+pracalit_1720.png	𑐟𑐟𑑂𑐎𑐵𑐮𑐶𑐣
+pracalit_1721.png	𑐥𑐸𑐮𑐶𑐒𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+pracalit_1722.png	𑐡𑐬𑑂𑐏𑐵𑐳𑑂𑐟 𑑓𑑓.𑑓
+pracalit_1723.png	𑐰𑐵𑐬𑑂𑐟𑐵𑐀𑐑𑐶
+pracalit_1724.png	𑐰𑐶𑐟𑐶𑐳𑐎𑑂𑐡𑐵
+pracalit_1725.png	𑐴𑐮𑑂𑐮𑑀
+pracalit_1726.png	𑐳𑐵𑐃𑐩𑐣 𑐁𑐂𑐊𑐩𑐃𑐁𑐃
+pracalit_1727.png	𑐥𑑂𑐬𑐵𑐮𑐷 , 𑐥𑑂𑐬𑐟𑐶𑐣𑐶𑐳𑐨𑐵
+pracalit_1728.png	𑐜𑑂𑐬𑐥𑐎𑑀 𑐨𑐷𑐊𑐦𑐊𑐎𑑂𑐳
+pracalit_1729.png	𑐨𑐣𑐳𑐸𑐣𑐩𑐵 𑐳𑐵𑐢𑐵𑐬𑐞𑐟𑐫𑐵
+pracalit_1730.png	𑐩𑐵𑐐𑑂𑐫𑑁𑑄 𑑋
+pracalit_1731.png	𑐩𑐵𑐣𑑂𑐜𑐮𑐾𑐩𑐵 𑐧𑑀𑐮𑑂𑐡𑐿𑐕𑐣𑑂 𑑋
+pracalit_1732.png	𑐊𑐎𑐵𑐄𑐣𑑂𑐚𑐶𑐒 𑐎𑐚𑐵𑐄𑐣
+pracalit_1733.png	𑐄𑐡𑐫𑐥𑐸𑐬𑐳𑑂𑐠𑐶𑐟
+pracalit_1734.png	𑐳𑑂𑐥𑑀𑐣𑑂𑐳𑐬𑐎𑐵
+pracalit_1735.png	𑐣𑐶𑐎𑑂𑐲𑐾𑐥𑐧𑐷𑐔𑐎𑑀
+pracalit_1736.png	𑐳𑐶𑐥𑐵𑐴𑐷𑐎𑑀 𑐮𑐩𑑂𑐧𑑂𑐫𑐵𑐂𑐬𑐴𑐣𑐾 ,
+pracalit_1737.png	𑐟𑐷𑐣𑐿𑐠𑐬𑐷 𑐧𑐵𑑃𑐢𑐶𑐊𑐎𑐷
+pracalit_1738.png	𑐔𑑂𑐫𑐵𑐄𑐏𑐾𑐟𑐷𑐧𑐵𑐚
+pracalit_1739.png	𑐁𑐮𑑀𑐥𑐵𑐮𑑀 𑐴𑐶𑐣𑑂𑐡𑐸𑐰𑐵𑐡𑐷 ,
+pracalit_1740.png	𑐐𑐶𑐫𑐬𑐧𑐎𑑂𑐳𑐩𑐵 𑐰𑐮𑐧𑐸𑐟𑐵𑐩𑐵
+pracalit_1741.png	𑐨𑐵𑐜𑐵𑐩𑐵 ,
+pracalit_1742.png	𑐫𑐳𑐥𑑂𑐬𑐟𑐶
+pracalit_1743.png	𑐂𑐣𑑂𑐡𑑂𑐬𑐶𑐫𑐴𑐬𑐸 𑐥𑑂𑐫𑐵𑐎 ,
+pracalit_1744.png	𑐟𑐿𑐮𑐷𑐫 𑐥𑑀𑐏𑑂𑐕𑐸 𑑋
+pracalit_1745.png	𑐳𑑄𑐳𑑂𑐎𑐬𑐞𑐮𑐵𑐃
+pracalit_1746.png	𑐳𑐔𑐶𑐰𑐳𑐩𑑂𑐩
+pracalit_1747.png	𑐬𑐣𑐥𑐵𑐮𑐎𑑀 𑐬𑐶𑐎𑑂𑐳
+pracalit_1748.png	𑐊𑐎𑐾𑐜𑐾𑐩𑐷𑐎𑐷
+pracalit_1749.png	𑐠𑐵𑐮𑐥𑐕𑐶 𑐀𑐥𑐣𑐵𑐃
+pracalit_1750.png	𑐣𑐬𑑂𑐳𑐴𑐬𑐹𑐳𑑃𑐐
+pracalit_1751.png	𑐧𑐵𑐮𑐥𑑂𑐬𑐟𑐶𑐨𑐵 𑐬𑐩𑑂𑐡𑐿
+pracalit_1752.png	𑐟𑐬𑐧𑐵𑐬 𑐠𑐵𑐂𑐮𑑂𑐫𑐵𑐞𑑂𑐜𑐩𑐿
+pracalit_1753.png	𑐖𑐶𑐟𑐵𑐊𑐎𑐵
+pracalit_1754.png	𑐰𑐶𑐡𑑂𑐫𑐵𑐮𑐫𑐮𑐵𑐃
+pracalit_1755.png	𑐐𑐸𑐛𑐶𑐫𑐵𑐬𑐴𑐬𑐹 𑐴𑐬𑐡𑐫𑐵𑐮
+pracalit_1756.png	𑐔𑐶𑐎𑐶𑐟𑑂𑐳𑐷𑐫 𑐐𑐖𑐸𑐬𑐟𑐶𑐬
+pracalit_1757.png	𑐰𑐶𑐢𑐶𑐥𑑂𑐬𑐟𑐶
+pracalit_1758.png	𑐎𑑂𑐬𑐶𑐥𑑂𑐚𑑀𑐎𑐬𑐾𑐣𑑂𑐳𑐷𑐩𑐵
+pracalit_1759.png	𑐖𑐶𑐧𑑂𑐬𑐵𑐮𑑂𑐚𑐬𑐮𑐾
+pracalit_1760.png	𑐣𑐵𑐜𑑂𑐔𑐵𑐟𑐶𑐬𑐩𑐳𑐴𑐶𑐟
+pracalit_1761.png	𑐳𑐶𑐎𑑂𑐣𑐾𑐕𑐣𑑂 𑑋 𑐎𑐸𑐮𑐨𑐹𑑂𑐲𑐞
+pracalit_1762.png	𑐔𑐮𑐵𑐄𑑃𑐡𑐿𑐣𑐣𑑂 𑐄𑐨𑑂𑐫𑐵𑐊𑐬
+pracalit_1763.png	𑐬𑐒𑐧𑐬𑐳𑐾 𑑋
+pracalit_1764.png	𑐧𑐶𑐬𑑂𑐳𑐶𑐳𑐎𑐶𑐫𑑀 𑑋 𑐰𑐜𑐵𑐀𑐢𑑂𑐫𑐎𑑂𑐲𑐳𑑃𑐐𑐿
+pracalit_1765.png	𑐑𑐶𑐣 , 𑐥𑑂𑐬𑐵𑐫𑐣𑐵𑐚𑐎 ,
+pracalit_1766.png	𑐎𑐩𑐶𑐮𑐵𑐴𑐬𑐹𑐮𑐵𑐃 𑐐𑐬𑐾𑐣𑐐𑐬𑑂𑐣
+pracalit_1767.png	𑐎𑐠𑐵𑐴𑐬𑐹
+pracalit_1768.png	𑐎𑑂𑐲𑐫𑐬𑑀𑐐𑐷𑐴𑐬𑐸𑐎𑑀 𑐳𑐵𑐣𑑀𑐟𑐶𑐣𑑀𑐩𑐵
+pracalit_1769.png	𑐎𑐥𑐜𑐵𑐧𑐵𑐚
+pracalit_1770.png	𑐐𑐾𑐬𑐸𑐰𑐵𑐎𑑀 𑐳𑐴𑐫𑐵𑐟𑑂𑐬𑐵𑐳𑐩𑑂𑐩
+pracalit_1771.png	𑐖𑐵𑐐𑐷𑐬𑐳𑑄𑐫𑐸𑐎𑑂𑐟 𑐳𑐴𑐬𑐱𑐵𑐚
+pracalit_1772.png	𑐖𑐣𑐁𑐣𑑂𑐡𑑀𑐮𑐣𑐮𑐵𑐃 𑐔𑐏𑐵𑐂𑐡𑐶𑐊𑐎𑐷
+pracalit_1773.png	𑐀𑐨𑐵𑐰 𑐥𑑀𑐏𑐬𑐾𑐮𑐮𑐵𑐂
+pracalit_1774.png	𑐡𑐬𑐎𑑀
+pracalit_1775.png	𑐳𑐡𑐳𑑂𑐫𑐴𑐬𑐹𑐮𑐾
+pracalit_1776.png	𑐥𑐎𑑂𑐲𑐢𑐬𑐟𑐵 𑐥𑑂𑐬𑐵𑐰𑐢𑐵𑐣𑐴𑐬𑐸
+pracalit_1777.png	𑐬𑐵𑐣𑐵𑐠𑐵𑐬𑐸𑐮𑐾
+pracalit_1778.png	𑐊𑐣𑑙𑑕
+pracalit_1779.png	𑐱𑐒𑑂𑐎𑐵𑐩𑐵𑐟𑑂𑐬
+pracalit_1780.png	𑐐𑐾𑐫𑐬𑐮𑐵𑐃
+pracalit_1781.png	𑐦𑐸𑐬𑑂𑐳𑐶𑐡𑐶𑐮𑑀 𑐐𑐸𑐩𑐵𑐄𑐣𑐾
+pracalit_1782.png	𑐫𑐮𑐸𑐒𑐎𑐵𑐒 ,
+pracalit_1783.png	𑐳𑑀𑐗𑐿 𑐧𑐡𑑂𑐬𑐷𑐥𑑂𑐬𑐳𑐵𑐡
+pracalit_1784.png	𑐧𑐵𑑃𑐢𑑂𑐣 𑐦𑑂𑐬𑐣𑑂𑐚𑐣𑐵𑐂𑐣𑐎𑑀
+pracalit_1785.png	𑐳𑐢𑐶𑑃𑐫𑐵𑐬
+pracalit_1786.png	𑐳𑐵𑐥𑐎𑑀𑐚𑐵𑐀𑐮𑐶𑐎
+pracalit_1787.png	𑐎𑐩𑐮𑐵𑐡𑐷𑐳𑑂𑐠𑐶𑐟
+pracalit_1788.png	𑐚𑐾𑐎𑑂𑐣𑐶𑐎𑐮𑑂𑐮𑐷 𑐮𑐸𑐐𑐾𑐮𑐷𑐎𑑀
+pracalit_1789.png	𑐧𑑀𑐎𑐾𑐩𑐵
+pracalit_1790.png	𑐊𑐎𑐵𑐣𑐣𑑂𑐡
+pracalit_1791.png	𑐧𑐒𑑂𑐐𑐮𑐧𑐣𑑂𑐢𑐸𑐎𑑀 𑐮𑐾𑐮𑐾𑐥𑐎𑐿
+pracalit_1792.png	𑐎𑑂𑐫𑐵𑐮𑐶𑐥𑐬𑐎𑐵 𑐁𑐫𑐵𑐟𑐳𑐩𑑂𑐧𑐣𑑂𑐢𑐷
+pracalit_1793.png	𑐌𑐛𑐾𑐨𑐎𑑂𑐟𑐶 𑐊𑐥𑐷𑐊𑐦𑐩𑐵
+pracalit_1794.png	𑐢𑐬𑑂𑐩𑐮𑐾
+pracalit_1795.png	𑐧𑑂𑐬𑐾𑐎𑐜𑐵𑐄𑐣 𑐥𑐵𑐊𑐥𑐵𑐊𑐣𑐣𑑂
+pracalit_1796.png	𑐎𑐥𑐸𑐬𑐮𑐾 𑐳𑐩𑐵𑐖𑐩𑐵𑐬𑑂𑐦𑐟
+pracalit_1797.png	𑐐𑐬𑐵𑐄𑐣𑐟𑐬𑑂𑐦 𑐟𑑂𑐬𑐶𑐳𑐶𑐡𑑂𑐢𑐾𑐱𑑂𑐰𑐬𑐷
+pracalit_1798.png	𑐳𑐎𑐶𑐊𑐎𑑀 𑐳𑐾𑐮𑐶𑐰𑑂𑐬𑐾𑐚𑐷
+pracalit_1799.png	𑐡𑐺𑐲𑑂𑐫𑐀𑐡𑐺𑐲𑑂𑐫 𑐳𑐣𑑂𑐡𑐾𑐱𑐩𑐵
+pracalit_1800.png	𑐁𑐂𑐥𑐸𑐐𑑂𑐡𑐕𑐣𑑂 𑑋
+pracalit_1801.png	𑐥𑐠𑐮𑐿𑐫𑐵𑐎𑐵 𑐀𑐨𑑂𑐫𑐵𑐳𑐳𑑃𑐐𑐿
+pracalit_1802.png	𑐮𑐎𑑂𑐖𑐾𑐩𑑂𑐧𑐬𑑂𑐐𑐩𑐵𑐠𑐶
+pracalit_1803.png	𑐐𑐵𑐃
+pracalit_1804.png	𑐂𑐣𑑂𑐳𑐥𑐾𑐎𑑂𑐚𑐬𑐎𑑀 𑐐𑐬𑐾𑐎𑐷𑐁𑐩𑐵𑐎𑑀
+pracalit_1805.png	𑐧𑐺𑐟𑑂𑐟 𑐳𑑄𑐳𑐵𑐬𑐨𑐬𑐧𑐵𑐚
+pracalit_1806.png	𑐄𑐡𑑂𑐡𑐾𑐱𑑂𑐫𑐣𑐶𑐩𑑂𑐟𑐶 𑐩𑑀𑐣𑑂𑐚𑐾𑐣𑐾𑐐𑑂𑐬𑑀𑐳𑑃𑐐
+pracalit_1807.png	𑐳𑐵𑐴𑐹𑐳𑑃𑐐𑐎𑐵 𑐧𑐝𑐶𑐬𑐴𑑂𑐫𑑀 𑑋
+pracalit_1808.png	𑐧𑐵𑐧𑐸𑐨𑐣𑑂𑐡𑐵
+pracalit_1809.png	𑐡𑐬𑑂𑐟𑐵𑐥𑐕𑐶 𑐳𑐾𑐫𑐬𑐩𑐸𑐮𑑂𑐫
+pracalit_1810.png	𑐠𑐾𑐳𑐬𑐳𑐩𑐵
+pracalit_1811.png	𑐁𑐫𑑀𑐐𑐎𑑀 𑐨𑐊𑐎𑑀𑐎𑐵
+pracalit_1812.png	𑐛𑐵𑑃𑐄𑐧𑐵𑐚
+pracalit_1813.png	𑐎𑐾𑐩𑐵𑐬 𑐥𑐬𑐶𑐰𑐬𑑂𑐟𑐣𑐴𑐬𑐹𑐩𑐵
+pracalit_1814.png	𑐂𑐣𑑂𑐡𑑂𑐬𑐢𑐣𑐸 𑐄𑐥𑐵𑐳𑐎𑐵𑐄𑐥𑐵𑐳𑐶𑐎𑐵
+pracalit_1815.png	𑐟𑐷𑐣𑐧𑐷𑐔𑐎𑑀
+pracalit_1816.png	𑐰𑐵𑐎𑑂𑐫 𑐂𑐣𑑂𑐨𑐾𑐳𑑂𑐚𑐩𑐾𑐣𑑂𑐚𑐩𑐵
+pracalit_1817.png	𑐁𑐡𑐬𑑂𑐱𑐴𑐬𑐸 𑐠𑐵𑐮𑑂𑐣
+pracalit_1818.png	𑐜𑐶𑐮𑐥𑑂𑐬𑐳𑐵𑐡 𑐳𑐩𑑂𑐥𑑂𑐬𑐡𑐵𑐫𑐳𑑃𑐐
+pracalit_1819.png	𑐎𑐖𑐾𑐚 𑐘 ,
+pracalit_1820.png	𑐔𑐸𑐩𑑂𑐧𑐎𑐮𑐾
+pracalit_1821.png	𑐖𑐩𑐷𑐣𑐩𑐸𑐣𑐶 𑐁𑐬𑑀𑐥𑐥𑐟𑑂𑐬
+pracalit_1822.png	𑐣𑐶𑐐𑐵𑐴𑐩𑐵
+pracalit_1823.png	𑐰𑐶𑐣𑐶𑐩𑐫𑐡𑐬
+pracalit_1824.png	𑐴𑐵𑐣𑐎𑐵 𑐳𑑄𑑄𑐱𑑂𑐮𑐾𑐲𑐞𑐩𑐵
+pracalit_1825.png	𑐄𑐎𑐸𑐔 , 𑐣𑐵𑐎𑐵 𑑋
+pracalit_1826.png	𑐀𑐟𑑂𑐟𑐬𑐶𑐫𑐵𑐡𑐾𑐏𑐶 𑐡𑐸𑑅𑐏𑑂𑐫𑑀 𑑋
+pracalit_1827.png	𑐩𑐸𑐮𑐸𑐎𑐩 𑐎𑐬𑑂𑐩𑐱𑐵𑐮𑐵 ,
+pracalit_1828.png	𑐁𑐢𑐶𑐎𑐵𑐬𑐶𑐎𑐬𑐹𑐥𑐩𑐿 𑐬𑐵𑐖𑐟𑐬𑑄𑐐𑐶𑐞𑐷 ,
+pracalit_1829.png	𑐀𑐬𑑂𑐧𑐥𑐟𑐶𑐴𑐬𑐹𑐳𑑃𑐐
+pracalit_1830.png	𑐧𑐖𑐾𑐚 ,
+pracalit_1831.png	𑐡𑐸𑐰𑐿𑐟𑐬𑑂𑐦 𑐧𑐷𑐥𑐷𑐚𑐷 ,
+pracalit_1832.png	𑐣𑐨𑐾𑐚𑐾 𑐄𑐔𑐵𑐮𑐾𑐎𑐷
+pracalit_1833.png	𑐡𑐶𑐣𑐵𑐎𑐵 𑐟𑐮𑐳𑐩𑑂𑐩𑐎𑐵
+pracalit_1834.png	𑐣𑐬𑐩𑐵𑐄𑐣𑐾 𑐥𑐰𑐶𑐩𑐵𑐫𑐵
+pracalit_1835.png	𑐖𑐩𑐮𑐩𑐵
+pracalit_1836.png	𑐧𑐑𑐶𑐖𑐷 𑐳𑐶𑐳𑐵𑐳𑐩𑐾𑐟
+pracalit_1837.png	𑐐𑐬𑐶𑐳𑐎𑐾𑐎𑐵
+pracalit_1838.png	𑐀𑐐𑐳𑑂𑐚𑐨𑐶𑐟𑑂𑐬
+pracalit_1839.png	𑐄𑐔𑐵𑐂 𑑋
+pracalit_1840.png	𑐧𑑂𑐬𑑀𑐎𑐬𑐮𑐾 𑐥𑐵𑐣
+pracalit_1841.png	𑐊𑐣𑐊𑐳𑐊𑐮𑐎𑐿 𑐧𑑂𑐮𑑂𑐫𑐵𑐎𑐩𑑀𑐬𑐮𑐾
+pracalit_1842.png	𑐎𑑄𑐐𑑂𑐬𑐾𑐳𑐳𑑃𑐐 𑐣𑐬𑐵𑐩𑑂𑐬𑑀𑐳𑑃𑐐
+pracalit_1843.png	𑐡𑐬𑑂𑐮𑐶𑐒𑐩𑐵
+pracalit_1844.png	𑐩𑐵𑐣𑑂𑐮𑐵𑐣𑑂
+pracalit_1845.png	𑐳𑐵𑐩𑐣𑑂𑐟 𑐩𑑀𑐟𑐶𑐮𑐵𑐮
+pracalit_1846.png	𑐧𑑂𑐮𑐸𑐖 ,
+pracalit_1847.png	𑐄𑐖𑑂𑐧𑐾𑐎𑐶𑐳𑑂𑐟𑐵𑐣 𑐬𑐵𑐖𑐣𑐷𑐟𑐎
+pracalit_1848.png	𑐖𑑂𑐫𑐵𑐗𑑂𑐰𑑅
+pracalit_1849.png	𑐐𑐬𑑂𑐣𑐸𑐸𑐨𑐫𑑀 𑑋 𑐩𑐮𑐏𑐵𑐡
+pracalit_1850.png	𑐨𑐣𑑂𑐣𑐸𑐨𑐫𑑀𑐟𑐥𑐵𑐃𑐴𑐬𑐸 𑐀𑐩𑐬𑐐𑐝𑐷 ,
+pracalit_1851.png	𑐧𑐵𑐮𑐵𑐖𑐹
+pracalit_1852.png	𑐎𑐸𑐰𑐾𑐟 , 𑐳𑐴𑐨𑐵𑐐𑐶𑐴𑐬𑐹𑐮𑐾
+pracalit_1853.png	𑑒𑑕𑑕 𑑖𑑒𑑓
+pracalit_1854.png	𑐩𑐵𑐠𑐵𑐐𑐝𑐷 𑐴𑐶𑐮𑑂𑐳𑐣
+pracalit_1855.png	𑐎𑑂𑐮𑐵𑐂𑐩𑑂𑐰𑐶𑐒
+pracalit_1856.png	𑐀𑐥𑐵𑐒𑑂𑐟𑐵
+pracalit_1857.png	𑐎𑐬𑐡𑐵𑐟𑐵𑐎𑑀 𑐎𑐮𑑄𑐎𑐷𑐳𑐩𑑂𑐩𑐎𑑀
+pracalit_1858.png	𑐬𑐵𑐏𑐶𑐡𑐾𑐅 𑐣𑐶𑐦𑑂𑐬𑐵
+pracalit_1859.png	𑐫𑐵𑐟𑐵𑐵𑐫𑐟 𑐥𑐎𑑂𑐲𑐥𑑀𑐲𑐞
+pracalit_1860.png	𑐮𑐵𑐂𑐣𑐴𑐬𑐹𑐎𑑀 𑐐𑐿𑐬𑐎𑐵𑐣𑐹𑐣𑐷
+pracalit_1861.png	𑐩𑐠𑐶
+pracalit_1862.png	𑐮𑐾𑐮𑐾𑐥𑐎𑐿 𑐜𑐸𑐧𑑂𑐡𑐿
+pracalit_1863.png	𑐳𑑂𑐰𑐵𑐬𑐎𑑀
+pracalit_1864.png	𑐬𑐵𑐞𑐵𑐳𑑃𑐐𑐎𑑀 𑐬𑐴𑐩𑐵𑐣𑐎𑐵
+pracalit_1865.png	𑐀𑐩𑑂𑐖𑐡 𑐧𑐳𑑀𑐧𑐵𑐳𑐷
+pracalit_1866.png	𑐩𑐴𑐶𑐮𑐵𑐎𑐵 𑐐𑐵𑐬𑑂𑐜𑐾𑐣𑐩𑐿
+pracalit_1867.png	𑐔𑐾𑐟𑐎𑐸𑐩𑐵𑐬𑐷 𑐩𑐶𑐣𑐶𑐲𑑂𑐚𑑂𑐬𑐷
+pracalit_1868.png	𑐏𑐒𑑂𑐬𑐒𑑂𑐐 𑐳𑐶𑑄𑐴𑐡𑐬𑐰𑐵𑐬𑐨𑐶𑐟𑑂𑐬𑐎𑐿
+pracalit_1869.png	𑐀𑐩𑐾𑐬𑐶𑐎𑐵𑐩𑐿
+pracalit_1870.png	𑐣𑐨𑐊𑐎𑐿
+pracalit_1871.png	𑐣𑐵𑐐𑐬𑐶𑐎𑐴𑐬𑐸𑐎𑐿 𑐎𑐵𑐩𑐷𑐎𑐵
+pracalit_1872.png	𑐧𑐸𑐗𑐡𑐵 𑐮𑑀𑐴𑑀𑐬𑐸𑐒
+pracalit_1873.png	𑐔𑐬𑐣𑐎𑑀 𑐎𑐳𑐶𑐣𑑂𑐕
+pracalit_1874.png	𑐎𑑂𑐮𑐵𑐂𑐩𑑂𑐰𑐶𑐒𑐎𑑀
+pracalit_1875.png	𑐱𑐶𑐎𑑂𑐲𑐵𑐰𑐶𑐡𑑂 𑐎𑐣𑐵𑐄𑐣𑐩𑐵
+pracalit_1876.png	𑐮𑑂𑐫𑑀𑐳𑐶𑑄𑐏𑐾𑐮𑐩𑐵
+pracalit_1877.png	𑐳𑐶𑐬𑐶𑐫𑐳 , 𑐩𑐵𑐌𑐰𑐵𑐡𑐷𑐎𑑀
+pracalit_1878.png	𑐩𑐵𑐗𑐶𑑃𑐡𑐿
+pracalit_1879.png	𑐳𑐵𑐟𑐡𑐶𑐣𑐾
+pracalit_1880.png	𑐬𑐵𑐖𑐢𑐵𑐣𑐷𑐧𑐵𑐳𑐷𑐮𑐾 𑐰𑐵𑐣𑑂𑐚𑐾𑐜𑐩𑐵
+pracalit_1881.png	𑐣𑐾𑐟𑐺𑐟𑑂𑐰𑐮𑐵𑐂
+pracalit_1882.png	𑐩𑐎𑐵𑐌𑐎𑑀 𑐔𑐶𑐣𑑂𑐟𑐵 𑑋
+pracalit_1883.png	𑐩𑐴𑐶𑐮𑐵𑐴𑐬𑐸𑐳𑑃𑐐 𑐩𑐿𑐣𑐵𑐮𑐷𑐮𑐾
+pracalit_1884.png	𑐰𑐾𑐲𑑂𑐚𑐬𑑂𑐣
+pracalit_1885.png	𑐖𑐵𑑃𑐔𑐴𑐬𑐹𑐮𑐾 𑐖𑑀𑐐𑐶𑐡𑐴 ,
+pracalit_1886.png	𑐐𑑂𑐮𑑀𑐧𑑂𑐳𑐖𑐳𑑂𑐟𑐵
+pracalit_1887.png	...𑐩𑐣𑐳𑐵𑐫𑐥𑐟𑑂𑐬 𑐬𑐾𑐐𑐣𑐎𑐵
+pracalit_1888.png	𑐰𑐵𑐡𑐷𑐴𑐬𑐹𑐮𑐵𑐃
+pracalit_1889.png	𑐳𑐶𑑃𑐐𑐵𑐬𑑂𑐫𑑀 𑑋
+pracalit_1890.png	𑐧𑑂𑐬𑐴𑑂𑐩𑐵𑐞𑑂𑐜𑐎𑐿 𑐥𑐬𑐷𑐱𑑂𑐬𑐎𑑀
+pracalit_1891.png	𑐳𑐹𑐬𑑂𑐫𑐧𑐴𑐵𑐡𑐸𑐬𑐎𑐵
+pracalit_1892.png	𑐣𑐰𑐮𑐥𑐸𑐬 , 𑐴𑐬𑑂𑐎
+pracalit_1893.png	𑑔𑑑𑐍𑑃 𑐕𑐸𑐚𑑂𑐚𑐶𑐊𑐎𑐵
+pracalit_1894.png	𑐔𑐮𑐾𑐣 𑑋 𑐳𑐵𑐴𑐶𑑃𑐮𑐿𑐮𑐵𑐃
+pracalit_1895.png	𑐀𑐣𑑂𑐟𑐬𑑂𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐶𑐫𑐳𑑃𑐐𑐿 𑐦𑐵𑐂𑐨
+pracalit_1896.png	𑐥𑐹𑐬𑑂𑐰𑐟𑐶𑐬
+pracalit_1897.png	𑐴𑐸𑐵𑐡𑐿
+pracalit_1898.png	𑐥𑐸𑐳𑑂𑐟𑐎𑐧𑐵𑐚 𑐏𑐚𑐩𑐵
+pracalit_1899.png	𑐟𑐟𑑂𑐳𑐩𑐫𑐎𑐵
+pracalit_1900.png	𑐰𑑄𑐱𑐰𑐺𑐎𑑂𑐲 𑑋
+pracalit_1901.png	𑐰𑑂𑐫𑐰𑐳𑑂𑐠𑐵𑐥𑐣𑐮𑐐𑐵𑐫𑐟
+pracalit_1902.png	𑐣𑐰𑐥𑐵𑐮𑐸𑐰𑐵𑐮𑐵𑐃
+pracalit_1903.png	𑐩𑐩𑐷 𑑋 𑐀𑐬𑐸𑐞𑐩𑐵𑐠𑐶
+pracalit_1904.png	𑐦𑐿𑐮𑐵𑐊𑐎𑐵 𑐩𑐶𑐳𑑂𑐚𑑂𑐬𑐷
+pracalit_1905.png	𑐔𑐵𑐂𑐣𑐵𑐧𑐵𑐚
+pracalit_1906.png	𑐳𑑂𑐰𑐵𑐳𑑂𑐠𑑂𑐫𑐎𑐬𑑂𑐩𑐷𑐳𑑃𑐐𑐎𑑀 𑐖𑐸𑐫𑐾
+pracalit_1907.png	𑐩𑐴𑐟𑑂𑐰𑐵𑐎𑐵𑐒𑑂𑐎𑑂𑐲𑐷 𑐩𑐵𑐣𑑂𑐖𑐷𑐮𑐾
+pracalit_1908.png	𑐊𑐫𑐬𑐂𑐣𑑂𑐎𑐎𑑀
+pracalit_1909.png	𑐥𑑀𑐏𑑂𑐬𑐾𑐮𑐮𑐵𑐃
+pracalit_1910.png	𑐳𑐾𑐰𑐵𑐨𑐵𑐰 ,
+pracalit_1911.png	𑐀𑐮𑐵𑐧𑐵𑐩𑐵
+pracalit_1912.png	𑐩𑐹𑐣𑑂𑐡𑐜𑐵𑐮𑐵𑐃 𑐊𑐎𑐵𑑄𑐎𑐷
+pracalit_1913.png	𑐔𑐶𑐟𑑂𑐬𑐎𑐴𑐶𑐮𑐾
+pracalit_1914.png	𑐫𑐟𑐶𑐧𑐾𑐮𑐵 𑑋 𑑘.𑑓𑑙
+pracalit_1915.png	𑐣𑐶𑐟𑐬𑐣𑑂𑐟𑐬𑐟𑐵
+pracalit_1916.png	𑐥𑑂𑐬𑐬𑑂𑐰𑐡𑑂𑐰𑐣𑐎𑐵 𑐰𑐶𑐩𑐶𑐟𑐴𑐬𑐸𑐎𑑀
+pracalit_1917.png	𑐥𑐟𑑂𑐟𑐾𑐡𑐵𑐬
+pracalit_1918.png	𑐳𑐵𑐰𑐾𑐮 𑐥𑐡𑐩𑐵𑐎𑐸𑐩𑐵𑐬𑐷
+pracalit_1919.png	𑐟𑑂𑐫𑐳𑐨𑐣𑑂𑐡𑐵𑐀𑐑𑐶
+pracalit_1920.png	𑐮𑐐𑐵𑐂𑐴𑐵𑐮𑑂𑐕𑐸 𑑋 𑐂𑐔𑑂𑐕𑐵𑐱𑐎𑑂𑐟𑐶𑐎𑐿
+pracalit_1921.png	𑐬𑑀𑐐𑐷𑐴𑐬𑐸 𑐣𑐰𑐥𑐵𑐟𑑂𑐬𑐴𑐬𑐹
+pracalit_1922.png	.𑑖𑑗 𑐬𑐶𑐔𑐵𑐬𑑂𑐖𑐬𑐧𑐵𑐚
+pracalit_1923.png	𑐐𑐬𑐾𑐬𑐳𑐩𑐾𑐟 𑐎𑐣𑐾𑐎𑑂𑐚𑐶𑐨𑐶𑐚𑐷𑐎𑐵
+pracalit_1924.png	𑐛𑐵𑐣𑑂𑐡𑐿
+pracalit_1925.png	𑐬𑑄𑐖𑐶𑐟 𑐩𑐬𑑂𑐎𑐬𑐷𑐧𑐵𑐚
+pracalit_1926.png	𑐖𑐩𑐶𑐣𑐢𑐬𑐶
+pracalit_1927.png	𑐧𑐵𑐮𑐎𑐸𑐩𑐵𑐬𑐷𑐳𑑂𑐠𑐵𑐣𑐧𑐵𑐚 𑐄𑐥𑐴𑐵𑐬𑐳𑑂𑐰𑐬𑐹𑐥
+pracalit_1928.png	𑐣𑐰𑐄𑐡𑑂𑐫𑐩𑐷𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_1929.png	𑐥𑑂𑐬𑐴𑐬𑐷𑐮𑐾 𑑋
+pracalit_1930.png	𑐣𑐶𑐬𑐣
+pracalit_1931.png	𑐬𑐟𑑂𑐣𑐮𑐎𑑂𑐲𑑂𑐩𑐷
+pracalit_1932.png	𑐐𑐬𑐶𑐧𑐷𑐳𑑃𑐐𑐎𑑀
+pracalit_1933.png	𑐰𑑂𑐫𑐰𑐳𑑂𑐠𑐵𑐥𑐣𑐎𑑀 𑐬𑐵𑐩𑐐𑐝𑐰𑐵𑐮𑐐𑐵𑐫𑐟
+pracalit_1934.png	𑐳𑑂𑐰𑐵𑐢𑑂𑐫𑐵𑐫𑐩𑐵 𑐥𑐬𑐷𑐎𑑂𑐲𑐞𑐎𑐵
+pracalit_1935.png	𑐁𑐢𑑂𑐬𑑂𑐧𑐸𑐴𑐵𑐢𑑂𑐬𑑂𑐮𑐵𑐃
+pracalit_1936.png	𑐰𑐶𑐬𑐵𑐩𑐷𑐴𑐬𑐸𑐎𑐵
+pracalit_1937.png	𑐜𑐵𑐎𑑂𑐚𑐬𑐮𑐵𑐃 𑐴𑐸𑐮𑑂𑐣𑐾
+pracalit_1938.png	𑐥𑐴𑐬𑑀𑐖𑐟𑑂𑐬𑑀 𑐴𑐵𑐜𑐵
+pracalit_1939.png	𑐣𑐧𑐸𑐗𑑂𑐡𑐵
+pracalit_1940.png	𑐔𑐟𑐸𑐬𑑂𑐠𑐾
+pracalit_1941.png	𑐩𑐾𑐬𑐵𑐧𑐵𑐬𑐾
+pracalit_1942.png	𑐨𑐵𑐣𑑂𑐕𑐵𑐳𑐩𑑂𑐩
+pracalit_1943.png	𑐖𑐣𑐖𑐣𑐩𑐵 𑐳𑐶𑐩𑐾𑐣𑑂𑐚 ,
+pracalit_1944.png	𑐧𑐵𑐖𑐵𑐴𑐬𑐸
+pracalit_1945.png	𑑒𑑕.𑑔𑑑 𑐬𑑄𑐐𑐴𑐬𑐹 ,
+pracalit_1946.png	𑐮𑐶𑐮𑐵𑐩𑐩𑐵𑐬𑑂𑐦𑐟 𑐎𑐬𑑂𑐟𑐧𑑂𑐫𑐳𑑃𑐐𑐿
+pracalit_1947.png	𑐀𑐜𑑂𑐜𑐵𑐀𑐡𑐵𑐮𑐟
+pracalit_1948.png	𑐧𑑂𑐬𑐵𑐚𑐮𑐾 𑐎𑐵𑐬𑐞𑐴𑐬𑐹𑐩𑐵
+pracalit_1949.png	𑐧𑐶𑐳𑐬𑑂𑐖𑐣
+pracalit_1950.png	𑐀𑐮𑐵𑐧𑐵𑐩𑐵𑐎𑑀
+pracalit_1951.png	𑐁𑐩𑐥𑑂𑐬𑐡𑐬𑑂𑐱𑐣𑐩𑐵
+pracalit_1952.png	𑐖𑑀𑐐𑐶𑐫𑐵
+pracalit_1953.png	𑐳𑐷𑐂𑐌𑐳𑐴𑐶𑐟 𑐰𑐶𑐨𑐾𑐡𑐡𑑂𑐰𑐵𑐬𑐵
+pracalit_1954.png	𑐎𑐣𑐾𑐎𑑂𑐚𑐶𑐨𑐶𑐚𑐷𑐩𑐵
+pracalit_1955.png	𑐁𑐫𑑀𑐐𑐳𑐴𑐶𑐟 𑐩𑐶𑐔𑑂𑐔𑐾
+pracalit_1956.png	𑐥𑐵𑐮𑐣𑐧𑐵𑐚 𑐳𑑄𑐫𑐟
+pracalit_1957.png	𑐨𑐶𑐜𑐶𑐫𑐵𑐎𑑀
+pracalit_1958.png	𑐳𑐶𑐊𑐣𑐖𑐷
+pracalit_1959.png	𑐎𑐚𑐶𑐳𑑂𑐣𑐵𑐣 𑐑𑐶𑐬𑐶𑐒
+pracalit_1960.png	𑐴𑑂𑐫𑐵𑐬𑐷𑐩𑐾𑐑𑐣𑐎𑑀 𑐨𑐵𑐫𑐮𑐶𑐣
+pracalit_1961.png	𑐬𑐾𑐮𑐨𑐣𑑂𑐡𑐵
+pracalit_1962.png	𑑒𑑅𑑕 𑐂𑐩𑐬𑐖𑐾𑐣𑑂𑐳𑐷
+pracalit_1963.png	𑐴𑐎𑐴𑐶𑐟𑐥𑑂𑐬𑐟𑐶 𑐥𑑀𑐮𑑂𑐫𑐵𑐞𑑂𑐜𑐩𑐵
+pracalit_1964.png	𑐁𑐎𑐵𑐱𑐶𑑃𑐡𑐵 𑐳𑐬𑑂𑐰𑐴𑐵𑐬𑐷 ,
+pracalit_1965.png	𑐎𑐮𑐾𑐖𑐰𑐶𑐡𑑂𑐫𑐵𑐮𑐫
+pracalit_1966.png	𑐬𑐟𑑂𑐣𑐣𑐐𑐬𑐩𑐵 𑐐𑑄𑐐𑐵𑐢𑐬𑐮𑐾
+pracalit_1967.png	𑐩𑐮𑐩 ,
+pracalit_1968.png	𑐰𑐎𑑂𑐟𑐵𑐴𑐬𑐸𑐮𑐾
+pracalit_1969.png	𑐳𑑄𑐳𑐡𑐧𑐵𑐴𑐶𑐬
+pracalit_1970.png	𑐚𑑂𑐰𑐷𑐚 𑐰𑐶𑐡𑑂𑐫𑐵𑐫𑐎𑐵
+pracalit_1971.png	𑐥𑐟𑑂𑐬𑐮𑐐𑐵𑐫𑐟
+pracalit_1972.png	𑐎𑐶𑐳𑐵𑐣𑐴𑐬𑐸 , 𑐧𑐵𑐳𑐶𑐣𑑂𑐡𑐵𑐴𑐬𑐸𑐮𑐾
+pracalit_1973.png	𑐬𑐵𑐩𑐵𑐧𑐴𑐵𑐡𑐸𑐬
+pracalit_1974.png	𑐥𑐜𑐵𑐃 𑑖𑑙𑑖𑑘
+pracalit_1975.png	𑐳𑐵𑑄𑐳𑐡𑐴𑐬𑐹𑐳𑑃𑐐
+pracalit_1976.png	𑐳𑐣𑑂𑐔𑐵𑐬𑐩𑐵𑐢𑑂𑐫𑐩
+pracalit_1977.png	𑐁𑐩𑐥𑑂𑐬𑐫𑑀𑐐𑐎𑑀
+pracalit_1978.png	𑐧𑐾𑐮𑐸𑐎𑐵𑐎𑑀
+pracalit_1979.png	𑐥𑐎𑑂𑐲𑐰𑐶𑐬𑐸𑐡𑑂𑐢 𑐣𑑂𑐫𑐸𑐖𑐶𑐮𑑂𑐫𑐵𑐞𑑂𑐜
+pracalit_1980.png	𑐨𑐫𑐵𑐒
+pracalit_1981.png	𑐨𑐣𑐾𑐬𑐳𑑀𑐢𑑂𑐣
+pracalit_1982.png	𑐐𑐵𑐄𑑃𑐥𑐵𑐮𑐶𑐎𑐵𑐳𑑂𑐟𑐬𑐷𑐫
+pracalit_1983.png	𑐨𑐶𑐚𑐵𑐩𑐶𑐣𑑂𑐳 , 𑐀𑐬𑑂𑐖𑐸𑐣𑐢𑐵𑐬𑐵
+pracalit_1984.png	𑐔𑐶𑐬𑐶𑐣𑑂𑐠𑐾
+pracalit_1985.png	𑐎𑐵𑐛𑐩𑐵𑐞𑑂𑐜𑐹 𑐄𑐥𑐎𑐬𑐞𑐮𑐵𑐃
+pracalit_1986.png	𑐴𑐰𑐵𑐬𑑂𑐃 𑐡𑑂𑐢𑐣𑑂𑐡
+pracalit_1987.png	𑐡𑐬𑑂𑐖𑐨𑐣𑑂𑐡𑐵 𑐏𑐫𑐬𑐩𑐵𑐬𑐵𑐗𑐿𑑃
+pracalit_1988.png	𑐟𑑂𑐫𑐳𑐥𑐕𑐶𑐎𑐵𑐮𑐾 𑐰𑐶𑐟𑐬𑐞𑐮𑐵𑐃
+pracalit_1989.png	𑐩𑐣𑑀𑐔𑐶𑐎𑐶𑐟𑑂𑐳𑐎𑐮𑐾 𑐊.𑐎𑐾.
+pracalit_1990.png	𑐗𑐵𑐥𑐵𑐎𑐷 𑐖𑐮𑐰𑐶𑐴𑐵𑐬
+pracalit_1991.png	𑐦𑐸𑐚𑐾𑐖𑐎𑑀 𑐂𑐐𑐮
+pracalit_1992.png	𑐦𑐸𑐮𑐧𑐸𑐚𑑂𑐚𑐾 𑐮𑐕𑐵𑐬𑐥𑐵𑐚𑑀
+pracalit_1993.png	𑐥𑐝𑑂𑐣𑐸𑐥𑐬𑑂𑐕
+pracalit_1994.png	𑐕𑐣𑑀𑐚𑐀𑐑𑐶 𑐖𑐵𑐟𑐶𑐴𑐬𑐹 ,
+pracalit_1995.png	𑐡𑐾𑐰𑐾𑐣𑑂𑐡𑑂𑐬𑐥𑐸𑐬𑐧𑐵𑐚
+pracalit_1996.png	𑐡𑐵𑐬𑑂𑐖𑐶𑐮𑐶𑐒𑐎𑐿
+pracalit_1997.png	𑐳𑐩𑐫𑐵𑐰𑐢𑐶𑐨𑐶𑐟𑑂𑐬 𑐮𑑀𑐜𑐳𑐾𑐜𑐶𑐒
+pracalit_1998.png	𑐳𑐸𑐸𑐡𑐺𑐝
+pracalit_1999.png	𑐖𑐐𑐧𑐵𑐚 𑐳𑐬𑑂𑐖𑐬𑐷𑐎𑑀
+pracalit_2000.png	𑐄𑐥𑐣𑑂𑐫𑐵𑐳 𑑋
+pracalit_2001.png	𑐐𑐬𑐵𑐊𑐎𑑀𑐩𑐵 𑐮𑐐𑑂𑐣𑐾
+pracalit_2002.png	𑐌𑐮𑐷𑐮𑐐𑐵𑐫𑐟𑐮𑐾
+pracalit_2003.png	𑐳𑐸𑐩𑐾𑐡𑐵𑐒𑐩𑐵 𑐎𑐵𑑃𑐏𑐩𑐵
+pracalit_2004.png	𑐰𑐜𑐵𑐴𑐬𑐸𑐎𑐵
+pracalit_2005.png	𑐏𑐮𑑂𑐟𑐷𑐏𑐮𑑂𑐟𑐷𑐩𑐵 𑐍𑐲𑐢𑐶𑐴𑐬𑐹𑐎𑑀
+pracalit_2006.png	𑐁𑐂𑐜𑐵𑐩𑐵𑐬𑑂𑐦𑐟 𑐎𑑂𑐰𑐵𑐚𑐬𑐮𑐾
+pracalit_2007.png	𑐳𑐒𑑂𑐎𑑂𑐬𑐩𑐞𑐎𑐾𑐣𑑂𑐡𑑂𑐬𑐶𑐟
+pracalit_2008.png	𑐚𑑂𑐬𑐵𑐣𑑂𑐳𑐥𑑂𑐫𑐵𑐳𑐾𑐦𑐶𑐎 𑐬𑐶𑐜𑐾𑐧𑐮
+pracalit_2009.png	𑐴𑐷𑐬𑐎𑐳𑐴𑐶𑐟
+pracalit_2010.png	𑐥𑐱𑑂𑐔𑐶𑐩𑐩𑐹𑐮𑐝𑑀𑐎𑐵𑐧𑐵𑐚 𑐂𑐩𑑀𑐧𑐶𑐮𑐾𑐮𑐾
+pracalit_2011.png	𑐣𑐏𑑀𑐖𑑂𑐣
+pracalit_2012.png	𑐟𑑂𑐬𑐵𑐳𑐎𑐿
+pracalit_2013.png	𑐠𑐶𑐊𑐟𑑂𑐫𑐳𑐿𑐮𑐾
+pracalit_2014.png	𑐳𑐶𑐮𑐶𑐒 𑐱𑐸𑐎𑑂𑐬𑐰𑐵𑐬𑐎𑐵
+pracalit_2015.png	𑐚𑐶𑐎𑐾𑐣 ? 𑐕𑐶𑐚𑑀𑐕𑐬𑐶𑐟𑑀 ,
+pracalit_2016.png	𑐨𑐵𑐂𑐧𑐬𑐮𑐾 𑐎𑐵𑐄𑐣𑑂𑐚𑐷𑐮𑐾
+pracalit_2017.png	𑐄𑐟𑑂𑐟𑐬𑐨𑐣𑑂𑐡𑐵 𑐐𑑀𑐰𑐶𑐣𑑂𑐡𑐎𑐵
+pracalit_2018.png	𑐥𑐸𑐐𑐶𑐬𑐴𑐣𑐾𑐕 𑑋
+pracalit_2019.png	𑐄𑐡𑑂𑐫𑑀𑐐𑐖𑐳𑑂𑐟𑐵 𑐥𑑂𑐬𑐵.𑐜𑐵.
+pracalit_2020.png	𑐬𑑀𑐴𑐣𑐥𑐸𑐬𑐳𑐶𑑄𑐴𑐧𑐵𑐡
+pracalit_2021.png	𑐎𑐥𑐶𑐮𑐥𑑂𑐬𑐳𑐵𑐡 𑐚𑐾𑐎𑐥𑐵𑐣𑐵
+pracalit_2022.png	𑐢𑐵𑐄𑐣𑐾 , 𑐐𑐬𑐶𑐧𑐨𑐣𑑂𑐡𑐵
+pracalit_2023.png	𑐳𑐷𑐳𑐷𑐊𑐩𑐳𑐷𑐮𑐾
+pracalit_2024.png	𑐩𑐣𑑂𑐟𑑂𑐬𑐷𑐴𑐬𑐹𑐳𑑃𑐐
+pracalit_2025.png	𑐖𑑂𑐘𑐵𑐣𑐨𑐹𑐩𑐶 𑐐𑐣𑐐𑐵𑐃 ,
+pracalit_2026.png	𑐣𑐾𑐐𑐾𑐚𑐶𑐨𑐎𑑀 𑐕𑐮𑐦𑐮
+pracalit_2027.png	𑐳𑑂𑐚𑑂𑐬𑐶𑐚𑐩𑐵 𑐩𑐵𑐣𑐰𑐨𑐣𑑂𑐡𑐵
+pracalit_2028.png	𑐬𑐶𑐊𑐮
+pracalit_2029.png	𑐊𑐣𑐊𑐮𑐜𑐷𑐮𑐾
+pracalit_2030.png	𑐩𑐵𑐣𑐶𑐳𑐴𑐬𑐹𑐧𑐵𑐚 𑐨𑑀𑐚𑐏𑑀𑐮𑐵 ,
+pracalit_2031.png	𑐣𑐶𑐎𑐵𑐮𑐶𑐊𑐣 𑐮𑐸𑑄𑐐𑐷 ,
+pracalit_2032.png	𑐣𑐶𑐣𑑂𑐡𑑂𑐬𑐵𑐩𑐵𑐳𑐩𑐫𑐮𑐵𑐃
+pracalit_2033.png	𑐥𑐳𑐾𑐥𑐕𑐶𑐳𑐵𑐂𑑃𑐮𑑀 𑐊𑐣𑐳𑐾𑐮𑐎𑑀
+pracalit_2034.png	𑐎𑐲𑑂𑐚𑐎𑐵𑐬𑐷 𑐀𑐧𑑂𑐳𑑂𑐚𑑂𑐬𑐵𑐎𑐮
+pracalit_2035.png	𑐕𑐣𑐾 𑑋 𑐮𑐵𑐐𑐳
+pracalit_2036.png	𑐔𑐝𑐾𑐬 , 𑐎𑑂𑐬𑐶𑐫𑐵𑐎𑐮𑐵𑐥𑐩𑐵𑐬𑑂𑐦𑐟𑑂
+pracalit_2037.png	𑐚𑐾𑐞𑑂𑐜𑐬𑐴𑐬𑐹 𑐨𑐊𑐡𑐾𑐏𑐶
+pracalit_2038.png	𑐄𑐴𑐵𑑃𑐴𑐬𑐹𑐮𑐵𑐃 𑐧𑑀𑐎𑑂𑐬𑑀 ,
+pracalit_2039.png	𑐩𑐸𑐬𑐵𑐚𑑀𑐬𑐷
+pracalit_2040.png	𑐨𑐿𑐴𑐵𑐮𑑂𑐫𑑀 𑐀𑐨𑐶𑐣𑐫𑐩𑐵𑐠𑐶
+pracalit_2041.png	𑐡𑐺𑐥𑐣𑐵𑐬𑐵𑐫𑐞
+pracalit_2042.png	𑑙𑐳𑐬𑑂𑐚𑐮𑐶𑐳𑑂𑐚
+pracalit_2043.png	𑐐𑐶𑐨𑐬𑐩𑐵 𑐐𑐞𑐟𑐣𑑂𑐟𑑂𑐬𑐮𑐾
+pracalit_2044.png	𑐎𑐵𑐮𑐶𑐎𑑀𑐚𑐎𑐵
+pracalit_2045.png	𑐨𑐵𑐫𑐬𑐮𑑀𑐖𑐶𑐲𑑂𑐚 𑐁𑐃𑐚𑐎
+pracalit_2046.png	𑐨𑐵𑐬𑐟𑐳𑐶𑐟𑐎𑐵 𑑒𑑑𑑒𑑑 ,
+pracalit_2047.png	𑐣𑐥𑐵𑐂𑐊
+pracalit_2048.png	𑐡𑐸𑐐𑐸𑐔𑐵
+pracalit_2049.png	𑐨𑐶𑐲𑐵
+pracalit_2050.png	𑐳𑐬𑐩𑐮𑐵𑐐𑑂𑐡𑑀 𑐱𑐸𑐡𑑂𑐢𑐷𑐎𑐬𑐞𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+pracalit_2051.png	𑐌𑐮𑐮𑐾 𑐣𑐵𑐦𑐵𑐳𑐴𑐶𑐟
+pracalit_2052.png	𑐮𑐵𑐐𑐾𑐎𑐵𑐩𑐢𑑂𑐫𑐾
+pracalit_2053.png	𑐩𑐸𑐮𑑂𑐫𑐧𑐵𑐚 𑐩𑐴𑐵𑐳𑐑
+pracalit_2054.png	𑐖𑐾𑐛𑑀𑐮𑐾
+pracalit_2055.png	𑐎𑐎𑑂𑐲𑐮𑐐𑐵𑐫𑐟 𑐧𑑂𑐰𑐣𑐾𑐎𑐸𑐠𑐶
+pracalit_2056.png	𑐳𑐶𑐦𑐵𑐬𑐶𑐳𑐧𑐵𑐬𑐾
+pracalit_2057.png	𑐟𑐵𑐧𑐶𑐮𑐵𑐣𑐴𑐬𑐸𑐮𑐾 𑐖𑐴𑐵𑑃𑐧𑐵𑐚
+pracalit_2058.png	𑐏𑐾𑐮𑐩𑐿𑐡𑐵𑐣𑐎𑑀
+pracalit_2059.png	𑐳𑐶𑐩𑐬𑐵𑐎𑐷 𑐴𑐩𑐖𑐵𑐮𑐵𑐃
+pracalit_2060.png	𑐄𑐮𑑂𑐦𑐵𑐎𑑀 𑐥𑐸𑑃𑐖𑐷𑐧𑐖𑐵𑐬𑐮𑐾
+pracalit_2061.png	𑐧𑐮𑐸𑐰𑐵 𑐰𑑂𑐬𑐴𑐩𑐵𑐧𑐵𑐚 ,
+pracalit_2062.png	𑑓𑑒 ,
+pracalit_2063.png	𑐣𑐶𑐬𑑂𑐡𑑀𑐲𑐮𑐾
+pracalit_2064.png	𑐀𑐢𑐶𑐎𑐵𑐬𑐳𑑂𑐰𑐬𑐹𑐥 𑐮𑐾𑐣𑐧𑐵𑐚
+pracalit_2065.png	𑐳𑐩𑐵𑐖 𑐳𑑂𑐬𑑀𑐟𑐴𑐬𑐹𑐩𑐵
+pracalit_2066.png	𑐔𑐵𑐬𑐑𑐬𑐾 , 𑐱𑐾𑐫𑐬𑐎𑑀
+pracalit_2067.png	𑐧𑐿𑐎𑐎𑐵
+pracalit_2068.png	𑐗𑐵𑐥𑐵𑐎𑐿 𑐩𑐹𑐮𑐬𑐸𑐥𑐩𑐵
+pracalit_2069.png	𑐀𑐎𑐵𑐄𑐣𑑂𑐚
+pracalit_2070.png	𑐧𑑀𑐴𑐬𑐵𑐎𑐵 𑐩𑐵𑐣𑑂𑐕𑐾𑐴𑐬𑐸𑐩𑐵
+pracalit_2071.png	𑐡𑐬𑐿𑐫𑐵 ,
+pracalit_2072.png	𑐀𑐳𑐟𑑂𑐫𑐎𑑀 𑑒.𑑗𑑒
+pracalit_2073.png	𑐥𑐛𑐵𑐄𑐕𑐶𑐣𑑂 𑑋
+pracalit_2074.png	𑐡𑐵𑐺𑐟
+pracalit_2075.png	𑐐𑐸𑐬𑐸𑐡𑐟𑑂𑐟
+pracalit_2076.png	𑐀𑐦𑑂𑐬𑐷𑐎𑐷 𑐬𑐹𑐥𑐿𑐵𑐫𑑃𑐩𑐵
+pracalit_2077.png	𑐳𑐮𑐵
+pracalit_2078.png	𑐳𑐡𑐸𑐥𑐫𑑀 𑐩𑐩𑐵 𑑋
+pracalit_2079.png	𑐥𑐷𑐥𑐷𑐊𑐀𑐣𑐸𑐳𑐵𑐬 𑐗𑐬𑐷 ,
+pracalit_2080.png	𑐖𑐳𑐥𑐵𑐧𑐷𑐔𑐩𑐵
+pracalit_2081.png	𑐏𑐾𑐮𑐾
+pracalit_2082.png	𑐡𑐵𑑃𑐟𑐧𑐵𑐚
+pracalit_2083.png	𑐐𑐶𑐬𑐷𑐬𑐵𑐖 𑐎𑐣𑑂𑐚𑑂𑐫𑐵𑐎𑑂𑐚 ,
+pracalit_2084.png	𑐳𑐎𑑂𑐣𑐸𑐥𑐬𑑂𑐫𑑀 , 𑐴𑐬𑑂𑐲𑑀𑐮𑑂𑐮𑐵𑐳𑐎𑐵
+pracalit_2085.png	𑐄𑐳𑐿𑐮𑐾
+pracalit_2086.png	𑐎𑐵𑐛𑐩𑐵𑐜𑑁𑑄𑐧𑐵𑐳𑐷𑐎𑐵 𑐑𑐬𑐳𑐴𑐶𑐟𑐎𑐵
+pracalit_2087.png	𑐌𑐮𑐷𑐳𑑃𑐐𑐎𑑀 𑐥𑑂𑐬𑐵𑐖𑑂𑐘𑐎𑐿
+pracalit_2088.png	𑐥𑐬𑑂𑐣𑐸𑐮𑐾 𑐡𑐸𑐃𑐠𑐵𑐣 ,
+pracalit_2089.png	𑐊𑐎𑐀𑐬𑑂𑐎𑑀𑐎𑑀 𑐏𑑂𑐫𑐵𑑅
+pracalit_2090.png	𑐔𑐬𑐵𑐴𑐬𑐸
+pracalit_2091.png	𑐥𑑂𑐬𑐢𑐵𑐣𑐷 𑐣𑐶𑐫𑑀
+pracalit_2092.png	𑐳𑐾𑐥𑑂𑐚𑐾𑐩𑑂𑐧𑐬𑐫𑐟𑐵
+pracalit_2093.png	𑐥𑐾𑑂𑐬𑐩𑐶𑐮 𑐥𑐹𑐬𑑂𑐰𑐵𑐢𑐵𑐬𑐧𑐵𑐬𑐾
+pracalit_2094.png	𑐀𑐳𑐟𑑀
+pracalit_2095.png	𑐁𑐧𑐸𑐃
+pracalit_2096.png	𑐳𑐵𑑃𑑄𑐗 𑐳𑐹𑐔𑐷𑐖𑐳𑑂𑐟𑑀
+pracalit_2097.png	𑐩𑐠𑐸𑐬𑐵𑐧𑐵𑐚 𑐰𑐬𑑂𑐲𑐵𑐟𑑂𑐩𑐵
+pracalit_2098.png	𑐐𑐮𑑂𑐦𑐬𑐮𑐾 𑐏𑑀𑐮𑐾𑑃 𑑋
+pracalit_2099.png	𑐩𑐳𑑃𑐐𑐎𑐿 𑐄𑐎𑑂𑐎𑐶𑐣𑐸
+pracalit_2100.png	𑐊𑐮𑐬𑑂𑐚𑐎𑐵
+pracalit_2101.png	𑐨𑐵𑐟𑐷𑐏𑐬𑑂𑐎 , 𑐧𑐝𑐵𑐫𑑁𑑄 𑑋
+pracalit_2102.png	𑐣𑐜𑐬𑐵𑐄𑐣𑐸 𑐥𑐵𑐴𑐵𑑃𑐔𑑅𑐴𑑂𑐬𑐾𑐎𑐵
+pracalit_2103.png	𑐳𑐶𑐢𑐸𑐰𑐵𑐎𑐵 𑐚𑐴𑐬𑑀𑐨𑐶𑐟𑑂𑐬
+pracalit_2104.png	𑐔𑑁𑐟𑐵𑐬𑐾
+pracalit_2105.png	𑐊𑐥𑑀𑐦𑐶𑐳𑐮𑐾 𑐬𑐒𑑂𑐐𑐷𑐧𑐶𑐬𑐒𑑂𑐐𑐷
+pracalit_2106.png	𑐴𑐵𑐃𑐜𑑂𑐬𑑀𑐥𑐵𑐰𑐬𑐎𑐵
+pracalit_2107.png	𑐰𑐣𑐳𑑂𑐥𑐟𑐶𑐰𑐶𑐡𑑂𑐴𑐬𑐸𑐧𑐷𑐔 𑐡𑐸𑐬𑑂𑐐𑐩𑐵
+pracalit_2108.png	𑐀𑐢𑑂𑐫𑐎𑑂𑐲𑐴𑐬𑐹𑐮𑐾
+pracalit_2109.png	𑐬𑐴𑑃𑐡𑐿 𑐕𑐵𑐄𑐣𑐾𑐕 𑑋
+pracalit_2110.png	𑐖𑐸𑐚𑐾𑐎𑐷 𑐰𑐺𑐎𑑂𑐲𑐮𑐵𑐃
+pracalit_2111.png	𑐢𑐵𑐣𑐏𑐾𑐟
+pracalit_2112.png	𑐳𑐩𑑂𑐗𑑁𑐟𑐵𑐀𑐐𑐵𑐰𑐿
+pracalit_2113.png	𑐎𑑄𑐔𑐣𑐥𑐸𑐬
+pracalit_2114.png	𑐁𑐃𑐬𑐴𑐾𑐎𑐵 𑐀𑐏𑑂𑐟𑐬𑐡𑑂𑐰𑐵𑐬𑐵
+pracalit_2115.png	𑐖𑐶𑐮𑑂𑐮𑐵𑐩𑐿
+pracalit_2116.png	𑐀𑐥𑐬𑐵𑐢𑐷𑐴𑐬𑐹𑐮𑐵𑐃
+pracalit_2117.png	𑐄𑐡𑑂𑐫𑑀𑐐𑐷𑐰𑑂𑐫𑐰𑐳𑐵𑐫𑐷𑐴𑐬𑐸𑐮𑐵𑐃 𑐥𑐿𑐫𑐸
+pracalit_2118.png	𑐚𑐵𑐏𑑀𑐣
+pracalit_2119.png	𑐫𑐴𑐵𑑃𑐳𑑂𑐰𑐵𑐢𑐷𑐣𑐟𑐵 , 𑐳𑐵𑐴𑐶𑐥𑐵𑐮
+pracalit_2120.png	𑐰𑐶𑐎𑐮𑑂𑐥𑐳𑐴𑐶𑐟 𑐮𑐾𑐎𑐵𑐮𑐷𑐰𑐶𑐬𑐸𑐡𑑂𑐢
+pracalit_2121.png	𑐡𑐾𑐱𑑀𑐡𑑂𑐢𑐵𑐬 𑐐𑐬𑐶𑐬𑐵𑐏𑑂𑐣𑐸𑐥𑐬𑑂𑐕
+pracalit_2122.png	𑐳𑑂𑐎𑐚𑐮𑑂𑐫𑐵𑐣𑑂𑐜𑐳𑑂𑐠𑐶𑐟 𑐮𑐵𑐐𑐟 𑑋
+pracalit_2123.png	𑐝𑐾𑑄𑐜𑐸
+pracalit_2124.png	𑐖𑐣𑐳𑑄𑐐𑐛𑐣 ,
+pracalit_2125.png	𑐔𑐶𑐖𑐵𑐮𑐾 𑐁𑐡𑐾𑐱𑐦𑐿𑐳𑐮𑐵𑐩𑐢𑑂𑐫𑐾
+pracalit_2126.png	𑐥𑐘𑑂𑐔𑑀𑐮𑐷𑐎𑐵 𑐀𑐬𑐸𑐞𑐳𑐶𑑄𑐴
+pracalit_2127.png	𑐊𑐦𑐶𑐮𑐾𑐎𑐮𑐾 𑐨𑐃 𑑋
+pracalit_2128.png	𑐧𑐶𑐣𑐶𑐎𑑀𑐚 𑐐𑑀𑐟𑐵𑐏𑑀𑐬𑐎𑑀
+pracalit_2129.png	𑐛𑐐𑐷 𑑋
+pracalit_2130.png	𑐡𑐾𑐰𑐱𑐩𑐱𑐾𑐬𑐮𑐾
+pracalit_2131.png	𑐝𑑀𑐐𑑂𑐣𑐾 𑐕𑐾𑐎𑐕𑐣𑑂𑐡
+pracalit_2132.png	𑐧𑐶𑐴𑐧𑐵𑐬 𑐧𑐴𑐸𑐳𑐒𑑂𑐏𑑂𑐫𑐎
+pracalit_2133.png	𑑔𑑘.𑑖𑑘
+pracalit_2134.png	𑐐𑐵𑐨𑑂𑐣𑐎𑐵
+pracalit_2135.png	𑐳𑐮𑑂𑐦𑐵𑐂𑐚 𑐩𑑀𑐜𑐮𑐶𑐒𑐎𑑀
+pracalit_2136.png	𑐩𑐮𑐵𑐴𑐷 ,
+pracalit_2137.png	𑐩𑐲𑑂𑐟𑐶𑐲𑑂𑐎𑐵𑐑𑐵𑐟 𑐥𑐏𑐵𑐮𑐶𑐫𑑀
+pracalit_2138.png	𑐠𑐵𑐮𑐾𑐎𑑀𑐟𑐬𑑂𑐦
+pracalit_2139.png	𑐕𑐄𑐣𑐮𑐾
+pracalit_2140.png	𑐩𑑀𑐴𑐩𑑂𑐩𑐜𑐣
+pracalit_2141.png	𑐧𑐣𑐵𑐊𑐎𑐿 𑐧𑐾𑐣𑑂𑐖𑐾𑐩𑐵𑐎𑑀
+pracalit_2142.png	𑐩𑐴𑐬𑑂𑐖𑐣𑐩𑐎𑐰𑐵𑐣𑐥𑐸𑐬𑐎𑑀 𑐥𑐕𑑂𑐫𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐕 𑑋
+pracalit_2143.png	𑐣𑐵𑐔𑐴𑐬𑐹
+pracalit_2144.png	𑐰𑐬𑑂𑐟𑐩𑐵𑐣𑐀𑐰𑐳𑑂𑐠𑐵𑐩𑐵𑐩𑐸𑐣𑑄𑐎𑐬𑑂𑐩𑐷𑐮𑐾 𑐟𑑂𑐰𑐥𑐸𑐫𑐾
+pracalit_2145.png	𑐥𑐵𑑃𑐜𑐾𑐎𑑀 𑐚𑐸𑑄𑐐𑑂𑐫𑐵𑐄𑐣𑐾
+pracalit_2146.png	𑐠𑐸𑐣𑐵 𑐫𑑀𑐐𑐐𑐸𑐬𑐸
+pracalit_2147.png	𑐴𑐾𑐸𑐡𑐿𑐴𑐿𑐣𑐀𑐥𑐶𑐟𑐸
+pracalit_2148.png	𑐧𑐶𑐎𑑂𑐎𑐷 𑐳𑑂𑐚𑐶𑐩𑐾𑐚𑐩𑐵
+pracalit_2149.png	𑐐𑐬𑐶𑐬𑐴𑐾𑐎𑐵𑐮𑐵𑐃
+pracalit_2150.png	𑐳𑑃𑐑𑐎𑐵
+pracalit_2151.png	𑐔𑐬𑐶𑐟𑑂𑐬𑐨𑐶𑐟𑑂𑐬 𑐳𑐸𑐗𑐵𑐊
+pracalit_2152.png	𑐜𑐵.𑐬𑐵𑐩𑐥𑑂𑐬𑐳𑐵𑐡 𑐎𑐸𑐚𑐷𑐩𑐵
+pracalit_2153.png	𑐖𑐡𑑁....
+pracalit_2154.png	𑐩𑐵𑐢𑐰𑐎𑐸𑐬𑐩𑐵𑐬
+pracalit_2155.png	𑐥𑑂𑐬𑐢𑐵𑐣𑐩𑐣𑑂𑐟𑑂𑐬𑐷𑐧𑐵𑐚 𑐳𑐣𑑂𑐟𑑂𑐬𑐳𑑂𑐟
+pracalit_2156.png	𑐀𑐣𑑂𑐟𑐬𑑂𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐶𑐫 , 𑐐𑑂𑐬𑐵𑐬𑑂𑐴𑐳𑑂𑐠
+pracalit_2157.png	𑐕𑐠𑐷
+pracalit_2158.png	𑐊𑐜𑐖𑐳𑑂𑐚𑐾𑐧𑐮
+pracalit_2159.png	𑐄𑐣𑐷𑐳𑑃𑐐𑐎𑐿 𑐧𑐒𑑂𑐐
+pracalit_2160.png	𑐟𑐶𑐬𑐏𑐜𑐾𑐣𑐷
+pracalit_2161.png	𑐁𑑃𑐐𑐣 , 𑐧𑐟𑐵𑐊𑐀𑐣𑐸𑐳𑐵𑐬
+pracalit_2162.png	𑐄𑐣𑐷 𑑋
+pracalit_2163.png	𑐧𑐣𑑂𑐡𑐳𑐹𑐔𑐷𑐩𑐵 𑐏𑐵𑐊𑐖𑐳𑑂𑐟𑑀 𑑋
+pracalit_2164.png	𑐧𑐣𑐵𑐄𑐣𑐸𑐕 𑑋 𑐳𑑂𑐠𑐵𑐣𑐷𑐫𑐎𑐿
+pracalit_2165.png	𑐥𑐵𑐬𑐡𑐬𑑂𑐱𑐶𑐟𑐵𑐎𑑀 𑐩𑐾𑐣𑐥𑐵𑐰𑐬𑐮𑐵𑐃
+pracalit_2166.png	𑐏𑐟𑐬𑐵𑐥𑑂𑐬𑐟𑐶
+pracalit_2167.png	𑐩𑐖𑐾𑐡𑐵𑐬
+pracalit_2168.png	𑐳𑐩𑐣𑑂𑐰𑐫𑐣𑐎𑐵
+pracalit_2169.png	𑐮𑐵𑐐𑐸𑐍𑐲𑐢𑐎𑐿
+pracalit_2170.png	𑐐𑐵𑐫𑐎𑐐𑐵𑐫𑐶𑐎𑐵𑐴𑐬𑐸𑐮𑐵𑐃 𑐬𑐵𑐰𑐰𑐮𑐾
+pracalit_2171.png	𑑕𑑘𑑒
+pracalit_2172.png	𑐰𑐾𑐢𑐵
+pracalit_2173.png	𑐜𑐾𑐜𑐶𑐎𑐾𑐚𑐾𑐜
+pracalit_2174.png	𑐳𑐸𑐢𑐵𑐬𑑂𑐡𑐿 𑐩𑐵𑐣𑑂𑐡𑐿𑐣𑑁𑑃 𑑋
+pracalit_2175.png	𑐏𑑀𑐖𑐟𑐮𑐵𑐳𑐎𑑀 𑐱𑐟𑑂𑐬𑐎𑑀
+pracalit_2176.png	𑐰𑐷𑐬𑐴𑐬𑐹𑐎𑑀
+pracalit_2177.png	𑐜𑐶𑐳𑐶𑐖𑐣
+pracalit_2178.png	𑐳𑑂𑐰𑐵𑐥𑐹 𑐐𑐊𑐬𑐧𑐣𑐵𑐫𑑀
+pracalit_2179.png	𑐁𑐄𑐣𑐾𑐎𑑂𑐬𑐩
+pracalit_2180.png	𑐮𑐾𑐏𑐥𑐝𑑂𑐣 𑐰𑐶𑐬𑑀𑐢𑐷𑐴𑐬𑐹𑐳𑑃𑐐
+pracalit_2181.png	𑐡𑑂𑐰𑐾𑐲𑐥𑐹𑐬𑑂𑐞 𑐀𑐣𑑂𑐟𑐬𑑂𑐰𑐵𑐬𑑂𑐟𑐵𑐴𑐬𑐹𑐩𑐵 𑑋
+pracalit_2182.png	𑐚𑐵𑐂𑐧𑑂𑐬𑐾𑐎𑐬𑐧𑐵𑐚
+pracalit_2183.png	𑐧𑐚𑐸𑐮𑐾𑐬𑐿
+pracalit_2184.png	𑐥𑑂𑐬𑐔𑐞𑑂𑐜𑐖𑐷𑐳𑑃𑐐
+pracalit_2185.png	𑐎𑐩𑑂𑐫𑐸𑐣𑐶𑐳𑑂𑐚𑐂𑐟𑐬
+pracalit_2186.png	𑐩𑐵𑐣𑐶𑐳𑐎𑐴𑐬𑐸𑐎𑑀 𑐧𑑀𑐬𑑂𑐜𑐩𑐵𑐬𑑂𑐦𑐟
+pracalit_2187.png	𑐎𑐴𑐵𑑃𑐎𑐴𑐵𑑃 𑐳𑐩𑐵𑐅
+pracalit_2188.png	𑐚𑐵𑐳 𑐩𑐵𑐬𑐩𑐵
+pracalit_2189.png	𑐐𑐿𑑄𑐜𑐵 𑑋 𑐳𑐣𑑂𑐫𑐵𑐳𑐷𑐳𑑄𑐳𑑂𑐎𑐵𑐬 𑑋
+pracalit_2190.png	𑐧𑑀𑐣𑐳 ?
+pracalit_2191.png	𑐰𑐶𑐖𑐾𑐟𑐵𑐴𑐬𑐹𑐮𑐾
+pracalit_2192.png	𑐄𑐣𑐷𑐥𑐕𑐶𑐎𑐵 𑐀𑐢𑐶𑐎𑐺𑐟𑐩𑐢𑑂𑐫𑐾
+pracalit_2193.png	𑐴𑐬𑑂𑐡𑐷 𑐎𑐞𑑂𑐜𑐩
+pracalit_2194.png	𑐂𑐣𑑂𑐔𑐖𑐟𑐶
+pracalit_2195.png	𑐨𑑂𑐫𑐵𑐊𑐎𑐵𑐮𑐾
+pracalit_2196.png	𑐎𑑂𑐲𑐾𑐟𑑂𑐬𑐴𑐬𑐸𑐩𑐵𑐳𑐩𑐾𑐟
+pracalit_2197.png	𑐥𑐵𑐣𑐳𑐾𑐮𑑀𑐮𑐾 𑐩𑐴𑐵𑐒𑑂𑐎𑐵𑐮𑐔𑑁𑐬 ,
+pracalit_2198.png	𑐧𑐵𑐝𑐷𑐥𑐴𑐶𑐬𑑀𑐮𑐵𑐃 𑐬𑐸𑐣𑐸 ,
+pracalit_2199.png	𑑒𑑗𑑘𑑒𑑗𑑙 𑐨𑐚𑑂𑐚𑐬𑐵𑐂𑐎𑐵
+pracalit_2200.png	𑐛𑐸𑐮𑐵𑐥𑑀𑐏𑐬𑐵 𑐩𑐴𑐶𑐮𑐵𑐎𑑀 ?
+pracalit_2201.png	𑐫𑐟𑐷𑐶𑐏𑐾𑐬 𑐩𑐴𑐵𑐣𑐸𑐨𑐵𑐰𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_2202.png	𑐰𑐶𑐟𑐬𑐎𑐳𑑃𑐐 𑐟𑐾𑐖
+pracalit_2203.png	𑐰𑐶𑐥𑐎𑑂𑐲𑐩𑐵 𑐎𑐵𑐩𑐡𑐵𑐬𑐩𑐢𑑂𑐫𑐾
+pracalit_2204.png	𑐔𑑁𑑄𑐬𑐷𑐴𑐬𑐹 𑐁𑐬𑑂𑐚𑑂𑐳
+pracalit_2205.png	𑐥𑐵𑐬𑑂𑐚𑐷𑐩𑐵𑐬𑑂𑐦𑐟
+pracalit_2206.png	𑐱𑐵𑐳𑑂𑐟𑑂𑐬𑐎𑐵
+pracalit_2207.png	𑐜𑑀𑐎𑐾
+pracalit_2208.png	𑐴𑐸𑐣𑐸𑐣𑐥𑐬𑑂𑐣𑐾 𑐂𑐒𑑂𑐐𑑂𑐮𑑂𑐫𑐵𑐣𑑂𑐜𑐩𑐵
+pracalit_2209.png	𑐧𑑁𑐮𑐵𑐄𑐣 , 𑐟𑐾𑐖𑐵𑐰𑐷
+pracalit_2210.png	𑐥𑐟𑑂𑐫𑐵𑐂𑐣𑐣𑑂 𑑋 𑐥𑑂𑐬𑐟𑐶𑐫𑑀𑐐𑐷𑐟𑐵𑐎𑑀
+pracalit_2211.png	𑐐𑐬𑐸𑐜
+pracalit_2212.png	𑐦𑐵𑐮𑑂𑐣𑐎𑐵
+pracalit_2213.png	𑐡𑐷𑐥𑐎𑐎𑐵
+pracalit_2214.png	𑐂𑐣𑑂𑐚𑐬𑐣𑐾𑐚𑐖𑐣𑑂𑐫
+pracalit_2215.png	𑐰𑐣𑐴𑐬𑐸𑐎𑑀 𑐔𑐾𑐮𑐷𑐧𑐾𑐚𑐷 ,
+pracalit_2216.png	𑐔𑐮𑐔𑐶𑐟𑑂𑐬𑐎𑐬𑑂𑐩𑐷𑐴𑐬𑐸𑐮𑐾 𑐜𑐬𑐩𑐵
+pracalit_2217.png	𑐩𑑀𑐳𑑂𑐰𑐷𑐎𑐵
+pracalit_2218.png	𑐢𑐾𑐡𑑂𑐬𑐾𑐩𑐵 𑐀𑐥𑐬𑐵𑐴𑑂𑐣𑐟𑐶𑐬
+pracalit_2219.png	𑐮𑐎𑐬𑐎𑑀
+pracalit_2220.png	𑐧𑐾𑐂𑐩𑐵𑐣 ? 𑐬𑐶𑐎𑑂𑐬𑐶𑐊𑐳𑐣
+pracalit_2221.png	𑐁𑐳𑐶𑐱
+pracalit_2222.png	𑐡𑐵𑐒𑑂𑐎𑑀
+pracalit_2223.png	𑐎𑐶𑐣𑐶𑐡𑐶𑐊 𑑋 𑐴𑐸𑐩
+pracalit_2224.png	𑐧𑐣𑐵𑐂𑐣𑑂 ? 𑐧𑑂𑐫𑐸𑑃𑐟𑐵𑐃𑐡𑐶𑐣𑐾
+pracalit_2225.png	𑐥𑑂𑐬𑐫𑑀𑐐𑐱𑐷𑐮 𑐟𑐮𑐾𑐖𑐸𑐎𑐵
+pracalit_2226.png	𑐨𑐵𑐫𑑂 𑐣𑐡𑐶𑐃𑐊𑐎𑑀
+pracalit_2227.png	𑐧𑐿𑐛𑐎𑐮𑐾𑐳𑐩𑐾𑐟
+pracalit_2228.png	𑐖𑐿𑐩𑐮
+pracalit_2229.png	𑐰𑐶𑐨𑐵𑐖𑐣𑐳𑑃𑐐𑐿 𑐥𑑂𑐬𑐵𑐥𑑂𑐟𑐣𑐴𑐸𑐡𑐵
+pracalit_2230.png	𑐜𑐾𑐎𑐸𑐬𑐾𑐳𑐣𑐎𑑀 𑐳𑐣𑑂𑐖𑐶𑐰𑐮𑐾
+pracalit_2231.png	𑐗𑐬𑐷𑐎𑐵 𑐕𑐵𑐣𑑂𑐕𑐣𑑂 ?
+pracalit_2232.png	𑐰𑐾𑐲𑑂𑐚𑐧𑑂𑐬𑑀𑐩𑐎𑐵 𑐎𑐬𑐥𑐵𑐟𑑂𑐬𑐷
+pracalit_2233.png	𑐩𑐵𑐂𑐟𑐷𑐑𑐬 ,
+pracalit_2234.png	𑐩𑐾𑐴𑐣𑐟𑐀𑐣𑐸𑐳𑐵𑐬𑐎𑑀 𑐎𑐩𑐵𑐣𑑂𑐜𑐶𑐒
+pracalit_2235.png	𑐄𑐔𑐵𑐮𑐶𑐊𑐎𑑀 𑐬𑐵𑐖𑐰𑑄𑐱𑐳𑑃𑐐
+pracalit_2236.png	𑐔𑐵𑑃𑐡𑐷𑐐𑐵𑐨𑐵𑐴𑐬𑐹𑐎𑑀 𑐥𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐣𑐾 ,
+pracalit_2237.png	𑐎𑐚𑐾𑐖 𑐣𑐔𑐵𑐴𑐣𑐸𑐮𑐾
+pracalit_2238.png	𑐊𑐦𑐩𑐵
+pracalit_2239.png	𑐗𑑂𑐫𑐵𑐮𑐏𑐵𑐣𑐵
+pracalit_2240.png	𑐥𑐘𑑂𑐖𑐵𑐧𑐎𑑀 𑐩𑐵𑐳𑑂𑐎𑑀𑐎𑐵
+pracalit_2241.png	𑐔𑐸𑐎𑐾 𑑋 𑐕𑐿𑐣𑐣 𑑋
+pracalit_2242.png	𑐨𑐣𑐡𑐿
+pracalit_2243.png	𑐖𑐵𑐣𑐾𑐬 ,
+pracalit_2244.png	𑐢𑐬𑑂𑐩𑐵𑐎𑐵
+pracalit_2245.png	𑐳𑑂𑐰𑐵𑐡𑐶𑐮𑑀 𑐧𑐾𑐎𑐵𑐬
+pracalit_2246.png	𑐬𑐵𑐲𑑂𑐚𑑂𑐬𑐩𑐵𑐟𑑂𑐬 𑐩𑐳𑑂𑐟𑐸
+pracalit_2247.png	𑐳𑐩𑑂𑐥𑐵𑐡𑐎𑐎𑐵
+pracalit_2248.png	𑐬𑐵𑐩𑐮𑐷𑐮𑐵 , 𑐏𑐾𑐮𑐟𑐬𑑂𑐦
+pracalit_2249.png	𑐥𑐬𑑂𑐔𑐥𑐏𑐵𑐣𑐬𑐵𑐟 𑐩𑐴𑑀𑐟𑑂𑐳𑐰𑐩𑐵 𑑋
+pracalit_2250.png	𑐐𑑀𑐥𑐣𑐷𑐫
+pracalit_2251.png	𑐄𑐡𑐵𑐊.... 𑐟𑐥𑐵𑐃𑑄𑐴𑐬𑐸𑐩𑐵
+pracalit_2252.png	𑐖𑐣𑐣𑐾𑐣𑑂𑐡𑑂𑐬𑐶𑐫𑐮𑐵𑐃
+pracalit_2253.png	𑐫𑐸𑐣𑐶𑐊𑐣 , 𑐧𑐶𑐮𑐵𑐊𑐣𑐿𑐟𑐶𑐎𑐟𑐵𑐮𑐵𑐃
+pracalit_2254.png	𑑕𑑘𑑘 𑐳𑐬𑑂𑐕𑐣𑑂 𑑋
+pracalit_2255.png	𑐀𑐎𑑂𑐳𑐶𑐖𑐣𑐎𑑀𑐮 𑐔𑐶𑐬𑐧𑐶𑐬𑐵𑐴𑐚
+pracalit_2256.png	𑐥𑑂𑐬𑐫𑐵𑐐 𑐳𑐸𑐸𑐰𑐾𑐡𑐷𑐰𑐶𑐬𑐸𑐡𑑂𑐢𑐎𑐵
+pracalit_2257.png	𑐃𑐮𑐩
+pracalit_2258.png	𑐥𑑂𑐮𑐾𑐫𑐬𑐧𑐵𑐚
+pracalit_2259.png	𑐦𑐾𑐳𑐧𑐸𑐩𑐵 𑐥𑑂𑐬𑐵𑐎𑐺𑐟𑐶𑐎𑐬𑐸𑐥𑐩𑐿
+pracalit_2260.png	𑐟𑐵𑐂𑐰𑐵𑐣𑐳𑑃𑐐𑐎𑑀
+pracalit_2261.png	𑐚𑐷𑐧𑐷
+pracalit_2262.png	𑐰𑐶𑐎𑑂𑐬𑐾𑐟𑐵
+pracalit_2263.png	𑐳𑐎𑐶𑐣𑐾𑐕 𑑋 𑐬𑑀𑐥𑐶𑐊 𑑋
+pracalit_2264.png	𑐩𑐵𑐢𑐰𑐣𑐮𑐵𑐃 𑐡𑐾𑐰𑐳𑑂𑐰
+pracalit_2265.png	𑐖𑐩𑐵𑐄𑑃𑐡𑐵 𑐕𑐡𑐶𑐥𑐎𑐮𑐾
+pracalit_2266.png	𑐡𑐩𑐎𑐩𑐮 𑐔𑐸𑐥 ,
+pracalit_2267.png	𑐔𑐶𑐬𑑂𑐣𑐸𑐎𑑀 𑐔𑐝𑐾𑐎𑑀
+pracalit_2268.png	𑐳𑑄𑐐𑐛𑐣𑐎𑐿 𑐡𑐬𑐶𑐡𑑂𑐬𑐴𑐬𑐹𑐮𑐾
+pracalit_2269.png	𑐔𑐸𑐣𑑁𑐟𑐷𑐧𑐷𑐔
+pracalit_2270.png	𑐊𑐔𑐚𑐸𑐌𑐎𑐵 𑐴𑐸𑐣𑐾𑐥𑐬𑑂𑐣𑐾𑐕 𑑋
+pracalit_2271.png	𑐮𑑁𑐎𑐵 𑐑𑑂𑐫𑑀
+pracalit_2272.png	𑐴𑑂𑐫𑐵𑐬𑐷𑐳𑑃𑐐
+pracalit_2273.png	𑐩𑐵𑐬𑐟𑐷𑐫
+pracalit_2274.png	𑐝𑑀𑐐𑑂𑐣𑐸𑐥𑐬𑑂𑐕 𑑋
+pracalit_2275.png	𑐩𑑂𑐫𑐵𑐳𑐾𑐣𑑂𑐖𑐬 𑐴𑐵𑐮𑑂𑐕𑐣𑑂 𑑋
+pracalit_2276.png	𑐧𑐷𑐥𑐷𑐎𑐵
+pracalit_2277.png	𑐧𑐶𑐬𑐸𑐰𑐵𑐴𑐬𑐹 𑐎𑐬𑑀𑐜𑑁
+pracalit_2278.png	𑐚𑐶𑐳𑐬𑑂𑐚
+pracalit_2279.png	𑐥𑑂𑐬𑐵𑐰𑐶𑐢𑐶𑐎𑐎𑑀 𑐢𑐾𑐬𑐿𑐖𑐳𑐵𑐾𑐎𑑀
+pracalit_2280.png	𑐟𑐮𑐧𑐰𑐶𑐴𑐷𑐣
+pracalit_2281.png	𑐩𑐢𑑂𑐫𑐥𑑂𑐬𑐡𑐾𑐱𑐖𑐳𑑂𑐟𑐵 𑐳𑑀𑐣𑐵𑐮𑐮𑐵𑐃
+pracalit_2282.png	𑐏𑐵𑐂𑐬𑐵𑐏𑐾𑐎𑐵
+pracalit_2283.png	𑐩𑐺𑐟𑑂𑐫𑐳𑐩𑑂𑐩𑐎𑑀 𑐰𑐵𑐞𑐶𑐖𑑂𑐫𑐡𑐹𑐟
+pracalit_2284.png	𑐥𑐱𑐸𑐡𑐵𑐣𑐵 , 𑐀𑐏𑐜𑐵𑐎𑑀
+pracalit_2285.png	𑐳𑑂𑐠𑐵𑐣𑐷𑐫𑐳𑑂𑐟𑐬𑐧𑐵𑐚 𑐁𑐫𑐵𑐟𑐮𑐾
+pracalit_2286.png	𑐢𑐩𑑂𑐧𑑀𑐗𑐷𑐮𑐾 𑐖𑑀𑐏𑐶𑐩 𑑋
+pracalit_2287.png	𑐬𑑁𑐟𑐴𑐚𑐮𑐵𑐃 , 𑐳𑐶𑐊𑐩𑐚𑐷𑐩𑐵
+pracalit_2288.png	𑐫𑐵𑐟𑑂𑐬𑐸𑐮𑐾𑐳𑐩𑐾𑐟 𑐏𑑀𑐮𑑂𑐫𑑀 ,
+pracalit_2289.png	𑐕𑐵𑐬𑑀 𑐎𑐺𑐲𑑂𑐚𑐶
+pracalit_2290.png	𑐄𑐩𑐷𑐡 𑐥𑑂𑐬𑐡𑐵𑐣𑐳𑐩𑑂𑐧𑐣𑑂𑐢𑐷
+pracalit_2291.png	𑐎𑐸𑐰𑑃𑐬 𑐥𑐹𑐬𑑂𑐖𑐵𑐩𑐐𑐬𑐮𑐾
+pracalit_2292.png	𑐀𑐧𑐸𑐬𑐸𑐡𑐸𑐖𑐳𑑂𑐟𑐵 𑐀𑐰𑐵𑐡𑐮𑑂𑐮𑐵𑐴
+pracalit_2293.png	𑐸𑐴𑐵𑐮
+pracalit_2294.png	𑐳𑐵𑐟𑐡𑑀𑐧𑐵𑐚𑑀𑐎𑑀 𑐩𑐾𑐬𑐸𑐡𑐞𑑂𑐜 ,
+pracalit_2295.png	𑐬𑐵.𑐰𑐣 𑐖𑐣𑑂𑐩𑐳𑑂𑐠𑐮
+pracalit_2296.png	𑐧𑐣𑐵𑐄𑐣𑐸𑐧𑐷𑐔 𑐎𑐵𑐮𑐶𑐖𑐎𑑀
+pracalit_2297.png	𑐡𑐶𑐳𑐵𑐥𑐶𑐳𑐵𑐧𑐩𑐸𑐎𑑂𑐟
+pracalit_2298.png	𑐜𑑂𑐫𑐵𑐐𑐣 𑐳𑐵𑐬𑑂𑐫𑑀
+pracalit_2299.png	𑐬𑐸𑐥𑐣𑐷 𑐳𑑄𑐬𑐎𑑂𑐲𑐞𑐎𑐬𑑂𑐟𑐵𑐴𑐬𑐸𑐮𑐾
+pracalit_2300.png	𑐨𑐵𑐰𑐎𑐮𑐾
+pracalit_2301.png	𑐏𑐸𑐳𑐷𑐧𑐸𑐩𑐵 𑐳𑑂𑐫𑐵𑐮𑐨𑐶𑐫𑑀
+pracalit_2302.png	𑐦𑑀𑐩 𑐐𑐵𑐄𑑃𑐮𑐾𑐴𑐬𑐹
+pracalit_2303.png	𑐳𑑂𑐚𑐾𑐳𑐣𑐧𑐵𑐴𑐶𑐬
+pracalit_2304.png	𑐕𑐶𑐮𑑂𑐮𑐶𑐊𑐬
+pracalit_2305.png	𑐴𑐜𑐜𑐷 𑐥𑐣𑑂𑐳𑐵𑐄𑐣𑐾
+pracalit_2306.png	𑐬𑑄𑐐𑐬𑑀𑐐𑐣
+pracalit_2307.png	𑐩𑐵𑐫𑐵𑐥𑑂𑐬𑐟𑐶 𑐱𑐰𑑂𑐡𑐧𑐵𑐚
+pracalit_2308.png	𑐨𑐣𑑂𑐣𑐾𑐖𑐳𑑂𑐟𑐵
+pracalit_2309.png	𑐱𑐵𑐳𑐎𑐴𑐬𑐹𑐎𑑀
+pracalit_2310.png	𑐥𑑂𑐬𑐫𑐸𑐎𑑂𑐟 𑐔𑐬𑑂𑐫𑐵
+pracalit_2311.png	𑐎𑐩𑑂𑐥𑐣𑐷𑐴𑐬𑐹𑐧𑐵𑐚𑐿 𑐣𑐨𑐣𑑁
+pracalit_2312.png	𑐴𑐬𑐿𑐫𑐵
+pracalit_2313.png	𑐔𑐣𑑂𑐡𑐣𑐥𑐸𑐬 𑐠𑐾𑐐𑑂𑐕 𑑋
+pracalit_2314.png	𑐮𑐜𑑂𑐣𑐸𑐥𑐬𑑂𑐠𑑂𑐫𑑀 𑑋
+pracalit_2315.png	𑐟𑐾𑐬𑑂𑐳𑑀 𑐳𑐬𑑂𑐰𑐎𑐵𑐮𑐷𑐣
+pracalit_2316.png	𑐰𑑂𑐫𑐴𑑀𑐬𑐵𑐳𑐴𑐶𑐟𑐎𑑀 𑐩𑐞𑐶𑐥𑐸𑐬𑐩𑐵
+pracalit_2317.png	𑐑𑐚𑑂𑐐𑐵𑐃𑐣𑐖𑐶𑐎𑐿𑐎𑑀 𑐐𑐬𑐵𑐄𑐕𑐣𑑂
+pracalit_2318.png	𑐱𑑂𑐬𑐷𑐩𑐵𑐣𑑂𑐱𑑂𑐬𑐷𑐩𑐟𑐷𑐎𑑀 𑐀𑐳𑑄𑐰𑐿𑐢𑐵𑐣𑐶𑐎𑐎𑑀
+pracalit_2319.png	𑐖𑐶𑐳𑑂𑐎𑑂𑐫𑐵𑐊𑐎𑐵
+pracalit_2320.png	𑐥𑑂𑐬𑑀𑐩𑐵
+pracalit_2321.png	𑐄𑐨𑐶𑐣𑑂𑐠𑑂𑐫𑑀 𑑋
+pracalit_2322.png	𑐁𑐟𑑄𑐎𑐰𑐵𑐡𑐷𑐎𑑀
+pracalit_2323.png	𑐥𑐸𑐳𑑂𑐟𑐎𑐩𑐵
+pracalit_2324.png	𑐧𑐾𑐥𑐟𑑂𑐟𑐵𑐳𑑃𑐐
+pracalit_2325.png	𑐨𑐟𑑂𑐟𑐵𑐧𑐵𑐥𑐟
+pracalit_2326.png	𑐴𑐶𑐜𑑂𑐣𑐾𑐴𑐬𑐸𑐮𑐵𑐃 𑐳𑐘𑑂𑐖𑐵𑐮
+pracalit_2327.png	𑐀𑑄𑐐𑐖𑐳𑑂𑐟𑑀 𑐧𑐶𑐟𑑂𑐕 ?
+pracalit_2328.png	𑐧𑐸𑐮𑐧𑐸𑐮𑐾𑐮𑐵𑐃 𑐥𑐡𑐵𑐬𑑂𑐠𑐴𑐬𑐹 ,
+pracalit_2329.png	𑐣𑐶𑐬𑑂𑐡𑐾𑐱𑐣𑐵𑐟𑑂𑐩𑐎 𑐳𑑄𑐰𑐵𑐡𑐎𑑀
+pracalit_2330.png	𑐂𑐟𑐶𑐴𑐵𑐳𑐰𑐾𑐟𑑂𑐟𑐵 𑑋 𑐚𑑀𑐮÷𑐧𑐳𑑂𑐟𑐷
+pracalit_2331.png	𑐧𑐳𑑂𑐟𑐷𑐳𑐸𑐴𑐵𑐄𑑃𑐡𑑀 𑐣𑐵𑐫𑐰𑐩𑐴𑐵𑐥𑑂𑐬𑐧𑐣𑑂𑐢𑐎
+pracalit_2332.png	𑐎𑑀𑐚𑐾𑐱𑑂𑐰𑐬𑐮𑐐𑐵𑐫𑐟 𑐴𑐾𑐜𑐎𑑂𑐰𑐵𑐚𑐬𑐩𑐿
+pracalit_2333.png	𑐨𑐾𑐲𑐬𑐵𑐖𑐮𑐵𑐂 𑐣𑐶𑐡𑐵𑐊𑐎𑐷
+pracalit_2334.png	𑐥𑑂𑐬𑐎𑐶𑐫𑐵
+pracalit_2335.png	𑐥𑐬𑐶𑐥𑐟𑑂𑐬𑐎𑐵
+pracalit_2336.png	𑐩𑑀𑐡𑐷
+pracalit_2337.png	𑐕𑐶𑐣𑐵𑐮𑐎𑐵 𑐳𑑂𑐰𑐥𑐴𑐶𑐔𑐵𑐣
+pracalit_2338.png	𑐳𑐒𑑂𑐐𑐩𑐳𑑂𑐠𑐮 𑐥𑐸𑐣𑐬𑑂𑐣𑐶𑐬𑑂𑐩𑐵𑐞𑐳𑐩𑑂𑐧𑐣𑑂𑐢𑐷
+pracalit_2339.png	𑐣𑑂𑐫𑐵𑐫𑐵𑐥𑐵𑐮𑐶𑐎𑐵
+pracalit_2340.png	𑐰𑐿𑐢𑐵𑐣𑐶𑐎𑐟𑐵𑐎𑐵
+pracalit_2341.png	𑐐𑐂𑐬𑐴𑐾𑐎𑐵𑐮𑐾
+pracalit_2342.png	𑐕𑐶𑐔𑑀𑐮𑑂𑐣𑐾
+pracalit_2343.png	𑐣𑐎𑐶𑐣𑐷
+pracalit_2344.png	𑐰𑐵𑐮𑐰 𑑋
+pracalit_2345.png	𑐡𑐸𑐬𑑂𑐑𑐚𑐣𑐵𑐴𑐬𑐹
+pracalit_2346.png	𑐖𑐵𑐟𑐶𑐎𑐷 𑐥𑐬𑐶𑐰𑐵𑐬𑐧𑐷𑐔
+pracalit_2347.png	𑐎𑑄𑐎𑐵𑐮
+pracalit_2348.png	𑐧𑐮𑐩𑐶𑐔𑐵𑐂𑑃 𑐰𑐶𑐎𑐾𑐱
+pracalit_2349.png	𑐎𑐩𑐮𑐾𑐱𑐎𑐸𑐩𑐵𑐬 𑐟𑐬𑑂𑐎𑐶𑐊𑐎𑐵
+pracalit_2350.png	𑐂𑐐𑑀𑐬𑐧𑐷𑐔 𑐢𑐎
+pracalit_2351.png	𑐣𑐨𑐾𑐚𑐾𑐥𑐕𑐶
+pracalit_2352.png	𑐳𑐶𑐎𑐶𑐣𑑃 𑑋
+pracalit_2353.png	𑐥𑐵𑑃𑐔𑐿𑐖𑐣𑐵 𑐱𑑂𑐬𑐷𑐮𑑄𑐎𑐵
+pracalit_2354.png	𑐡𑐵𑐰𑐵𑐩𑐵 𑐬𑑀𑐎𑐵𑐫𑐳𑐴𑐶𑐟
+pracalit_2355.png	𑐟𑐥𑐵𑐃𑑄𑐮𑐵𑐃 , 𑐖𑐾𑐣𑐾𑐬𑐾𑐚𑐬𑐴𑐬𑐸𑐎𑑀
+pracalit_2356.png	𑐳𑐣𑑂𑐔𑑀𑐧𑐶𑐳𑐣𑑂𑐔𑑀
+pracalit_2357.png	𑑕𑑗.𑑖𑑙
+pracalit_2358.png	𑐁𑐱𑐫𑐀𑐨𑐶𑐥𑑂𑐬𑐵𑐫 𑐑𑑀𑐲𑐞𑐵𑐥𑐟𑑂𑐬𑐮𑐐𑐵𑐫𑐟𑐎𑐵
+pracalit_2359.png	𑐎𑑀𑐨𑐶𑐜𑐎𑐿 𑐧𑐶𑐚𑐎𑑂𑐰𑐵𑐂𑐣𑐖𑐳𑑂𑐟𑐵
+pracalit_2360.png	𑐮𑐶𑐔𑐷𑐎𑐵 𑐩𑐵𑐣𑑂𑐫𑐟𑐵𑐨𑐶𑐟𑑂𑐬
+pracalit_2361.png	𑐨𑐎𑑂𑐟𑐖𑐣𑐎𑑀 𑐡𑐾𑐏𑐵𑐄𑑃𑐕
+pracalit_2362.png	𑐳𑑄𑐬𑐎𑑂𑐲𑐞𑐰𑐵𑐡𑐷𑐴𑐬𑐸𑐮𑐾
+pracalit_2363.png	𑐀𑐢𑑂𑐫𑐎𑑂𑐲𑐎𑑀 ,
+pracalit_2364.png	𑐧𑐵𑐡𑐮𑐖𑐳𑑂𑐟𑐿
+pracalit_2365.png	𑐳𑐩𑐵𑐔𑐵𑐬𑐎𑑀
+pracalit_2366.png	𑐁𑐂𑐧𑐟𑐵𑐬 𑐎𑐩𑐵𑐂𑐥𑑂𑐬𑐟𑐶
+pracalit_2367.png	𑐡𑐹𑐟𑐵𑐰𑐵𑐳𑐮𑐾 𑐁𑐬𑑂𑐎𑐷𑐚𑐾𑐎𑑂𑐚
+pracalit_2368.png	𑐳𑐩𑑂𑐗𑐵𑐄𑑃𑐕 𑐳𑐾𑐮𑐾𑐎𑑂𑐚𑐬𑐮𑐾
+pracalit_2369.png	𑑓𑑑𑑓𑑑 𑐮𑐶𑐥𑐶𑐎𑑀
+pracalit_2370.png	𑐳𑑂𑐫𑐵𑐄
+pracalit_2371.png	𑐐𑑂𑐬𑐴𑐵𑐎𑐮𑐵𑐃 𑐰𑐶𑐡𑑂𑐫𑐵𑐮𑐫𑐴𑐬𑐹𑐳𑐴𑐶𑐟𑐎𑑀
+pracalit_2372.png	𑐩𑐒𑑂𑐐𑐮𑐵𑐑𑐵𑐚𑐎𑐷
+pracalit_2373.png	𑐰𑐵𑐮𑑂𑐩𑐷𑐎𑐶𑐳𑐩𑑂𑐩𑐮𑐾 𑐗𑐥𑐎𑑂𑐎𑐿
+pracalit_2374.png	𑐂𑐩𑑂𑐫𑐸𑐣𑑀𑐮𑑀𑐖𑐶𑐳𑑂𑐚
+pracalit_2375.png	𑐣𑐳𑐟𑐵𑐄𑐣 𑐦𑐸𑐚𑑂𑐕 𑑋
+pracalit_2376.png	𑐨𑐞𑑂𑐚𑐵𑐧𑐵𑐬𑐷 ,
+pracalit_2377.png	𑐬𑑀𑐥𑑂𑐣𑐸𑐥𑐬𑑂𑐕 𑑋 𑐐𑐶𑐬𑐶𑐖𑐷
+pracalit_2378.png	𑐮𑐵𑐴𑐵𑐣 ,
+pracalit_2379.png	𑐣𑐔𑐶𑐫𑐵𑐄𑑃𑐡𑐵
+pracalit_2380.png	𑐕𑐶𑐔𑑀𑐮𑐶𑐊𑐳𑑄𑐐𑐿 𑐊𑐊𑐥𑐶𑐥𑐷
+pracalit_2381.png	𑐰𑐺𑐡𑑂𑐢𑐵𑐱𑑂𑐬𑐩𑐩𑐵 𑐁𑐣𑑂𑐡𑑀𑐮𑐣𑐎𑑀 ,
+pracalit_2382.png	𑐔𑐸𑐣𑐵𑐰𑐮𑐵𑐃 𑐫𑐵𑐩𑑂𑐠𑐹 ,
+pracalit_2383.png	𑐎𑐶𑐱𑑀𑐬𑐷𑐩𑐢𑑂𑐫𑐾
+pracalit_2384.png	𑐏𑐶𑐬 𑐴𑐾𑐮𑐔𑐎𑑂𑐎𑑂𑐬𑑂𑐫𑐵𑐂𑑃𑐮𑐾
+pracalit_2385.png	𑐡𑐸𑐃𑐥𑐚𑐎
+pracalit_2386.png	𑐧𑐴𑐸𑐢𑐵𑐬𑑂𑐩𑐶𑐎 𑐰𑐶𑐱𑑂𑐰𑐣𑐵𑐠𑐮𑐵𑐃
+pracalit_2387.png	𑐀𑐎𑑂𑐎𑐮
+pracalit_2388.png	𑐬𑐾𑐎𑐬𑑂𑐜𑐶𑑄𑐐𑐩𑐵
+pracalit_2389.png	𑐀𑐥𑐣𑐵𑐄𑐣𑐸𑐴𑑀𑐮𑐵 𑑋
+pracalit_2390.png	𑐳𑑀𑐗𑑀𑐥𑐣𑐵𑐩𑐵𑐠𑐶
+pracalit_2391.png	𑐀𑐥𑑂𑐛𑑂𑐫𑐵𑐬𑑀
+pracalit_2392.png	𑐨𑐷𑐬𑐧𑐵𑐚 𑐥𑐜𑑂𑐎𑐾𑐮𑐵𑐃
+pracalit_2393.png	𑐎𑐸𑐳𑑂𑐟𑐷𑐩𑐵
+pracalit_2394.png	𑐳𑐸𑐣𑐖𑐟𑑂𑐟𑐶𑐎𑐿
+pracalit_2395.png	𑐁𑐕𑐵𑐩 ,
+pracalit_2396.png	𑐳𑐩𑑂𑐥𑐵𑐡𑐣𑐖𑐳𑑂𑐟𑐿
+pracalit_2397.png	𑐂𑐣𑑂𑐖𑐶𑐣𑐧𑐵𑐬𑐾 𑐊𑐣𑑂𑐜𑑂𑐬𑑀𑐂𑐜𑐳𑐴𑐶𑐟
+pracalit_2398.png	𑐰𑑂𑐫𑐴𑑀𑐬𑑂𑐡𑐿𑐣
+pracalit_2399.png	𑐡𑐮𑐟 𑐮𑐎𑑂𑐖𑐾𑐩𑑂𑐧𑐬𑑂𑐐𑐩𑐵𑐠𑐶
+pracalit_2400.png	𑐎𑐵𑐛𑐩𑐵𑐜𑑁𑑄𑐳𑐩𑑂𑐩 𑐎𑑀𑐨𑐶𑐳𑐶𑐮𑑂𑐜𑐨𑐣𑑂𑐡𑐵
+pracalit_2401.png	𑐧𑐿𑐡𑑂𑐫𑐎𑑀 𑐎𑐸𑐩𑐡𑐶𑐣𑐷
+pracalit_2402.png	𑐥𑑂𑐬𑐡𑑂𑐬𑐹𑐲𑐞𑐎𑐵 𑐴𑐸𑐣𑐳𑐎𑑂𑐕 𑑋
+pracalit_2403.png	𑐳𑐫÷𑑒 𑐄𑐡𑐶𑐥𑐸𑐬𑐧𑐵𑐚
+pracalit_2404.png	𑐬𑐞𑐣𑐷𑐟𑐶𑐎𑐵𑐬
+pracalit_2405.png	𑐜𑐶𑐳𑐶𑐊𑐩𑐳𑐷𑐎𑑀 𑐣𑐵𑐳𑐶𑑃𑐡𑐿
+pracalit_2406.png	𑐀𑐟𑑂𑐫𑐾𑐲𑑂𑐚𑐶 𑐱𑐵𑐏𑐵𑐩𑐵 ,
+pracalit_2407.png	𑐥𑐶𑐏𑐸𑐟𑐷𑐩𑐵
+pracalit_2408.png	𑐁𑐏𑑅
+pracalit_2409.png	𑐣𑐕𑐸𑐰𑐵𑐂 𑐟𑐾𑐬𑑂𑐴𑐠𑐸𑐩𑐎𑐵
+pracalit_2410.png	𑐄𑐥𑐎𑐠𑐵𑐴𑐬𑐸
+pracalit_2411.png	𑐎𑐬𑐵𑐂𑐣𑑂 𑑋
+pracalit_2412.png	𑐱𑑀𑐎𑐳
+pracalit_2413.png	𑐀𑐢𑐶𑐎𑐵𑐬𑐶𑐴𑐬𑐸𑐮𑐾 𑐳𑐩𑐶𑐟𑐶𑐴𑐬𑐸𑐩𑐵
+pracalit_2414.png	𑐳𑐵𑐬𑐷𑐩𑐵 𑐥𑐚𑑂𑐎𑐵𑐄𑑃𑐡𑐿
+pracalit_2415.png	𑐚𑐾𑐩𑑂𑐎𑐾𑐩𑐿𑐫𑐸𑐒 𑐄𑐩𑑄𑐐𑐮𑐾
+pracalit_2416.png	𑐎𑐵𑐣𑑂𑐟𑐾𑐱𑑂𑐰𑐬 𑐳𑐨𑐵 𑑋
+pracalit_2417.png	𑐥𑑂𑐬𑐵𑐞𑐵𑐫𑐵𑐩𑐡𑑂𑐰𑐵𑐬𑐵 𑐴𑐶𑐬𑑀𑐂𑐣𑐎𑐿
+pracalit_2418.png	𑐖𑐷𑐰𑐣𑐏𑐸𑐳𑐷
+pracalit_2419.png	𑐟𑐾𑐴𑑂𑐬𑐠𑐸𑐩𑐎𑑀
+pracalit_2420.png	𑐩𑐸𑐚𑐸𑐮𑐾 𑑋
+pracalit_2421.png	𑐧𑐣𑐵𑐄𑐣𑐸𑐥𑐬𑑂𑐠𑑂𑐫𑑀 , 𑐜𑐵𑐜𑐵𑑃𑐩𑐵
+pracalit_2422.png	𑐂𑐣𑑂𑐚𑐬𑑂𑐣𑐩𑐵 𑐥𑐸𑐲𑑂𑐥𑐥𑑂𑐬𑐳𑐵𑐡
+pracalit_2423.png	𑐳𑐵𑐂𑐎𑐮 𑑋
+pracalit_2424.png	𑐨𑐊𑐣𑐕
+pracalit_2425.png	𑐥𑐸𑐬𑐸𑐲𑐴𑐬𑐹𑐎𑐿
+pracalit_2426.png	𑐄𑐣𑐷𑐴𑐬𑐹𑐳𑐶𑐟
+pracalit_2427.png	𑐧𑐶𑐱𑑂𑐰𑐵𑐳𑐶𑐮𑑀 𑐳𑐶𑐫𑐵𑐮𑐎𑑀𑐚
+pracalit_2428.png	𑐩𑐿𑐡𑐵𑐣𑐧𑐵𑐚𑐿
+pracalit_2429.png	𑐣𑐶𑐎𑐸𑐘𑑂𑐖
+pracalit_2430.png	𑐨𑐵𑐲𑐵𑐴𑐬𑐸𑐎𑑀
+pracalit_2431.png	𑐎𑐺𑐲𑑂𑐞𑐮𑐶𑐮𑐵 ,
+pracalit_2432.png	𑐦𑐸𑐮𑐚𑐳
+pracalit_2433.png	𑐩𑐵𑐗𑐑𑐚𑑂𑐚 𑐰𑐶𑐥𑐡
+pracalit_2434.png	𑐮𑑀𑐣 𑐩𑑀𑐜𑐮𑐮𑐾
+pracalit_2435.png	𑐴𑐾𑐬𑐰𑐶𑐔𑐵𑐬 𑐢𑑂𑐰𑐖𑑀𑐟𑑂𑐠𑐵𑐣
+pracalit_2436.png	𑐜𑐬𑐵𑐄𑐣𑐸
+pracalit_2437.png	𑐄𑐬𑑂𑐰𑐬 𑐧𑐶𑐣𑐩𑐵
+pracalit_2438.png	𑐦𑑂𑐫𑐵𑐚𑐮𑐾
+pracalit_2439.png	𑐚𑐸𑐥𑐷
+pracalit_2440.png	𑐔𑐶𑐬𑐵𑐣𑐩𑐶𑐮
+pracalit_2441.png	𑐀𑐣𑐜𑐶𑐚𑐬𑐩𑐵𑐂𑐣𑑂𑐜 𑐩𑐶𑐟𑐰𑑂𑐫𑐫𑐶𑐟𑐵
+pracalit_2442.png	𑐰𑐶𑐮𑐶𑐫𑐩𑑂𑐳𑐣𑐎𑑀
+pracalit_2443.png	𑐰𑐾𑐜
+pracalit_2444.png	𑐎𑑂𑐲𑐾𑐞𑐩𑐵 𑐣𑐶𑐳𑑂𑐎𑐡𑐿𑐣 𑑋
+pracalit_2445.png	𑐥𑑂𑐬𑑀𑐨𑐣𑑂𑐡𑐵 𑐟𑐾𑐱𑑂𑐬𑑀
+pracalit_2446.png	𑐴𑐵𑐩𑑂𑐦𑐵𑐮𑐾𑐬 𑐧𑐑𑐾𑐮𑐮𑐾
+pracalit_2447.png	𑐖𑐵𑐮𑐳𑐵𑐗𑐷𑐥𑐹𑐰𑐬𑑂𑐎 𑐥𑐸𑐱𑑂𑐎𑐶𑐣𑐎𑐵
+pracalit_2448.png	𑐥𑐶𑐥𑐬𑐵𑐩𑐿 𑐀𑐥𑐣𑐵𑐍𑑄 ,
+pracalit_2449.png	𑐣𑐶𑐎𑐾𑐃
+pracalit_2450.png	𑐖𑑀𑐬𑑂𑐖𑐶𑐫𑐵𑐎𑑀 𑐎𑑂𑐬𑐩𑐰𑐡𑑂𑐢
+pracalit_2451.png	𑐳𑑀𑐢𑑂𑐣𑐸𑐴𑐸𑐣𑑂𑐠𑑂𑐫𑑀 ,
+pracalit_2452.png	𑐩𑐸𑐳𑐮𑐩𑐵𑐣𑐮𑐾 𑐧𑐖𑐸𑐴𑐬𑐹𑐮𑐾
+pracalit_2453.png	𑐐𑐞𑐣𑐵𑐀𑐣𑑂𑐟𑐬𑑂𑐐𑐟 𑐁𑐐𑐮𑐵𑐐𑐷𑐵𑐧𑐵𑐚
+pracalit_2454.png	𑐎𑐶𑐳𑑂𑐥𑐵𑐒
+pracalit_2455.png	𑐀𑐣𑑂𑐟𑑂𑐫𑐥𑐕𑐶 𑐦𑐬𑐩𑐹𑐮𑑂𑐮𑐵𑐴
+pracalit_2456.png	𑐦𑐾𑐬𑑂𑐣𑐸𑐎𑐵 𑐀𑐦𑑂𑐬𑐶𑐎𑐵𑐮𑐵𑐃
+pracalit_2457.png	𑐬𑐾𑐣𑑂𑐖𑐎𑐵 𑐧𑐶𑐜𑐶𑐒𑐮𑐵𑐃
+pracalit_2458.png	𑐴𑐸𑐣𑑂𑐜𑐵𑐂𑐎𑑀
+pracalit_2459.png	𑐀𑐮𑐏𑐮𑐶𑐦𑐵 𑐀𑐡𑐸𑐰𑐵÷𑐧𑐾𑐳𑐵𑐬
+pracalit_2460.png	𑐖𑐸𑐢𑐵𑐂𑐩𑐵
+pracalit_2461.png	𑐩𑐢𑑂𑐫𑐟𑐶𑐬 𑑋
+pracalit_2462.png	𑐧𑐾𑐔𑐶𑐣𑐾𑐕 𑑋
+pracalit_2463.png	𑐳𑐵𑐢𑐣𑐳𑐩𑑂𑐥𑐣𑑂𑐣
+pracalit_2464.png	𑐔𑐶𑐟𑐸𑐰𑐵𑐎𑑀 𑐰𑑂𑐫𑐎𑑂𑐟𑐶𑐎𑐵 ,
+pracalit_2465.png	𑐳𑐬𑐎𑐵𑐬𑐴𑐬𑐹𑐎𑐵
+pracalit_2466.png	𑐰𑐶𑐲𑑂𑐦𑑀𑐚𑐎𑑀 𑐖𑐸𑐬𑐵𑐄𑐣𑐾
+pracalit_2467.png	𑐣𑐶𑐩𑐶 ,
+pracalit_2468.png	𑐳𑐧𑐿𑐎𑐸𑐬𑐵 𑐧𑐵𑑃𑐎𑐾𑐮𑐵𑐃
+pracalit_2469.png	𑐢𑐵𑐬𑑂𑐎𑐾
+pracalit_2470.png	𑐂𑐧𑐵𑐣𑐾𑐖𑐮𑐾 𑐣𑐏𑐵𑐂𑐡𑐶𑐣𑐾
+pracalit_2471.png	𑐧𑐳𑑂𑐟𑐷𑐨𑐬
+pracalit_2472.png	𑐰𑑂𑐫𑐵𑐎𑐬𑐞𑐳𑐩𑑂𑐧𑐣𑑂𑐢𑐷
+pracalit_2473.png	𑐎𑐵𑐣𑐸𑐣𑐀𑐣𑐸𑐳𑐵𑐬
+pracalit_2474.png	𑐊𑐳𑐾𑐚𑑂𑐳 𑐩𑐵𑐣𑑂𑐣𑐵𑐎𑐵𑐥𑐜𑐷 ,
+pracalit_2475.png	𑐱𑐾𑐦𑐶𑐮𑑂𑐜𑐎𑐵 𑐐𑐬𑐾𑐖𑐳𑑂𑐟𑑀
+pracalit_2476.png	𑐣𑐰𑐶𑐣𑑂𑐡𑑂𑐬𑐬𑐵𑐖 𑐟𑐣𑑂𑐜𑐸𑐎𑐵𑐬
+pracalit_2477.png	𑐧𑐵𑐖𑐾𑐧𑐖𑐹 ,
+pracalit_2478.png	𑐰𑐸𑐮𑐾𑐚𑐶𑐣𑐩𑐵
+pracalit_2479.png	𑐫𑐴𑐷𑐎𑐵 𑐥𑐸𑐲𑑂𑐚𑑂𑐫𑐵𑐃
+pracalit_2480.png	𑐳𑐾𑐝𑐰𑐵𑐎𑑀 𑐥𑐴𑐾𑑃𑐮𑐵
+pracalit_2481.png	𑐧𑑂𑐬𑐵𑐂𑐚𑐣𑐎𑐵
+pracalit_2482.png	𑐴𑐚𑐵𑐄𑑃𑐡𑐵𑐎𑑀 𑐟𑐟𑑂𑐎𑐵𑐮𑐷𑐟
+pracalit_2483.png	𑐏𑐣𑐶𑐣𑑂𑐕𑐣𑑂 ? 𑑕.𑑔𑑕
+pracalit_2484.png	𑐳𑑁𑐣𑑂𑐡𑐬𑑂𑐫𑐰𑐡𑑂𑐬𑑂𑐢𑐎
+pracalit_2485.png	𑐥𑐵𑐬𑐶𑐳𑐎𑑂𑐫𑑀 𑐔𑑂𑐰𑐵𑐮𑐵
+pracalit_2486.png	𑐬𑐖𑐣𑐷𑐟𑐶𑐎 𑐗𑐬𑐾𑐎𑐵𑐴𑐬𑐸𑐮𑐵𑐃
+pracalit_2487.png	𑐥𑐵𑐄𑑃𑐡𑐵𑐥𑐵𑐄𑑃𑐡𑐿
+pracalit_2488.png	𑐁𑐟𑑂𑐩𑐳𑐩𑑂𑐩𑐵𑐣𑐥𑐹𑐬𑑂𑐞
+pracalit_2489.png	𑐴𑐵𑐬𑑂𑐣𑐾
+pracalit_2490.png	𑐁𑐩𑐵𑐧𑐵𑐧𑐸𑐎𑐷 𑐐𑐵𑐊𑐵
+pracalit_2491.png	𑐰𑐟𑑂𑐳𑐮𑐾𑐱𑑂𑐰𑐬𑐷𑐎𑑀
+pracalit_2492.png	𑐐𑐶𑐮𑐩𑑀𑐬𑐮𑐾
+pracalit_2493.png	𑐰𑑂𑐫𑐰𑐳𑑂𑐠𑐵𑐥𑐀𑐣𑐸𑐳𑐵𑐬
+pracalit_2494.png	𑐣𑐦𑐸𑐚𑐵𑐂
+pracalit_2495.png	𑐟𑑂𑐫𑑀𑐧𑐵𑐴𑐾𑐎𑐎𑑀 𑐦𑐾𑐱𑐣 ,
+pracalit_2496.png	𑐎𑑀𑐬𑑀𑐣𑐵𑐳𑑃𑑄𑐐𑐿
+pracalit_2497.png	𑐩𑐡𑑂𑐡𑐟𑐐𑐵𑐬𑐔𑑂𑐫𑐵𑐄𑐮𑐾
+pracalit_2498.png	𑐱𑐾𑐬𑐔𑐣 ,
+pracalit_2499.png	𑐥𑑂𑐬𑐵𑐰𑐶𑐎𑐷
+pracalit_2500.png	𑐧𑐐𑑂𑐣𑐾 ,
+ranjana_1.png	बेरिएको ।
+ranjana_2.png	जादुयी साथीका
+ranjana_3.png	निरहुआ म्याग्नेसियमजस्ता
+ranjana_4.png	व्यवस्थामिलाएको छलफल ।
+ranjana_5.png	महेशदत्त जोगिनका
+ranjana_6.png	बस्नुपर्ने रानीपौवामा
+ranjana_7.png	चलचित्रहरुमा यादवहरूले
+ranjana_8.png	विछोडलाई
+ranjana_9.png	काँधको
+ranjana_10.png	पासवानमध्ये
+ranjana_11.png	पसल÷फार्मेसीधनीले बिमासँग
+ranjana_12.png	राइफल्स ,
+ranjana_13.png	है । चाहन्छुकक ।
+ranjana_14.png	निम्बा ।
+ranjana_15.png	जनप्रदर्शनका उपकरणमध्ये
+ranjana_16.png	पाइन्न । रोजगारको
+ranjana_17.png	खेलिरह्यो ।
+ranjana_18.png	क्षेत्रहरुसँग वाङचुकबीच
+ranjana_19.png	पाठकहरुसमक्ष सम्झन्छु
+ranjana_20.png	नासों४
+ranjana_21.png	त्यो ,
+ranjana_22.png	पश्चिमाहरूको
+ranjana_23.png	कार्यालय जमिन्दारको
+ranjana_24.png	माछाका
+ranjana_25.png	कारोबारसम्बन्धी ....
+ranjana_26.png	कुपण्डोलमा लिग
+ranjana_27.png	चिनको
+ranjana_28.png	नराख्ने ? राज्याभिषेकको
+ranjana_29.png	खोलिएर
+ranjana_30.png	४.७४
+ranjana_31.png	भुङ्ग्रोमा संशाधनसम्बन्धी
+ranjana_32.png	नातावाद
+ranjana_33.png	ट्रिपभन्दा गर्छ ?
+ranjana_34.png	फोस्रेटार उष
+ranjana_35.png	मारिन् । पाइसकेकाछन्
+ranjana_36.png	गण्डकी कल्पनामै
+ranjana_37.png	वर्चस्वशाली
+ranjana_38.png	स्पास्मोप्रोक्सिभन
+ranjana_39.png	फूलबारी ।
+ranjana_40.png	शिवगडिमा
+ranjana_41.png	उत्तरसिंह नवित्दै
+ranjana_42.png	स्वदेशकै नवा
+ranjana_43.png	सम्बन्धितहरुलाई
+ranjana_44.png	प्रतिलिपि
+ranjana_45.png	दुईतिरबाट भिल्लारलको
+ranjana_46.png	पर्सासहोडवा , २७१ ।
+ranjana_47.png	मोहका
+ranjana_48.png	बढाएरै कट्टेल
+ranjana_49.png	ननिदाउन्जेलसम्म
+ranjana_50.png	पाए ,
+ranjana_51.png	रिटेलरको
+ranjana_52.png	अभावलगायत
+ranjana_53.png	वारियर्सका चर्काे
+ranjana_54.png	सामसुङलाई
+ranjana_55.png	दावबदार
+ranjana_56.png	वाहकवालाले
+ranjana_57.png	बिकेनन् ।
+ranjana_58.png	छापाखानाको
+ranjana_59.png	अनअराभइल
+ranjana_60.png	दत्तचित्त
+ranjana_61.png	फेसलिफ्ट लाखौको
+ranjana_62.png	स्पटका
+ranjana_63.png	बगिया
+ranjana_64.png	पिप्लीको विकृतिको
+ranjana_65.png	रेफर
+ranjana_66.png	बडिगार्डकै महात्वाकांक्षाबाट
+ranjana_67.png	उठ्नु , बाँच्छन् ।
+ranjana_68.png	पूर्वसमाजवादी कानेपोखरी३
+ranjana_69.png	सत्तामै
+ranjana_70.png	छोमरोङदेखि
+ranjana_71.png	ईगर्भमेन्ट
+ranjana_72.png	योनिमा
+ranjana_73.png	जाग्राम
+ranjana_74.png	स्वीकृती
+ranjana_75.png	रूपान्तरणमा अपराधसंहित
+ranjana_76.png	क्षितिजीय
+ranjana_77.png	भन्नेसमेत कुन
+ranjana_78.png	यहाँलाई
+ranjana_79.png	पथप्रदर्शकमा
+ranjana_80.png	विषम ३ ,
+ranjana_81.png	दिनेजस्ता
+ranjana_82.png	नगरहरुबीच वंशीधर
+ranjana_83.png	प्रसंगहरू मलेर
+ranjana_84.png	तंग्रिँदै सेलेले
+ranjana_85.png	मुस्ताङसम्मका
+ranjana_86.png	छाड्दैनौँ । चिनिन्थ्यो ,
+ranjana_87.png	त्यसभन्दा सधैंका
+ranjana_88.png	संस्था÷सार्वजनिक बाँधिएका
+ranjana_89.png	अन्तर्रत कुकुरहरुमा
+ranjana_90.png	कत्तिसम्म
+ranjana_91.png	सच्याउनै आरोहणले
+ranjana_92.png	रंगसँग
+ranjana_93.png	छर्ने । सुन्निन्छन्
+ranjana_94.png	ओलीसँगै
+ranjana_95.png	सोध्यौं ।
+ranjana_96.png	खोजमुलक
+ranjana_97.png	नेक्ससले
+ranjana_98.png	परम्रागत रुमलिएको
+ranjana_99.png	सिकाइयो ? प्रा
+ranjana_100.png	फेदसँग पाएको
+ranjana_101.png	चालढालका बोस्निया
+ranjana_102.png	मरकरर्न , कर्जामध्ये
+ranjana_103.png	मनि
+ranjana_104.png	गरेस् । चलिरहेछ ।
+ranjana_105.png	मासिक , थिइन ,
+ranjana_106.png	भालेश्वर वासुकी
+ranjana_107.png	प्राणायामद्वारा विद्याप्रेमी
+ranjana_108.png	बाबू
+ranjana_109.png	पाउछु अरुबाट
+ranjana_110.png	विक्रेता ,
+ranjana_111.png	ठड्याइएपछि
+ranjana_112.png	९६७ अबुरुदुजस्ता
+ranjana_113.png	नरमसाथ
+ranjana_114.png	परिवेशअनुसार फरकपनका
+ranjana_115.png	पाइएकाहरूलाई सरकालाई
+ranjana_116.png	कलकत्तामा
+ranjana_117.png	बन्दै चर्चाका
+ranjana_118.png	टिबेटो पलकी
+ranjana_119.png	निर्झरित
+ranjana_120.png	चन्द्रमाको मन्द्रान
+ranjana_121.png	खारेजीका
+ranjana_122.png	बाहिरलाई घरंगा ,
+ranjana_123.png	नराम्री दरसन्तानलाई
+ranjana_124.png	छाप्नु
+ranjana_125.png	सञ्चालहरुले
+ranjana_126.png	पाउडर ,
+ranjana_127.png	जन्तेबाख्रो
+ranjana_128.png	मुराटोरी सदिच्छाले
+ranjana_129.png	गोचाली रफ्तार ।
+ranjana_130.png	नाडीको नर्वेलाई
+ranjana_131.png	सौन्दर्यमा
+ranjana_132.png	थलो
+ranjana_133.png	उद्घाटनलगत्तै सोनार
+ranjana_134.png	अपांगता समाजवादउन्मुख
+ranjana_135.png	नदेखाएपछि रक्षकलाई
+ranjana_136.png	इनर्जीको फर्किइरहेका
+ranjana_137.png	महोत्तरीसँग
+ranjana_138.png	बद्रे बोझमा
+ranjana_139.png	मरजा
+ranjana_140.png	परियो । यान्त्रिकीकरण
+ranjana_141.png	पत्निप्रति
+ranjana_142.png	एसोसिएनले
+ranjana_143.png	कर्मचारीसेवाग्राहीले इथेलबर्गले
+ranjana_144.png	शिल्लान्यास
+ranjana_145.png	पीचबाट कोठारीका
+ranjana_146.png	रोगहरुले
+ranjana_147.png	अघिल्तिरका बाकलकृष्ण
+ranjana_148.png	प्राईमिनिस्टर
+ranjana_149.png	क्षणले
+ranjana_150.png	ओमबहालबाट
+ranjana_151.png	उब्जायो ।
+ranjana_152.png	त्यसैले
+ranjana_153.png	नकिम
+ranjana_154.png	उपप्रमुखको दाजुभाइभन्दा
+ranjana_155.png	टुंग्गो
+ranjana_156.png	दलमाथि भइसक्छ
+ranjana_157.png	स्व.रमेश
+ranjana_158.png	नर्सरीहरु ,
+ranjana_159.png	लुटिएपछि
+ranjana_160.png	मस्जिद ,
+ranjana_161.png	आक्रोशित
+ranjana_162.png	मणिसाघु
+ranjana_163.png	सुश्लिंग , ठोकिएको
+ranjana_164.png	भृकुटीमण्डपमा
+ranjana_165.png	जलेश्वरी
+ranjana_166.png	बाहुबलसम्पन्न
+ranjana_167.png	एआइएस ताकुमी
+ranjana_168.png	एपबारे भुषाल
+ranjana_169.png	दुर्गामाया
+ranjana_170.png	दुलहादुलही
+ranjana_171.png	रोश ध्रुवलाल
+ranjana_172.png	बैसाखी , स्टार्टअपहरूका
+ranjana_173.png	लिलाममार्फत
+ranjana_174.png	प्रतिद्वन्दीका
+ranjana_175.png	स्वासप्रश्वासमा
+ranjana_176.png	इटहरी१४
+ranjana_177.png	नागरिककर्मीको नापोली
+ranjana_178.png	संग्राहलय
+ranjana_179.png	श्रीदेवीले ताक्न
+ranjana_180.png	मौद्रीक
+ranjana_181.png	लोकगाथामा
+ranjana_182.png	बधाईँ लगाउँछु
+ranjana_183.png	मिसाइललाई
+ranjana_184.png	बिजर्सनस्थलसम्म
+ranjana_185.png	रुमल्लिरहेको सुनिदेओस् ,
+ranjana_186.png	पठाएपपिछ थाकेकाले
+ranjana_187.png	गोता
+ranjana_188.png	बरोबर
+ranjana_189.png	विकेन्डले बडूलाई
+ranjana_190.png	आत्मसुरक्षाका बर्गरले
+ranjana_191.png	अन्तर्राष्ट्रियस्तरमा भीरकोट ,
+ranjana_192.png	सिडीएससीले
+ranjana_193.png	अन्धकारले ऐनालगायतका
+ranjana_194.png	सिस्नोले
+ranjana_195.png	उपल्लो
+ranjana_196.png	छँदाछँदै अंकविहीन
+ranjana_197.png	त्यागको
+ranjana_198.png	स्टेडियमा बेहुला
+ranjana_199.png	फर्किनुअघिको
+ranjana_200.png	सागपात लागेअनुसार
+ranjana_201.png	हिउँदमा , लोतान्त्रिककरण
+ranjana_202.png	सहलगानी लेदर ,
+ranjana_203.png	जसप्रति शौचका
+ranjana_204.png	कहो बिचार ,
+ranjana_205.png	हेबी अङ्गमा
+ranjana_206.png	कर्पोरेसनमाथि
+ranjana_207.png	सभागृहसमेत दिनुहोस
+ranjana_208.png	हप्तापछि ठूलो ,
+ranjana_209.png	आइरहनुभएको काठेखोलाछेउमा
+ranjana_210.png	लगायत , हराइरहेको ।
+ranjana_211.png	उपगुट नजानू ।
+ranjana_212.png	निर्यातजन्य कर्पाेरेसनलाई
+ranjana_213.png	सिल्भाको आवाजहरू
+ranjana_214.png	शक्तिहरूले मडारिने
+ranjana_215.png	बढ्दो
+ranjana_216.png	बंैकको रनभुल्लमा
+ranjana_217.png	टिप्दैन । एकेडेमिकहरूको
+ranjana_218.png	क्राण्ड विनाहतियार
+ranjana_219.png	जमेको
+ranjana_220.png	बहुकेन्द्र
+ranjana_221.png	अदर
+ranjana_222.png	बिजोगबीच सावना
+ranjana_223.png	खेलाडिहरु
+ranjana_224.png	भारतलगायतका
+ranjana_225.png	भनिदिनुकुरा
+ranjana_226.png	विक्न
+ranjana_227.png	तिन्जेबाट अन्तरलामा
+ranjana_228.png	हजारभन्दा बग्दछ ।
+ranjana_229.png	गराउनसक्ने
+ranjana_230.png	मार्भल पदमपाणि
+ranjana_231.png	मन्दुम
+ranjana_232.png	पुष्पलालमाथि
+ranjana_233.png	सडकमा ,
+ranjana_234.png	बन्दीबाट
+ranjana_235.png	आसियान सिमलचौरस्थित
+ranjana_236.png	ह्याकिङको
+ranjana_237.png	मास्केको
+ranjana_238.png	मधेशमै
+ranjana_239.png	आइपिओका मनकामनालगायत
+ranjana_240.png	विचारविहीन
+ranjana_241.png	वास्तुशास्त्र
+ranjana_242.png	१८ , भिमेश्वरस्थित
+ranjana_243.png	बिस्केट शिवहरि
+ranjana_244.png	लक्ष्मीको
+ranjana_245.png	परिवालाई
+ranjana_246.png	ओसारपसारका बेफाइदाहरू
+ranjana_247.png	तिलगंगा , आधिकारिकलाई
+ranjana_248.png	दामोदार
+ranjana_249.png	रोइरहन्छन्
+ranjana_250.png	घटनाले स्वाभिमानलाई
+ranjana_251.png	नगरवासी , पोखरेललाइ
+ranjana_252.png	खेल्नुभयो । रानीपोखरीमा
+ranjana_253.png	हर्मोनलाई कवयित्री
+ranjana_254.png	ढंगको प्रणालीसम्बन्धी
+ranjana_255.png	यतिन्जेल गरिदिएर ।
+ranjana_256.png	रियलमी७
+ranjana_257.png	हेपाई भत्काइदिने
+ranjana_258.png	फाल्नुप¥यो ।
+ranjana_259.png	एकैठाउँमा
+ranjana_260.png	कुरहरि , वेबसाइटमा
+ranjana_261.png	घटनाक्रमहरूले
+ranjana_262.png	ताथलीबाट पाशविक
+ranjana_263.png	पैलिँदै वनजङ्गल ,
+ranjana_264.png	उब्जनीमा कारवाई
+ranjana_265.png	विमानस्थलभित्रै इग्वाल
+ranjana_266.png	ग्यासु
+ranjana_267.png	तामझाम एकान्तवासमा
+ranjana_268.png	बाघेलका
+ranjana_269.png	स्वाधिनतामाथि स्टलहरुदेखि
+ranjana_270.png	गेहास्तु
+ranjana_271.png	विमान , वृद्धा
+ranjana_272.png	रभारतबाट
+ranjana_273.png	इपेमेन्ट सूर्यास्थको
+ranjana_274.png	घोरल ,
+ranjana_275.png	दुहुँदैनथे । गाँस्दै
+ranjana_276.png	पाँचदिने
+ranjana_277.png	नटुंग्याएको
+ranjana_278.png	दरभन्दा स्याटेलाइट
+ranjana_279.png	लुम्बक
+ranjana_280.png	एमएइम अम्कोटदेखि
+ranjana_281.png	पीआईआर
+ranjana_282.png	ईन्जिनियरिङले
+ranjana_283.png	टोलो खड्किएको
+ranjana_284.png	सच्चाउने ,
+ranjana_285.png	एकतिर
+ranjana_286.png	किलिमञ्जरो
+ranjana_287.png	प्रमुखबीचको तपसिलमा
+ranjana_288.png	धमेन्द्र
+ranjana_289.png	नरसिंहाको
+ranjana_290.png	बहिर्गमित पठित
+ranjana_291.png	सूर्यचौरमा स्विकार्दैनन् ।
+ranjana_292.png	आन्दोलित
+ranjana_293.png	एडिभुको
+ranjana_294.png	साक्षात्कारसमेत
+ranjana_295.png	नहटाए टिर्सट
+ranjana_296.png	प्रतिरोधपनि
+ranjana_297.png	गरिहालिन्छ । ६३८
+ranjana_298.png	४४.१ पोर्चुगलमाथि
+ranjana_299.png	कटिहालेछन् ,
+ranjana_300.png	खोज्छुत्यो
+ranjana_301.png	रामघाटमा इटलीले
+ranjana_302.png	अभियन्ताहरुकै साेही
+ranjana_303.png	सिँचाइका तानियो ,
+ranjana_304.png	खोजिन्छ
+ranjana_305.png	१३.२
+ranjana_306.png	४९९
+ranjana_307.png	विनादर्ता
+ranjana_308.png	भिरमाहुरीले ट्रान्स्मिसन
+ranjana_309.png	रियलमीको
+ranjana_310.png	गाउँमै
+ranjana_311.png	लठ्नुको
+ranjana_312.png	तरकारीमा गाउापालिका८
+ranjana_313.png	औंठाछाप
+ranjana_314.png	रुँदैन । समापनमा
+ranjana_315.png	फाल्द्यौ एभ्रिथिङ
+ranjana_316.png	बद्री
+ranjana_317.png	हुनुपर्नेलगायतका
+ranjana_318.png	बज्जी २७चौथो
+ranjana_319.png	२४४ , तुलानामा
+ranjana_320.png	सुन्दरपुरमा बुबोनिक
+ranjana_321.png	आधुनिकतासम्बन्धी
+ranjana_322.png	जनप्रतनिधिले लैबरीमा
+ranjana_323.png	सूूर्य चैतावर
+ranjana_324.png	ताम्राकार सुरक्षाकवचका
+ranjana_325.png	निगाहमा
+ranjana_326.png	जीवनसम्झेजस्तो
+ranjana_327.png	ड्रिंक पत्नीमा
+ranjana_328.png	घोटेर
+ranjana_329.png	पन्ध्रपन्ध्र
+ranjana_330.png	पार्दासमेत कुण्डमा
+ranjana_331.png	धर्नामै
+ranjana_332.png	महामृत्युञ्जय , च्यासिलाबरको
+ranjana_333.png	द्धिपक्षीयबहुपक्षीय मिडियासँग
+ranjana_334.png	मन्जिता पिँधको
+ranjana_335.png	रंंगशाला गिभेनलाई
+ranjana_336.png	कनौजेलाई बालश्रममुक्त
+ranjana_337.png	खोसे , अकुपेन्सी
+ranjana_338.png	बालमनोविज्ञानले साईल
+ranjana_339.png	चेकलिस्टका
+ranjana_340.png	घरपरिवारबीच
+ranjana_341.png	प्रोपगान्डाबीचको रुसका
+ranjana_342.png	समीक्षालाई २४९
+ranjana_343.png	अनेरास्ववियुलाई
+ranjana_344.png	पब्लिकेसन्स कल्र्भट ,
+ranjana_345.png	वासिङ्टनको जान्सेनले
+ranjana_346.png	आउनुस
+ranjana_347.png	सीतामढीतर्फ
+ranjana_348.png	सुकुम्वासीलाई
+ranjana_349.png	भागसँग
+ranjana_350.png	गुणचन्द्र
+ranjana_351.png	परिचालनमार्फत उपनिषदमा
+ranjana_352.png	फिजियो
+ranjana_353.png	सम्राट , बस्नेतको
+ranjana_354.png	कारोबारमध्ये
+ranjana_355.png	रेशमबहादुर यसपछाडिका
+ranjana_356.png	बनाएँ
+ranjana_357.png	स्थलहरूका
+ranjana_358.png	नदेखेपछि बीरबहादुर
+ranjana_359.png	पूर्णरूपेण भारगाउँमा
+ranjana_360.png	मण्डीखाटारस्थित सासनमा
+ranjana_361.png	जीवनजलजस्ता बाहानमा
+ranjana_362.png	जाहेरीमा पर्दासम्म
+ranjana_363.png	बाइनान्सस भासिन
+ranjana_364.png	५४९ ,
+ranjana_365.png	हाँसोलाई
+ranjana_366.png	३८६
+ranjana_367.png	विगुटारका भाउजुलाई
+ranjana_368.png	ग्रयाभिटी
+ranjana_369.png	कोरोनाकालको
+ranjana_370.png	घर्की
+ranjana_371.png	यहाहरुमाथि दुर्योधनले
+ranjana_372.png	सहजीकरणले
+ranjana_373.png	नलिने
+ranjana_374.png	पूर्वपार्टीहरू
+ranjana_375.png	भनाउन दुई ।
+ranjana_376.png	राग प्रक्रियाप्रति
+ranjana_377.png	वेबमा संगम
+ranjana_378.png	बङ्गालदेशका
+ranjana_379.png	सिल्कको अर्जेन्टिनादेखि
+ranjana_380.png	उचाईमा सेपिएका
+ranjana_381.png	तँ ?
+ranjana_382.png	नवआगन्तुक विचारबीचको
+ranjana_383.png	एमबाप्पे
+ranjana_384.png	योगामा
+ranjana_385.png	सहमति , असिममानसिंह
+ranjana_386.png	बृद्धि
+ranjana_387.png	वाग परोस्हाँस्नु
+ranjana_388.png	बसिरहनुभएको फुकाउनुपर्ने ,
+ranjana_389.png	माथीको
+ranjana_390.png	परिवेसमा निकैअघिदेखि
+ranjana_391.png	व्यस्तताको
+ranjana_392.png	मोडल ।
+ranjana_393.png	सम्बन्धबिच्छेदका खेलाउन
+ranjana_394.png	रोदनमा एशोसिएसन
+ranjana_395.png	मिन्ट ।
+ranjana_396.png	सुइना लुटे ।
+ranjana_397.png	लेखेँ
+ranjana_398.png	अघिल्लाे
+ranjana_399.png	बटु मार्क्सको
+ranjana_400.png	खत्रीसँग विरोधमात्र
+ranjana_401.png	लाभहरूलाई स्थानहरूका
+ranjana_402.png	इयन
+ranjana_403.png	सन्तानकै
+ranjana_404.png	मिसिएसँगै सम्यम
+ranjana_405.png	अन्त्य , सुस्ताएर
+ranjana_406.png	नहोऊन् ,
+ranjana_407.png	कांग्रेसकाे
+ranjana_408.png	विघटनसम्मका रमाउँछ ।
+ranjana_409.png	दासताविरुद्धको
+ranjana_410.png	टिचिङले बीसीसीआईले
+ranjana_411.png	भबिष्य पुगिसक्ने
+ranjana_412.png	आमाबुबाले पुर्वक
+ranjana_413.png	नपसी ८७५ ,
+ranjana_414.png	मुख्यालयका हुँदाको
+ranjana_415.png	फाइल्स पवनदूत
+ranjana_416.png	अवतरण
+ranjana_417.png	थरुनीहरुको दिऔँ
+ranjana_418.png	पाइनेवाला
+ranjana_419.png	परासी ,
+ranjana_420.png	तिमिल्सिना , चित्रकलाकै
+ranjana_421.png	पुडासैनीलगायतको
+ranjana_422.png	युक्तेन
+ranjana_423.png	आशान्ति
+ranjana_424.png	घटाउन कृयाकलापहरुमा
+ranjana_425.png	कंगो ,
+ranjana_426.png	असमझदारी ग्लाडिएटर
+ranjana_427.png	अबरुद्ध
+ranjana_428.png	निष्काशनपछि निर्वाचनमा
+ranjana_429.png	पैसालगाएतका सम्झाउनुहोस्
+ranjana_430.png	ह्यान्डीक्याप
+ranjana_431.png	भनिनरहनुनपर्ने मिलेछु
+ranjana_432.png	कपका
+ranjana_433.png	धर्मनन्द , धाब्लाङसम्मको
+ranjana_434.png	अन्धोपनको
+ranjana_435.png	बाहिरिँदै ,
+ranjana_436.png	आजिविका सम्भाव्यताका
+ranjana_437.png	धतुरो भूलिदिन
+ranjana_438.png	अध्ययनरतले
+ranjana_439.png	निर्देशकका डिप्रेसन ,
+ranjana_440.png	बाहिरकै
+ranjana_441.png	चारहजार सरकारकोविरुद्ध
+ranjana_442.png	हेरेकामध्ये
+ranjana_443.png	बोझले कर्मीको
+ranjana_444.png	चीनविरुद्ध
+ranjana_445.png	डिजिटको प्रशोधनमा
+ranjana_446.png	दम्पतीमाथि
+ranjana_447.png	भैंसीहरु प्रिन्ज
+ranjana_448.png	गोप्यरूपमा
+ranjana_449.png	भ्वाइसमा
+ranjana_450.png	रुपैँयाभन्दा
+ranjana_451.png	खिमविक्रम
+ranjana_452.png	जामुलगायतका फुकालेर
+ranjana_453.png	गुप्ता , प्रयत्नलाई
+ranjana_454.png	मल्दिभ्सका जूममा
+ranjana_455.png	पास्नीजस्ता स्वीकृतिबिना
+ranjana_456.png	कुमारीगाल
+ranjana_457.png	दिलेन्द्र डिभाइसबाट
+ranjana_458.png	रिसी
+ranjana_459.png	भातीखर्क ,
+ranjana_460.png	फसाउन वंशावलीमा
+ranjana_461.png	पुजेर
+ranjana_462.png	सुन्दरतम
+ranjana_463.png	बेलायतभरिका
+ranjana_464.png	बजारसमेत
+ranjana_465.png	खाटमुनी
+ranjana_466.png	लेमोआ ,
+ranjana_467.png	पुजा
+ranjana_468.png	म्याग्नाइटका
+ranjana_469.png	दूग्ध
+ranjana_470.png	खोजिन्छ ,
+ranjana_471.png	तरुकरले बले
+ranjana_472.png	जोड्नुपर्छ । ग्रीष्मयामको
+ranjana_473.png	तुहाइदिने घरैमा ।
+ranjana_474.png	सगरमाथा , धुलोसहित
+ranjana_475.png	व्यवसायहरू अपेक्षाग्राहीलाई
+ranjana_476.png	३८४
+ranjana_477.png	४३७ शासकहरूविरुद्ध
+ranjana_478.png	सानुभाइ
+ranjana_479.png	जमिनभित्र
+ranjana_480.png	प्रशासनसम्बन्धी जनमोर्चाको
+ranjana_481.png	छोडिदिऊन् । चूपचाप
+ranjana_482.png	खल्तीसम्म इन्साइडरका
+ranjana_483.png	अशक्तताहरूको
+ranjana_484.png	युनेप नवगीतकार
+ranjana_485.png	समाधानबारे
+ranjana_486.png	उत्थानलाई
+ranjana_487.png	सहदै भुसमा
+ranjana_488.png	भन्नेचाहिँ डेर
+ranjana_489.png	पार्कले
+ranjana_490.png	ट्रेनीका
+ranjana_491.png	प्रकृयाका फियोरेन्टिनालाई
+ranjana_492.png	सत्तासंघर्ष ,
+ranjana_493.png	हराएकामा रत्नबाट
+ranjana_494.png	चियानास्ता ,
+ranjana_495.png	प्याकेटमा विद्यापीठबाट
+ranjana_496.png	सहुलियतका भइहाल्छ ,
+ranjana_497.png	पोखरा१३
+ranjana_498.png	तपस्याबाट
+ranjana_499.png	सम्पूूणलाई नलिन्चोक
+ranjana_500.png	पर्यटकसँग आठओटा
+ranjana_501.png	स्थलभरि क्रेमलिनमा
+ranjana_502.png	मिलिटरी माइतबाट
+ranjana_503.png	कन्ट्रासेफ्टी
+ranjana_504.png	चाँदनी ,
+ranjana_505.png	शब्दका
+ranjana_506.png	कटुञ्जे
+ranjana_507.png	बगैंचाले ८९९ ,
+ranjana_508.png	नेवारीमा
+ranjana_509.png	वेल्डिङको
+ranjana_510.png	प्रध्युम्मन
+ranjana_511.png	साहित्यविनाको
+ranjana_512.png	क्राफ्ट , जल्मे
+ranjana_513.png	त्यस्ते नोना
+ranjana_514.png	यहाँको
+ranjana_515.png	टार्नसमेत अहिलेसम्ममा
+ranjana_516.png	ढुङगानाले गर्नुगराउनुहुँदैन ।
+ranjana_517.png	श्ययासहित
+ranjana_518.png	मापदण्डअनुसारको स्थानीयमा
+ranjana_519.png	विरोधाभासतर्फ तावा
+ranjana_520.png	गुठियारहरू कोसँग
+ranjana_521.png	ओलीपक्षले
+ranjana_522.png	फर्किनुप¥यो ।
+ranjana_523.png	पार्टीकुलेट कन्फिडेन्समा
+ranjana_524.png	मागिन्
+ranjana_525.png	कमजोर डेलिगेशन
+ranjana_526.png	जाम्बियामा
+ranjana_527.png	वकिललाई
+ranjana_528.png	विन्दुहरुका पढ्नबाट
+ranjana_529.png	कुशवाहासहितका हुनेहरूका
+ranjana_530.png	प्रसङ्गहरूमा देवीप्रसाद
+ranjana_531.png	नीम सेन्टरबाट
+ranjana_532.png	पदसोपानअनुसार अकर्मण्यताका
+ranjana_533.png	ल्याइपुर्याएको
+ranjana_534.png	सातामा ,
+ranjana_535.png	लिँदैछन् ।
+ranjana_536.png	वर्णवाला राष्ट्रपतिबाहेक
+ranjana_537.png	पूर्वउद्योग , प्रक्रियाकै
+ranjana_538.png	कुस्ती
+ranjana_539.png	झेलीरहेकोसमेत
+ranjana_540.png	ब्याजबापतको
+ranjana_541.png	तŒवलाई
+ranjana_542.png	डस्न
+ranjana_543.png	इथिकल
+ranjana_544.png	जेठो सुनिरह्यो ।
+ranjana_545.png	रुचाउदैनन् ।
+ranjana_546.png	हुनुुहुन्थ्यो ।
+ranjana_547.png	अन्र्तजातिय चलचित्रहरु
+ranjana_548.png	गरिसकेका
+ranjana_549.png	बन्नुहुन्थ्यो
+ranjana_550.png	पार्टटाइमर
+ranjana_551.png	सङ्घबिच
+ranjana_552.png	थालेपछिसमस्या
+ranjana_553.png	विशवकप
+ranjana_554.png	बनाउँछ थाँती
+ranjana_555.png	शाहकै समीक्षकहरूले
+ranjana_556.png	पुर्याइदिए । गैरसुरक्षाका
+ranjana_557.png	शिवपाञ्चायन गिव
+ranjana_558.png	रेसियल
+ranjana_559.png	भेषका
+ranjana_560.png	विकर्षित
+ranjana_561.png	क्वारेन्टिनलगायतका टाँडे
+ranjana_562.png	क्वारी वृद्धिदरमै
+ranjana_563.png	स्मार्टलाई
+ranjana_564.png	मन्त्रालयअगाडि
+ranjana_565.png	त्रिविको सुकमाया
+ranjana_566.png	साजित छुट्छ
+ranjana_567.png	परपुरुषको फेरेडले
+ranjana_568.png	गीसीए
+ranjana_569.png	मान्नेका
+ranjana_570.png	विमानास्थल लोकतन्त्रको
+ranjana_571.png	महिनाभित्रैमा
+ranjana_572.png	पठाइदिन्छु , साँझलाइ
+ranjana_573.png	बीएमआइ रहिछ्यौ ।
+ranjana_574.png	क्षणमै
+ranjana_575.png	फ्रिको
+ranjana_576.png	खप्ने
+ranjana_577.png	२७१÷७२ जित्नसक्ने
+ranjana_578.png	लाग्या ? हार्दिनँ
+ranjana_579.png	मुन्द्रा , झाँकीका
+ranjana_580.png	खोस्दा
+ranjana_581.png	परिषदमार्फत
+ranjana_582.png	एजेण्डाबारे
+ranjana_583.png	वालनले
+ranjana_584.png	लान्स , डाक्नेश्रीस्थित
+ranjana_585.png	कन्सल्टिङ कार्कीे
+ranjana_586.png	नचाहनु पावरले
+ranjana_587.png	छिम्केश्वरी विश्वास ।
+ranjana_588.png	व्यक्तिगततर्फ
+ranjana_589.png	खेद्ने
+ranjana_590.png	एनिव्हेर भनिएकोले
+ranjana_591.png	नेप्सेसँगै
+ranjana_592.png	नडराउने ,
+ranjana_593.png	अर्गलीमा
+ranjana_594.png	बाङ्लादेशसँगको नेपोटिजमको
+ranjana_595.png	ट्याक्टरले
+ranjana_596.png	युवतीबाट
+ranjana_597.png	आसपासको तालिकीकरण
+ranjana_598.png	रघुवरमानसिंह
+ranjana_599.png	स्टेट... ।
+ranjana_600.png	काहुँ पसलै
+ranjana_601.png	भुसमा देवघाटबाट
+ranjana_602.png	सझदारीपत्रमा
+ranjana_603.png	कोपाइलटसँग २७२५२३
+ranjana_604.png	खोज्नुपर्छ ।
+ranjana_605.png	मालचरा ,
+ranjana_606.png	लुँडो
+ranjana_607.png	सुश्रुत
+ranjana_608.png	बालसाहित्यको
+ranjana_609.png	गोपिकृष्ण
+ranjana_610.png	कुहिरोलाई । चपली ,
+ranjana_611.png	महाशाखका डिजिटाइजेसनको
+ranjana_612.png	माग्नेजस्ती
+ranjana_613.png	खोल्नुप¥यो , स्थानियको
+ranjana_614.png	तनहुँले चलाइयो ।
+ranjana_615.png	इराक
+ranjana_616.png	पत्नीतर्फकी ढाल्नमाओवादी ,
+ranjana_617.png	लाक्पाडुण्डुप कल्पना ,
+ranjana_618.png	प्रणालीसमेत
+ranjana_619.png	बालाचःह्रे
+ranjana_620.png	रंगमञ्चको
+ranjana_621.png	एस्ट्राजेनेकाले
+ranjana_622.png	 सदस्यताबाहेक
+ranjana_623.png	इन्द्रायणीले कोशिकाको
+ranjana_624.png	दुखाइसहितको शिक्षणमुखी
+ranjana_625.png	पजल भीमसेनका
+ranjana_626.png	सोधे
+ranjana_627.png	ल्याब
+ranjana_628.png	हुनैपर्छ । दुगडकै
+ranjana_629.png	कादर मुन्तारी
+ranjana_630.png	पश्चिततर्फ चिप्सको
+ranjana_631.png	व्यवसायसम्म
+ranjana_632.png	साधानलाई घटाउनु
+ranjana_633.png	कर्पोरेसन , परिक्रमालाई
+ranjana_634.png	सैलुङ६ ठहर्याएको
+ranjana_635.png	बाख्राले
+ranjana_636.png	उष्णीकरण चोर
+ranjana_637.png	लान्छ छोराहरुले
+ranjana_638.png	भारतीयहरूबाटै
+ranjana_639.png	राख्नेछैनन् । मिलाउनुपर्छ
+ranjana_640.png	सबब्रोकरको छुटाउँथिन् ।
+ranjana_641.png	सकिएर
+ranjana_642.png	आफूसमर्थित इन्टरप्राइजेजको
+ranjana_643.png	आयस्तरभन्दा
+ranjana_644.png	उर्लिँदै निम्छरा ,
+ranjana_645.png	गयोकैलालीमा अमृतसमान
+ranjana_646.png	एचजी
+ranjana_647.png	शासकविरोधी
+ranjana_648.png	दीपशको काउन्सिलकी
+ranjana_649.png	बीजहरू बढ्नुका
+ranjana_650.png	बिस्केटजात्रा
+ranjana_651.png	मननपर्न डाटाबेसका
+ranjana_652.png	सत्यता ?
+ranjana_653.png	थालेपछि
+ranjana_654.png	मध्यस्थकर्ताको
+ranjana_655.png	विशेषलाई
+ranjana_656.png	तनावलगायत कोभिडसँगको
+ranjana_657.png	खनालसँग भुमेथान
+ranjana_658.png	फलामेतारले
+ranjana_659.png	इनारवरपर
+ranjana_660.png	खोज्थ्यौं । भागेश्वरी ,
+ranjana_661.png	स्पष्टीकरणबाट बृद्धि ,
+ranjana_662.png	साँखुको
+ranjana_663.png	हेप्नुहुन्छ
+ranjana_664.png	चौबन्दी ,
+ranjana_665.png	पितृपूजालाई हदम्यादको
+ranjana_666.png	कर्मीले चौतारो
+ranjana_667.png	ब्राकि
+ranjana_668.png	सिकार्डिआ
+ranjana_669.png	बंगालदेशबीच
+ranjana_670.png	सोरुकोट
+ranjana_671.png	हराउनुलाई ल्यारी
+ranjana_672.png	बासेको
+ranjana_673.png	सेक्स ,
+ranjana_674.png	अनियमिततामा कुशा
+ranjana_675.png	हिमाल÷पहाड
+ranjana_676.png	एनसीएचएलको
+ranjana_677.png	समूहअन्तर्गतका बन्गाडकुपिण्डे
+ranjana_678.png	जँच्यो
+ranjana_679.png	बढिमात्रामा मलिवडा
+ranjana_680.png	आयातको
+ranjana_681.png	बैंकिंग
+ranjana_682.png	चियानास्ता
+ranjana_683.png	पोर्टलबारे
+ranjana_684.png	पोखरेल ।
+ranjana_685.png	जिज्ञासा , सम्झेँ
+ranjana_686.png	प्रकोपदेखि
+ranjana_687.png	धनी ।
+ranjana_688.png	भैँसीको
+ranjana_689.png	क्षत्विक्षत्
+ranjana_690.png	पार्टपूर्जाको
+ranjana_691.png	मण्डलसँग
+ranjana_692.png	त्यसअन्र्गत
+ranjana_693.png	संयोजन । इति
+ranjana_694.png	प्रविधिले
+ranjana_695.png	रोजगारदातामध्येमा
+ranjana_696.png	सुरुक्षा
+ranjana_697.png	करणीसम्बन्धी , काठहरुको
+ranjana_698.png	सिंक्लेयर
+ranjana_699.png	पुग्ने उदयानन्द
+ranjana_700.png	राजस्व ,
+ranjana_701.png	खप्परको
+ranjana_702.png	चाक्लो गर्नेतिर
+ranjana_703.png	बज्राचार्यगणेशमानले नोबेलका
+ranjana_704.png	एनफिल्डलमा
+ranjana_705.png	मागेँ , देशहरुमा
+ranjana_706.png	नसमातेको ठाँटीटारमा
+ranjana_707.png	पकाएपछि
+ranjana_708.png	सङ्गठन
+ranjana_709.png	अभिनय मोनालिसाजस्तै
+ranjana_710.png	सूर्योदय लाइभमा
+ranjana_711.png	चौकोसलगायतको
+ranjana_712.png	किसमको एडेन
+ranjana_713.png	एनएमको सहित ।
+ranjana_714.png	अक्रम
+ranjana_715.png	बालुवाटारस्थि
+ranjana_716.png	फागुपूर्णिमा
+ranjana_717.png	रोएँ । लिडरको
+ranjana_718.png	प्राक्टिसमा
+ranjana_719.png	महरालाई
+ranjana_720.png	२३१३२
+ranjana_721.png	उत्पादनभन्दा
+ranjana_722.png	अकमकाई सुताइरहेको
+ranjana_723.png	पुसदेखि
+ranjana_724.png	पुरुषोत्तमलोचन श्रृङ्खलाकै
+ranjana_725.png	सिङ ,
+ranjana_726.png	तोक्छिन् । घुँगी ,
+ranjana_727.png	मगरत्यसो
+ranjana_728.png	ले ,
+ranjana_729.png	टपस्पेक पकवानहरु
+ranjana_730.png	धेरैबाट यसपछि ,
+ranjana_731.png	आपत्विपत् भोग्नुपर्यो
+ranjana_732.png	बाँसपानी ,
+ranjana_733.png	फिजियोथेरापिस्टको
+ranjana_734.png	राप्तीलाई
+ranjana_735.png	पृष्ठभूमिकै
+ranjana_736.png	जीवनसंगिनी व्यावसायीकरण ,
+ranjana_737.png	पुष्टिनेपालमा
+ranjana_738.png	वन्त चरणाको
+ranjana_739.png	आदरसम्मान
+ranjana_740.png	पासपोर्टले कार्यपरिणाम ,
+ranjana_741.png	हसौरा , थुन्नका
+ranjana_742.png	तीनको हेलिकप्टरमात्र
+ranjana_743.png	हँुदै खातिरदारी
+ranjana_744.png	चोकसँग
+ranjana_745.png	षडयन्त्रकोरुपमा प्रदूषक
+ranjana_746.png	कम्र्फटेबल सर्वेक्षणकर्ताहरुले
+ranjana_747.png	आस्थानीले हर्मोनलाई
+ranjana_748.png	सल्फाइडजस्ता पचाउन
+ranjana_749.png	नयाँबजारस्थित टुक्रिएपछि
+ranjana_750.png	भट्राई ,
+ranjana_751.png	हाम्रोबजार
+ranjana_752.png	छुवाछूतविरुद्धका
+ranjana_753.png	माओवादीकै
+ranjana_754.png	दृष्टिविहीनका सुनेको ,
+ranjana_755.png	वाकको जगतमान
+ranjana_756.png	आइसियू ,
+ranjana_757.png	काभे्रको
+ranjana_758.png	नाभी ,
+ranjana_759.png	कुएटेको
+ranjana_760.png	मुस्किलबीच पुर्याउनासाथ
+ranjana_761.png	फुकाउँछ ? इजरायलबाट
+ranjana_762.png	गठबन्धनका पर्दाका
+ranjana_763.png	ताप्लेजुङकै
+ranjana_764.png	राल जसमाया
+ranjana_765.png	अमिताले एशियाप्रशान्त
+ranjana_766.png	युवतीबीचको अरूजस्तो
+ranjana_767.png	भइरहन
+ranjana_768.png	पढ्नलाई दौडँदाको
+ranjana_769.png	नरुवल तत्त्वचाहिँ
+ranjana_770.png	मोहम्मदन नपाइने ?
+ranjana_771.png	माहुरेफोक्सिङटार
+ranjana_772.png	ब्रिफ्रिङका
+ranjana_773.png	खडकले
+ranjana_774.png	यदायदा पर्वतिया
+ranjana_775.png	जिबिकोपार्जन उपायस्वरूप
+ranjana_776.png	अग्नीसापकोटाको राणावंशले
+ranjana_777.png	नुहेने
+ranjana_778.png	रवि ,
+ranjana_779.png	सम्झाएँ ।
+ranjana_780.png	फुर्ति , हिरासतहरुमा
+ranjana_781.png	प्रारम्भिकदेखि गल्तीहरू
+ranjana_782.png	प्रदर्शनकै
+ranjana_783.png	तनजिकबाट
+ranjana_784.png	विद्यावारिधीसम्मको
+ranjana_785.png	डा.श्यामराज
+ranjana_786.png	अपार्टमेन्ट
+ranjana_787.png	स्थलहरु पेटारो
+ranjana_788.png	पैठाले
+ranjana_789.png	कक्षाहरू
+ranjana_790.png	ध्यानदिनु
+ranjana_791.png	कम्युनिस्टले
+ranjana_792.png	कथाअनुसार धर्मावलम्बीहरूको
+ranjana_793.png	नउठाई
+ranjana_794.png	ओर्लिए ।
+ranjana_795.png	टिप्नेलाई प्रभावबीच
+ranjana_796.png	भइसकेकोे
+ranjana_797.png	व्यस्ततालाई
+ranjana_798.png	गुड लिनमा
+ranjana_799.png	मतअन्तरले
+ranjana_800.png	नगरकोटमा । खुल्लामुखी
+ranjana_801.png	बाहरी ट्याक्सीभित्रै
+ranjana_802.png	सोनेलाल र्फेदैछ ।
+ranjana_803.png	बर्निङ किंवदन्तीभन्दा
+ranjana_804.png	शबलाई दुर्गाबहादुरले
+ranjana_805.png	होटेललगायत राजदुत
+ranjana_806.png	देशभरीबाट
+ranjana_807.png	भजौरा
+ranjana_808.png	क्रान्तिद्वारा
+ranjana_809.png	मन्त्री ? अधवैशे
+ranjana_810.png	लानसके
+ranjana_811.png	कर्मठ
+ranjana_812.png	स्वाहा दु्खेसो
+ranjana_813.png	एजेन्सीहरुले रोयझैँ
+ranjana_814.png	जलेमा आर्थिक
+ranjana_815.png	आरोहणदल
+ranjana_816.png	रोबोटिक्स , प्रगाढ
+ranjana_817.png	ब्रोइलरको
+ranjana_818.png	छन्बेलायत विनियोज
+ranjana_819.png	करोडौंका ल्याउनेछ ।
+ranjana_820.png	अंकमालको
+ranjana_821.png	रामभरोसको
+ranjana_822.png	चहानुभएन कित्तासम्म
+ranjana_823.png	हारे , ट्वाल्ल
+ranjana_824.png	उपनिषद्उपनिषद्
+ranjana_825.png	न्यायकै संगतको
+ranjana_826.png	फेवाली लायकूमा
+ranjana_827.png	निफन्न कपर्दिने
+ranjana_828.png	कम्पास रक्त
+ranjana_829.png	लाभलिने
+ranjana_830.png	नेपाालगञ्ज
+ranjana_831.png	गर्दैथिए । विष्णुपुराणले
+ranjana_832.png	आखाँकै
+ranjana_833.png	लोगोसहित
+ranjana_834.png	महाधिवशेनको कुइनेमंगलाई
+ranjana_835.png	कबोल
+ranjana_836.png	उड्नुसँग नडगमगाइ
+ranjana_837.png	हाराहारीसम्म
+ranjana_838.png	नकिन्नुको
+ranjana_839.png	सबैतिरबाट
+ranjana_840.png	मनोहरैः ।
+ranjana_841.png	बरौनी बटुल्नुपर्छ ।
+ranjana_842.png	खिच्नेहरुपनि मरेक
+ranjana_843.png	निकाल्न इनोकी
+ranjana_844.png	पीठोको
+ranjana_845.png	कन्टेरनलाई
+ranjana_846.png	.८६
+ranjana_847.png	इत्यादिका ढुंगाखानी ,
+ranjana_848.png	बाल्नु सर्टटर्म
+ranjana_849.png	खवाससहित हेर्नमात्र
+ranjana_850.png	गराउनुुभयो । अकाउन्टबाट
+ranjana_851.png	पाईपबाट थोपरिदिए ।
+ranjana_852.png	रूपैठा सिंहसम्म
+ranjana_853.png	सुरुङमार्गबारे बोक्छु ,
+ranjana_854.png	नुहाउनेले देवरभाउजूको
+ranjana_855.png	नसहने भेटघाट ,
+ranjana_856.png	९.३४
+ranjana_857.png	पीपलबोटनिर बीस
+ranjana_858.png	पाल्पाबाट माकपाको
+ranjana_859.png	भन्दिनस् चहारे ।
+ranjana_860.png	नोकरी पुरानालाई
+ranjana_861.png	गान्धीजीलाई
+ranjana_862.png	भत्तामार्फत
+ranjana_863.png	सैद्धान्तिक , पिएमएसका
+ranjana_864.png	थाहामय महापण्डित
+ranjana_865.png	बिमस्टेकले हल्लाहरूकाे
+ranjana_866.png	समर्थनपत्र
+ranjana_867.png	रोगहरुविरुद्ध महत्वसाथ
+ranjana_868.png	एभेरी तिलोत्तमालगायत
+ranjana_869.png	अड्क्यो पशुपंक्षि
+ranjana_870.png	जिम्मेवारीका
+ranjana_871.png	चालकहरूलाई
+ranjana_872.png	मखन
+ranjana_873.png	करूणामय
+ranjana_874.png	गतिमय
+ranjana_875.png	सक्थें । आँखा
+ranjana_876.png	चौपाएमा आर्मीपुसिलतिर
+ranjana_877.png	अन्तरमा
+ranjana_878.png	प्रेमनारायण फलिरहेछ ।
+ranjana_879.png	टो ,
+ranjana_880.png	मन्त्रालयसमक्ष लगाइदै
+ranjana_881.png	सरस्यूँ
+ranjana_882.png	सामिप्यताका भाजपाले
+ranjana_883.png	बालाबलिकामा परिचयपत्रमा
+ranjana_884.png	बासिन्दाप्रतिको प्यासनलाई
+ranjana_885.png	देखिसकेका चलचित्रकर्मीको
+ranjana_886.png	सघाउनेछ । मैलाएर
+ranjana_887.png	उर्जाको
+ranjana_888.png	गाडेपछि
+ranjana_889.png	सेतोपाटीविश्वाससँग
+ranjana_890.png	साइरसले
+ranjana_891.png	नवनिर्वाचित ८.६ ,
+ranjana_892.png	फेसनएबल सु्न्दर
+ranjana_893.png	फरास
+ranjana_894.png	माओवादीकेन्द्र
+ranjana_895.png	गथ्र्यौ
+ranjana_896.png	पुग्छ सिम्ले
+ranjana_897.png	रमलालाई
+ranjana_898.png	बोलाउनोस्
+ranjana_899.png	सूचीलाई ट्रयाककोे
+ranjana_900.png	बर्ष ,
+ranjana_901.png	बनाउँदैन ,
+ranjana_902.png	परापूर्वकालदेखी
+ranjana_903.png	नभनेको
+ranjana_904.png	सक्नेतर्फ
+ranjana_905.png	नागरिकलाइ
+ranjana_906.png	होइबस्थेँ ।
+ranjana_907.png	साधारणसभाका
+ranjana_908.png	दरिन्छन् , अठ्याएका
+ranjana_909.png	रक्षाकै गोर्खाहरूको
+ranjana_910.png	गुलाम महाधिवेसनमा
+ranjana_911.png	बाबाले ।
+ranjana_912.png	भएनन् ।
+ranjana_913.png	प्रज्ञापनमा
+ranjana_914.png	विद्युत्बाट
+ranjana_915.png	सारदा ,
+ranjana_916.png	लाग्नुभएको गथ्र्यो ।
+ranjana_917.png	झाङ्गिँदै
+ranjana_918.png	मातृभाषालाई फस्यो
+ranjana_919.png	आई.एस.सी.
+ranjana_920.png	घर्ती हुसिल
+ranjana_921.png	माक्र्सवादीमा खाइसकेपछि
+ranjana_922.png	झकझकाएर
+ranjana_923.png	आशाविहीनतामा आजन
+ranjana_924.png	सङ्गीतमा
+ranjana_925.png	संसदीय
+ranjana_926.png	राजनीतिज्ञहरूमा बेटरअप
+ranjana_927.png	बोकिरहन कार्यनवयन
+ranjana_928.png	जफार
+ranjana_929.png	अनर्थको खुल्नेछन् ।
+ranjana_930.png	थिंज्ञान
+ranjana_931.png	हिसाव राखेकायी
+ranjana_932.png	शाक्यहरू
+ranjana_933.png	आरसिटीमा सम्हाल्ने ,
+ranjana_934.png	देखिइसकेकोछ । पन्छीपालन
+ranjana_935.png	हेर्दाको शोधले
+ranjana_936.png	ठग्छन् उदासीनता ?
+ranjana_937.png	गमलामा
+ranjana_938.png	किर्गिस्तान ।
+ranjana_939.png	गिरिराजमणी
+ranjana_940.png	बढाएमा परेवाका
+ranjana_941.png	प्यानलिस्टको
+ranjana_942.png	भ्याएनन् ।
+ranjana_943.png	बाह्रविघा
+ranjana_944.png	ईआईए भनाइमा ,
+ranjana_945.png	दोहोरिनेछ । मुकुनको
+ranjana_946.png	अभिव्यक्तिबारे
+ranjana_947.png	चुराका
+ranjana_948.png	शिक्षकहरुबाट छोरी ,
+ranjana_949.png	टाइग्रिस मास्नु
+ranjana_950.png	क्षयरोगीहरु
+ranjana_951.png	नडढ्ने गुन्डोगन
+ranjana_952.png	टिकाउने ?
+ranjana_953.png	पर्खाईको झ्ये
+ranjana_954.png	मलङ्गवा
+ranjana_955.png	प्रस्ट्याएका गोरे
+ranjana_956.png	च्यानलहरूको
+ranjana_957.png	चाई खाजाहरू
+ranjana_958.png	डा.देवी हुनान
+ranjana_959.png	फापरकाउनो
+ranjana_960.png	समझादरीपत्रमा फाटेर
+ranjana_961.png	नआऊन् २५२८
+ranjana_962.png	विपलराज
+ranjana_963.png	सदस्यीय
+ranjana_964.png	साहेबनगरका तराईको
+ranjana_965.png	भेषबहाुर युक्तेश्व
+ranjana_966.png	सेटिन्ग्स
+ranjana_967.png	तिहार , भने ,
+ranjana_968.png	नियन्त्रित छात्रावबास
+ranjana_969.png	सेवाप्रदायकबीचको
+ranjana_970.png	प्रियकाले
+ranjana_971.png	विशुपर्व
+ranjana_972.png	निबार्ध
+ranjana_973.png	पट्टीको क्लोरिनका
+ranjana_974.png	रोबिन पूर्वोत्तर
+ranjana_975.png	जिन्दगीभरिको विज्ञप्तीमा
+ranjana_976.png	आशिषको दिमागका
+ranjana_977.png	हुनुहोस् रौकनता
+ranjana_978.png	बिभागबाट २३३
+ranjana_979.png	सोधभर्ना ९८ ,
+ranjana_980.png	फन्टेक ,
+ranjana_981.png	अनुशासनको
+ranjana_982.png	हिउँदमात्रै
+ranjana_983.png	मनिप्लान्ट , तयार
+ranjana_984.png	नेइटफेल्ड सत्तोसराप
+ranjana_985.png	एयरपड्सका
+ranjana_986.png	अबतारी पर्यटनमा
+ranjana_987.png	न्यासध्यान
+ranjana_988.png	पोहोरसम्म क्रमको
+ranjana_989.png	विशेषज्ञहरुकोमा
+ranjana_990.png	कच्चा गर्नबाट
+ranjana_991.png	सुन्नेसुनाउने
+ranjana_992.png	न्युजिल्याण्डमा
+ranjana_993.png	कम्पनीमध्येबाट
+ranjana_994.png	स्नताकोत्तर
+ranjana_995.png	टुल्स
+ranjana_996.png	ई.भि.रिदम तला
+ranjana_997.png	पाइलटद्वयको
+ranjana_998.png	काठमाडाँैं लिम्बूलाई
+ranjana_999.png	दुधेबालक उद्योगीहरु
+ranjana_1000.png	घाँस डिजाइन ,
+ranjana_1001.png	पहिलेदेखि
+ranjana_1002.png	बगैंचाको
+ranjana_1003.png	नहुनेको पुर्याइरहेकोले
+ranjana_1004.png	सेटलाइट
+ranjana_1005.png	कास्कीको ओर्लिन्छ
+ranjana_1006.png	संचारकर्मीहरूसँग गरिदियो ।
+ranjana_1007.png	यहीसँग कोन्हियाकी
+ranjana_1008.png	इन्टरनल पढाउनुभयो ।
+ranjana_1009.png	मग्जी , फिजियोथेरापीष्ट
+ranjana_1010.png	हामीसामू मेन्स्ट्रुएसन
+ranjana_1011.png	तदनुसारको पुरुषहरुलाई
+ranjana_1012.png	अनौठोको एम्वास्डर
+ranjana_1013.png	परराष्ट्रमन्त्रीहरूलाई
+ranjana_1014.png	सालअघि
+ranjana_1015.png	उद्योगधन्दाहरूमा घण्टादेखि
+ranjana_1016.png	मिसाउनुहुँदैन ।
+ranjana_1017.png	बगैंचालाई यस्तो ?
+ranjana_1018.png	बाजुरामाखास भियतनामजस्ता
+ranjana_1019.png	बञ्चरोले इकाइका
+ranjana_1020.png	बैठककाे बिल्ला
+ranjana_1021.png	हुनेछन् ,
+ranjana_1022.png	वितरकहरुको
+ranjana_1023.png	प्याटर्न छुटिएपछि
+ranjana_1024.png	कलङ्को टेक्नोरियोले
+ranjana_1025.png	बोलीसम्म
+ranjana_1026.png	निर्वाचनद्वारा फिटेर
+ranjana_1027.png	कुखुरालाई
+ranjana_1028.png	शुल्कलगायत
+ranjana_1029.png	पंजावको
+ranjana_1030.png	प्रदानबारे बसेल ,
+ranjana_1031.png	सिंहदरबारमै
+ranjana_1032.png	हाल्नुहोस् कारणबाहेकका
+ranjana_1033.png	दुर्घटनाले
+ranjana_1034.png	ईकाईहरु
+ranjana_1035.png	बटुवाहरू
+ranjana_1036.png	ुद तठग ,
+ranjana_1037.png	चिकित्सकीय ब्युँताइनेछ ।
+ranjana_1038.png	जुधाइ
+ranjana_1039.png	बोतलदेखि
+ranjana_1040.png	बनाउनेछु ।
+ranjana_1041.png	दुरूस्त जागिर ,
+ranjana_1042.png	तामागढीसिम्रौनगढ ,
+ranjana_1043.png	प्रेरित सिविन
+ranjana_1044.png	दुखाईको हुसेनले
+ranjana_1045.png	पफर्मेन्सको
+ranjana_1046.png	सारुलाई विद्रुपीकरण
+ranjana_1047.png	कलिको अन्तरंग
+ranjana_1048.png	मेक्सिकोले झांगिएको
+ranjana_1049.png	कपीकलम खुसीभन्दा
+ranjana_1050.png	नारीत्वका
+ranjana_1051.png	दथुटोल , सहिदसरह
+ranjana_1052.png	सापकोटालगायतका
+ranjana_1053.png	कण्डम देखिएनन् ।
+ranjana_1054.png	पढ्दाको दुर्गेश
+ranjana_1055.png	उनलाई ,
+ranjana_1056.png	युधिष्ठिर शब्दहरू
+ranjana_1057.png	उडानले
+ranjana_1058.png	अगाभी ठालू
+ranjana_1059.png	टिकटमा
+ranjana_1060.png	भइन् मुक्तकले
+ranjana_1061.png	गौरीघाटसम्मका
+ranjana_1062.png	अर्काेथरी जेरेमी
+ranjana_1063.png	वुलिङको
+ranjana_1064.png	अमाटले
+ranjana_1065.png	डिजाइनहरू
+ranjana_1066.png	चाबीसहितको थपिएकोले
+ranjana_1067.png	अर्पणाले जौ
+ranjana_1068.png	हाँगामा
+ranjana_1069.png	भन्ज्याङसम्म राजकाज ।
+ranjana_1070.png	बिचारमा
+ranjana_1071.png	अन्तराष्ट्रियस्तरमा
+ranjana_1072.png	सहकार्यप्रत
+ranjana_1073.png	माग्छिन् । अधिवेशनहरू
+ranjana_1074.png	जमाउँथे , नातिदाइ
+ranjana_1075.png	नवयुव
+ranjana_1076.png	बृहस्पतीले
+ranjana_1077.png	समयानूकूल मरिकलाई
+ranjana_1078.png	जतनका
+ranjana_1079.png	स्टेसनरी बेचैनी…
+ranjana_1080.png	कोलमुडा
+ranjana_1081.png	खोजी ,
+ranjana_1082.png	निष्ठुरीले
+ranjana_1083.png	प्रसन्न । तर्दा
+ranjana_1084.png	गीतजस्ता
+ranjana_1085.png	ओलम्पियाडको
+ranjana_1086.png	प्रतिश्पर्धी
+ranjana_1087.png	रहिनेछ । बाँडफँँड
+ranjana_1088.png	चेम्बरमा
+ranjana_1089.png	जकार्तामा सेन्सीले
+ranjana_1090.png	डिस्टिलरी कालिप्रसाद
+ranjana_1091.png	स्याँगे साला ,
+ranjana_1092.png	नुआन्सको ट्रान्जेक्सन्स
+ranjana_1093.png	कर्णसिंहसँग चिन्छे
+ranjana_1094.png	धर्मानन्दाको बोलाएनन् ।
+ranjana_1095.png	हाब्सले सार्वजनिकनिजी
+ranjana_1096.png	दोहोर्याउनुभयो । गइहाल्नु
+ranjana_1097.png	चट्टयाङ्ग
+ranjana_1098.png	क्यान्सरमा
+ranjana_1099.png	छरिन्थ्यो , कुँजौलीमा
+ranjana_1100.png	सरेर
+ranjana_1101.png	नकिस्कन ,
+ranjana_1102.png	बालकमा प्रतिवेदनडिपिआरमा
+ranjana_1103.png	बेन्च ।
+ranjana_1104.png	जानकै
+ranjana_1105.png	देवघाटधाममा त्यसोभए
+ranjana_1106.png	रूचाइएका
+ranjana_1107.png	निश्चयी रहौँला... ,
+ranjana_1108.png	झलकहरु
+ranjana_1109.png	तम्सिए ।
+ranjana_1110.png	जसमाथि
+ranjana_1111.png	मूलीको बिर्तासिटी
+ranjana_1112.png	घरहरूलाई
+ranjana_1113.png	मालबाहकधनीले मानपदवी
+ranjana_1114.png	एवम्अध्यक्ष
+ranjana_1115.png	फ्लाइट बनाउनेहरूले
+ranjana_1116.png	रेन्जमै चरा ।
+ranjana_1117.png	म्याड्रिडसँगको
+ranjana_1118.png	नाफाको
+ranjana_1119.png	अल्झियो कर्माचार्य
+ranjana_1120.png	बढीनन्दा
+ranjana_1121.png	अग्ररसता लालीगुराँसको
+ranjana_1122.png	अभैसम्म
+ranjana_1123.png	कारणका स्वर्णपदक
+ranjana_1124.png	दिदीहरूका सुमनलाई
+ranjana_1125.png	अल्टिच्युट
+ranjana_1126.png	बिनासुनुवाइ
+ranjana_1127.png	बालबिकास ,
+ranjana_1128.png	परन्तु , रिपब्लिकनलाई
+ranjana_1129.png	राईलगायतका
+ranjana_1130.png	चाखिने म्यासेज
+ranjana_1131.png	उदाहरण ।
+ranjana_1132.png	व्युँतिएकोले
+ranjana_1133.png	लयलाई
+ranjana_1134.png	पक्षहरुका
+ranjana_1135.png	वतावारण
+ranjana_1136.png	जामुनेसम्मको मानसम्मान
+ranjana_1137.png	बर्थिङ भावको
+ranjana_1138.png	लामामन्त्र चौधरीजस्ता
+ranjana_1139.png	नखाने
+ranjana_1140.png	जानछ ।
+ranjana_1141.png	राघवप्रसाद तक्षकस्थान
+ranjana_1142.png	ट्रिप कुरासंग
+ranjana_1143.png	मसालाइट
+ranjana_1144.png	झारिदिएको लिइए
+ranjana_1145.png	नबसालेसम्म घण्टादेखि
+ranjana_1146.png	गैतेऊ
+ranjana_1147.png	टेनिस
+ranjana_1148.png	लोभीहरू देवनागरी
+ranjana_1149.png	बर्दियास्थित
+ranjana_1150.png	गजलवाचनका
+ranjana_1151.png	बन्लान् ,
+ranjana_1152.png	हुनुअघिदेखि नगद ,
+ranjana_1153.png	भेट्दैभेट्दै
+ranjana_1154.png	छाउपडीमुक्त प्रतिक्षारत
+ranjana_1155.png	ब्युँझिनु सुबिधाहरू
+ranjana_1156.png	रामबाबुको बोइङस्तरकै
+ranjana_1157.png	नसकिने ,
+ranjana_1158.png	रोइरहेका अनदेखा
+ranjana_1159.png	रुपैयाँसम्मका
+ranjana_1160.png	आरामदायी
+ranjana_1161.png	स्रष्टाहरूमा
+ranjana_1162.png	सक्ला ।
+ranjana_1163.png	समाधा ६.धुम्रपान
+ranjana_1164.png	ट्राटस्की , फागुसँग
+ranjana_1165.png	खोजिएजस्तो
+ranjana_1166.png	उनीहरुले । स्पुतनीकभीका
+ranjana_1167.png	एकतामार्फत
+ranjana_1168.png	चौंधौं उद्देश्यहरूलाई
+ranjana_1169.png	जनसम्पर्क ,
+ranjana_1170.png	वुमेनयुकेको प्रमुखका
+ranjana_1171.png	पौरुष
+ranjana_1172.png	व्यापारजस्तो
+ranjana_1173.png	क्रिमिनल सहयात्रासम्म
+ranjana_1174.png	उडिनले बाक्लिदो
+ranjana_1175.png	नदिने ।
+ranjana_1176.png	नगरपालिकाभित्र
+ranjana_1177.png	युएईले २१८२१९
+ranjana_1178.png	देखाउन्नथी । भिलेटले
+ranjana_1179.png	जागिरलाई मलमल
+ranjana_1180.png	देख्यो ।
+ranjana_1181.png	प्रत्यायोजनको
+ranjana_1182.png	हवसम्म पस्किएलान् ।
+ranjana_1183.png	डेचेनले स्थानमै
+ranjana_1184.png	बलियै
+ranjana_1185.png	जर्नलको
+ranjana_1186.png	दौडिन्छ ।
+ranjana_1187.png	निर्वाहमुखीमात्र
+ranjana_1188.png	धारणासमेत
+ranjana_1189.png	परिरहेँ ।
+ranjana_1190.png	नेकलाई
+ranjana_1191.png	सिंगार्न पूर्तिलगायत
+ranjana_1192.png	हँ
+ranjana_1193.png	चुलनामा
+ranjana_1194.png	सरकारधारी भारतअस्ट्रेलियाजपान
+ranjana_1195.png	मर्फोलोजी ,
+ranjana_1196.png	न्युमिडियाअन्तर्गत
+ranjana_1197.png	एमबाप्पे ,
+ranjana_1198.png	सञ्चारमाध्याम
+ranjana_1199.png	लगाईरहेका सिकटी
+ranjana_1200.png	निर्देशकसँग उपमहानगरपालिका२१
+ranjana_1201.png	उखाल्ने ग्रेसन
+ranjana_1202.png	खालीबारी आदेशानुरुप
+ranjana_1203.png	सुपरिटेण्डेण्टएघारौं सीमांकन
+ranjana_1204.png	फ्रेञ्चाइजका पुनर्मिलन
+ranjana_1205.png	असुविधाका स्वतन्त्रमा
+ranjana_1206.png	विरोधीहरू धादिङ ,
+ranjana_1207.png	रोहितले परिपत्रपछि
+ranjana_1208.png	चाहिदैन ,
+ranjana_1209.png	ट्रोसार्ड
+ranjana_1210.png	निमेषभरको योेजना
+ranjana_1211.png	पुरीका
+ranjana_1212.png	भुइँतिर
+ranjana_1213.png	हप्ताभन्दा भिड्छन् ।
+ranjana_1214.png	नसकिएसम्मका
+ranjana_1215.png	नीलो । गुन्जिँदा
+ranjana_1216.png	बिग्रिदै
+ranjana_1217.png	दलितदलितबीचमै
+ranjana_1218.png	क्यूआर ,
+ranjana_1219.png	सर्दैनन् ।
+ranjana_1220.png	शान्तीमाया
+ranjana_1221.png	गरेरपार्टीर
+ranjana_1222.png	क्वे नझम्टोस्
+ranjana_1223.png	क्ष्यमता
+ranjana_1224.png	भ्रमात्मक
+ranjana_1225.png	चालीसचालीस जोमसोमचैले
+ranjana_1226.png	अलग्गिएपछि
+ranjana_1227.png	देखिसक्यौं ।
+ranjana_1228.png	श्रमिकमैत्री
+ranjana_1229.png	मोटरगाडी लम्किए ।
+ranjana_1230.png	प्रिमियमसहित
+ranjana_1231.png	बागलुङ्का निर्देशनालय
+ranjana_1232.png	भिखारीहरुलाई
+ranjana_1233.png	काठमाडौंचाहिँ धुर्त
+ranjana_1234.png	क्षेत्रसँगै
+ranjana_1235.png	भत्रुभयो । तैराउने
+ranjana_1236.png	नाच्दै , हट्नासाथ
+ranjana_1237.png	हेर्नुपर्दैन ।
+ranjana_1238.png	विधेयकबारे
+ranjana_1239.png	भावहरु
+ranjana_1240.png	सोचौँ
+ranjana_1241.png	सिलिगुडीका
+ranjana_1242.png	तस्करहरू बढ्छ ?
+ranjana_1243.png	विधानानुसार
+ranjana_1244.png	पेरिसडाँडाका
+ranjana_1245.png	प्राविधिकहरुको कटौतीमा
+ranjana_1246.png	ऋणीका स्थानस्थित
+ranjana_1247.png	६४औं , ठड्याउने ,
+ranjana_1248.png	वीनरले
+ranjana_1249.png	ध्वजा
+ranjana_1250.png	लाइंग नबढ्नुको
+ranjana_1251.png	हिड्ने
+ranjana_1252.png	लुब्रिकेण्टस खाँदिएको
+ranjana_1253.png	यथार्थले
+ranjana_1254.png	बेइज्जतीका
+ranjana_1255.png	शुरवीर
+ranjana_1256.png	वेवसाइटमा
+ranjana_1257.png	मार्फतनै नापित ,
+ranjana_1258.png	अन्त्यमा , बास्तोलालगायतका
+ranjana_1259.png	नबसौं , नास्दै
+ranjana_1260.png	भन्नेहरूकाे
+ranjana_1261.png	छाडिदिएका
+ranjana_1262.png	अनुुसन्धान
+ranjana_1263.png	ज्ञानद्वारा
+ranjana_1264.png	रोई
+ranjana_1265.png	निर्मलाले ग्यापुका
+ranjana_1266.png	डाकार दरवाङमा
+ranjana_1267.png	साहु ,
+ranjana_1268.png	मभित्रको उमार्दै
+ranjana_1269.png	बमबहादुर
+ranjana_1270.png	लघुवित्तलाई वृद्घसिँगै
+ranjana_1271.png	चिनिए एडभान्स
+ranjana_1272.png	गाईंवस्तुको राएना
+ranjana_1273.png	उपभोक्तातर्फको शान्तदास
+ranjana_1274.png	धाइरहेछन् । केन्द्रीयस्तरमा
+ranjana_1275.png	होल्डिङ्सका लगानीमातयारगरिएको
+ranjana_1276.png	नुहाएकामा पन्छिँदै
+ranjana_1277.png	महापर्व कमरेडहरूले
+ranjana_1278.png	क्षेत्रपारि उद्योगीव्यवसायीले
+ranjana_1279.png	एफिएफ दमकबाट
+ranjana_1280.png	मैदानभन्दा
+ranjana_1281.png	साहबाहेक
+ranjana_1282.png	माओवादी ।
+ranjana_1283.png	उपचारकक्ष
+ranjana_1284.png	फि..री..री पर्थ्योपर्छ ।
+ranjana_1285.png	राईर विदेशीहरु
+ranjana_1286.png	क्वालकममाथि राज्यहरुसमेत
+ranjana_1287.png	ठर
+ranjana_1288.png	ओलम्पियाकोससँग
+ranjana_1289.png	बुलबुलले चम्पाले ।
+ranjana_1290.png	क्लाइनडाइन्स्टबाहेक ।
+ranjana_1291.png	कुमालेको
+ranjana_1292.png	सफ्टवेयरसँग फारयर
+ranjana_1293.png	परिवन्द डा.बेदकुमार
+ranjana_1294.png	सङ्घसंथाका महाउज्जवल
+ranjana_1295.png	विभेदसमेत
+ranjana_1296.png	भाइस
+ranjana_1297.png	वसन्तबहादुर
+ranjana_1298.png	छविहरूले
+ranjana_1299.png	ओडेज केमार
+ranjana_1300.png	सिकाउनेसँग
+ranjana_1301.png	ग्यासजस्ता कन्चेटबाट
+ranjana_1302.png	निर्धाहरूसँग प्रोभिजनल
+ranjana_1303.png	कोषजस्तै
+ranjana_1304.png	४७६.८ खालेदा
+ranjana_1305.png	गर्नुपर्ला , संरक्षणअध्ययनको
+ranjana_1306.png	लिनुहुन
+ranjana_1307.png	सुरेन्द्रन
+ranjana_1308.png	दुरुपयोगले
+ranjana_1309.png	गएपछि हुनुपर्थ्यो ।
+ranjana_1310.png	भाषणमा
+ranjana_1311.png	भनूँ ,
+ranjana_1312.png	३७२ ,
+ranjana_1313.png	टोलीभन्दा नश्लवादी ,
+ranjana_1314.png	हिरण्यकशिपुले ।
+ranjana_1315.png	बाइबल
+ranjana_1316.png	गोलभेंडा १७.७१
+ranjana_1317.png	सँगठन चिन्ह्बाट
+ranjana_1318.png	२५१ , सिमिकोटबाट
+ranjana_1319.png	मोभिलाइज निकासीकर्ता
+ranjana_1320.png	खादैं
+ranjana_1321.png	एन्डिले
+ranjana_1322.png	अर्काबिचको ७९
+ranjana_1323.png	पालीमा
+ranjana_1324.png	शेरबहादुरजी
+ranjana_1325.png	ठेक्काबारे
+ranjana_1326.png	सेलका
+ranjana_1327.png	बालसखाको एक्ल्याए ।
+ranjana_1328.png	ललितपुरमै
+ranjana_1329.png	बेतासी ताप्लेजुङले
+ranjana_1330.png	ललितपुरस्थित
+ranjana_1331.png	जोन्सन कथालयबाट
+ranjana_1332.png	क्याविनेटहरुमा डोकामा
+ranjana_1333.png	परेकाहरूलाई सिकोस् ,
+ranjana_1334.png	प्रदेशस्थित पाण्ड्याले
+ranjana_1335.png	भागेछन् , अनुले
+ranjana_1336.png	क्लियरीले
+ranjana_1337.png	फाइरिङ आँधीमा
+ranjana_1338.png	आत्मसमीक्षा , वजन
+ranjana_1339.png	टिल्का बेल्ट ,
+ranjana_1340.png	व्यासभन्दा पथ
+ranjana_1341.png	चिच्याउँदै ट्रायज्
+ranjana_1342.png	नेटवर्कहरूलाई गुन्ज्यालले
+ranjana_1343.png	नुहेन
+ranjana_1344.png	सहइञ्चार्जमा फागुनबीचमा
+ranjana_1345.png	पकुवा ,
+ranjana_1346.png	बोडे
+ranjana_1347.png	लागानीकर्ताहरुलाई
+ranjana_1348.png	ढल्किरहेका परकम्पहरू
+ranjana_1349.png	गुरुङसम्म नाराद
+ranjana_1350.png	लम्कीदेखि सँगैसँगै
+ranjana_1351.png	नभत्काइएको १५१५
+ranjana_1352.png	त्यसले , सत्यकाे
+ranjana_1353.png	राउटे...
+ranjana_1354.png	नभेटिएकाले क्वाटरफाइनलको
+ranjana_1355.png	सुम्पेको
+ranjana_1356.png	अरुण ,
+ranjana_1357.png	करोडसम्मको निवारणसम्बन्धी
+ranjana_1358.png	बनाएमा बेथितिका
+ranjana_1359.png	अनुसन्धानकर्तासँगको
+ranjana_1360.png	डुलिरहेका
+ranjana_1361.png	प्रसारप्रसार अन्नबालीमा
+ranjana_1362.png	चाकल , संस्थापकमध्ये
+ranjana_1363.png	सुदीपको
+ranjana_1364.png	गाहीलाई
+ranjana_1365.png	इनर्जीसँग हाल्यौं ,
+ranjana_1366.png	काठमाडौंबासिलाई भ्याक्सिनबाट
+ranjana_1367.png	तुम्बाहाम्झे नैयौनशोषणका
+ranjana_1368.png	समाजवादीको पारिश्रमिकबारे
+ranjana_1369.png	गाइँगुँइ
+ranjana_1370.png	कामभन्दा
+ranjana_1371.png	बनाईरहेको डोलीले
+ranjana_1372.png	राज्यभिषेक ,
+ranjana_1373.png	क्षतिपूर्तिवापत् ७६औं
+ranjana_1374.png	१.४१ पहलपछि
+ranjana_1375.png	रूखहरू सुविधालाई
+ranjana_1376.png	हिड्दैनौँ ,
+ranjana_1377.png	ऐनकानुनमा
+ranjana_1378.png	गायकले
+ranjana_1379.png	जान्छौँ , भेटियो
+ranjana_1380.png	पुशपतिमा खुरुरु
+ranjana_1381.png	नीरमाया ,
+ranjana_1382.png	थालानी
+ranjana_1383.png	नेदरल्यान्ड्स् ,
+ranjana_1384.png	माणिक प्रेमीला
+ranjana_1385.png	झ्यालहरु
+ranjana_1386.png	टंगालबाट
+ranjana_1387.png	सुदेश्ना
+ranjana_1388.png	सुगमतापूर्वक लागिरहँदा
+ranjana_1389.png	हिरादत्त अदनोम
+ranjana_1390.png	श्रमबलमध्ये
+ranjana_1391.png	हाइनेस
+ranjana_1392.png	गुरुमापाबाट नन्दप्रसाद
+ranjana_1393.png	बालुङमा विषको
+ranjana_1394.png	उद्दालक , च्यासलस्थित
+ranjana_1395.png	बासिन्दाहरूका म्यासाचुसेट्स ,
+ranjana_1396.png	तुवालोबाट भेरीगङ्गाकी
+ranjana_1397.png	झुम्साका सहयोगीहरू ।
+ranjana_1398.png	आदरण्ँीय माछाको
+ranjana_1399.png	सौर्यको सुरिनाम
+ranjana_1400.png	मूलप्रवाहीकरणमा फालेलुङकै
+ranjana_1401.png	वर्षहरूमा होमिन
+ranjana_1402.png	माइकले
+ranjana_1403.png	फर्नान्डेसले रंगभेदको
+ranjana_1404.png	सन्देशलाई
+ranjana_1405.png	निश्कासन समिति ।
+ranjana_1406.png	अलिपर
+ranjana_1407.png	बढेसँगे ब्राजिलनट्स ,
+ranjana_1408.png	कोबाल्ट
+ranjana_1409.png	अवरुद्धको गुलाम
+ranjana_1410.png	नगर्नु
+ranjana_1411.png	चलाउनेहरू भर्सेस्
+ranjana_1412.png	परिष्कारवादी तपाईँहरूले
+ranjana_1413.png	हुँदैछे ।
+ranjana_1414.png	गोदावरीको भिडको
+ranjana_1415.png	हतपत्त नेदरल्यान्डस्को
+ranjana_1416.png	रोजल तार्नुहोस् ।
+ranjana_1417.png	तपाइँमा स्लाइम
+ranjana_1418.png	उद्योगहरूले
+ranjana_1419.png	पैदलमार्गबाट हाइस्कुल
+ranjana_1420.png	पीडाबाट मन्त्रीहरुसँग
+ranjana_1421.png	संरचनाहरुको
+ranjana_1422.png	बाधिएर
+ranjana_1423.png	नहुनुमध्ये
+ranjana_1424.png	सेञ्चुरी ,
+ranjana_1425.png	बलिङको गौली ,
+ranjana_1426.png	गनिरहेको
+ranjana_1427.png	राजपाका अन्तर्गतकै
+ranjana_1428.png	अन्धाधुन्धरूपमा रेलबाट
+ranjana_1429.png	स्टारलाई ट्रिपिङका
+ranjana_1430.png	बाब्डा
+ranjana_1431.png	वराहक्षेत्रदेखि जागेका
+ranjana_1432.png	मतिष्कमा शिवखोलादेखि
+ranjana_1433.png	अबुधाबी
+ranjana_1434.png	ल्याइन्थ्यो प्रतिपक्षविहीन
+ranjana_1435.png	झमेलामा
+ranjana_1436.png	अवार्ड । र्यापमा
+ranjana_1437.png	बलशाली असम्भव
+ranjana_1438.png	आउँदैछौं प्रयोगकर्तासँग
+ranjana_1439.png	लालमोहरबाहेक
+ranjana_1440.png	प्र्रहरीको
+ranjana_1441.png	यसकालाई समिश्रणमा
+ranjana_1442.png	योजनाअनुसारको
+ranjana_1443.png	सारो
+ranjana_1444.png	उत्तराखण्डाको पण्डितलाई
+ranjana_1445.png	बिस गणकको
+ranjana_1446.png	मिडफिल्डरमा
+ranjana_1447.png	स्तनभरि फालोट
+ranjana_1448.png	बनेकाे
+ranjana_1449.png	अरुचीका
+ranjana_1450.png	बार्टर प्वाक्क
+ranjana_1451.png	जोडिनुपर्छ , खेलसँगै
+ranjana_1452.png	ब्याचले पिल्सिइरह्यो ।
+ranjana_1453.png	कवितालगायत
+ranjana_1454.png	विकट आख़िर
+ranjana_1455.png	गुम्न
+ranjana_1456.png	सवुतहरू
+ranjana_1457.png	पसलहरु
+ranjana_1458.png	पानीपुरी ,
+ranjana_1459.png	पठाऊँ ? विहीबारको
+ranjana_1460.png	डिके
+ranjana_1461.png	नियमनियमनको च्यासल
+ranjana_1462.png	बनेकाहरुप्रति जाँदैनौँ
+ranjana_1463.png	राजनीतिज्ञसँगको
+ranjana_1464.png	आलेप्रति दिनभित्रमा
+ranjana_1465.png	उवा सङ्कटका
+ranjana_1466.png	कार्तिकमा
+ranjana_1467.png	पायो ।
+ranjana_1468.png	रिमालखोलाका
+ranjana_1469.png	महाराष्ट्रमा
+ranjana_1470.png	भात ।
+ranjana_1471.png	विरगंजमा लेण्डलाइन
+ranjana_1472.png	अजरवैजानको
+ranjana_1473.png	कोफ्स
+ranjana_1474.png	गाउँप्रति
+ranjana_1475.png	खाता ? ब्याञ्जु ,
+ranjana_1476.png	बनाबट
+ranjana_1477.png	बिकास यतीबेला
+ranjana_1478.png	पौडलका
+ranjana_1479.png	दिन तेश्रोपटकमा
+ranjana_1480.png	उपकरणबारे प्रस्ट्याउँछ ।
+ranjana_1481.png	संयन्त्रप्रति चन्द्रनिगाहपुर९
+ranjana_1482.png	कपूर । गलेर
+ranjana_1483.png	जमुनाहाले शायद ।
+ranjana_1484.png	फिटनेसका थापासहितको
+ranjana_1485.png	एडीबीले
+ranjana_1486.png	हेर्डक्वार्टरबाट
+ranjana_1487.png	उडोस् ।
+ranjana_1488.png	कथांशहरू
+ranjana_1489.png	सयमअघि
+ranjana_1490.png	धुम्बाराही शक्तिकेन्द्र
+ranjana_1491.png	छायाङ्कन नेकपाबीच
+ranjana_1492.png	गुरूङ
+ranjana_1493.png	वा , तिलोत्तमा१ ,
+ranjana_1494.png	बगेर
+ranjana_1495.png	एमसिसीले डिपोभित्र
+ranjana_1496.png	मन्त्रिमण्डलका एलर्जीले
+ranjana_1497.png	तिराई प्रहारहरु
+ranjana_1498.png	अजम्वरी
+ranjana_1499.png	भेटिन्थे
+ranjana_1500.png	मरीच ,
+ranjana_1501.png	सडकपारि खाँदैनन् ।
+ranjana_1502.png	मिलेनन् । बिछोड
+ranjana_1503.png	उत्सुकता क्याप्सन
+ranjana_1504.png	पहाडकी रोजियो
+ranjana_1505.png	प्रोफिटको
+ranjana_1506.png	डाउनवार्ड
+ranjana_1507.png	इन्डोर्फिन ,
+ranjana_1508.png	भिमान
+ranjana_1509.png	दस्तुर , हप्तौसम्म
+ranjana_1510.png	जाँदैछौँ ,
+ranjana_1511.png	नेतृत्वकर्ता
+ranjana_1512.png	रोहिणीलाई । अलासहित
+ranjana_1513.png	फि¥यो कौतुहलता
+ranjana_1514.png	अन्तर्सम्बन्धलाई
+ranjana_1515.png	आइतवार
+ranjana_1516.png	मीनराजले
+ranjana_1517.png	कुनको
+ranjana_1518.png	गुन्डोआनले सुझाउने
+ranjana_1519.png	चपाउनु
+ranjana_1520.png	टीबीसीले कोहीविरुद्ध
+ranjana_1521.png	सिस्नुमा
+ranjana_1522.png	मिच्न , १७२ग ,
+ranjana_1523.png	नपाउने ? निस्के
+ranjana_1524.png	मर्मत हप्पुखोला ,
+ranjana_1525.png	पस्थ्यो । मल्डर ,
+ranjana_1526.png	चोरीसिकारीका
+ranjana_1527.png	कक्टेल
+ranjana_1528.png	खान्छस् ,
+ranjana_1529.png	म्यान्टलको चौलागाईँ ,
+ranjana_1530.png	ढिलागरी
+ranjana_1531.png	द्वितीयलाई अलग्ग्याएर
+ranjana_1532.png	नगरबाहिर
+ranjana_1533.png	गराउँथ्यो । सेयरमै
+ranjana_1534.png	बाल्मिकी
+ranjana_1535.png	बा ।
+ranjana_1536.png	सीएनएस सम्प्रभुताको
+ranjana_1537.png	नहटाएको एमालैमा
+ranjana_1538.png	आर्र्थिक बन्दरगाहसम्मको
+ranjana_1539.png	कर्माचारीको एजेन्सीका
+ranjana_1540.png	दक्षतालाई
+ranjana_1541.png	मधेशी दियाे
+ranjana_1542.png	प्रकृयाको
+ranjana_1543.png	देखिएकाहरुमा छाडी
+ranjana_1544.png	भएकाहरूको प्रायश्चित
+ranjana_1545.png	पोखरामास्वागत
+ranjana_1546.png	कोलम्बीया
+ranjana_1547.png	अल्झिएकी
+ranjana_1548.png	नमानेकोले विपनको
+ranjana_1549.png	समाजसेवासँग २३.६
+ranjana_1550.png	पानि
+ranjana_1551.png	पर्वले । किनेको
+ranjana_1552.png	हेल्पलाईन सेवामा
+ranjana_1553.png	औँठी ,
+ranjana_1554.png	बिमलसँग
+ranjana_1555.png	हँसाइरहेको सोधेपछि
+ranjana_1556.png	विपरीतलिंगीबीचको
+ranjana_1557.png	स्कुलपछि ? माछापालनका
+ranjana_1558.png	सक्नुपर्ने
+ranjana_1559.png	ताक्छौ । सम्बोधन ,
+ranjana_1560.png	खसखसाएको
+ranjana_1561.png	मिस्लाभ योर
+ranjana_1562.png	मसहूर सञ्चारकर्मीहरुसँगको
+ranjana_1563.png	रात्रिकालीनका
+ranjana_1564.png	रत्नशमशेर
+ranjana_1565.png	बढ्छु ,
+ranjana_1566.png	कुडुङ ज्यूमर ,
+ranjana_1567.png	तेजेन्द्रकै
+ranjana_1568.png	राष्ट्रियताका अशोकलाई
+ranjana_1569.png	परिचयमा लोकार्नो ,
+ranjana_1570.png	बिरेन्द्र
+ranjana_1571.png	झुकाउनुभयो ।
+ranjana_1572.png	समाजवादीसमेत गिलार्डले
+ranjana_1573.png	बोलीसम्म हरिसिद्धिको
+ranjana_1574.png	हुमागाईँलाई
+ranjana_1575.png	१५६
+ranjana_1576.png	आउनेहरु बेसार
+ranjana_1577.png	राष्ट्रयसभा सुबा
+ranjana_1578.png	निवारण
+ranjana_1579.png	सम्मेलनअन्तर्गतको भाडादर
+ranjana_1580.png	गराउँदै , तोरेन्द्रमानसिंह
+ranjana_1581.png	सिपाहीको टँसाइबाहेक
+ranjana_1582.png	क्रोमकास्ट मनाउनतिर
+ranjana_1583.png	चर्किन
+ranjana_1584.png	प्राज्ञका
+ranjana_1585.png	कान्तिमय
+ranjana_1586.png	नकड्किनुस्
+ranjana_1587.png	मनोसामाजिक प्रदर्शनकारीहरू
+ranjana_1588.png	रहस्यमय प्रवन्ध ,
+ranjana_1589.png	डीपीआरलाई
+ranjana_1590.png	राणाविरोधी २४औं
+ranjana_1591.png	परिदृश्यभित्र
+ranjana_1592.png	मुकरर पुस्तौंसम्म
+ranjana_1593.png	छुट्याउनसमेत
+ranjana_1594.png	नातै अधिकृतहरुले
+ranjana_1595.png	डेलिभरीका
+ranjana_1596.png	वर्र्षदेखि
+ranjana_1597.png	बिलको डरायो
+ranjana_1598.png	केन्दीय
+ranjana_1599.png	गाड्नुपर्ने
+ranjana_1600.png	विकृति ,
+ranjana_1601.png	टाँसिइरहन
+ranjana_1602.png	मोगोलप्रसाद समाचार
+ranjana_1603.png	गाइघाटदिक्तेल सर्वोत्कृष्टसमेत
+ranjana_1604.png	शिरसम्म ,
+ranjana_1605.png	रोसी
+ranjana_1606.png	सूचकांकएक्यूआई
+ranjana_1607.png	टीक जनदेवी
+ranjana_1608.png	निवासकै मधुलाई
+ranjana_1609.png	ब्यूँताएर
+ranjana_1610.png	गराउनुहुन्छ ।
+ranjana_1611.png	माइक्रोको
+ranjana_1612.png	जखडीमाईमा
+ranjana_1613.png	फस्यो , जिल्लाकी
+ranjana_1614.png	मिटन , सप्लायर्सलाई
+ranjana_1615.png	सिंगरामलाई वादलाई
+ranjana_1616.png	विश्वमै आत्मालोचनासहित
+ranjana_1617.png	पुलिसहरुले
+ranjana_1618.png	बिहानतिर रेखाहरूको
+ranjana_1619.png	५६२
+ranjana_1620.png	चौडाई
+ranjana_1621.png	सक्दछ । प्रदशर्न
+ranjana_1622.png	मासम्पन्न विष्णुराम
+ranjana_1623.png	तिरेको , तोलासम्मलाई
+ranjana_1624.png	शृंखला३२
+ranjana_1625.png	कहलिएको काउन्सिललाई
+ranjana_1626.png	सामीप्यराज कडेल ,
+ranjana_1627.png	सन्जय प्रवचन ।
+ranjana_1628.png	इन्गेजमेन्टदेखि
+ranjana_1629.png	छठ , मनोदशा
+ranjana_1630.png	खोर
+ranjana_1631.png	पाल्ही स्वास्थ्यवर्द्धक
+ranjana_1632.png	प्रबन्धको
+ranjana_1633.png	चटगाउँस्थित
+ranjana_1634.png	केन्द्रियताका
+ranjana_1635.png	घोप्टीएर मैनालीका
+ranjana_1636.png	छुट्याउँदैन ।
+ranjana_1637.png	एशोशिएसनको
+ranjana_1638.png	छानोभित्र ,
+ranjana_1639.png	नयाँबजारमाथि नेपालदेखि
+ranjana_1640.png	रचे । सम्मरबहादुर
+ranjana_1641.png	चाहेँ , पुजनले
+ranjana_1642.png	कुशासनको टाइम ,
+ranjana_1643.png	सोगरेन
+ranjana_1644.png	गोमायु ९५.९८ ,
+ranjana_1645.png	पूंजी अटोमोटिभ
+ranjana_1646.png	छापिन्थे ।
+ranjana_1647.png	चिम्टि पूर्णपाठमा
+ranjana_1648.png	नेपा
+ranjana_1649.png	मनोरञ्जक
+ranjana_1650.png	अबिरले
+ranjana_1651.png	खस्केर राज्यपुनर्संरचना
+ranjana_1652.png	आँधीले बिहारकै
+ranjana_1653.png	शुक्लाजंगल क्बलसँग
+ranjana_1654.png	आर्सनलसँग
+ranjana_1655.png	निमार्ण , मानुङकोटका
+ranjana_1656.png	ज्योशीले
+ranjana_1657.png	उनीचाहिँ
+ranjana_1658.png	छापेको , उभ्यायो ।
+ranjana_1659.png	लार्केखोलाको सामान्यको
+ranjana_1660.png	नीलकण्ठाय ,
+ranjana_1661.png	ओलीजस्ता पुनसंरचनाबारे
+ranjana_1662.png	शुभेच्छुक
+ranjana_1663.png	फुटेन ,
+ranjana_1664.png	डिफेन्डिङले बेलाबेलामा ,
+ranjana_1665.png	मागअनुुसार छाताको
+ranjana_1666.png	उत्तरतर्फको हाडसम्बन्धी
+ranjana_1667.png	हौंभन्नेअनि
+ranjana_1668.png	शरणार्थीप्रतिको तुवाँलोका
+ranjana_1669.png	२६२१ ,
+ranjana_1670.png	लेउ , आइकार्डबाटै
+ranjana_1671.png	साइकलको
+ranjana_1672.png	पन्जाबमा बन्दाबन्दीको
+ranjana_1673.png	वडाहरूलाई
+ranjana_1674.png	विश्वभर , मोउन्टले
+ranjana_1675.png	हप्ता ,
+ranjana_1676.png	बनाएछन् ।
+ranjana_1677.png	काठमाडौंपटनाबोधगया ,
+ranjana_1678.png	संचालकहरुको
+ranjana_1679.png	व्यञ्जु सभामुखप्रति
+ranjana_1680.png	सवस्टेसनदेखि होटलका
+ranjana_1681.png	नाचवापत् अदा
+ranjana_1682.png	कोभिशील्ड
+ranjana_1683.png	भेदभावजन्य पाईने
+ranjana_1684.png	बन्दमा उब्जाइएको
+ranjana_1685.png	बनोट ,
+ranjana_1686.png	मोहरहरु
+ranjana_1687.png	सिं पूँजी
+ranjana_1688.png	खड्कियो ।
+ranjana_1689.png	गैससकर्मी ,
+ranjana_1690.png	स्थानीयवासीसहित
+ranjana_1691.png	निस्किए । भ्वाइसबाटै
+ranjana_1692.png	सागपात ,
+ranjana_1693.png	इन्द्रचोकतिर
+ranjana_1694.png	तनहुँतिरबाट पीपीको
+ranjana_1695.png	उडानमाथि प्लाष्टिक ,
+ranjana_1696.png	सनकी
+ranjana_1697.png	अन्यथा ,
+ranjana_1698.png	नसर्ने । सुुर्खेतमा
+ranjana_1699.png	दवावका
+ranjana_1700.png	जुन्तालाई मामिलामन्त्री
+ranjana_1701.png	इन्टरटेनमेन्टका
+ranjana_1702.png	मार्गदर्शनका भव
+ranjana_1703.png	बितिसक्यो कुइनेमङ्गलेका
+ranjana_1704.png	आइरेहेका
+ranjana_1705.png	स्त्रोत
+ranjana_1706.png	भूकम्पले ल्याबमा
+ranjana_1707.png	माझीकी
+ranjana_1708.png	नदेखिएको , अमिसालाई
+ranjana_1709.png	समाबेश पुग्नेहरुलाई
+ranjana_1710.png	विध्वंशक
+ranjana_1711.png	घरकोठाको ब्यवसायीक
+ranjana_1712.png	नानीसरी मान्छेहरु ?
+ranjana_1713.png	एडिनोवायरल पाउसम्म
+ranjana_1714.png	खराबमा
+ranjana_1715.png	मगजमा उपमहागरले
+ranjana_1716.png	त्यसउपर पारिए ।
+ranjana_1717.png	लजमा
+ranjana_1718.png	स्पष्टीकरणप्रति मिडियामा
+ranjana_1719.png	हिँडिरहेकै
+ranjana_1720.png	साम्यवादमा एयरलाइन्स्
+ranjana_1721.png	३.६१ हालिएकाले
+ranjana_1722.png	वकिलदेव
+ranjana_1723.png	अनुभवचाहिँ
+ranjana_1724.png	श्यामहरि तेजबहादुरको
+ranjana_1725.png	एशियाकै पाके
+ranjana_1726.png	कन्टेन्टमा
+ranjana_1727.png	निसानी धनन्यज
+ranjana_1728.png	गिराउनेसँग
+ranjana_1729.png	भारदह
+ranjana_1730.png	बन्दैआएको असरलाई
+ranjana_1731.png	ग्रीन बक्क
+ranjana_1732.png	बस्दामेरो हेपाइ
+ranjana_1733.png	अनाहक
+ranjana_1734.png	स्नेह ? प्रधानन्यायाधीशका
+ranjana_1735.png	हीबा मतदान
+ranjana_1736.png	जुधिरहेको परिश्रमबाट
+ranjana_1737.png	भनिदिनुपर्छ ।
+ranjana_1738.png	कपुर
+ranjana_1739.png	अधिकारील
+ranjana_1740.png	ताबेदारी
+ranjana_1741.png	सम्बन्धका
+ranjana_1742.png	प्रस्तावनाविपरीत
+ranjana_1743.png	महासङ्घ पशुपंक्षि
+ranjana_1744.png	एक्सपिडिसन लुक्दा
+ranjana_1745.png	देवल
+ranjana_1746.png	दाङमै ध.१ख
+ranjana_1747.png	पुलिसमाथि
+ranjana_1748.png	भत्काइदिए ।
+ranjana_1749.png	प्रसूतिबापत
+ranjana_1750.png	प्रतिनिधिबीचको मुखलाई
+ranjana_1751.png	सृष्टिकर्ताको परमकर्तव्य
+ranjana_1752.png	टेकिलमले
+ranjana_1753.png	जान्दैनन् । प्रफिट
+ranjana_1754.png	हाम्बर्गर
+ranjana_1755.png	मुद्दतिमा
+ranjana_1756.png	विनासुनुवाइ
+ranjana_1757.png	बढ्नेछौं ।
+ranjana_1758.png	एकिकरणभन्दा
+ranjana_1759.png	नोटसहित विरोधाभासलाई
+ranjana_1760.png	मसान्तभित्र
+ranjana_1761.png	गराउनेसमेत अतिक्रमणलाई
+ranjana_1762.png	खुल्दाको
+ranjana_1763.png	रामबहादुरका
+ranjana_1764.png	डाक्टर उपायबारेमा
+ranjana_1765.png	उतार्नेछैन् , भनिन्मलाई
+ranjana_1766.png	खानेहरूको
+ranjana_1767.png	गैरकृषिको ठाडो ,
+ranjana_1768.png	पूर्वमनसुन
+ranjana_1769.png	चामलसहित
+ranjana_1770.png	लिनेछु , बिश्वनाथ
+ranjana_1771.png	व्बाँसा ,
+ranjana_1772.png	महिनैपिच्छै पढेसुनेकै
+ranjana_1773.png	वीउको त्रिशूलमा
+ranjana_1774.png	बकेर झाम्टा ,
+ranjana_1775.png	भोटेताल्चा
+ranjana_1776.png	जवाफसँगै
+ranjana_1777.png	गृहयुद्धमा जसअन्तर्गत
+ranjana_1778.png	नं.१
+ranjana_1779.png	मधुसूदन प्राणायामले
+ranjana_1780.png	भने‚
+ranjana_1781.png	गैँची , पुन्य
+ranjana_1782.png	नेकपाएमालेबाट
+ranjana_1783.png	पाइनसकेकाले ९एनएकेटी
+ranjana_1784.png	जेठा ,
+ranjana_1785.png	स्ट्राइकर्सको
+ranjana_1786.png	वन्ने छाडेको
+ranjana_1787.png	गंगाधर
+ranjana_1788.png	वाहन ,
+ranjana_1789.png	जोडीहरूकै
+ranjana_1790.png	चौकसम्मको संविधानविपरीतसमेत
+ranjana_1791.png	हामफाल्दिम्
+ranjana_1792.png	साइकलप्रति पाएमा
+ranjana_1793.png	छ्याङ्ग तथ्यबारे
+ranjana_1794.png	काष्ठमण्डपबाट कुनाकन्दराबाट
+ranjana_1795.png	नेतृत्वबाट छोरा ,
+ranjana_1796.png	भित्ते ९३१
+ranjana_1797.png	गोकुलले सम्झिन्छन्
+ranjana_1798.png	चोङ्ले खाने ?
+ranjana_1799.png	गर्नुहोला , ठाउँघर्तीले
+ranjana_1800.png	प्रावधान
+ranjana_1801.png	मनीजस्ता
+ranjana_1802.png	५६९
+ranjana_1803.png	चौधरीराष्ट्रको
+ranjana_1804.png	असत्यलाई भुगोल
+ranjana_1805.png	डु सरकारविरुद्धनै
+ranjana_1806.png	ल्याएकाे
+ranjana_1807.png	डाइमण्ड खरिदकर्ताहरुको
+ranjana_1808.png	प्रक्रिया ?
+ranjana_1809.png	सरेकाले रगड्दा
+ranjana_1810.png	मुख्यमन्त्रीसमेत गरिबहरूलाई
+ranjana_1811.png	स्टलमध्ये
+ranjana_1812.png	गौरीशंकरलाई मापदण्डहरु
+ranjana_1813.png	जिनियोलोजी संश्लेषित
+ranjana_1814.png	बिजयखर्कको
+ranjana_1815.png	चोरीठगी
+ranjana_1816.png	ये , भन्नको
+ranjana_1817.png	सिस्नुभन्दा
+ranjana_1818.png	झोक्राइरहेको ।
+ranjana_1819.png	जुत्तावा रहिछन् ।
+ranjana_1820.png	विस्मात्लाई
+ranjana_1821.png	पाठ्यक्रममात्र बोल्छुतिमीलाई
+ranjana_1822.png	हुनुपर्दैन ।
+ranjana_1823.png	लोकतान्त्रिक , विडेम
+ranjana_1824.png	बेहोर्छन् पफर्म
+ranjana_1825.png	दिइएकाहरुलाई दौडाइ
+ranjana_1826.png	सहकार्यकालागि
+ranjana_1827.png	तपाइँ ¥याङकिङको
+ranjana_1828.png	हर्मोनमा विद्युत्जस्ता
+ranjana_1829.png	खनेपछि , पञ्चशीलदिउँसो
+ranjana_1830.png	विस्तारलगायतमा
+ranjana_1831.png	ल्याउनुभन्दा
+ranjana_1832.png	अमित ,
+ranjana_1833.png	बेलामात्रै रुपियाँबाट
+ranjana_1834.png	फैसला , चार्टड
+ranjana_1835.png	व्यावसायीहरुलाई नचालेकाले
+ranjana_1836.png	सुबोधकुमार अनुदानद्वारा
+ranjana_1837.png	पण्डितहरू
+ranjana_1838.png	प्लटिङलगायतका
+ranjana_1839.png	डान्सबाट
+ranjana_1840.png	सल्लाहकारहरुले ओगटेर
+ranjana_1841.png	मिनबहादुर छोड्छ
+ranjana_1842.png	पर्चपखानरात
+ranjana_1843.png	लाईफमा प्रवासीहरूलाई
+ranjana_1844.png	काजीले
+ranjana_1845.png	मोफसलको
+ranjana_1846.png	सटेन्द्र बहादुरी ,
+ranjana_1847.png	गाइनेकोलोजिस्ट ,
+ranjana_1848.png	हिल्ससहित कुपिन्डे
+ranjana_1849.png	शिल्ड
+ranjana_1850.png	स्वामित्वको
+ranjana_1851.png	ह्युज म्याडम
+ranjana_1852.png	चुलो भइराख्छ
+ranjana_1853.png	जोखाना रीतिरिवाज ,
+ranjana_1854.png	टीकाबहादुर
+ranjana_1855.png	विद्यालयहरुसँग कुखुरापालनचाहिँ
+ranjana_1856.png	पातपतिंगरका
+ranjana_1857.png	खोपीमा
+ranjana_1858.png	बुभबार
+ranjana_1859.png	आममानिसका
+ranjana_1860.png	स्वीकार्न सबस्टेशनबाट
+ranjana_1861.png	पोटेट
+ranjana_1862.png	खेती
+ranjana_1863.png	टेवापर्खाल
+ranjana_1864.png	नछोडेपछि
+ranjana_1865.png	डुब्ने रूपन्देहीकै
+ranjana_1866.png	इब्राहिमोभिचको
+ranjana_1867.png	भाग्नुको
+ranjana_1868.png	सुत्नुभएको
+ranjana_1869.png	सकेकी
+ranjana_1870.png	मांसाहारीभन्दा
+ranjana_1871.png	रूवाई केटाकेटीको
+ranjana_1872.png	बिचौलियाहरुले गएको ?
+ranjana_1873.png	कर्तव्यले
+ranjana_1874.png	कर्भ्ड
+ranjana_1875.png	समाचारपत्रसँग चालिन्छ ।
+ranjana_1876.png	मलेखुमा शशिकान्त
+ranjana_1877.png	चट्टयाङ्ग श्भचय
+ranjana_1878.png	अनमेल मोदीको
+ranjana_1879.png	मानवताले
+ranjana_1880.png	डाविड
+ranjana_1881.png	रनरअपको
+ranjana_1882.png	भुल कम्प्युर
+ranjana_1883.png	गन , ट्राभलमार्फत
+ranjana_1884.png	उदेश्य , चिकन्चा
+ranjana_1885.png	सीमा । पदकमै
+ranjana_1886.png	चित्राङ्कनबारे ड्वर
+ranjana_1887.png	विनाकाम
+ranjana_1888.png	मनुवाको शोधनान्तर
+ranjana_1889.png	यतिबेला
+ranjana_1890.png	ट्रकको
+ranjana_1891.png	डर्टमन्डको जुस ,
+ranjana_1892.png	हुनुुहुन्थ्यो ।
+ranjana_1893.png	एभिडेन्स
+ranjana_1894.png	मुखर
+ranjana_1895.png	चटोपाध्यायले
+ranjana_1896.png	पदपूर्तिकालागि
+ranjana_1897.png	५.७
+ranjana_1898.png	लेखेको पूर्वशिक्षा
+ranjana_1899.png	अनुरागीपनि
+ranjana_1900.png	केही
+ranjana_1901.png	आमसभामार्फत मस्र्या
+ranjana_1902.png	कुल्चनु
+ranjana_1903.png	विश्वकर्माकोे
+ranjana_1904.png	बुझ्नैपर्ने
+ranjana_1905.png	रजहरमा
+ranjana_1906.png	लामोसम्म पालनपोषन
+ranjana_1907.png	सक्थिनन् ।
+ranjana_1908.png	आउँदैनचाहँदैनन् ।
+ranjana_1909.png	पाटीको जगतका
+ranjana_1910.png	वास्तविकतामा वाय
+ranjana_1911.png	चोटहरुको
+ranjana_1912.png	पीडितहरुको
+ranjana_1913.png	लाग्नुपरेको
+ranjana_1914.png	समाचारहरूमा जीपका
+ranjana_1915.png	टिकाउदरसमेत दीर्घराज
+ranjana_1916.png	किन्दै लगायाछु ,
+ranjana_1917.png	वाईम्याक्सलाई ढाक्छ ।
+ranjana_1918.png	वयश्कहरुमा अर्की
+ranjana_1919.png	केशवशरण प्रतिलिपिमा
+ranjana_1920.png	पत्याउने
+ranjana_1921.png	रन , भुटुटु
+ranjana_1922.png	संचेतनाले कट्टु
+ranjana_1923.png	जयन्तीसँग गरिरहेकी
+ranjana_1924.png	जततउकस्ररलतअ । बिकास
+ranjana_1925.png	आइतेले आइडी ,
+ranjana_1926.png	हालकै
+ranjana_1927.png	जन्मियो । गरिबबीच
+ranjana_1928.png	आचारण
+ranjana_1929.png	कम्युनिस्ट , हाउजिङमा
+ranjana_1930.png	पराइन् जो ।
+ranjana_1931.png	ग्लोस्तरमा आईपीएसका
+ranjana_1932.png	हानीनोक्सानीका जनआन्दोलनजस्ता
+ranjana_1933.png	६६६ हिन्दुकुश
+ranjana_1934.png	सबस्टेसनमा आग्रहसहित
+ranjana_1935.png	सुरेन्द्रपाण्डेलाई
+ranjana_1936.png	लग्यो ।
+ranjana_1937.png	कन्टेस्टमा छोरो ।
+ranjana_1938.png	उक्लिए ।
+ranjana_1939.png	संख्यमा
+ranjana_1940.png	भएतिर गरिबीविरुद्धको
+ranjana_1941.png	विमामा जोडीसमेत
+ranjana_1942.png	मनगणन्ते
+ranjana_1943.png	स्विडेनका पिआर ,
+ranjana_1944.png	उम्मेदवारहरुलाईसांसद सूधपा
+ranjana_1945.png	नौटङ्कीमा उद्धार ,
+ranjana_1946.png	फुजिआन उल्फ
+ranjana_1947.png	सिमरादेखि आइने
+ranjana_1948.png	पूणर्
+ranjana_1949.png	स्क्वाटमा
+ranjana_1950.png	थप्प मोर्चासँगको
+ranjana_1951.png	नेतृत्वदायी निकटता
+ranjana_1952.png	नयराजका
+ranjana_1953.png	इन्डिकेटरलाई मकवानपुर११
+ranjana_1954.png	लेवल
+ranjana_1955.png	छेँडेका प्रतिभामाथि
+ranjana_1956.png	दमाहा , थेसिस ,
+ranjana_1957.png	बोक्रासँगै
+ranjana_1958.png	बानियाँ राधालाई
+ranjana_1959.png	एडम्सको यन्त्रवाचक
+ranjana_1960.png	जुनान
+ranjana_1961.png	स्क्रिनिङका
+ranjana_1962.png	सम्मति आइलाग्यो ,
+ranjana_1963.png	बाझिएकाले विधि ,
+ranjana_1964.png	नबिग्रिएकाले
+ranjana_1965.png	थाल्नुभयो ढुङ्गानालाई
+ranjana_1966.png	अवधारणपत्र
+ranjana_1967.png	प्रेक्षालय वेभर
+ranjana_1968.png	थाकुर
+ranjana_1969.png	लिएँ
+ranjana_1970.png	हेरिन्थ्यो बृद्धिमा
+ranjana_1971.png	अबकाे बरफपानी
+ranjana_1972.png	गरेकोे
+ranjana_1973.png	हराउने÷चोरी
+ranjana_1974.png	पुर्याइन्छ । कलस
+ranjana_1975.png	व्यालेन्ससीटमा आकांक्षासहित
+ranjana_1976.png	चढाउन लागुऔषधविरुद्ध
+ranjana_1977.png	विशालबजारमा बेल्ट ।
+ranjana_1978.png	भत्काइएको बाटिकालगायतका
+ranjana_1979.png	बर्षा ९६.५८
+ranjana_1980.png	पाइयोऽ
+ranjana_1981.png	वर्षपहिलेको
+ranjana_1982.png	२६९ ,
+ranjana_1983.png	पोते ,
+ranjana_1984.png	बेयार्नले
+ranjana_1985.png	हिसां कार्यरत
+ranjana_1986.png	२५५ ,
+ranjana_1987.png	मूल्यसूचीअनुसार बिसिए
+ranjana_1988.png	पिटरकै शुभेच्छुकहरूको
+ranjana_1989.png	धनगढि , रहनुभएका
+ranjana_1990.png	कमजोरबीच
+ranjana_1991.png	भेटिरहनुपर्ने सुचना
+ranjana_1992.png	बाटोहरु
+ranjana_1993.png	बेटी लेसोथो
+ranjana_1994.png	जुवाडेहरूको
+ranjana_1995.png	ओङलाई बुढी ।
+ranjana_1996.png	स्पानिस
+ranjana_1997.png	काभानी
+ranjana_1998.png	निजका
+ranjana_1999.png	भागिन्न ।
+ranjana_2000.png	क्यारिन्टिनको
+ranjana_2001.png	छाती
+ranjana_2002.png	कौकाकाक
+ranjana_2003.png	मैगजीनले सष्टाहरुलाई
+ranjana_2004.png	निरंकुस जरूरी
+ranjana_2005.png	गाउँभरिका
+ranjana_2006.png	ल्योसिं छुटसमेत
+ranjana_2007.png	चाउरिएका
+ranjana_2008.png	पाँच÷पाँचवटा ,
+ranjana_2009.png	सम्मतिबाट बार्सिलोनाले
+ranjana_2010.png	परासिला
+ranjana_2011.png	झेय
+ranjana_2012.png	परियोजनासहित कुुमारी
+ranjana_2013.png	बेंसीबाट
+ranjana_2014.png	१२६ , आत्मविश्वास
+ranjana_2015.png	स्रष्टाहरुलाई सघाउन
+ranjana_2016.png	मिश्रणमा
+ranjana_2017.png	भिल्लारलको नुहाउनेधुवाउने
+ranjana_2018.png	लिस्ट
+ranjana_2019.png	६२६ कम्युनिस्टसँग
+ranjana_2020.png	प्रहरीसगँ
+ranjana_2021.png	पुनर्जन्मको
+ranjana_2022.png	सिटमात्र विचारक ,
+ranjana_2023.png	देखिसकेपछि
+ranjana_2024.png	एकसपिडिसन्सका हाइअल्टिच्यूड
+ranjana_2025.png	तयासको आईअटोका
+ranjana_2026.png	टिकारामको गैरकृषिको
+ranjana_2027.png	लेखेकै परिणामहरु
+ranjana_2028.png	बनाउँदैलागी बाटाहरू ।
+ranjana_2029.png	रबिले
+ranjana_2030.png	बितरणलाई
+ranjana_2031.png	बजेभित्र
+ranjana_2032.png	अर्शतकीय नाचघरको
+ranjana_2033.png	मानवजीवनको
+ranjana_2034.png	नमुनाहरूको
+ranjana_2035.png	हासील
+ranjana_2036.png	प्रतिपक्षहरू गर्नेहरूलाई
+ranjana_2037.png	निस्कन्छु । हट्
+ranjana_2038.png	युएन
+ranjana_2039.png	हजमोलाको
+ranjana_2040.png	स्पोर्टिङले डाँडाकाँडाहरू
+ranjana_2041.png	जनसाधारण त्रिवेणीसम्म
+ranjana_2042.png	नेतागण
+ranjana_2043.png	जात्रा
+ranjana_2044.png	तरकारीसँगै
+ranjana_2045.png	सलहेसले
+ranjana_2046.png	डिसेम्बर
+ranjana_2047.png	गौचन १.१
+ranjana_2048.png	गर्ली ।
+ranjana_2049.png	बदलौं , सन्दिग्ध
+ranjana_2050.png	पोलाई शरणार्थीसम्वन्धी
+ranjana_2051.png	बाबियाचौर ,
+ranjana_2052.png	द्यमा भिजिविलटि
+ranjana_2053.png	व्यावहारिकरुपमा जिल्लास्तरमै
+ranjana_2054.png	अशोकबाटिका उपदेशहरू
+ranjana_2055.png	बोलाउँथिन् ।
+ranjana_2056.png	मेडिसिटी
+ranjana_2057.png	टिप्यो सहजीकरणबाट
+ranjana_2058.png	र्नया
+ranjana_2059.png	हैरानीबाट एसोसियसनद्वारा
+ranjana_2060.png	कोरोनाविरूद्ध
+ranjana_2061.png	रोपिन्छ ,
+ranjana_2062.png	रियो , स्वावलम्बनको
+ranjana_2063.png	ललितपुरका
+ranjana_2064.png	वेबरसम्मले
+ranjana_2065.png	मायाजस्तै
+ranjana_2066.png	कटाएपछि कुच्याए
+ranjana_2067.png	खोजिरहेको
+ranjana_2068.png	इन्टरनेसनलका
+ranjana_2069.png	संकलनमा लाग्नुपर्दथ्यो ,
+ranjana_2070.png	खैराहा
+ranjana_2071.png	धुनुपर्छ डाइनेष्टिको
+ranjana_2072.png	सिद्धान्तहिन चन्डीगढका
+ranjana_2073.png	त्यसपश्चात् सुन्दरप्रताप
+ranjana_2074.png	लन्ग
+ranjana_2075.png	भण्डारीसँग
+ranjana_2076.png	सिरकले
+ranjana_2077.png	६२.४
+ranjana_2078.png	एउटीले बडीपुरलगायतका
+ranjana_2079.png	डिफेन्ण्डर
+ranjana_2080.png	भाग्ने
+ranjana_2081.png	लगाएर
+ranjana_2082.png	बुझाइदिनु
+ranjana_2083.png	असन्तुष्टिसँगै
+ranjana_2084.png	प्रदेश , अवस्थासम्म
+ranjana_2085.png	शर्माविरुद्ध
+ranjana_2086.png	सीडीएससी
+ranjana_2087.png	ओलीसमूहमा मेसिङ
+ranjana_2088.png	दिलाएनन् , बाबाआमा
+ranjana_2089.png	विभाजनसम्मका
+ranjana_2090.png	पूजनले पदाधिकारीबारे
+ranjana_2091.png	व्यवस्थापनआँगन
+ranjana_2092.png	घटनामा
+ranjana_2093.png	बल्झाएर
+ranjana_2094.png	टेलर भीमफेदी
+ranjana_2095.png	फास्टट्र्याकको
+ranjana_2096.png	सुङ्गाटोलबाट नाकाभन्दा
+ranjana_2097.png	सार्कमा
+ranjana_2098.png	अफिसियलबाट
+ranjana_2099.png	आम्दानीसमेत
+ranjana_2100.png	डु , छरिता
+ranjana_2101.png	नसकेकाले
+ranjana_2102.png	अभयकुमार चतरा
+ranjana_2103.png	राष्ष्ट्रपति विद्यावारिधीसम्मको
+ranjana_2104.png	अनलाईनलाई पहिलेबाटै
+ranjana_2105.png	२५५ गुटका
+ranjana_2106.png	सर्वसम्मतले सम्वद्र्धनबाट
+ranjana_2107.png	पु¥याए
+ranjana_2108.png	अनुजा ९२९ ,
+ranjana_2109.png	सम्पुर्ण झलझली
+ranjana_2110.png	उपयोग
+ranjana_2111.png	मन्टेसरीमा दलहरूकोसँग
+ranjana_2112.png	जेजस्ता यिमिङ
+ranjana_2113.png	ऐनाको हप्काउँदै
+ranjana_2114.png	जँचाउनुपर्ने
+ranjana_2115.png	मध्य ,
+ranjana_2116.png	विवादमै उठाउनेबारेमा
+ranjana_2117.png	सेरेब्रम ,
+ranjana_2118.png	राष्ट्रियताप्रति
+ranjana_2119.png	खोज्नुबाहेक हैजा
+ranjana_2120.png	क्यालिफोर्निया
+ranjana_2121.png	विभागअन्तर्गत
+ranjana_2122.png	मुलुकबाहिरदेखि लिएनन् ,
+ranjana_2123.png	६१३
+ranjana_2124.png	देबिशा ९आईडा
+ranjana_2125.png	छोडेको पार्कीले
+ranjana_2126.png	एन्जाइटीको शिवरात्रिको
+ranjana_2127.png	मीटिभी
+ranjana_2128.png	४.९२
+ranjana_2129.png	मनोरन्जनमात्र मिश्रणमा
+ranjana_2130.png	विकाससँग
+ranjana_2131.png	जेफरीले
+ranjana_2132.png	पछाईं
+ranjana_2133.png	विरहविछोड , लोकतन्त्रकै
+ranjana_2134.png	सीडीएससीडटकमडटएनपी बालकलाई
+ranjana_2135.png	पालिकाको ,
+ranjana_2136.png	अञ्जना
+ranjana_2137.png	खनिजतर्फ
+ranjana_2138.png	व्यवस्थाद्वारा
+ranjana_2139.png	भिखारीहरुले
+ranjana_2140.png	कोषहरु ,
+ranjana_2141.png	अक्षरसँग
+ranjana_2142.png	नाच्थिन् । विज्ञहरु ,
+ranjana_2143.png	अदालतप्रति शिशुवारी
+ranjana_2144.png	पछाडिपट्टि सुक्ष्मरूपमा
+ranjana_2145.png	काठेपाङ्ग्रा
+ranjana_2146.png	साधारणभाले लमजुङ्गबाट
+ranjana_2147.png	छ्यापेमा फभोनोइडस
+ranjana_2148.png	अनिश्चित
+ranjana_2149.png	कार्यसुचिमा
+ranjana_2150.png	झरि
+ranjana_2151.png	नभेटिएको रेखासँग
+ranjana_2152.png	ओडीएबाट कालावन्जरका
+ranjana_2153.png	अनुकुलतामा कम्पयुटरीकृत
+ranjana_2154.png	चुनाव ,
+ranjana_2155.png	मनोबल अतिसंवेदनशील
+ranjana_2156.png	एजेन्डा ।
+ranjana_2157.png	हत्त मकअप
+ranjana_2158.png	भइहाल्ने । नझुन्ड्याइ
+ranjana_2159.png	समावेशीकरणको सितल
+ranjana_2160.png	होला÷नहोला
+ranjana_2161.png	लड्नुभएको
+ranjana_2162.png	आवश्यकताअनुरूपको
+ranjana_2163.png	आफूभित्रकै रहनेबारे
+ranjana_2164.png	शोकस शुुभकामनादिनेमा
+ranjana_2165.png	मुिक्त
+ranjana_2166.png	लुम्बिनीकी
+ranjana_2167.png	ताप्लेजुङ्गमा
+ranjana_2168.png	पार्दै कथार्सिस
+ranjana_2169.png	आह्वानपछि लोडसेडिङले
+ranjana_2170.png	सीसीएमबीका युवाहरुमा
+ranjana_2171.png	हाउसले
+ranjana_2172.png	सुधारियो । कम्पनीहरुमध्ये
+ranjana_2173.png	कल्याणेश्वर साँखुबाट
+ranjana_2174.png	थमाइदिन्थ्यो ।
+ranjana_2175.png	सार्छन् ।
+ranjana_2176.png	अवज्ञाले
+ranjana_2177.png	गन्जागोलबाट स्टिफनेस
+ranjana_2178.png	उद्योगधन्दाको
+ranjana_2179.png	शब्दभूः
+ranjana_2180.png	चन्द्रकला
+ranjana_2181.png	ओसारेर
+ranjana_2182.png	पारीत
+ranjana_2183.png	कथासंग्रहको
+ranjana_2184.png	गाई ,
+ranjana_2185.png	राजस्थानले बिल्ला
+ranjana_2186.png	शनिबार कुलकुटुम्ब
+ranjana_2187.png	इरिगेसन
+ranjana_2188.png	प्यासा
+ranjana_2189.png	ढाकेर ।
+ranjana_2190.png	सोचिन् । जान्छस्
+ranjana_2191.png	ब्लूमले स्वेच्छाचारिता ।
+ranjana_2192.png	कोर्नियल
+ranjana_2193.png	पढेकालाई
+ranjana_2194.png	सोच्नुस् शिशुहरूमा
+ranjana_2195.png	क्याटरिङ
+ranjana_2196.png	कुनबेला अभिवृद्धिका
+ranjana_2197.png	ट्रड्युले
+ranjana_2198.png	हाल्ने पलाष्टिको
+ranjana_2199.png	हुनेमालपोत बाबरिया
+ranjana_2200.png	कसूरदारलाई सिकाउँछिन् ।
+ranjana_2201.png	अंगहरुलाई किनारका
+ranjana_2202.png	नमोबुद्धदेखि
+ranjana_2203.png	तिम्रा , बुझिँदैथ्यो ।
+ranjana_2204.png	गोल्ड
+ranjana_2205.png	इपीडेमीयोलोजी
+ranjana_2206.png	लिडरहरुको
+ranjana_2207.png	शाक्उले
+ranjana_2208.png	बनुन् , फोहोरमा
+ranjana_2209.png	महसंघ
+ranjana_2210.png	बर्बेरीले
+ranjana_2211.png	केहीवर्षसम्म श्रीरामभक्त
+ranjana_2212.png	तर्कअनुसार
+ranjana_2213.png	ढोगभेटमा
+ranjana_2214.png	थिंकट्यांकका
+ranjana_2215.png	धुवाँधुलोले
+ranjana_2216.png	लोकतान्त्रिक ,
+ranjana_2217.png	साताैं
+ranjana_2218.png	तनावरहित
+ranjana_2219.png	ठेक्दार मागिहाल्ने ,
+ranjana_2220.png	शनिबारबाट रोटिमा
+ranjana_2221.png	धूलोधुवाँलगायत
+ranjana_2222.png	विश्वविद्यालयबारे तरलता ,
+ranjana_2223.png	अघिल्लतिरको खटिई
+ranjana_2224.png	विदाइ ,
+ranjana_2225.png	भक्तपुरस्थित
+ranjana_2226.png	सक्छे ? भएमा
+ranjana_2227.png	खेम सघाउनेछन् ।
+ranjana_2228.png	इशापूर्व कास्कीजस्ता
+ranjana_2229.png	युक्रेनबीच
+ranjana_2230.png	हिमालयनशमशेर
+ranjana_2231.png	पवनबाबु
+ranjana_2232.png	सोमाबार असोसियशन
+ranjana_2233.png	तबपदको लेख्नेको
+ranjana_2234.png	२४औं
+ranjana_2235.png	प्रयोगबिहीन व्यक्तिहरूबाहेक
+ranjana_2236.png	साम्सन
+ranjana_2237.png	दूतवास
+ranjana_2238.png	लगिएकालाई
+ranjana_2239.png	नचिन्दा उडाइन्छ
+ranjana_2240.png	नुआन्सको जोनबाट
+ranjana_2241.png	जानकारहरुको हराई
+ranjana_2242.png	पोटेटो आन्तरिक ,
+ranjana_2243.png	भट्टीचुलो गुणहरू ,
+ranjana_2244.png	वकिलले
+ranjana_2245.png	डिमेन्सिया
+ranjana_2246.png	कुलभू्षण टुटुंग्यायो ।
+ranjana_2247.png	पूजाले बैठकबाट ,
+ranjana_2248.png	सडकधूलोको
+ranjana_2249.png	हाम्रोतिर
+ranjana_2250.png	पशुहाटमा वेबरसम्मले
+ranjana_2251.png	समूदायमा गर्नू÷गराउनू ,
+ranjana_2252.png	एफओपीको
+ranjana_2253.png	कटान , कोइलाडीले
+ranjana_2254.png	विपत गरिरहेकाको
+ranjana_2255.png	पाउँनेछ ,
+ranjana_2256.png	अपराधीजस्तो
+ranjana_2257.png	बाँढ्न
+ranjana_2258.png	विथोलिरह्यो ।
+ranjana_2259.png	सुविसुको लार्ड
+ranjana_2260.png	विकेन्द्रित फकरुद्धिन
+ranjana_2261.png	के.सी ,
+ranjana_2262.png	नाइटले
+ranjana_2263.png	सिड्नीका अनुपातअनुरूप
+ranjana_2264.png	सुबोल पिक्सल
+ranjana_2265.png	हराएकाले
+ranjana_2266.png	सरोकारसँग स्ट्रोक ,
+ranjana_2267.png	सालीभिनाजुबीचको
+ranjana_2268.png	प्रतापदास , ऋण
+ranjana_2269.png	१५सम्म सैनिकलाई
+ranjana_2270.png	होल्डरको २२८ ,
+ranjana_2271.png	सिंगराम गृहमन्त्रीसमेतको
+ranjana_2272.png	बुझेर
+ranjana_2273.png	आम्बाती आइपुग्छन् ,
+ranjana_2274.png	बिमस्टेकलगत्तै पत्रकारिताबाट
+ranjana_2275.png	झाडीको
+ranjana_2276.png	बुटवलमा
+ranjana_2277.png	दुईभन्दा
+ranjana_2278.png	ल्याउनकै महालक्ष्मीकिरातेश्वरकेएसके
+ranjana_2279.png	बंग्रातीका काश्यप
+ranjana_2280.png	बायरिङ , छाइरहेका
+ranjana_2281.png	मंगलसेन८ क्याप ,
+ranjana_2282.png	समशितोष्ण दीर्घरोगका
+ranjana_2283.png	गिरोहका
+ranjana_2284.png	रूपलाल
+ranjana_2285.png	हे ,
+ranjana_2286.png	प्रधानपञ्चविरुद्ध सफ्टवेयरसँग
+ranjana_2287.png	अग्रतासँगै प्याकेज२
+ranjana_2288.png	भेटाउनै जित्दाका
+ranjana_2289.png	पुनर्लाभका शरदराज
+ranjana_2290.png	अपागंता महिनायताकै
+ranjana_2291.png	रोट , व्यक्तको
+ranjana_2292.png	भीरनजिक
+ranjana_2293.png	छरछिमेकबाट क्यूमा
+ranjana_2294.png	सिरमाल
+ranjana_2295.png	मोबाईल
+ranjana_2296.png	निर्मित , महांकालमा
+ranjana_2297.png	उत्कण्ठा यात्रुले
+ranjana_2298.png	जीवनसोचेजस्तो कार्यदलमा
+ranjana_2299.png	आडम्बरले
+ranjana_2300.png	सारभूत
+ranjana_2301.png	फुटबलतर्फ
+ranjana_2302.png	स्टाबिलिटी
+ranjana_2303.png	यसलार्ई
+ranjana_2304.png	चलचित्रमार्फत
+ranjana_2305.png	क्रितृम
+ranjana_2306.png	लैङ्गिकमैत्री शिखले
+ranjana_2307.png	मेटाडाटा धाउँछन् ।
+ranjana_2308.png	ब्रोकरमार्फत
+ranjana_2309.png	फर्क्यो । भोटेचौर ,
+ranjana_2310.png	बैंकसमेतको
+ranjana_2311.png	ऐनामा शिलान्यासबारे
+ranjana_2312.png	गुणस्तरियता ,
+ranjana_2313.png	अनुसन्धाता ,
+ranjana_2314.png	कैचिले
+ranjana_2315.png	एडल्सनको
+ranjana_2316.png	भाय्
+ranjana_2317.png	चर्किने बिहानमात्रै
+ranjana_2318.png	हाराहारीका
+ranjana_2319.png	क्यालोरीको परीक्षापछि
+ranjana_2320.png	अल्पायुमै चाइनाको
+ranjana_2321.png	ढुंगानाबीच
+ranjana_2322.png	धानिएको छोएसम्म
+ranjana_2323.png	निःसहाय जडीबुटीसँग
+ranjana_2324.png	उघारिदियो । पर्नुपर्छ ,
+ranjana_2325.png	डीसीसीएमसीलाई
+ranjana_2326.png	घाइेत लडिबुडी
+ranjana_2327.png	गोलबजारस्थित विलेमस
+ranjana_2328.png	हिउदमा
+ranjana_2329.png	ब्युँझाउने
+ranjana_2330.png	सङ्कटासन्नता रोकलाई
+ranjana_2331.png	अमालमा अमलावासमा
+ranjana_2332.png	नाठा
+ranjana_2333.png	बिग्रेको
+ranjana_2334.png	आउनाले
+ranjana_2335.png	विशेषतायुक्त
+ranjana_2336.png	नहटाई
+ranjana_2337.png	पन्यु
+ranjana_2338.png	उठ्थी । सदुपयोग
+ranjana_2339.png	व्यवस्थापनले , सर्वसाधारणसम्म
+ranjana_2340.png	लेटाङ
+ranjana_2341.png	दाजुभाइलाई
+ranjana_2342.png	पथ्र्याे २६८२.२७
+ranjana_2343.png	सर्वेक्षणसम्बन्धी
+ranjana_2344.png	भित्तोमै
+ranjana_2345.png	नदीमार्गबाट वाङ्मय ,
+ranjana_2346.png	पाण्ड्याल
+ranjana_2347.png	संकटाका माल्दिभ्सले
+ranjana_2348.png	सिफारिसले
+ranjana_2349.png	सिलवाल चिडियाखाना ,
+ranjana_2350.png	बजेटसम्बन्धी
+ranjana_2351.png	सङ्गठनले सुनाइ ,
+ranjana_2352.png	बोलिसकेको
+ranjana_2353.png	महाराजगञ्जकै
+ranjana_2354.png	मास्को मुस्कुरायो ।
+ranjana_2355.png	दिनेनदिने
+ranjana_2356.png	पन्नु
+ranjana_2357.png	ओर
+ranjana_2358.png	सेज , ल्याइपुर्याइएको
+ranjana_2359.png	प्रतिवेदनको
+ranjana_2360.png	१८२१
+ranjana_2361.png	पाएकाे
+ranjana_2362.png	हुन्थ्यो , कसरतहरु
+ranjana_2363.png	देशराजलाई साहित्यलाई
+ranjana_2364.png	मोटराइकललाई प्रदेशहरूमा
+ranjana_2365.png	उत्प्रेषण पु¥याएकामध्ये
+ranjana_2366.png	स्मृतीकार्यक्रम
+ranjana_2367.png	भूभागमध्ये
+ranjana_2368.png	एल्मसले
+ranjana_2369.png	टुगेदरका रामभराेसकाे
+ranjana_2370.png	परिसकेपछि कान्छीलाई
+ranjana_2371.png	दाइसँग
+ranjana_2372.png	डाइसेक्टिङ्
+ranjana_2373.png	वंशको जोगप्रसाद
+ranjana_2374.png	फाँटसम्म
+ranjana_2375.png	परियोजनाहरू , बादशाह ,
+ranjana_2376.png	योजनाहरूलाई
+ranjana_2377.png	बन्दरगाहदेखि
+ranjana_2378.png	मङलबार
+ranjana_2379.png	सम्पादकको
+ranjana_2380.png	खेलाएमा
+ranjana_2381.png	फेदी , मकासार
+ranjana_2382.png	पारेकामात्र
+ranjana_2383.png	सहायकदेखि मसरुमले
+ranjana_2384.png	श्रदाञ्जली
+ranjana_2385.png	एकाउन्टेन्सलाई
+ranjana_2386.png	न्यायाधिश झोली ।
+ranjana_2387.png	बिच्छ्याइएका
+ranjana_2388.png	देउराली
+ranjana_2389.png	यतिले माउसाले
+ranjana_2390.png	एकसँग तिरिदिएको
+ranjana_2391.png	कार्यालयबाटै
+ranjana_2392.png	चुनिएर निगारानी
+ranjana_2393.png	भेरिएन्टमा ज्ञापनमा
+ranjana_2394.png	टिकोस् बराहक्षेत्रलाई
+ranjana_2395.png	काटने बाबुआमाको
+ranjana_2396.png	बाथजन्य
+ranjana_2397.png	कोरिडोर
+ranjana_2398.png	मिडियाहरुको
+ranjana_2399.png	रोगीहरूलाई
+ranjana_2400.png	राजनेताहरु वडाअध्यक्षसँगै
+ranjana_2401.png	ओठमुख
+ranjana_2402.png	फेमश
+ranjana_2403.png	गेटसम्मको त्
+ranjana_2404.png	अनुसारकाम
+ranjana_2405.png	भनौंला ,
+ranjana_2406.png	निवारणपाँच
+ranjana_2407.png	एकातर्फ क्रान्तिकारीलाई
+ranjana_2408.png	टियर्स सङ्गीतमा
+ranjana_2409.png	सल्यानटारकी आश्रय
+ranjana_2410.png	राेक्ने
+ranjana_2411.png	वादनको
+ranjana_2412.png	अनिसा
+ranjana_2413.png	कक्षामा हाइप
+ranjana_2414.png	आउनुप¥यो , इन्फ्रारेड
+ranjana_2415.png	चालहरू
+ranjana_2416.png	आयोजनाको
+ranjana_2417.png	विछोडमा बिजौरीमा
+ranjana_2418.png	नयाँपनको
+ranjana_2419.png	रिषराग
+ranjana_2420.png	जुद्धशमशेर ।
+ranjana_2421.png	मभित्रको मोहभंग
+ranjana_2422.png	त्रिपालमुनि क्रिस्टिल
+ranjana_2423.png	अजीव तर्प
+ranjana_2424.png	टुङ्गो हाँसीखुसी
+ranjana_2425.png	क्रिकेटजस्ता आवासविहीनलाई
+ranjana_2426.png	नगरमै मोर्गानले
+ranjana_2427.png	हवारीले थपिएको
+ranjana_2428.png	इन्डियन्सबिरुद्ध खोजिदिने
+ranjana_2429.png	स्ट्रोकको भइसकेपछि ,
+ranjana_2430.png	हिरोपन्तीको
+ranjana_2431.png	दर्शकमा बलम्बु ,
+ranjana_2432.png	पर्छबत्ती
+ranjana_2433.png	पार्दैन । ग्रिनजोन
+ranjana_2434.png	पुुनः धूपी ,
+ranjana_2435.png	नाराद
+ranjana_2436.png	चिन्दछन् । इन्द्रदेवले
+ranjana_2437.png	ट्रेन्च मसोटको
+ranjana_2438.png	लोभ्यायो , राज्यमन्त्री
+ranjana_2439.png	अनुसन्धानदाताहरूले डुँड
+ranjana_2440.png	परिणामजन्य कुनै
+ranjana_2441.png	जमाउँथे , तमिलनाडु
+ranjana_2442.png	लगाउछ , नानकको
+ranjana_2443.png	किर्गिज
+ranjana_2444.png	हिमालभने सेडाईंका
+ranjana_2445.png	फिल्मप्रति उठाइने
+ranjana_2446.png	अमादब्लम
+ranjana_2447.png	सरकारकी फिल्मस्मा
+ranjana_2448.png	लामाबीच सञ्जालकै
+ranjana_2449.png	युगान्डाले
+ranjana_2450.png	दाहोरो
+ranjana_2451.png	पतिको
+ranjana_2452.png	स्थनीयतहलाई
+ranjana_2453.png	नीरजले लगाइँदै
+ranjana_2454.png	विषमतामुक्त
+ranjana_2455.png	धुलिखेलको धीरणबाबु
+ranjana_2456.png	सहकार्यबारे दिँदैछु ,
+ranjana_2457.png	ब्युँझाइदियो ।
+ranjana_2458.png	श्रेत्री ,
+ranjana_2459.png	सिङराम
+ranjana_2460.png	सङ्गीता दिएन् ।
+ranjana_2461.png	ब्रह्माण्डबाट
+ranjana_2462.png	सहलगानी
+ranjana_2463.png	सिनेप्लेक्सको
+ranjana_2464.png	मान्छेसँग
+ranjana_2465.png	चम्चेहरुले स्वास्थ्यजस्ता
+ranjana_2466.png	किटको भिडभाडजन्य
+ranjana_2467.png	पाठशालाबाट
+ranjana_2468.png	भुन्टे बनाउमा
+ranjana_2469.png	ममीको
+ranjana_2470.png	भागे । संयोगमात्रै
+ranjana_2471.png	तिलाठी बीमितको
+ranjana_2472.png	गोर्टेज्का , कर्मचारीहरुलाई
+ranjana_2473.png	फोटोहरूले ट्रसब्रिज
+ranjana_2474.png	चाहनाअनुरूप
+ranjana_2475.png	छन्असल बलरहरूमा
+ranjana_2476.png	आइसल्याण्डमाथिको सक्थिन् ,
+ranjana_2477.png	ब्लग आपैंमा
+ranjana_2478.png	सर्वमान्य
+ranjana_2479.png	विद्यार्थीकालबाटै
+ranjana_2480.png	क्लियरिङ प्रशासनमै
+ranjana_2481.png	मानवताविरुद्धको सरिफ
+ranjana_2482.png	फणा परिषदले
+ranjana_2483.png	आइपुग्छ , उपप्रधानमन्त्रीले
+ranjana_2484.png	नातागोतालाई
+ranjana_2485.png	समनान्तर तिम्सिनाकै
+ranjana_2486.png	भूमिकामाथि
+ranjana_2487.png	सञ्चारक्षेत्रमा तराईवासीको
+ranjana_2488.png	पोषकतत्वहरू जमाएकाले
+ranjana_2489.png	बालबालिकको पठाइएकोमा
+ranjana_2490.png	सङ्कलनसमेत
+ranjana_2491.png	उत्तरी
+ranjana_2492.png	बहुव्यवसायी पर्खालबाट
+ranjana_2493.png	गहुँगोरो दुखाउने ।
+ranjana_2494.png	तयारीहरु
+ranjana_2495.png	इजेमेनारीले बार्नेजस्ता
+ranjana_2496.png	गर्नुको
+ranjana_2497.png	पोर्टललाई
+ranjana_2498.png	सहमतिबारे मसाला
+ranjana_2499.png	विश्वास ।
+ranjana_2500.png	चिडियाखानामा
