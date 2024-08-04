@@ -79,9 +79,6 @@ Inferencing the applicaation.
 ![Ranjana Inference](figures/screenshots/ss4.jpg)
 
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing coding standards and includes appropriate tests.
 
 ## License
 
