@@ -8,7 +8,7 @@
 <body>
     <div class="page-container">
         <div class="content-container">
-            <h1>OCR Result</h1>
+            <h1>OCR On {{ model_name }} Lipi</h1>
             <p class="ocr-result">OCR Result: {{ ocr_output }}</p>
             <p class="translation">Nepali Translation: {{ nepali_output }}</p>
             <p class="translation">English Translation: {{ english_output }}</p>
@@ -17,7 +17,7 @@
             </div>
 
             <center>
-                <a href="{{ url_for('index') }}" class="return-button"> Try Different </a>
+                <a href="{{ url_for('index') }}" class="return-button"> Go To Home </a>
             </center>
 
         </div>

@@ -60,9 +60,9 @@ def upload():
         if model == 'ranjana':
             nepali_output = get_translation(ocr_output, source_lang='new', target_lang='ne')
             english_output = get_translation(ocr_output, source_lang='new', target_lang='en')
-            return render_template('ocr_and_translate.html', filename=file.filename, ocr_output=ocr_output, nepali_output=nepali_output, english_output=english_output)
+            return render_template('ocr_and_translate.html', filename=file.filename, ocr_output=ocr_output, nepali_output=nepali_output, english_output=english_output, model_name = model)
         else:
-            return render_template('ocr.html', filename=file.filename, ocr_output=ocr_output)
+            return render_template('ocr.html', filename=file.filename, ocr_output=ocr_output, model_name = model)
         
     return 'File upload failed', 500
 
