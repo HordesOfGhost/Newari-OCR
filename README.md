@@ -1,4 +1,4 @@
-# Newa-OCR
+# Newari-OCR
 
 Newa-OCR is a Python application designed for Optical Character Recognition (OCR) of Newari Lipi scripts, including Pracalit and Ranjana Lipi. This project leverages advanced CRNN architecture to accurately read and process text in these traditional Newari scripts.
 
@@ -59,7 +59,7 @@ Newa-OCR is a Python application designed for Optical Character Recognition (OCR
 
 ## Inference Results:
 
-Inferencing the applicaation.
+Inferencing the application.
 
 ### Homepage
 
